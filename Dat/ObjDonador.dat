@@ -1,0 +1,139 @@
+[INIT]
+NumObjs=27
+
+[OBJ1] 'Runa a Intermundia
+Index=1600
+Cant=1
+Valor=12
+
+[OBJ2] 'Pocion mágica de cambio de cara
+Index=1601
+Cant=4
+Valor=10
+
+[OBJ3] 'Pocion mágica de cambio de sexo
+Index=1602
+Cant=1
+Valor=15
+
+[OBJ4] 'Scroll +100% Experiencia
+Index=1603
+Cant=1
+Valor=20
+
+[OBJ5] 'Scroll +100% Oro
+Index=1604
+Cant=1
+Valor=20
+
+[OBJ6] 'Scroll +50% Experiencia
+Index=1605
+Cant=1
+Valor=12
+
+[OBJ7] 'Scroll +50% Oro
+Index=1606
+Cant=1
+Valor=12
+
+[OBJ8] 'Poción de Sanar
+Index=1607
+Cant=1
+Valor=5
+
+[OBJ9] 'Fuegos artificiales
+Index=356
+Cant=1
+Valor=3
+
+[OBJ10] 'Bengalas
+Index=370
+Cant=1
+Valor=3
+
+[OBJ11] 'Runa de Escape
+Index=1610
+Cant=1
+Valor=10
+
+[OBJ12] 'Cruz de Divorcio
+Index=199
+Cant=1
+Valor=5
+
+[OBJ13] 'Runa de pareja
+Index=1599
+Cant=1
+Valor=30
+
+[OBJ14] 'Pocion mágica de cambio de cara legendaria
+Index=205
+Cant=1
+Valor=25
+
+[OBJ15] 'Hacha Dorada
+Index=361
+Cant=1
+Valor=40
+
+[OBJ16] 'Piquete de Minero Dorado
+Index=363
+Cant=1
+Valor=40
+
+[OBJ17] 'Caña de Pesca Dorada
+Index=364
+Cant=1
+Valor=15
+
+[OBJ18] 'Tijeras doradas
+Index=369
+Cant=1
+Valor=40
+
+[OBJ19] 'Lentes de Ruthnar
+Index=591
+Cant=1
+Valor=30
+
+[OBJ20] ' Corona Imperial
+Index=667
+Cant=1
+Valor=50
+
+[OBJ21] ' Corona del Terror
+Index=1265
+Cant=1
+Valor=50
+
+
+[OBJ22] ' Unicornio
+Index=1351
+Cant=1
+Valor=80
+
+
+[OBJ23] ' Motura de Legionario
+Index=1350
+Cant=1
+Valor=80
+
+[OBJ24] ' Poción de amor
+Index=319
+Cant=1
+Valor=3
+
+[OBJ25] ' Ticket de reseteo de Skills
+Index=379
+Cant=1
+Valor=60
+
+[OBJ26] ' Cofre de Mascaras
+Index=372
+Cant=1
+Valor=30
+
+[OBJ27] ' Anillo de dropeo
+Index=383
+Cant=1
+Valor=40

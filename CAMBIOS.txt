@@ -1,0 +1,280 @@
+# Changelog
+
+## [1.0.5]
+
+[CLIENTE]
+- Aumentamos el tamaño de la fuente en Hechizos
+- Hacer que el ; se salga despues de mandar un mensaje de mundo para evitar mensajes accidentales
+- Fix: Asignar skills funcionando mal para profesiones
+- Fix: Encajar mejor el nombre del mapa en el frmMain
+- Fix: FX curar veneno
+- Fix: Cuando comprás sin tener un digito marcado en el cartel de comercio, tira Type mismatch
+- Fix: Cuando se quiere asignar Carpintería, sube el numerito de Herrería
+- Fix: usar último slot del inventario
+
+[RECURSOS]
+- Agregar ogros en las afueras de DM
+- Daño de oso polar aparece muy abajo.
+- Diseño de Ventana de Clanes
+- Corregir daños, valores y clases permitidas de las armas
+- Corregir experiencia, drop, vida y daño de criaturas
+- Modificación de items, npcs y vendedores
+- Reemplazada Hacha Acerada por Hacha de Bárbaro
+- En Banderbill ahora se venden Heridas Graves
+- El npc Asesino ahora da 200 de oro (* multiplicador)
+- Se quitó item Lanza de los vendedores
+- Se quitó Lamento de la Banshee de los vendedores
+- Se quitó la Dos Filos de los vendedores
+- Tormienta de Fuego de 250 a 150 de maná
+
+[SERVIDOR]
+- Bajar la probabilidad de subir skills
+- GM nace invisible
+- Ponerle fin a meditar
+- Balance de daños, evasiones y escudos tomados de la 11.2
+- Oro de los NPCs al piso
+- Está muy baja la probabilidad de subir def con escudos en comparación a otros skills
+- Sistema de llaves
+- Poner record onlines en db para guardarlo
+- Sacar record de usuario de server.ini y ponerlo en otro archivo para evitar pisarlo con ci/cd
+- Fix: No equipar objetos con Body = 0
+- Fix: Cuando dejas de trabajar no aumenta la energía si no te movés
+- Fix: Se crean personajes invi y podes atacar a los npc y si te moris y revivis te ven pero no te atacan
+- Fix: Paralizar no permite que los jugadores roten en su lugar, deja a los guerreros inutilizados
+- Fix: Inmovilizar debería dejar a la criatura quieta y solo pegando hacia adelante
+- Fix: Cuando llueve no te consume la energia
+- Fix: Oro Multiplicado al hacer grupo
+- Fix: Corregir tiempo de inmovilizar / paralizar
+- Fix: No figura oro en billetera
+- Fix: Dropea muchisima fruta y manzanas los arboles al talar
+- Fix: Resetear inmo/para en Usuarios
+- Fix: Invisible al subir/bajar de barca
+
+## [1.0.6]
+
+[CLIENTE]
+- Mejoras de rendimiento al motor gráfico
+- Bloqueos parciales
+- Fix: Auras se pierden al reloguear
+
+[SERVIDOR]
+- Bloqueos parciales
+- Clan Pretoriano
+- Anular poderes a GMS (Atacar/Objetos etc...)
+
+## [1.0.7]
+
+[CLIENTE]
+- Refactor sistema de luz de mapa y fixes de luces superpuestas
+- Nuevo agua y movimiento por vértices
+- Reflejo del personaje en agua
+- Nuevo efecto respiración de chars
+- Sombras del personaje
+- Ahora se guarda un Errores.log en la carpeta del cliente
+- Fix: música y efectos invertidos en opciones
+- Fix: Entrar al newbie dungeon siendo nivel alto
+- Fix: Comercio dice valor = 1 pero en realidad vale 0
+- Fix: Si no seleccionas un objeto en carpintería se buguea
+- Fix: Transparencias en árboles y textos
+- Fix: Indicador FPS contaba el doble que en realidad había
+- Ahora se pueden superponer daños encima de chars
+- Intervalo de hechizos ahora se bloquea al soltar
+- Bloqueo también del intervalo golpe hechizo
+- Habilitado el botón para domar
+- Comandos /quieto, /acompañar y /liberar para mascotas
+
+[SERVIDOR]
+- Agregar mas ciclos intermedios entre el día y la noche.
+- Deshardcodear herramientas del código.
+- Transferir plata hacerlo que funcione con la DB
+- GM invisible y caspers se atravesan
+- Implementado comando /HOGAR (solo muertos) con tiempo en funcion de la distancia de mapas con respecto al hogar elegido.
+- Fix: Al nacer con 0 de maná máxima se oculta el indicador de maná. Pero no se vuelve a mostrar cuando ganás maná.
+- Fix: Desloguear paralizado quedás paralizado para siempre
+- Ahora los personajes nacen con pociones violetas newbie en vez de comunes.
+- Agrego IA mascotas y elementales, y hechizos de invocación.
+
+[RECURSOS]
+- Se agregaron nuevas casas tanto para NPC como de venta.
+- Se agrego sistema de llavero para posterior asignación de casas.
+- Se agregó sombras por motor en los personajes.
+- Se Modificaron todos los carteles del juego, de los NPC, señalizacion Etc.
+- Se modificaron las arañas de las catacumbas nivel 2 (se agregaron 5 nuevas).
+- Se agregó movimiento por motor al Agua.
+- Se agregaron reflejos en agua.
+- Se agregaron respiración por motor a todos los personajes
+- Se Agregó nuevo sistema de Quest.
+- Se implemento la eleccion del lugar de nacimiento (Nix, Bander y Ulla)
+- Se agregó elementales como NPC, hechizos para invocar y mimetismo.
+- Se agregaron nuevos gráficos para el cementerio.
+- Se agregaron nuevos árboles para cementerio.
+- Se modificó aspecto gráfico de Nix, Iglesia, muelles Mercader etc.
+- Se actualizó gráfico de catacumbas nivel 2 y 3.
+- Se renovó la ciudad de Arkain.
+- Se Se extendió y se mejoró el mapa desierto.
+- Se agregaron costas con arena cercanas al desierto y se extendió el mismo.
+- Se modificaron todos los árboles.
+
+## [1.0.8]
+
+[SERVIDOR]
+- Nuevas clases: Ladrón, Bandido y Pirata.
+- Los Game Masters de rango Semi Dios y de menor jerarquía no pueden dropear items ni comerciar.
+- Fix: No andaba la minería.
+- Fix: Podias invitar a mas de 6 personas a un grupo.
+
+## [1.0.10]
+
+[SERVIDOR]
+- Fix: NPCs de tierra tiran items en agua
+- Fix: Mensaje de skills al fundir mineral
+- Fix: Hechizo fuerza subía de más
+- Fix: Crear personaje no logueaba
+- Fixes en muchos mapas
+- Se sacó el límite de las dopas
+- Se bajó el intervalo golpe-usar a 750ms
+- Se cambió lo que pide de experienca en algunos niveles.
+- Nivel máximo ahora es 50
+- Ahora se puede domar 3 mascotas
+- Ocultarse navegando con pirata ahora puede fallar
+- Se puede domar de un poco más lejos
+- Se bajó el intervalo de hechizo de 1300 a 1100ms
+- Comando /DONAR para donar oro a la iglesia y perdir perdón
+- Ahora se pesca sólo desde la costa
+- Paralizar NPCs ahora dura 2min
+- Ahora se puede scrollear en la consola sin que se baje
+- Herramientas doradas solo para trabajadores
+- Ajustes de daño mágico en báculos
+- Se sacan luces de objetos
+- Ajustes de daños en armas
+- Modificada catacumbas de Nix
+- Modificado mapa de Veriil
+- 10 Quests nuevas
+- Drop de gemas para fundar clan
+
+## [1.0.11]
+
+[SERVIDOR]
+- Sistema de Consultas con GM: Durante consulta sos inmune a ataques de NPC's y Usuarios.
+- Se mejoró el sistema de aumento de vida por nivel.
+- Nuevo comando: /PROMEDIO
+- Bajo el intervalo de fabricación de items.
+- Ahora intercambias posiciones con los fantasmas, no los pateás mas.
+- Lo que ganas al trabajar solo lo ve el mismo usuario.
+- El ladrón roba mejor y a 2 tiles de distancia.
+- Bandido pega golpe crítico a NPC's.
+- La meditación es constante y sale cuanto maná recuperaste por consola.
+- Ahora estar desnudo te baja energía.
+- Fixes en el reparto de experiencia en grupos y distancia máxima para recibir la misma de 20 tiles.
+- Fixes varios al crear personaje
+- Fix: Navegar oculto.
+- Fix: Osos en ciudades.
+- Fix: Transferir oro a usuario inexistente.
+- Fix: Hacer lingotes no subía skill de Mineria.
+
+[CLIENTE]
+- Efecto en el agua de la barca mejorado.
+- Fix: Los usuarios se podian ver invisibles entre si.
+- El reloj ahora muestra los minutos.
+
+## [1.0.12]
+
+[SERVIDOR]
+- Fix: Ropajes Bajos.
+- Fix: Se mostraba la cabeza del PJ y el body de la barca en el Panel de Cuenta.
+- Fix: Echar miembro Offline en Clan.
+- Fix: Aceptar miembro Offline en Clan.
+- Fix: Ítems vendidos a cero.
+- Fix: Nuevo balance de daño sin armas.
+- Fix: Calculos de daño.
+- Fix: Guardias de Arkhein atacaban Criminales
+- Fix: Caminata de Fantasma.
+- Fix: Caminata de Esqueleto Grande.
+- Fix: Araña tenía mal indexeada la caminata.
+- Fix: Bloqueo laterales en puertas: provocaba problemas al salir de casas/tiendas. 
+- Fix: Daño sin Armas.
+- Fix: Sonido del Sacerdote al curar.
+- Fix: función FaltanItemsQuest()
+- Fix: Objetos que no se podían usar.
+- Fix: Bug de clan cuando entrabas a la interface siendo Líder.
+- Fix: Item se desequipaba cuando aun quedaban más en el inventario
+- Fix: Usuarios no podian atacar NPCs
+- Fix: Navegar oculto.
+- Fix: Hechizo Ceguera.
+- Fix: Crear más de 10 personajes
+- Fix: Personajes que aparecían en la pantalla de carga Ullathorpe.
+- Fix: Hacer lingotes sube minería
+- Cambios varios en Mapas.
+- Corregida las faltas de ortografía en todas las Quests.
+- Optimización de Gráficos.
+- La invisibilidad ahora es 100%
+- Ahora los portales dicen a donde te llevan.
+- Ahora si ya tengo la cantidad requerida del item de quest, no sigue dropeando.
+- Ahora el drop de Quest va directo al inventario.
+- Se mejoró el sistema de Quests.
+- Se mejoro el sistema anti-cheat
+- Se implemento que cuando clickeas la barra de vida muestra el promedio de la misma.
+
+## [1.0.16]
+
+- Arreglado Daño con Armas.
+- Arreglado Daño Mágico. 
+- Arreglado Apuñalar.
+- Nuevo Balance.
+- Ajuste de Armas.
+- Ajuste de Escudos.
+- Ajuste de Armaduras.
+- Ajuste de Túnicas.
+- Ajustes de Cascos / Gorros.
+- Ajustes en Comerciantes de distintas ciudades.
+- Ajustes en Hechizos.
+- Ajustes de Flechas.
+- Nuevos ítems mágicos según clase.
+- Nuevos gráficos e ítems.
+- Nuevo sistema anti-cheat.
+- Nuevo sistema de advertencias.
+- Optimización de Mapas
+- Cambio en Mapas.
+- "Restablecer Versión" en Launcher.
+- Incorporamos /Hogar.
+- Incorporado Arbol Élfico y Leña Elfica
+- Incorporado Escudos, Cascos, Armaduras y Armas en Herrería.
+- Incorporado nuevos bodys para altos y enanos.
+- Incorporadas Armaduras y Tunicas Faccionarias a la venta.
+- Incorporado Mapas de Dungeons.
+- Incorporados ITEMS de DROP.
+- Incorporado crítico del Bandido.
+- Mayor dificultad en Drop de Gemas.
+- Eliminadas las Herramientas Doradas. 
+- Eliminadas las Túnicas de Resistencia Mágica.
+- Fix en Bugs Menores. 
+- Fix: Minerales de Oro.
+- Fix: Ítems que no podían usar algunas clases.
+- Fix: Runa de Teletrasportación.
+- Fix: Translado que te llevaba a Mapa 300 (Nada)
+- Fix: Ausencia de BLOQS en Dungeons.
+- Fix: Cazador mostraba "FALLAS" estando Oculto.
+- Fix: Dados de Elfo Drow.
+- Fix: Luces negras que quedaban en el tile cuando agarrabas un ítem. 
+
+## [1.0.17]
+
+- Ajuste de Intervalo Golpe Hechizo.
+- Ajuste de Intervalo Hechizo - Hechizo.
+- El Asesino usa el hechizo Curar Heridas Graves.
+- El Pirata en Agua hace un 15% de daño.
+- La Galera/Galeón no incrementa el Daño de Ataque.
+- El hechizo Mimetismo copia el nombre del PJ al que mimezás.
+- Solo los druidas pueden domar.
+- Para fundar clan necesitar ser nivel 35 + 100 de skills de Liderazgo + Gema Azul + Gema Roja
+- Fix: Nombre no aparecia al conectar
+- Fix: Teleports que te pisaban.
+- Fix: Varios Mapas.
+- Fix: Mimetismo te dejaba robar personajes.
+- Fix: Click en reportar bug y no se veía.
+- Fix: Con la Flauta Mágica consumías menos maná al usar hechizos.
+- Fix: Vulnerabilidad no chequeaba que el PJ pertenezca a la cuenta antes de borrarlo.
+- Fix: Vulnerabilidad no chequeaba que el PJ pertenezca a la cuenta antes de loguear con el mismo.
+- Fix: Vulnerabilidad que permitía ejecutar querys a la base de datos desde el cliente. (Posible injección SQL)
+- Fix: Error en el reparto de experiencia grupal.
+- Fix: Te podías casar con más de 1 PJ.

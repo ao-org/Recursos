@@ -1,0 +1,125 @@
+'Maneja todos los items que una criatura puede llegar a tirar
+'Se define, primero, un numero X en cada item dependiendo
+'de cuán poderoso es (a mayor poder mayor numero). 
+'Luego cada criatura puede (o no) tirar el objeto.
+'Probabilidad del 1 al 10. 1 Mas facil, 10 mas dificil.
+
+[INIT]
+NumItems=0
+
+[Item1] 'Nudillos (+10)
+Index=652
+Prob=1
+
+[Item2] 'Anillo de Agilidad (+5)
+Index=654
+Prob=2
+
+[Item3] 'Botas de Celeridad (+10)
+Index=752
+Prob=5
+
+[Item4] 'Anillo del Carisma (+10)
+Index=976
+Prob=7
+
+[Item5] 'Anillo de Regeneración
+Index=670
+Prob=2
+
+[Item6] 'Anillo de la Quinta Esencia
+Index=706
+Prob=2
+
+[Item7] 'Brazalete del Ogro (+30)
+Index=707
+Prob=7
+
+[Item8] 'Anillo de Defensa Mágica (+30)
+Index=708
+Prob=4
+
+[Item9] 'Anillo de Ocultismo (+20)
+Index=735
+Prob=5
+
+[Item10] 'Anillo del Guerrero (+10)
+Index=858
+Prob=5
+
+[Item11] 'Anillo del Guerrero (+20)
+Index=734
+Prob=5
+
+[Item12] 'Anillo de Comercio (+30)
+Index=736
+Prob=3
+
+[Item13] 'Anillo del Bardo (+30)
+Index=737
+Prob=7
+
+[Item14] 'Anillo del Ladrón (+20)
+Index=974
+Prob=4
+
+[Item15] 'Anillo del Combatiente (+20)
+Index=975
+Prob=3
+
+[Item16] 'Pendiente del Arquero (+40)
+Index=738
+Prob=4
+
+
+[Item17] 'Vara Mágica (+20)
+Index=65
+Prob=5
+
+
+[Item18] 'Pendiente del Asesino (+30)
+Index=739
+Prob=2
+
+[Item19] 'Sortija de la Verdad
+Index=1143
+Prob=10
+
+[Item20] 'Pendiente del Sacrificio
+Index=1081
+Prob=5
+
+[Item21] 'Amuleto del Silencio
+Index=755
+Prob=6
+
+[Item22] 'Anillo de las Sombras
+Index=1006
+Prob=7
+
+[Item23] 'Orbe Ígnea
+Index=868
+Prob=8
+
+[Item24] 'Orbe Acuática
+Index=869
+Prob=9
+
+[Item25] 'Orbe de la Ponzoña
+Index=57
+Prob=3
+
+[Item26] 'Orbe de Inhibición
+Index=651
+Prob=5
+
+[Item27] 'Báculo de Hechicero (DM +10)
+Index=1181
+Prob=5
+
+[Item28] 'Nudillos de Oro
+Index=1333
+Prob=5
+
+
+

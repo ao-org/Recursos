@@ -1,0 +1,11 @@
+[Minería]
+# Se setea desde cada yacimiento (objetos), para más control.
+
+[Tala]
+Items=0
+Item1=
+Item2=
+
+[Pesca]
+Items=1
+Item1=372-150000

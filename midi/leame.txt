@@ -1,0 +1,29 @@
+1	(Vieja de ulla? / cueva de las hadas al oeste o la cueva de los golems en la zona de lava)
+2	Creación de personajes
+3	Bosque
+4	Ullathorpe
+5	Nix
+6	Intro
+7	Newbie dungeon
+8	isla pirata
+9	Catacumbas
+10	Desierto
+11	Barrios bajos
+12	Banderbill norte
+13	Banderbill central
+14	Prision / DD?
+15	Dungeon Marabel
+16	Lindos
+17	Mar
+18	Dungeon Veril
+19	Nueva esperanza
+20	Arghal
+21	????????
+
+Estos son canciones pasadas a midi
+50	Evanecense - Hello, usada en el mapa mágico al lado de Banderbill
+51	Magma de BenderAO (? Alto tema
+52	Dragonforce o algo asi
+53	No recuerdo, muy lindo
+54	Stratovarius Hunting high and low, canción para dejar tu laburo y salir a recorrer el mundo
+55	????

@@ -1,0 +1,41 @@
+# PezX=A-B-C
+# A: Numero de objeto
+# B: Peso (peso 1000 tiene cien vecez más chances de salir que peso 1)
+# C: Nivel de caña (a las cañas les ponemos Power=X, y si no es mayor o igual que el pez, no lo pesca)
+# D: Pez especial( 1=especial, 0 = normal)
+[PECES]
+NumPeces=28
+Maxlvlcaña=6
+
+Pez1=2089-9363-1-0        	'Pez Lisa
+Pez2=2101-4161-1-0        	'Pez Salmón
+Pez3=2093-2601-1-0        	'Pez Bagre de Mar
+Pez4=3321-104-1-1        	'Pez Limon
+Pez5=2152-5-1-0        		'Pez Mero de los Fondos
+Pez6=2094-18726-2-0        	'Pez Roca
+Pez7=2163-8323-2-0        	'Pez Corvina Rubia
+Pez8=2137-5202-2-0        	'Payara
+Pez9=3316-208-2-1        	'Pez Espada
+Pez10=3304-10-2-0        	'Botella Flotante
+Pez11=2102-28266-3-0        'Kelp
+Pez12=2100-12563-3-0        'Bluefin
+Pez13=2127-7852-3-0        	'Nembwe
+Pez14=3319-942-3-1        	'Tiburón Martillo
+Pez15=3320-314-3-1        	'Calamar Gigante
+Pez16=2153-37806-4-0        'Pez Globo
+Pez17=2150-16803-4-0        'Pez Chun
+Pez18=2113-10502-4-0        'Pez Violeta
+Pez19=3317-1260-4-1        	'Tiburón Tigre
+Pez20=3318-420-4-1        	'Tiburón Blanco
+Pez21=2112-47166-5-0        'Cardumen
+Pez22=2092-20963-5-0        'Camaron
+Pez23=2154-13102-5-0        'Mantaraya
+Pez24=3300-524-5-0        	'Almeja Misteriosa
+Pez25=2145-56466-6-0        'Calamar
+Pez26=2158-25096-6-0        'Kokanee
+Pez27=2147-15685-6-0        'Pulpo
+Pez28=2108-6274-6-0        	'Langosta Gigante
+
+
+#================================================
+

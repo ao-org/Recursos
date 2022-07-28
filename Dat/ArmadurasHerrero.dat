@@ -1,0 +1,95 @@
+[INIT]
+NumArmaduras=31
+
+[Armadura1] 'Armadura de Herrero
+Index=1912
+
+[Armadura2] 'Armadura de Placas Completas
+Index=1987
+
+[Armadura3] 'Armadura de Placas Completas
+Index=243 
+
+[Armadura4] 'Armadura de Placas Azules (Hombre)
+Index=1915
+
+[Armadura5] 'Armadura de Placas Azules (Mujer)
+Index=1923 
+
+[Armadura6] 'Armadura de las Sombras
+Index=1929
+
+[Armadura7] 'Armadura de las Sombras (Bajos)
+Index=1634
+
+[Armadura8] 'Cota del Gran Cazador
+Index=1907
+
+[Armadura9] 'Cota del Gran Cazador (Bajos)
+Index=1908
+
+[Armadura10] 'Coraza Clerical
+Index=135
+
+[Armadura11] 'Coraza Clerical (Bajos)
+Index=2948
+
+[Armadura12] 'Armadura de la Cienaga
+Index=1941
+
+[Armadura13] 'Armadura Escarlata
+Index=495
+
+[Armadura14] 'Dama de las Tinieblas
+Index=487
+
+[Armadura15] 'Armadura Legendaria
+Index=1914
+
+[Armadura16] 'Armadura BruÃ±ida (Bajos)
+Index=500
+
+[Armadura17] 'Coraza de Harald
+Index=1803
+
+[Armadura18] 'Coraza de Harald
+Index=1804
+
+[Armadura19] 'Armadura de la IluminaciÃ³n
+Index=1922
+
+[Armadura20] 'Armadura de la IluminaciÃ³n (bajos)
+Index=1993
+
+[Armadura21] 'Escudo de Hierro
+Index=1715
+
+[Armadura22] 'Escudo de Bronce
+Index=2933
+
+[Armadura23] 'Escudo Imperial
+Index=1702
+
+[Armadura24] 'Anillo de Resistencia MÃ¡gica
+Index=2324
+
+[Armadura25] 'Anillo de ProtecciÃ³n MÃ¡gica
+Index=2323
+
+[Armadura26] 'Anillo del Silencio
+Index=755
+
+[Armadura27] 'Casco Vikingo
+Index=1079
+
+[Armadura28] 'Casco de Hierro Completo
+Index=132
+
+[Armadura29] 'Casco de Cazador
+Index=1767
+
+[Armadura30] 'Casco de Plata
+Index=601
+
+[Armadura31] 'Hebilla Mochila
+Index=3461

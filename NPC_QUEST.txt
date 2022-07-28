@@ -1,0 +1,73 @@
+Mapa1 ::: Posición del NPC de Quest es: 26, 16 :::: Numero. 419 Nombre: Trevor <Jefe de la Guardia>
+Mapa1 ::: Posición del NPC de Quest es: 24, 21 :::: Numero. 696 Nombre: Anco
+Mapa1 ::: Posición del NPC de Quest es: 77, 43 :::: Numero. 403 Nombre: Margareth
+Mapa4 ::: Posición del NPC de Quest es: 50, 42 :::: Numero. 402 Nombre: Espíritu Olvidado
+Mapa21 ::: Posición del NPC de Quest es: 53, 64 :::: Numero. 1222 Nombre: Horus <Quest>
+Mapa25 ::: Posición del NPC de Quest es: 54, 43 :::: Numero. 427 Nombre: Zero <Explorador de Ullathorpe>
+Mapa31 ::: Posición del NPC de Quest es: 69, 62 :::: Numero. 412 Nombre: John Silver <Corsario>
+Mapa34 ::: Posición del NPC de Quest es: 38, 43 :::: Numero. 408 Nombre: Romina <Cocinera>
+Mapa34 ::: Posición del NPC de Quest es: 37, 64 :::: Numero. 431 Nombre: Altair de Oteren
+Mapa34 ::: Posición del NPC de Quest es: 19, 68 :::: Numero. 696 Nombre: Anco
+Mapa34 ::: Posición del NPC de Quest es: 38, 75 :::: Numero. 92 Nombre: Jacobo
+Mapa34 ::: Posición del NPC de Quest es: 35, 87 :::: Numero. 404 Nombre: Román <Quest de Nix>
+Mapa35 ::: Posición del NPC de Quest es: 38, 73 :::: Numero. 695 Nombre: Teggar
+Mapa35 ::: Posición del NPC de Quest es: 28, 86 :::: Numero. 406 Nombre: Robbie <Sepulturero>
+Mapa37 ::: Posición del NPC de Quest es: 73, 84 :::: Numero. 407 Nombre: Makrom <Quest Newbie Dungeon>
+Mapa39 ::: Posición del NPC de Quest es: 73, 37 :::: Numero. 411 Nombre: Astan <Ganadero>
+Mapa61 ::: Posición del NPC de Quest es: 82, 23 :::: Numero. 699 Nombre: Ralph
+Mapa63 ::: Posición del NPC de Quest es: 44, 84 :::: Numero. 86 Nombre: Snyder
+Mapa64 ::: Posición del NPC de Quest es: 48, 88 :::: Numero. 58 Nombre: Esmeralda
+Mapa82 ::: Posición del NPC de Quest es: 78, 31 :::: Numero. 89 Nombre: Holyrood
+Mapa93 ::: Posición del NPC de Quest es: 71, 32 :::: Numero. 697 Nombre: Rudoph
+Mapa112 ::: Posición del NPC de Quest es: 56, 81 :::: Numero. 85 Nombre: Eza Talrê
+Mapa151 ::: Posición del NPC de Quest es: 24, 20 :::: Numero. 87 Nombre: Dalgleish
+Mapa151 ::: Posición del NPC de Quest es: 41, 34 :::: Numero. 59 Nombre: Franklin
+Mapa157 ::: Posición del NPC de Quest es: 37, 69 :::: Numero. 1150 Nombre: Elhandar
+Mapa157 ::: Posición del NPC de Quest es: 41, 69 :::: Numero. 1151 Nombre: Lempard
+Mapa159 ::: Posición del NPC de Quest es: 57, 64 :::: Numero. 697 Nombre: Rudoph
+Mapa170 ::: Posición del NPC de Quest es: 47, 56 :::: Numero. 694 Nombre: Sheila
+Mapa170 ::: Posición del NPC de Quest es: 52, 56 :::: Numero. 1012 Nombre: Tiberius <Equipamiento de la Legión>
+Mapa170 ::: Posición del NPC de Quest es: 58, 56 :::: Numero. 1013 Nombre: Ezzyr <Equipamiento de la Armada>
+Mapa170 ::: Posición del NPC de Quest es: 62, 58 :::: Numero. 95 Nombre: Montaigne <Herrero de la Armada>
+Mapa170 ::: Posición del NPC de Quest es: 65, 64 :::: Numero. 94 Nombre: Mezier
+Mapa170 ::: Posición del NPC de Quest es: 25, 65 :::: Numero. 405 Nombre: Henry <Quest de Banderbill>
+Mapa170 ::: Posición del NPC de Quest es: 22, 74 :::: Numero. 407 Nombre: Makrom <Quest Newbie Dungeon>
+Mapa170 ::: Posición del NPC de Quest es: 49, 81 :::: Numero. 1195 Nombre: Erein Dyel <Elfo>
+Mapa170 ::: Posición del NPC de Quest es: 53, 81 :::: Numero. 1193 Nombre: Daeona <Orco>
+Mapa170 ::: Posición del NPC de Quest es: 51, 82 :::: Numero. 1219 Nombre:  Rey Luther
+Mapa170 ::: Posición del NPC de Quest es: 47, 83 :::: Numero. 1190 Nombre: Gabriel <Humano>
+Mapa170 ::: Posición del NPC de Quest es: 55, 83 :::: Numero. 1192 Nombre: Lilbit Ofer <Gnomo>
+Mapa170 ::: Posición del NPC de Quest es: 61, 84 :::: Numero. 1221 Nombre: Toby <Monturas>
+Mapa170 ::: Posición del NPC de Quest es: 49, 85 :::: Numero. 1194 Nombre: Randall <Elfo Oscuro>
+Mapa170 ::: Posición del NPC de Quest es: 53, 85 :::: Numero. 1191 Nombre: Thingred <Enano>
+Mapa171 ::: Posición del NPC de Quest es: 38, 48 :::: Numero. 90 Nombre: Darnley
+Mapa171 ::: Posición del NPC de Quest es: 38, 61 :::: Numero. 88 Nombre: Bothwell
+Mapa171 ::: Posición del NPC de Quest es: 60, 68 :::: Numero. 409 Nombre: Bowkrag <Quests de Isla Pitonisa>
+Mapa171 ::: Posición del NPC de Quest es: 44, 71 :::: Numero. 1158 Nombre: Tavuk <Talabartero>
+Mapa188 ::: Posición del NPC de Quest es: 40, 43 :::: Numero. 1188 Nombre: Ho Ka Rdum
+Mapa194 ::: Posición del NPC de Quest es: 45, 66 :::: Numero. 426 Nombre: Dragga <Orca Lugareña>
+Mapa196 ::: Posición del NPC de Quest es: 52, 60 :::: Numero. 695 Nombre: Teggar
+Mapa199 ::: Posición del NPC de Quest es: 19, 68 :::: Numero. 699 Nombre: Ralph
+Mapa199 ::: Posición del NPC de Quest es: 22, 68 :::: Numero. 698 Nombre: Antoine
+Mapa199 ::: Posición del NPC de Quest es: 25, 69 :::: Numero. 697 Nombre: Rudoph
+Mapa199 ::: Posición del NPC de Quest es: 27, 69 :::: Numero. 694 Nombre: Sheila
+Mapa199 ::: Posición del NPC de Quest es: 30, 69 :::: Numero. 92 Nombre: Jacobo
+Mapa199 ::: Posición del NPC de Quest es: 19, 72 :::: Numero. 696 Nombre: Anco
+Mapa199 ::: Posición del NPC de Quest es: 29, 72 :::: Numero. 695 Nombre: Teggar
+Mapa199 ::: Posición del NPC de Quest es: 29, 78 :::: Numero. 1155 Nombre: Malvur
+Mapa254 ::: Posición del NPC de Quest es: 82, 74 :::: Numero. 1155 Nombre: Malvur
+Mapa339 ::: Posición del NPC de Quest es: 65, 17 :::: Numero. 698 Nombre: Antoine
+Mapa354 ::: Posición del NPC de Quest es: 73, 39 :::: Numero. 413 Nombre: Galar
+Mapa354 ::: Posición del NPC de Quest es: 43, 47 :::: Numero. 14 Nombre: Vendedor de Caballos
+Mapa354 ::: Posición del NPC de Quest es: 29, 48 :::: Numero. 420 Nombre: Cold <Ciudadano de Eleusis>
+Mapa354 ::: Posición del NPC de Quest es: 47, 88 :::: Numero. 421 Nombre: Eira <Maga de Eleusis>
+Mapa369 ::: Posición del NPC de Quest es: 45, 89 :::: Numero. 410 Nombre: Otis <Minero de Quest>
+Mapa399 ::: Posición del NPC de Quest es: 52, 52 :::: Numero. 415 Nombre: Heather <Guía>
+Mapa399 ::: Posición del NPC de Quest es: 55, 58 :::: Numero. 407 Nombre: Makrom <Quest Newbie Dungeon>
+Mapa559 ::: Posición del NPC de Quest es: 27, 50 :::: Numero. 114 Nombre: Grimrot
+Mapa559 ::: Posición del NPC de Quest es: 44, 51 :::: Numero. 115 Nombre: Gamora
+Mapa561 ::: Posición del NPC de Quest es: 23, 36 :::: Numero. 110 Nombre: Grimrot <Herrero de la Legión>
+Mapa561 ::: Posición del NPC de Quest es: 21, 80 :::: Numero. 1144 Nombre: Nazsnik <Minero de Penthar>
+Mapa572 ::: Posición del NPC de Quest es: 27, 50 :::: Numero. 114 Nombre: Grimrot
+Mapa572 ::: Posición del NPC de Quest es: 44, 51 :::: Numero. 115 Nombre: Gamora
+Mapa64  ::: Posición del NPC de Quest es: 23, 55 :::: Numero. 1225 Nombre: Sloane (quest nagas)

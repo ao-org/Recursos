@@ -1,0 +1,67 @@
+[INIT]
+NumObjs=21
+
+[OBJ1] 'Cuchara
+Index=163
+
+[OBJ2] 'Flecha Común
+Index=480
+
+[OBJ3] 'Flecha Reforzada
+Index=551
+
+[OBJ4] 'Flecha Incendiaria
+Index=553
+
+[OBJ5] 'Flecha Élfica
+Index=552
+
+
+[OBJ6] ' Arco Simple
+Index=479
+
+[OBJ7] 'Arco Simple Reforzado
+Index=3466
+
+[OBJ8] 'Arco Compuesto
+Index=1867
+
+[OBJ9] 'Arco de Roble
+Index=1870
+
+[OBJ10] 'Arco de Cazador
+Index=1876 
+
+[OBJ11] 'Barca
+Index=474
+
+[OBJ12] 'Galera
+Index=475
+
+[OBJ13] 'Galeón
+Index=476
+
+[OBJ14] 'Laúd
+Index=469
+
+[OBJ15] 'Flauta
+Index=540
+
+[OBJ16] 'Laúd Mágico
+Index=41
+
+[OBJ17] 'Flauta Elfica
+Index=40
+
+[OBJ18] 'Vara de Fresno
+Index=1800
+
+[OBJ19] 'Bastón Nudoso
+Index=1797
+
+[OBJ20] 'Báculo Engarzado
+Index=1788
+
+[OBJ21] 'Escudo de Roble
+Index=1724
+

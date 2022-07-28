@@ -1,0 +1,17 @@
+{
+  "name": "update_heads_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-heads.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "images": "3.2.3",
+    "jimp": "^0.16.1",
+    "read-ini-file": "3.0.1"
+  }
+}

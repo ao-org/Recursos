@@ -1,0 +1,4765 @@
+'RevolucionAO DAT: npcs.dat
+'NPCs del juego.
+'Reorganización Masiva.
+
+'++++++++++++++> Aclaraciones <++++++++++++++
+'Tipo de NPC
+'NpcType:
+'  0 NPCs Comunes
+'  1 Resucitadores
+'  2 Guardias
+'  3 Entrenadores
+'  4 Banqueros
+'  5 Facciones
+'  6 (nada)
+'  7 Transportadores
+'  8 Carceleros
+'  9 (nada)
+' 10 Paga recompensas
+' 11 Veterinarias
+' 12 Gobernador
+' 13 Presentadores de Battle
+' 14 Objetivos de Quest
+' 15 Centinelas
+' 16 Subastadores
+' 17 Quest
+
+[INIT]
+NumNPCs=588
+
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------> Los vendedores van del 1 al 200 <-------------------------------
+'----> Los npcs como guardias, subastadores,centinelas, etc van del 250 al 497 <----------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------Se dejo espacio entre los diferentes tipos de vendedores----------------------
+'---------------------para futuras actualizaciones del juego------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+
+
+
+'---------------------------> Vendedores comunes 1 al 19 <---------------------------
+
+'--------------> Resucitadores <--------------
+[NPC1]
+Name=Márquez <Sacerdote>
+NpcType=1
+showname=1
+Desc=Hola hijo mío. Soy el sacerdote de este pueblo. Si quieres ser resucitado, sólo pídelo.
+Head=3
+Body=49
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+
+[NPC2]
+Name=Boris <Sacerdote Malvado>
+NpcType=1
+showname=1
+Desc=¡Bienvenido al infierno! Si quieres que levante de aquí tu apestoso cadáver, pídemelo.
+Body=720
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+
+
+'--------------> Banquero <--------------
+[NPC3]
+Name=Banquero
+showname=1
+Desc=Bienvenido a la cadena de finanzas Goliath. Somos la más grande cadena de finanzas en estas tierras. Contamos con bancos en las ciudades más importantes. En nosotros puede confiar.
+Head=0
+Body=37
+Heading=3
+Movement=1
+NpcType=4
+Domable=0
+ShowName=0
+SoundOpen=602
+SoundClose=603
+
+'--------------> Alquimia <--------------
+[NPC4]
+Name=Ines <Alquimista>
+showname=1
+Desc=Todo aventurero necesita una buena dotación de pociones para un largo viaje. Aquí podrás encontrar las mejores.
+Head=0
+Body=34
+Heading=3
+Movement=1
+Comercia=1
+NROITEMS=7
+TipoItems=11
+'Poción Roja
+Obj1=38-10000
+'Poción Azul
+Obj2=37-10000
+'Poción Amarilla
+Obj3=36-10000
+'Poción Verde
+Obj4=39-10000
+'Poción Violeta
+Obj5=166-10000
+'Tijeras
+Obj6=885-10000
+'Olla
+Obj7=887-10000
+ShowName=0
+SoundOpen=617
+SoundClose=618
+
+'--------------> Bebidas <--------------
+[NPC5]
+Name=Tavel <Tabernero>
+showname=1
+Desc=¡Bienvenido a mi taberna, viajero!
+Head=606
+Body=388
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=13
+NROITEMS=4
+Obj1=43-100
+Obj2=160-100
+Obj3=161-100
+Obj4=42-100
+ShowName=0
+SoundOpen=627
+SoundClose=628
+[NPC6]
+Name=Tavel <Tabernero Dungeon Newbie>
+showname=1
+Desc=¿¡Estais sediento!?
+Head=17
+Body=388
+Heading=3
+Movement=2
+Comercia=1
+TipoItems=13
+NROITEMS=4
+Obj1=43-100
+Obj2=160-100
+Obj3=161-100
+Obj4=42-100
+ShowName=0
+SoundOpen=627
+SoundClose=628
+[NPC7]
+Name=Tavel <Tabernero>
+showname=1
+Desc=¡Hola! Bienvenido al "Mesón Hostigado". ¿Qué deseas beber?
+Head=17
+Body=388
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=13
+NROITEMS=4
+Obj1=43-100
+Obj2=160-100
+Obj3=161-100
+Obj4=42-100
+ShowName=0
+SoundOpen=627
+SoundClose=628
+
+'--------------> Comidas <--------------
+[NPC8]'Ulla, Tiama, Orac, Rinkel, N. Esp
+Name=Richard <Comidas>
+Desc=¡Hola! Sólo aquí conseguirás las mejores provisiones de todas estas tierras.
+Head=4
+Body=3
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=1
+NROITEMS=10
+Obj1=1-100
+Obj2=22-100
+Obj3=23-100
+Obj4=24-100
+Obj5=25-100
+Obj6=21-100
+Obj7=29-100
+Obj8=28-100
+Obj9=27-100
+Obj10=26-100
+ShowName=0
+SoundOpen=605
+SoundClose=606
+
+[NPC9]
+Name=Richard <Comidas Newbie Dungeon>
+Desc=¡Hola aventurero! Si estais hambriento habeis venido al lugar apropiado. Tengo todo tipo de frutas.
+Head=4
+showname=1
+Body=3
+Heading=3
+Movement=2
+Comercia=1
+TipoItems=1
+NROITEMS=10
+Obj1=1-100
+Obj2=22-100
+Obj3=23-100
+Obj4=24-100
+Obj5=25-100
+Obj6=21-100
+Obj7=29-100
+Obj8=28-100
+Obj9=27-100
+Obj10=26-100
+ShowName=0
+SoundOpen=605
+SoundClose=606
+[NPC10]
+Name=Richard <Granjero Norte>
+Desc=¡Bienvenido a mi huerta! Tengo las mejores frutas de la zona. No podrás encontrarlas de mejor calidad.
+Head=604
+Body=668
+Heading=3
+showname=1
+Movement=1
+Comercia=1
+TipoItems=1
+NROITEMS=10
+Obj1=1-100
+Obj2=22-100
+Obj3=23-100
+Obj4=24-100
+Obj5=25-100
+Obj6=21-100
+Obj7=29-100
+Obj8=28-100
+Obj9=27-100
+Obj10=26-100
+ShowName=0
+SoundOpen=605
+SoundClose=606
+'--------------> Carpintería <--------------
+
+[NPC11]
+Name=Feijo <Carpintero>
+Desc=Hola! Esta es mi humilde carpintería.
+Head=318
+Body=293
+Arma=138
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+NROITEMS=18
+'Jabalina
+Obj1=741-100
+'Escudo de Madera
+Obj2=997-100
+'Escudo de Tortuga
+Obj3=404-100
+'Cuchara de Madera
+Obj4=163-100
+'Cama Simple
+Obj5=155-100
+'Cama Simple
+Obj6=156-100
+'Silla
+Obj7=162-100
+'Silla
+Obj8=168-100
+'Serrucho
+Obj9=198-100
+'Hacha de Leñador
+Obj10=480-100
+Obj11=551-100
+Obj12=552-100
+Obj13=553-100
+Obj14=127-100
+ShowName=0
+SoundOpen=633
+SoundClose=634
+'--------------> Minería <--------------
+[NPC12]
+Name=Wade <Minero>
+Desc=Poseo los mejores metales y herramientas de todas estas tierras.
+Head=427
+Body=100
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=23
+NROITEMS=2
+'Piquete de Minero
+Obj1=187-100
+'Carro de Minería
+Obj2=880-100
+ShowName=0
+SoundOpen=631
+SoundClose=632
+
+'--------------> Pescados <--------------
+[NPC13]
+Name=Roque <Pescador>
+Desc=Aquí conseguirás lo mejor que el mar puede ofrecer!
+Head=426
+Body=3
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=1
+NROITEMS=3
+'Caña de Pesca
+Obj1=881-100
+'Red de Pesca
+Obj2=138-100
+'Pargo
+Obj3=139-100
+ShowName=0
+
+'--------------> Caballos <--------------
+
+[NPC14]
+Name=José <Vendedor de Caballos>
+Desc=¡Aquí podrás encontrar las mejores monturas que te ayudarán a explorar estas hermosas tierras!
+Head=602
+Body=57
+Heading=3
+showname=1
+Movement=1
+Comercia=1
+TipoItems=44
+NROITEMS=5
+'Montura (Altos)
+Obj1=1342-100
+'Huargo (Orcos)
+Obj2=1344-100
+'Montura Reforzada (Altos - Mágicos)
+Obj3=1345-100
+'Montura Reforzada (Altos - Guerreros)
+Obj4=1346-100
+'Huargo Reforzado (Orcos)
+Obj5=1349-100
+ShowName=0
+
+'--------------> Vendedor general <--------------
+[NPC15]
+Name=Alvaro <Vendedor General>
+Desc=Intercambio cualquier tipo de exóticas mercaderías, aventurero!
+Head=9
+Body=128
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=1000
+NROITEMS=7
+'Martillo de Herrero
+Obj1=389-100
+'Botella Vacía
+Obj2=534-100
+'Mapa
+Obj3=650-100
+'Costurero
+Obj4=886-100
+'Anillo Espectral
+Obj5=1329-100
+'Anillo de las Penumbras
+Obj6=1330-100
+Obj7=474-100
+Obj8=480-100
+Obj9=551-100
+Obj10=552-100
+Obj11=553-100
+Obj12=127-100
+ShowName=0
+
+
+
+'--------------> Pasajes por ciudad 20 al 29 <--------------
+
+[NPC20]
+Name=Pirata de Nix
+Desc=¡Preparen naves! Salimos del puerto de Nix en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+NpcType=10
+Head=301
+Body=133
+Heading=2
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=4
+Obj1=598-100
+Obj2=600-100
+Obj3=1061-100
+Obj4=1058-100
+Domable=0
+weaponanim=7
+ShowName=0
+NumDestinos=4
+Dest1=3-4625
+Dest2=4-3500
+Dest3=5-4000
+Dest4=6-3500
+SoundOpen=600
+SoundClose=601
+Interface=1
+
+
+[NPC21]
+Name=Pirata de Banderbill
+Desc=¡Preparen naves! Salimos del puerto de Banderbill en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+NpcType=10
+Head=301
+Body=133
+Heading=2
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=4
+Obj1=723-100
+Obj2=724-100
+Obj3=1066-100
+Obj4=1063-100
+Domable=0
+weaponanim=7
+NumDestinos=4
+Dest1=2-4625
+Dest2=4-3500
+Dest3=5-3500
+Dest4=6-4625
+SoundOpen=600
+SoundClose=601
+Interface=1
+
+
+[NPC22]
+Name=Pirata de Arghal
+Desc=¡Preparen naves! Salimos del puerto de Arghâl en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+NpcType=10
+Head=301
+Body=133
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=4
+Obj1=731-100
+Obj2=732-100
+Obj3=1073-100
+Obj4=1076-100
+Domable=0
+weaponanim=7
+ShowName=0
+NumDestinos=4
+Dest1=2-4000
+Dest2=3-3500
+Dest3=4-1250
+Dest4=6-4625
+SoundOpen=600
+SoundClose=601
+Interface=1
+
+
+[NPC23] 
+Name=Pirata de Lindos
+Desc=¡Preparen naves! Salimos del puerto de Lindos en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+NpcType=10
+Head=301
+Body=133
+Heading=4
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=4
+Obj1=1036-100
+Obj2=1037-100
+Obj3=1039-100
+Obj4=1040-100
+Domable=0
+weaponanim=7
+ShowName=0
+NumDestinos=4
+Dest1=2-4625
+Dest2=3-1200
+Dest3=5-2500
+Dest4=6-4625
+SoundOpen=600
+SoundClose=601
+Interface=1
+
+
+[NPC24]
+Name=Pirata de Hillidan
+Desc=¡Preparen naves! Salimos del puerto de Hillidan en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+NpcType=10
+Head=301
+Body=133
+Heading=4
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=4
+Obj1=1009-100
+Obj2=1010-100
+Obj3=1012-100
+Obj4=1015-100
+Domable=0
+weaponanim=7
+ShowName=0
+NumDestinos=4
+Dest1=2-1200
+Dest2=3-4625
+Dest3=5-4600
+Dest4=4-4600
+SoundOpen=600
+SoundClose=601
+Interface=1
+
+
+[NPC25]
+Name=Jinetes de Ulla
+Desc=¿Necesitas llegar rapido a un destino? ¡No hay problema! Puedo llevarte en uno de mis caballos. Solo encontraras mis servicios aquí.
+NpcType=10
+Head=0
+Body=276
+Heading=4
+Movement=1
+Attackable=0
+Comercia=0
+TipoItems=36
+Hostile=0
+Alineacion=0
+ReSpawn=0
+Domable=0
+weaponanim=7
+ShowName=0
+NumDestinos=2
+Dest1=2-1200
+Dest2=3-1800
+SoundOpen=600
+SoundClose=601
+Interface=2
+
+
+
+'--------------> Vendedores by OX <--------------
+
+
+'--------------> Armaduras Por ciudad del 30 al 39 <--------------
+
+
+
+[NPC30]
+Name=Nero <Defensa>
+ShowName=1
+Desc=Bienvenido, tengo gran variedad de cascos y escudos a tu disposición!
+Head=612
+Body=590
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=16
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=27
+Obj1=1769-100
+Obj2=1783-100
+Obj3=1761-100
+Obj4=1770-100
+Obj5=1771-100
+Obj6=1775-100
+Obj7=1774-100
+Obj8=1785-100
+Obj9=1781-100
+Obj10=1782-100
+Obj11=1700-100
+Obj12=1702-100
+Obj13=1706-100
+Obj14=1707-100
+Obj15=1687-100
+Obj16=1688-100
+Obj17=1714-100
+Obj18=1719-100
+Obj19=1721-100
+Obj20=1730-100
+Obj21=1708-100
+Obj22=1713-100
+Obj23=1716-100
+Obj24=1718-100
+Obj25=1729-100
+Obj26=1704-100
+obj27=389-100 'Martillo
+Domable=0
+ShowName=0
+SoundOpen=623
+SoundClose=624
+
+[NPC31]
+Name=Fharan <Defensa Avanzada>
+Desc=Bienvenido, tengo gran variedad de escudos y armaduras de gran calidad!
+ShowName=1
+Head=26
+Body=38
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=16
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=21
+Obj1=1764-100
+Obj2=1765-100
+Obj3=1776-100
+Obj4=1777-100
+Obj5=1778-100
+Obj6=1779-100
+Obj7=1784-100
+Obj8=1773-100
+Obj9=1780-100
+Obj10=1715-100
+Obj11=1723-100
+Obj12=1724-100
+Obj13=1690-100
+Obj14=1692-100
+Obj15=1710-100
+Obj16=1689-100
+Obj17=1691-100
+Obj18=1693-100
+Obj19=1694-100
+Obj20=1698-100
+Obj20=1712-100
+obj21=389-100 'Martillo
+SoundOpen=609
+SoundClose=610
+
+[NPC32]
+Name=Hileria <Gorros>
+Desc=Bienvenido, tengo los mejore sombreros y gorros de la zona!
+ShowName=1
+Head=368
+Body=679
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=17
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=1748-100
+Obj2=1749-100
+Obj3=1750-100
+Obj4=1751-100
+Obj5=1752-100
+Obj6=1755-100
+Obj7=1756-100
+Obj8=1733-100
+Obj9=1734-100
+Obj10=1735-100
+Obj11=1736-100
+Obj12=1741-100
+Obj13=1742-100
+Domable=0
+SoundOpen=611
+SoundClose=612
+
+[NPC33]
+Name=Elvira <Gorros Avanzados>
+Desc=Bienvenido, tengo los mejore sombreros y gorros de la zona!
+ShowName=1
+Head=167
+Body=113
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=17
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=8
+Obj1=1753-100
+Obj2=1754-100
+Obj3=1737-100
+Obj4=1743-100
+Obj5=1757-100
+Obj6=1744-100
+Obj7=1745-100
+Obj8=1746-100
+Domable=0
+SoundOpen=619
+SoundClose=620
+
+[NPC34]
+Name=Aitor <Armas>
+Desc=Bienvenido valiente, tengo armas recien afiladas!
+ShowName=1
+Head=616
+Body=94
+Heading=3
+Movement=1
+Attackable=0
+Espada=114
+Comercia=1
+TipoItems=2
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=31
+obj1=15-100
+obj2=1798-100
+obj3=1786-100
+obj4=1787-100
+obj5=1792-100
+obj6=656-100
+obj7=1854-100
+obj8=1855-100
+obj9=1863-100
+obj10=1865-100
+obj11=1799-100
+obj12=1815-100
+obj13=1853-100
+obj14=403-100
+obj15=1820-100
+obj16=3-100
+obj17=159-100
+obj18=1080-100
+obj19=1144-100
+obj20=1094-100
+obj21=1331-100
+obj22=1332-100
+obj23=1872-100
+obj24=1873-100
+obj25=1874-100
+obj26=1877-100
+obj27=1878-100
+obj28=1802-100
+obj29=1806-100
+obj30=1803-100
+obj31=389-100
+Domable=0
+SoundOpen=625
+SoundClose=626
+
+[NPC35]
+Name=Conrad <Armas Avanzadas>
+Desc=Bienvenido, las mejores armas de Hildorien estan aqui!
+ShowName=1
+Head=120
+Body=106
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=2
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+obj1=1864-100
+obj2=1833-100
+obj3=1243-100
+obj4=401-100
+obj5=1246-100
+obj6=1860-100
+obj7=1805-100
+obj8=1808-100
+obj9=1809-100
+obj10=1824-100
+obj11=1794-100
+obj12=1836-100
+obj13=1859-100
+obj14=1857-100
+obj15=1856-100
+obj16=1867-100
+obj17=1870-100
+obj18=1871-100
+obj19=1807-100
+obj20=1816-100
+obj21=1861-100
+obj22=389-100 
+SoundOpen=607
+SoundClose=608
+
+[NPC40]
+Name=Clotilda <Sastreria>
+Desc=Gran variedades de túnicas para ti!
+ShowName=1
+Head=350
+Body=635
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=29
+obj1=1987-100
+obj2=1988-100
+obj3=1981-100
+obj4=1975-100
+obj5=1968-100
+obj6=1976-100
+obj7=1989-100
+obj8=1983-100
+obj9=1965-100
+obj10=1974-100
+obj11=1977-100
+obj12=1978-100
+obj13=1979-100
+obj14=1980-100
+obj15=1985-100
+obj16=1986-100
+obj17=1956-100
+obj18=1947-100
+obj19=1948-100
+obj20=1950-100
+obj21=1982-100
+obj22=1963-100
+obj23=1967-100
+obj24=1949-100
+obj25=1951-100
+obj26=1954-100
+obj27=1966-100
+obj28=1984-100
+obj29=886-100
+Domable=0
+SoundOpen=613
+SoundClose=614
+
+[NPC41]
+Name=Jessica <Sastreria Avanzada>
+Desc=Mis túnicas tienen una tela bien lograda, pruébalas!
+ShowName=1
+Head=70
+Body=109
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=10
+obj1=1969-100
+obj2=1958-100
+obj3=1961-100
+obj4=1972-100
+obj5=1970-100
+obj6=1971-100
+obj7=1946-100
+obj8=1959-100
+obj9=1973-100
+obj10=886-100
+SoundOpen=611
+SoundClose=612
+
+[NPC42]
+Name=Lazaro <Armaduras>
+Desc=Aquí encontrarás las mejores armaduras en esta zona! 
+ShowName=1
+Head=703
+Body=507
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=18
+obj1=1912-100
+obj2=1930-100
+obj3=1900-100
+obj4=1901-100
+obj5=1918-100
+obj6=1920-100
+obj7=1917-100
+obj8=1902-100
+obj9=1911-100
+obj10=1913-100
+obj11=1927-100
+obj12=1909-100
+obj13=1915-100
+obj14=1921-100
+obj15=1923-100
+obj16=1929-100
+obj17=1943-100
+obj18=389-100 'Martillo
+Domable=0
+SoundOpen=621
+SoundClose=622
+
+[NPC43]
+Name=Davhero <Armaduras Avanzadas>
+Desc=La mejor calidad en Armaduras de Hildorien, ven!
+ShowName=1
+Head=308
+Body=333
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=10
+obj1=1905-100
+obj2=1941-100
+obj3=1942-100
+obj4=1944-100
+obj5=1945-100
+obj6=1910-100
+obj7=1914-100
+obj8=1916-100
+obj9=1919-100
+obj10=389-100 'Martillo
+Domable=0
+SoundOpen=615
+SoundClose=616
+
+[NPC44]
+Name=Armas Lindos
+Desc=¡Tengo las armas mas poderosas de todas estas tierras!
+Head=73
+Body=96
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=2
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=15-100
+Obj2=365-100
+Obj3=164-100
+Obj4=125-100
+Obj5=569-100
+Obj6=403-100
+Obj7=401-100
+Obj8=159-100
+Obj9=126-100
+Obj10=989-100
+Obj11=1001-100
+Obj12=479-100
+Obj13=1331-100
+Obj14=1332-100
+Obj15=1678-100
+Obj16=1679-100
+Obj17=1680-100
+Obj18=398-100
+Obj19=1080-100
+Obj20=749-100
+Obj21=1681-100
+Obj22=559-100
+obj23=389-100 'Martillo
+Domable=0
+
+[NPC45]
+Name=Armas Hillidan
+Desc=La violencia no resuelve! Pero empareja, las mejores armas salen de aquí! 
+Head=409
+Body=91
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=2
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=15-100
+Obj2=365-100
+Obj3=164-100
+Obj4=125-100
+Obj5=569-100
+Obj6=403-100
+Obj7=401-100
+Obj8=159-100
+Obj9=126-100
+Obj10=989-100
+Obj11=1001-100
+Obj12=479-100
+Obj13=1331-100
+Obj14=1332-100
+Obj15=1678-100
+Obj16=1679-100
+Obj17=1680-100
+Obj18=398-100
+Obj19=1080-100
+Obj20=749-100
+Obj21=1681-100
+Obj22=559-100
+Domable=0
+
+
+'--------------> Sastres (Altos y bajos) Por ciudad del 50 al 69 <--------------
+
+[NPC50]
+Name=Sastre Ullathorpe
+Desc=¡Buenas vestimentas y tunicas a un buen precio!
+Head=79
+Body=395
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=11
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Domable=0
+
+[NPC51]
+Name=Sastre ulla bajos
+Desc=¡Buenas vestimentas y tunicas para bajos a un buen precio!
+Head=71
+Body=123
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=11
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Domable=0
+
+[NPC52]
+Name=Sastre Nix
+Desc=¡Buenas vestimentas y tunicas para altos a un buen precio!
+Head=275
+Body=79
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=11
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Domable=0
+
+[NPC53]
+Name=Sastre Nix bajos
+Desc=¡Buenas vestimentas y tunicas para bajos a un buen precio!
+Head=408
+Body=234
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Domable=0
+
+[NPC54]
+Name=Sastre Bander
+Desc=¡Las mejores vestimentas y tunicas para altos de la zona!
+Head=113
+Body=56
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Domable=0
+
+[NPC55]
+Name=Sastre Bander bajos
+Desc=¡Las mejores vestimentas y tunicas para bajos de la zona!
+Head=313
+Body=302
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Domable=0
+
+[NPC56]
+Name=Sastre Arghal
+Desc=¡Las mejores vestimentas y tunicas para altos de la zona!
+Head=188
+Body=50
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Domable=0
+
+[NPC57]
+Name=Sastre Arghal bajos
+Desc=¡Las mejores vestimentas y tunicas para bajos de la zona!
+Head=409
+Body=136
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Domable=0
+
+[NPC58]
+Name=Sastre Lindos
+Desc=¡Tengo las mejores vestimentas y tunicas para altos de todas las tierras!
+Head=172
+Body=113
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Obj14=1643-100 'tunica de clerigo
+Obj15=1644-100 'tunica de druida
+Obj16=1646-100 'tunica de nigromante
+Obj17=1676-100 'tunica de monje
+Obj18=524-100
+Obj19=1179-100
+Obj20=1228-100
+Obj21=525-100
+Obj22=526-100
+Domable=0
+
+[NPC59]
+Name=Sastre Lindos bajos
+Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Head=308
+Body=331
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Obj14=1643-100 'tunica de clerigo
+Obj15=1644-100 'tunica de druida
+Obj16=1646-100 'tunica de nigromante
+Obj17=1676-100 'tunica de monje
+Obj18=524-100
+Obj19=1179-100
+Obj20=1228-100
+Obj21=525-100
+Obj22=526-100
+Domable=0
+
+[NPC60]
+Name=Sastre Hillidan
+Desc=¡Tengo las mejores vestimentas y tunicas para altos de todas las tierras!
+Head=514
+Body=385
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Obj14=1643-100 'tunica de clerigo
+Obj15=1644-100 'tunica de druida
+Obj16=1646-100 'tunica de nigromante
+Obj17=1676-100 'tunica de monje
+Obj18=524-100
+Obj19=1179-100
+Obj20=1228-100
+Obj21=525-100
+Obj22=526-100
+Domable=0
+
+[NPC61]
+Name=Sastre Hillidan bajos
+Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Head=471
+Body=137
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=381-100
+Obj2=1645-100 'tunica de magos
+Obj3=238-100
+Obj4=515-100
+Obj5=490-100
+Obj6=964-100
+Obj7=1641-100 'tunica celestial
+Obj8=1647-100 'tunica infernal
+Obj9=1675-100 'tunica ceremonial
+Obj10=1677-100 'tunica de las penumbras
+Obj11=1642-100 'tunica de bardo
+Obj12=1678-100 'tunica carmesi
+Obj13=1679-100 'Ropaje de aldeano
+Obj14=1643-100 'tunica de clerigo
+Obj15=1644-100 'tunica de druida
+Obj16=1646-100 'tunica de nigromante
+Obj17=1676-100 'tunica de monje
+Obj18=524-100
+Obj19=1179-100
+Obj20=1228-100
+Obj21=525-100
+Obj22=526-100
+Domable=0
+
+
+'--------------> Hechizos Por ciudad del 70 al 80 <--------------
+
+[NPC70]
+Name=Mendo <Hechicero>
+showname=1
+Desc=¡Tengo gran variedad de hechizos!
+Head=401
+Body=305
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=16
+Obj1=1648-100
+Obj2=1665-100
+Obj3=1649-100
+Obj4=1664-100
+Obj5=1663-100
+Obj6=1669-100
+Obj7=1670-100
+Obj8=1654-100
+Obj9=1655-100
+Obj10=1656-100
+Obj11=1651-100
+Obj12=1660-100
+Obj13=1659-100
+Obj14=1658-100
+Obj15=1652-100
+Obj16=1657-100
+Domable=0
+SoundOpen=629
+SoundClose=630
+
+[NPC71]
+Name=Odilia <Hechicera>
+showname=1
+Desc=¡Tengo gran variedad de hechizos!
+Head=174
+Body=270
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=16
+Obj1=1648-100
+Obj2=1665-100
+Obj3=1649-100
+Obj4=1664-100
+Obj5=1663-100
+Obj6=1669-100
+Obj7=1670-100
+Obj8=1654-100
+Obj9=1655-100
+Obj10=1656-100
+Obj11=1651-100
+Obj12=1660-100
+Obj13=1659-100
+Obj14=1658-100
+Obj15=1652-100
+Domable=0
+SoundOpen=629
+SoundClose=630
+
+[NPC72]
+Name=Elena <Hechicera>
+showname=1
+Desc=¡Tengo gran variedad de hechizos!
+Head=372
+Body=269
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=16
+Obj1=1648-100
+Obj2=1665-100
+Obj3=1649-100
+Obj4=1664-100
+Obj5=1663-100
+Obj6=1669-100
+Obj7=1670-100
+Obj8=1654-100
+Obj9=1655-100
+Obj10=1656-100
+Obj11=1651-100
+Obj12=1660-100
+Obj13=1659-100
+Obj14=1658-100
+Obj15=1652-100
+Domable=0
+SoundOpen=629
+SoundClose=630
+
+[NPC73]
+Name=Emma <Hechicera>
+showname=1
+Desc=¡Tengo todos los hechizos que puedas necesitar!
+Body=740
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=16
+Obj1=1648-100
+Obj2=1665-100
+Obj3=1649-100
+Obj4=1664-100
+Obj5=1663-100
+Obj6=1669-100
+Obj7=1670-100
+Obj8=1654-100
+Obj9=1655-100
+Obj10=1656-100
+Obj11=1651-100
+Obj12=1660-100
+Obj13=1659-100
+Obj14=1658-100
+Obj15=1652-100
+Domable=0
+SoundOpen=629
+SoundClose=630
+
+[NPC74]
+Name=Drake <Hechicero>
+showname=1
+Desc=¡Tengo gran variedad de hechizos!
+Head=27
+Body=56
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=16
+Obj1=1648-100
+Obj2=1665-100
+Obj3=1649-100
+Obj4=1664-100
+Obj5=1663-100
+Obj6=1669-100
+Obj7=1670-100
+Obj8=1654-100
+Obj9=1655-100
+Obj10=1656-100
+Obj11=1651-100
+Obj12=1660-100
+Obj13=1659-100
+Obj14=1658-100
+Obj15=1652-100
+Domable=0
+SoundOpen=629
+SoundClose=630
+
+[NPC75]
+Name= Geoffrey <Hechicero Avanzado>
+showname=1
+Desc=¡Tengo los hechizos mas poderosos!
+Head=619
+Body=630
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=24
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=22
+Obj1=1650-100
+Obj2=1666-100
+Obj3=1667-100
+Obj4=1653-100
+Obj5=1661-100
+Obj6=1662-100
+Obj7=1671-100
+Obj8=1674-100
+Obj9=1673-100
+Obj10=1668-100
+Obj11=397-100
+Obj12=2004-100
+Obj13=2002-100
+Obj14=2009-100
+Obj15=395-100
+Obj16=396-100
+Obj17=2005-100
+Obj18=318-100
+Obj19=2006-100
+Obj20=2001-100
+Obj21=2000-100
+Obj22=2008-100
+SoundOpen=629
+SoundClose=630
+
+[NPC76] '
+Name=Merlina
+showname=1
+NpcType=5
+Desc=Bienvenido al Palacio! Si me lo preguntas, sí, a veces es inquietante ser la esposa del Rey. Pero admiro ver lo bien que maneja el asunto!
+Head=608
+Body=323
+Heading=3
+Movement=1
+Attackable=0
+weaponanim=5
+Faccion=0
+Alineacion=0
+
+'''COMERCIANTES ARGHÁL X AGUS'''
+
+[NPC77]
+Name=Julius <Pescador>
+Desc=Acercate maldito críado, aquí encuentras lo mejor que el mar ofrece
+Body=716
+showname=1
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=1
+NROITEMS=3
+'Caña de Pesca
+Obj1=881-100
+'Red de Pesca
+Obj2=138-100
+'Pargo
+Obj3=139-100
+ShowName=0
+
+[NPC78]
+Name=Ajax <Armas>
+Desc=Bienvenido gusano, ¿estás en busca de armas?
+ShowName=1
+Body=711
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=2
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=31
+obj1=15-100
+obj2=1798-100
+obj3=1786-100
+obj4=1787-100
+obj5=1792-100
+obj6=656-100
+obj7=1854-100
+obj8=1855-100
+obj9=1863-100
+obj10=1865-100
+obj11=1799-100
+obj12=1815-100
+obj13=1853-100
+obj14=403-100
+obj15=1820-100
+obj16=3-100
+obj17=159-100
+obj18=1080-100
+obj19=1144-100
+obj20=1094-100
+obj21=1331-100
+obj22=1332-100
+obj23=1872-100
+obj24=1873-100
+obj25=1874-100
+obj26=1877-100
+obj27=1878-100
+obj28=1802-100
+obj29=1806-100
+obj30=1803-100
+obj31=389-100
+Domable=0
+SoundOpen=625
+SoundClose=626
+
+[NPC79]
+Name=Blenz <Armaduras>
+Desc=En mis tiempos las batallas eran sin protección, cobardes
+ShowName=1
+Body=713
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=18
+obj1=1912-100
+obj2=1930-100
+obj3=1900-100
+obj4=1901-100
+obj5=1918-100
+obj6=1920-100
+obj7=1917-100
+obj8=1902-100
+obj9=1911-100
+obj10=1913-100
+obj11=1927-100
+obj12=1909-100
+obj13=1915-100
+obj14=1921-100
+obj15=1923-100
+obj16=1929-100
+obj17=1943-100
+obj18=389-100 'Martillo
+Domable=0
+SoundOpen=621
+SoundClose=622
+
+[NPC80]
+Name=Travon <Defensa>
+ShowName=1
+Desc=Bienvenido inepto, tengo cascos y escudos para ofrecer a alguien como tú.
+Body=707
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=16
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=27
+Obj1=1769-100
+Obj2=1783-100
+Obj3=1761-100
+Obj4=1770-100
+Obj5=1771-100
+Obj6=1775-100
+Obj7=1774-100
+Obj8=1785-100
+Obj9=1781-100
+Obj10=1782-100
+Obj11=1700-100
+Obj12=1702-100
+Obj13=1706-100
+Obj14=1707-100
+Obj15=1687-100
+Obj16=1688-100
+Obj17=1714-100
+Obj18=1719-100
+Obj19=1721-100
+Obj20=1730-100
+Obj21=1708-100
+Obj22=1713-100
+Obj23=1716-100
+Obj24=1718-100
+Obj25=1729-100
+Obj26=1704-100
+obj27=389-100 'Martillo
+Domable=0
+ShowName=0
+SoundOpen=623
+SoundClose=624
+
+[NPC81]
+Name=Selene <Sastreria>
+Desc=Siempre hay un roto para un descocido.
+ShowName=1
+Body=739
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=3
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=29
+obj1=1987-100
+obj2=1988-100
+obj3=1981-100
+obj4=1975-100
+obj5=1968-100
+obj6=1976-100
+obj7=1989-100
+obj8=1983-100
+obj9=1965-100
+obj10=1974-100
+obj11=1977-100
+obj12=1978-100
+obj13=1979-100
+obj14=1980-100
+obj15=1985-100
+obj16=1986-100
+obj17=1956-100
+obj18=1947-100
+obj19=1948-100
+obj20=1950-100
+obj21=1982-100
+obj22=1963-100
+obj23=1967-100
+obj24=1949-100
+obj25=1951-100
+obj26=1954-100
+obj27=1966-100
+obj28=1984-100
+obj29=886-100
+Domable=0
+SoundOpen=613
+SoundClose=614
+
+[NPC82]
+Name=Dharma <Gorros>
+Desc=No vayas a ensuciarte el cabello, o no?
+ShowName=1
+Body=710
+Heading=3
+Movement=1
+Attackable=0
+Comercia=1
+TipoItems=17
+Hostile=0
+Alineacion=0
+ReSpawn=0
+NROITEMS=13
+Obj1=1748-100
+Obj2=1749-100
+Obj3=1750-100
+Obj4=1751-100
+Obj5=1752-100
+Obj6=1755-100
+Obj7=1756-100
+Obj8=1733-100
+Obj9=1734-100
+Obj10=1735-100
+Obj11=1736-100
+Obj12=1741-100
+Obj13=1742-100
+Domable=0
+SoundOpen=611
+SoundClose=612
+
+[NPC83]
+Name=Hawke <Tabernero>
+showname=1
+Desc=Te vendería cianuro, pero quedaría sin clientes.
+Body=717
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=13
+NROITEMS=4
+Obj1=43-100
+Obj2=160-100
+Obj3=161-100
+Obj4=42-100
+ShowName=0
+SoundOpen=627
+SoundClose=628
+
+[NPC84]
+Name=Guryon <Comidas>
+Desc=Esta comida da asco, pero más asco das tú.
+showname=1
+Body=718
+Heading=3
+Movement=1
+Comercia=1
+TipoItems=1
+NROITEMS=10
+Obj1=1-100
+Obj2=22-100
+Obj3=23-100
+Obj4=24-100
+Obj5=25-100
+Obj6=21-100
+Obj7=29-100
+Obj8=28-100
+Obj9=27-100
+Obj10=26-100
+ShowName=0
+SoundOpen=605
+SoundClose=606
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'--------------------------NPC DE INTERACCION CON EL USUARIO------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+
+
+'--------------> Gobernadores Por ciudad del 250 al 259 <--------------
+
+[NPC250] 
+Name=Guzman <Gobernador>
+showname=1
+NpcType=12
+Desc=Acercate viajero, no te gustaría vivir aquí?
+Head=0
+Body=4
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+GobernadorDe=1
+ShowName=0
+
+
+[NPC251] 
+Name=Nicholas <Gobernador>
+showname=1
+NpcType=12
+Desc=Hola jovén! quieres formar parte de Nix?
+Head=16
+Body=50
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+GobernadorDe=2
+ShowName=0
+
+
+[NPC252] 
+Name=Randall <Gobernador>
+showname=1
+NpcType=12
+Desc=Banderbille sigue siendo una ciudad muy grande, pero, aun hay espacio para ti! 
+Head=28
+Body=220
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+weaponanim=11
+GobernadorDe=3
+ShowName=0
+
+
+[NPC253]
+Name=Puch <Gobernador>
+showname=1
+NpcType=12
+Desc=Oye, shhh... Hablame para convivir con el Mal.
+Head=
+Body=735
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+weaponanim=6
+GobernadorDe=5
+ShowName=0
+
+[NPC254]
+Name=Maira <Gobernadora>
+showname=1
+NpcType=12
+Desc=Una isla pequeña con un corazon enorme, este podria ser tu lugar
+Head=150
+Body=80
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+weaponanim=11
+GobernadorDe=4
+showname=0
+
+[NPC255]
+Name=Cold <Gobernador>
+showname=1
+NpcType=12
+Desc=Vivir en la zona más helada de Hildorien a veces resulta interesante! Pruebalo
+Head=601
+Body=502
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+weaponanim=11
+GobernadorDe=6
+showname=0
+
+
+
+'--------------> Guardias Buenos del 260 al 269 <--------------
+
+
+[NPC260]
+Name=Guardia Imperial
+NpcType=2
+Desc=Protegeré la ciudad de cualquier amenaza.
+Head=0
+Body=15
+
+Heading=3
+Movement=0
+Attackable=0
+Comercia=0
+Hostile=0
+GiveEXP=
+GiveGLD=
+MinHP=1000
+MaxHP=1000
+MaxHIT=250
+MinHIT=115
+PosOrig=1
+DEF=30
+Alineacion=0
+ReSpawn=0
+NROITEMS=0
+PoderAtaque=400
+PoderEvasion=400
+Domable=0
+Faccion=1
+
+
+[NPC261]
+Name=Guardia Imperial
+NpcType=2
+Desc=¡Os estoy vigilando detenidamente!
+Head=0
+Body=15
+Heading=3
+Movement=5
+Attackable=1
+Comercia=0
+Hostile=0
+GiveEXP=
+GiveGLD=
+MinHP=1000
+MaxHP=1000
+MaxHIT=250
+MinHIT=115
+PosOrig=1
+DEF=30
+Alineacion=0
+ReSpawn=0
+NROITEMS=0
+PoderAtaque=400
+PoderEvasion=400
+Domable=0
+
+[NPC262]
+Name=Sacerdote Imperial
+NpcType=2
+Desc=¡Estoy aquí para mantener el orden en nombre del Consejo!
+Head=4
+Body=101
+Heading=3
+Movement=5
+Attackable=1
+Comercia=0
+Hostile=0
+GiveEXP=
+GiveGLD=
+MinHP=9550
+MaxHP=9550
+MaxHIT=100
+MinHIT=100
+PosOrig=1
+DEF=10
+Alineacion=0
+ReSpawn=0
+NROITEMS=0
+PoderAtaque=1500
+PoderEvasion=1500
+Domable=0
+LanzaSpells=2
+Sp1=31
+Sp2=9
+RangoSpell=4
+
+[NP263]
+Name=Sacerdote Imperial
+NpcType=2
+Desc=¡Estoy aquí para mantener el orden en nombre del Consejo!
+Head=5
+Body=101
+Heading=3
+Movement=5
+Attackable=1
+Comercia=0
+Hostile=0
+GiveEXP=
+GiveGLD=
+MinHP=9550
+MaxHP=9550
+MaxHIT=100
+MinHIT=100
+PosOrig=1
+DEF=10
+Alineacion=0
+ReSpawn=0
+NROITEMS=0
+PoderAtaque=1500
+PoderEvasion=1500
+Domable=0
+LanzaSpells=2
+Sp1=34
+Sp2=9
+RangoSpell=4
+
+
+
+
+
+'--------------> Guardias Malos del 270 al 279 <--------------
+
+
+[NPC270]
+Name=Mago del Caos
+NpcType=8
+Desc=¡El caos reinará en estas tierras!
+Head=205
+Body=35
+Heading=3
+Movement=6
+Attackable=1
+Comercia=0
+Hostile=0
+GiveEXP=
+GiveGLD=
+MinHP=9550
+MaxHP=9550
+MaxHIT=100
+MinHIT=100
+PosOrig=1
+DEF=10
+Alineacion=0
+ReSpawn=0
+NROITEMS=0
+PoderAtaque=1500
+PoderEvasion=1500
+Domable=0
+LanzaSpells=2
+Sp1=9
+Sp2=25
+Faccion=3
+RangoSpell=4
+
+
+
+
+
+
+
+
+'--------------> NPCS comunes del 300 al 399 <--------------
+
+
+'--------------> Subastador <--------------
+
+
+[NPC300] ' Subastador
+Name=Gabriel <Subastador>
+showname=1
+NpcType=16
+Desc=Deja el objeto que desas subastar bajo tuyo y hazme click derecho. 
+Head=9
+Body=270
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+
+
+'--------------> Apuestas <--------------
+[NPC301]
+Name=Daniel <Timbero>
+showname=1
+NpcType=12
+Desc=Si deseas apostar, escribe /APOSTAR e ingresa la cantidad con la que jugarás.
+Head=9
+Body=47
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+
+
+'--------------> Entrenador <--------------
+[NPC302]
+Name=Entrenador
+NpcType=3
+Desc=¡Hola amigo! Soy el maestro de armas de la Milicia de Banderbill. Si deseas que traiga una criatura sólo debes pedírmelo.
+Head=6
+Body=57
+Heading=3
+Movement=1
+NroCriaturas=5
+CI1=566
+CI2=545
+CI3=565
+CI4=564
+CI5=563
+CN1=Murcielago
+CN2=Lobo
+CN3=Serpiente
+CN4=Escorpion
+CN5=Goblin
+Domable=0
+
+
+
+'--------------> Facciones <--------------
+
+[NPC303] '
+Name=Hildorien
+showname=1
+NpcType=5
+Desc=Bienvenido al Palacio Real. Soy Hildorien, el rey de estas tierras. Mi deber es enlistar a nuevos soldados para unirse a nuestra lucha, y preservar el Orden y la Seguridad en todo el Imperio.
+Head=306
+Body=409
+Heading=3
+Movement=1
+Attackable=0
+weaponanim=5
+Faccion=0
+Alineacion=0
+showName=0
+
+[NPC566] '
+Name=Merlina
+showname=1
+NpcType=5
+Desc=Bienvenido al Palacio! Si me lo preguntas, sí, a veces es inquietante ser la mujer del Rey. Pero admiro ver lo bien que maneja el asunto!
+Head=608
+Body=323
+Heading=3
+Movement=1
+Attackable=0
+weaponanim=5
+Faccion=0
+Alineacion=0
+
+
+[NPC304] ' Demonio
+showname=1
+Name=Demonio
+NpcType=5
+Body=402
+Heading=3
+Attackable=0
+Desc=¡Maldita escoria! Mi momento ha llegado al fin. De mi mano vienen las Hordas del Caos... ¿Acaso no comprendes, mortal? ¡El Caos es el comienzo! Seres como tú, susceptibles ante mi llamada, me servirán para cumplir mis designios...
+Movement=1
+Faccion=1
+showName=0
+
+
+
+
+'--------------> Battle Modo <--------------
+
+[NPC305]
+Name=Aukan <BattleZona>
+NpcType=13
+Desc=¿Tenes ganas de batallar por tu diginidad? ¡Haceme click izquierdo! Para volver aquí solo tipea /salir.
+Head=610
+Body=232
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+ShowName=1
+
+
+
+
+
+'--------------> NPCS DE QUEST <--------------
+
+
+
+[NPC400]
+Name=Margareth <Quest Nivel 1>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Head=707
+Showname=1
+Heading=3
+Body=537
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=1
+
+[NPC401]
+Name=Morena <Quest Nivel 2>
+Showname=1
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Heading=3
+Body=630
+Head=151
+Casco=65
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=2
+
+[NPC402]
+Name=Rodalf <Quest Nivel 3>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Heading=3
+Body=600
+Head=692
+Escudo=19
+Arma=56
+Casco=56
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=3
+
+[NPC403]
+Name=Lidia <Quest Nivel 4>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=695
+Heading=3
+Body=632
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=4
+
+[NPC404]
+Name=Peter <Quest Nivel 5>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=732
+Heading=3
+Body=670
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=5
+
+[NPC405]
+Name=Marto <Quest Nivel 6>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=715
+Heading=3
+Body=612
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=6
+
+[NPC406]
+Name=Armin <Quest Nivel 7>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=708
+Heading=3
+Body=603
+Escudo=41
+Arma=56
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=7
+
+[NPC407]
+Name=Andy <Quest Nivel 8>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=686
+Heading=3
+Body=684
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=8
+
+[NPC408]
+Name=Euriek <Quest Nivel 9>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=705
+Heading=3
+Body=681
+Casco=51
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=9
+
+[NPC409]
+Name=Osadho <Quest Nivel 10>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=685
+Heading=3
+Body=600
+Escudo=56
+Arma=68
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=10
+
+[NPC410]
+Name=Oscar <Quest Nivel 11>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=704
+Heading=3
+Body=639
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=11
+
+[NPC411]
+Name=Serantes <Quest Nivel 12>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=167
+Heading=3
+Body=656
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=12
+
+[NPC412]
+Name=Payton <Quest Nivel 13>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=726
+Heading=3
+Body=576
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=13
+
+[NPC413]
+Name=Coulet <Quest Nivel 14>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=29
+Heading=3
+Body=594
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=14
+
+[NPC414]
+Name=Luciano <Quest Nivel 15>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=33
+Heading=3
+Body=610
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=15
+
+[NPC415]
+Name=Heather <Quest Nivel 16>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=695
+Heading=3
+Body=408
+Casco=65
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=16
+
+[NPC416]
+Name=Esteban <Quest Nivel 17>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=615
+Heading=3
+Body=332
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=17
+
+[NPC417]
+Name=Lhibiano <Quest Nivel 18>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=614
+Heading=3
+Body=532
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=18
+
+[NPC418]
+Name=Federico <Quest Nivel 19>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=702
+Heading=3
+Body=587
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=19
+
+[NPC419]
+Name=Harb <Quest Nivel 20>
+NpcType=17
+Desc=Ven acercate tengo trabajo para ti.
+Showname=1
+Head=420
+Heading=3
+Body=585
+Movement=1
+Attackable=0
+ReSpawn=0
+Hostile=0
+Domable=0
+Alineacion=0
+Comercia=0
+BackUp=0
+QuestNumber=20
+
+'--------------> CENTINELAS (NO CAMBIAR INDEX) <--------------
+[NPC498] ' Checkeador de macros
+Name=Centinela
+NpcType=15
+Desc=Soy el Centinela, guardián de los recursos. Hazme click derecho si estás trabajando y me ves cerca, corres riesgo de perder tu personaje. Mantente atento.
+Head=175
+Body=214
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+WeaponAnim=7
+Respawn=1
+LanzaSpells=1
+ShowName=0
+Sp1=9
+
+[NPC499] ' Checkeador de macros (agua)
+Name=Centinela
+NpcType=15
+Desc=Soy el Centinela, guardián de los recursos. Hazme click derecho si estás trabajando y me ves cerca, corres riesgo de perder tu personaje. Mantente atento.
+Head=0
+Body=86
+Heading=3
+Movement=1
+Attackable=0
+Comercia=0
+Hostile=0
+NROITEMS=0
+AguaValida=1
+Respawn=1
+LanzaSpells=1
+Sp1=9
+ShowName=0
+
+
+
+
+
+
+
+
+
+
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-------------------------------------NPC HOSTILES----------------------------------------
+'--------------------------------------500 AL 999-----------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------------
+
+[NPC500] 'Lobo Feroz
+Name=Lobo Feroz
+Head=0
+Body=10
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=220
+GiveGLD=150
+MinHP=150
+MaxHP=150
+MaxHIT=36
+MinHIT=24
+DEF=16
+PoderAtaque=160
+PoderEvasion=40
+Snd1=35
+Snd2=9
+QuizaProb=5
+NROITEMS=1
+Obj1=414-1
+IntervaloAtaque=1800
+IntervaloMovimiento=200
+InvervaloRespawn=60
+SubeSupervivencia=1
+Distancia=7
+
+[NPC501] 'Gallo
+Name=Gallina Salvaje
+Desc=
+Head=0
+Body=278
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=42
+GiveGLD=30
+MinHP=27
+MaxHP=27
+MaxHIT=2
+MinHIT=1
+DEF=0
+Alineacion=2
+ReSpawn=0
+NROITEMS=1
+Obj1=26-1
+PoderAtaque=15
+PoderEvasion=10
+Snd1=391
+Snd2=392
+Snd3=77
+Distancia=2
+
+[NPC502] 'Serpiente cobra
+Name=Serpiente
+Head=0
+Body=13
+Heading=3
+Movement=3
+Alineacion=2
+Veneno=1
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXPClan=10
+GiveEXP=60
+GiveGLD=40
+MinHP=18
+MaxHP=18
+MaxHIT=3
+MinHIT=2
+DEF=0
+NROITEMS=0
+PoderAtaque=30
+PoderEvasion=10
+Snd1=296
+Snd2=297
+Snd3=298
+NumQuiza=2
+QuizaDropea1=652
+QuizaDropea2=57
+Distancia=2
+
+[NPC503] 'Torguga gigante
+Name=Tortuga Gigante
+Head=0
+Body=74
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=680
+GiveGLD=350
+MinHP=480
+MaxHP=480
+MaxHIT=100
+MinHIT=60
+PoderAtaque=70
+PoderEvasion=10
+Domable=200
+NumQuiza=1
+QuizaDropea1=1700
+NROITEMS=1
+Obj1=404-1
+DEF=10
+Snd1=303
+Snd2=83
+Snd3=82
+Distancia=6
+
+[NPC504] 'Fango
+Name=Fango
+Head=0
+Body=173
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1925
+GiveGLD=1520
+MinHP=1900
+MaxHP=1900
+MaxHIT=110
+MinHIT=80
+SND1=114
+SND2=185
+SND3=186
+PoderAtaque=80
+PoderEvasion=50
+Distancia=7
+
+[NPC505] 'Aparicion
+Name=Aparición
+Head=0
+Body=245
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=2800
+GiveGLD=2450
+MinHP=2700
+MaxHP=2700
+MaxHIT=80
+MinHIT=40
+SND3=28
+DEF=20
+NROITEMS=0
+PoderAtaque=200
+PoderEvasion=70
+Snd1=114
+Snd2=80
+Snd3=28
+NumQuiza=2
+QuizaDropea1=755
+QuizaDropea2=1149
+Distancia=8
+
+[NPC506] 'Murcielago
+Name=Murciélago
+Head=0
+Body=9
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+Alineacion=2
+ReSpawn=0
+GiveEXP=45
+GiveGLD=35
+MinHP=15
+MaxHP=15
+MaxHIT=1
+MinHIT=1
+PoderAtaque=15
+PoderEvasion=10
+DEF=0
+NROITEMS=0
+Snd1=293
+Snd2=294
+Snd3=295
+NumQuiza=1
+QuizaDropea1=652
+Distancia=4
+
+
+[NPC507] 'Zombie
+Name=Zombie
+Head=0
+Body=11
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=350
+GiveGLD=160
+MinHP=320
+MaxHP=320
+MaxHIT=30
+MinHIT=25
+DEF=20
+NROITEMS=0
+PoderAtaque=90
+PoderEvasion=26
+SND2=33
+Distancia=5
+
+[NPC508] 'Hormiga
+Name=Hormiga
+Head=0
+Body=70
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=5
+GiveGLD=2
+MinHP=5
+MaxHP=5
+MaxHIT=1
+MinHIT=1
+PoderAtaque=5
+PoderEvasion=3
+Domable=5
+ReSpawn=0
+Distancia=1
+
+[NPC509] 'Escorpion
+Name=Escorpión
+Head=0
+Body=51
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+Alineacion=2
+ReSpawn=0
+GiveEXP=75
+GiveGLD=45
+MinHP=32
+MaxHP=32
+MaxHIT=6
+MinHIT=3
+Veneno=2
+PoderAtaque=25
+PoderEvasion=10
+Distancia=1
+
+[NPC510] 'Orco
+Name=Orco
+Info=No Respawn
+ReSpawn=1
+Head=0
+Body=43
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=455
+GiveGLD=175
+MinHP=350
+MaxHP=350
+MaxHIT=30
+MinHIT=5
+DEF=30
+PoderAtaque=100
+PoderEvasion=75
+Snd1=299
+Snd2=300
+Snd3=301
+Distancia=5
+
+[NPC511] 'Rata
+Name=Rata Gigante
+Head=0
+Body=71
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=15
+GiveGLD=7
+MinHP=15
+MaxHP=15
+MaxHIT=4
+MinHIT=2
+PoderAtaque=10
+PoderEvasion=10
+Domable=15
+Distancia=3
+
+[NPC512] 'Araña gigante
+Name=Araña Gigante
+Head=0
+Body=42
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1050
+GiveGLD=665
+MinHP=950
+MaxHP=950
+MaxHIT=115
+MinHIT=70
+DEF=0
+Veneno=3
+PoderAtaque=130
+PoderEvasion=50
+Snd1=29
+Snd2=34-34
+Snd3=215
+NumQuiza=1
+QuizaDropea1=57
+Distancia=6
+
+[NPC513] 'Basilisco
+Name=Basilisco
+Head=0
+Body=167
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1750
+GiveGLD=1200
+MinHP=1500
+MaxHP=1500
+MaxHIT=150
+MinHIT=20
+PoderAtaque=120
+PoderEvasion=75
+NumQuiza=2
+QuizaDropea1=736
+QuizaDropea2=708
+Snd1=296
+Snd2=297
+Snd3=298
+Distancia=7
+
+[NPC514] 'Esqueleto
+Name=Esqueleto
+Head=0
+Body=475
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=160
+GiveGLD=90
+MinHP=175
+MaxHP=175
+MaxHIT=12
+MinHIT=6
+DEF=10
+NROITEMS=0
+PoderAtaque=45
+PoderEvasion=40
+NumQuiza=1
+QuizaDropea1=652
+Snd1=290
+Snd2=291
+Snd3=292
+Distancia=4
+
+[NPC515] ' Sirena
+Name=Sirena
+Body=277
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=12500
+GiveGLD=5600
+MinHP=10000
+MaxHP=10000
+MaxHIT=180
+MinHIT=140
+DEF=25
+PoderAtaque=220
+PoderEvasion=200
+AguaValida=1
+TierraInvalida=1
+TiraItem=5
+Snd1=318
+Snd2=315
+Snd3=316
+
+[NPC516]
+Name=Leviatán
+Body=99
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=16000
+GiveGLD=6500
+MinHP=15000
+MaxHP=15000
+MaxHIT=240
+MinHIT=180
+DEF=0
+PoderAtaque=200
+PoderEvasion=150
+AguaValida=1
+TierraInvalida=1
+SND2=54
+SND3=53
+
+[NPC517]
+Name=Larva de Nieve
+Head=0
+Body=483
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=600
+GiveGLD=400
+MinHP=400
+MaxHP=400
+MaxHIT=80
+MinHIT=40
+PoderAtaque=280
+PoderEvasion=100
+DEF=10
+Distancia=5
+
+[NPC518] 'Oso Polar
+Name=Oso Polar
+Head=0
+Body=486
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1020
+GiveGLD=860
+MinHP=920
+MaxHP=920
+MaxHIT=165
+MinHIT=120
+PoderAtaque=90
+PoderEvasion=75
+Domable=300
+NROITEMS=1
+Obj1=416-1
+Snd1=328
+Snd2=332
+Snd3=341
+Distancia=6
+
+[NPC519] 'Lobo
+Name=Lobo Invernal
+Head=0
+Body=484
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=555
+GiveGLD=412
+MinHP=225
+MaxHP=225
+MaxHIT=40
+MinHIT=15
+DEF=12
+PoderAtaque=90
+PoderEvasion=50
+Snd1=35
+Snd2=9
+NroItems=1
+OBJ1=1145-1
+Distancia=6
+
+
+[NPC520] 'Beholder
+Name=Beholder
+Head=0
+Body=72
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1200
+GiveGLD=550
+MinHP=1100
+MaxHP=1100
+MaxHIT=135
+MinHIT=65
+PoderAtaque=350
+PoderEvasion=300
+Distancia=7
+
+[NPC521] 'Orco
+Name=Jefe Orco
+Info=Jefe orco del fuerte
+Head=0
+Body=43
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=800
+GiveGLD=400
+MinHP=600
+MaxHP=600
+MaxHIT=150
+MinHIT=75
+DEF=30
+PoderAtaque=250
+PoderEvasion=200
+
+[NPC522] 'Goblin
+Name=Goblin
+Head=0
+Body=14
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=150
+GiveGLD=85
+MinHP=110
+MaxHP=110
+MaxHIT=20
+MinHIT=15
+DEF=15
+NROITEMS=0
+NumQuiza=1
+QuizaDropea1=652
+PoderAtaque=50
+PoderEvasion=70
+Distancia=4
+Snd1=545
+Snd2=545
+Snd3=544
+
+[NPC523] 'Señor de las sombras
+Name=Señor de las sombras
+Head=0
+Body=69
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=200
+GiveGLD=120
+MinHP=165
+MaxHP=165
+MaxHIT=35
+MinHIT=20
+PoderAtaque=60
+PoderEvasion=30
+Def=10
+Respawn=0
+Distancia=5
+
+[NPC524] 'Ciclope
+Name=Cíclope
+Head=0
+Body=166
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=2220
+GiveGLD=1425
+MinHP=1900
+MaxHP=1900
+MaxHIT=130
+MinHIT=50
+PoderAtaque=290
+PoderEvasion=60
+SND1=114
+SND2=113
+SND3=102
+NumQuiza=2
+QuizaDropea1=736
+QuizaDropea2=708
+Distancia=7
+
+[NPC525] 'Pirata
+Name=Arquero Pirata
+Head=301
+Body=110
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=7300
+GiveGLD=3000
+NROITEMS=2
+Obj1=479-1
+Obj2=480-100
+MinHP=6000
+MaxHP=6000
+MaxHIT=175
+MinHIT=100
+PoderAtaque=350
+PoderEvasion=280
+LanzaSpells=1
+Sp1=200
+weaponanim=7 
+Sp1=37
+DEF=30
+
+[NPC526] 'Pirata
+Name=Guerrero Pirata
+Head=301
+Body=110
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=9100
+GiveGLD=4525
+NROITEMS=0
+MinHP=8500
+MaxHP=8500
+MaxHIT=225
+MinHIT=125
+PoderAtaque=350
+PoderEvasion=300
+weaponanim=1
+DEF=30
+Distancia=7
+
+[NPC527]
+Name=Huargo de Nieve
+Head=0
+Body=414
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1000
+GiveGLD=700
+Snd1=315
+Snd2=305
+Snd3=322
+MinHP=800
+MaxHP=800
+MaxHIT=120
+MinHIT=110
+PoderAtaque=280
+PoderEvasion=100
+DEF=10
+Distancia=6
+
+[NPC528] 'MINI GOLEM?!?!?! (Update Tiama)
+Name=Protector
+Head=0
+Body=172
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=1000
+GiveGLD=500
+MinHP=1000
+MaxHP=1000
+MaxHIT=120
+MinHIT=80
+PoderAtaque=350
+PoderEvasion=150
+Distancia=7
+
+[NPC529]
+Name=Chamán Ártico
+Head=0
+Body=418
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=6500
+GiveGLD=3000
+MinHP=8000
+MaxHP=8000
+MaxHIT=175
+MinHIT=130
+Snd1=287
+Snd2=306
+Snd3=186
+PoderAtaque=200
+PoderEvasion=150
+DEF=15
+LanzaSpells=1
+Sp1=25
+TiraItem=2
+NumQuiza=1
+QuizaDropea1=869
+
+[NPC530]
+Name=Coloso de hielo
+Body=377
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=85000
+GiveGLD=32000
+MinHP=90000
+MaxHP=90000
+MaxHIT=240
+MinHIT=180
+DEF=60
+PoderAtaque=500
+PoderEvasion=200
+Distancia=7
+
+[NPC531] 'Beholder nieve (update Tiama)
+Name=Crako
+Head=0
+Body=219
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=7600
+GiveGLD=3500
+MinHP=8000
+MaxHP=8000
+MaxHIT=200
+MinHIT=150
+PoderAtaque=350
+PoderEvasion=250
+TiraItem=2
+Distancia=8
+
+[NPC532]'
+Name=Yeti
+Body=370
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=80000
+GiveGLD=35000
+MinHP=60000
+MaxHP=60000
+MaxHIT=320
+MinHIT=280
+DEF=25
+PoderAtaque=500
+PoderEvasion=180
+TiraItem=8
+NumQuiza=1
+QuizaDropea1=869
+Snd1=353
+Snd2=83
+Snd3=327
+
+[NPC533] 'Sin uso 
+Name=Mago protector
+Head=401
+Body=135
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1560
+GiveGLD=2080
+MinHP=2600
+MaxHP=2600
+MaxHIT=126
+MinHIT=75
+DEF=20
+PoderAtaque=200
+PoderEvasion=150
+LanzaSpells=3
+Sp1=8
+Sp2=9
+Sp3=15
+
+[NPC534] 
+Name=Bruja
+Head=271
+Body=125
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=9400
+GiveGLD=4800
+MinHP=9000
+MaxHP=9000
+MaxHIT=160
+MinHIT=135
+DEF=20
+PoderAtaque=200
+PoderEvasion=200
+LanzaSpells=1
+Sp1=51
+
+[NPC535] 
+Name=Ladron del desierto
+Head=0
+Body=460
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1560
+GiveGLD=1233
+MinHP=1450
+MaxHP=1450
+MaxHIT=100
+MinHIT=50
+DEF=30
+PoderAtaque=230
+PoderEvasion=100
+NumQuiza=2
+QuizaDropea1=752
+QuizaDropea2=858
+Distancia=7
+
+[NPC536]'
+Name=Golem de piedra
+Head=0
+Respawn=0
+Body=371
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=30000
+GiveGLD=12000
+MinHP=32500
+MaxHP=32500
+MaxHIT=230
+MinHIT=200
+DEF=40
+PoderAtaque=400
+PoderEvasion=60
+Snd1=281
+Snd2=113
+Snd3=340
+NumQuiza=2
+QuizaDropea1=708
+QuizaDropea2=651
+
+[NPC537] 
+Name=Lord Orco
+Head=0
+Body=148
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1420
+GiveGLD=710
+MinHP=1420
+MaxHP=1420
+MaxHIT=100
+MinHIT=100
+DEF=30
+PoderAtaque=170
+PoderEvasion=100
+
+[NPC538] 
+Name=Medusa
+Body=743
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=18000
+GiveGLD=7500
+MinHP=16000
+MaxHP=16000
+MaxHIT=160
+MinHIT=115
+DEF=30
+PoderAtaque=200
+PoderEvasion=130
+Respawn=0
+LanzaSpells=1
+Sp1=25
+Veneno=3
+NumQuiza=2
+QuizaDropea1=993
+QuizaDropea2=1147
+Snd1=347
+Snd2=348
+Snd3=349
+
+[NPC539] 
+Name=Momia
+Body=369
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+ReSpawn=0
+GiveEXP=10750
+GiveGLD=5800
+MinHP=10000
+MaxHP=10000
+MaxHIT=195
+MinHIT=155
+DEF=0
+Snd1=33
+Snd2=31
+Snd3=28
+PoderAtaque=140
+PoderEvasion=110
+NumQuiza=2
+QuizaDropea1=1081
+QuizaDropea2=1091
+InvervaloRespawn=250
+Distancia=9
+
+[NPC540] 
+Name=Medusa Matriarch
+Body=368
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Hostile=1
+respawn=0
+GiveEXP=25000
+GiveGLD=9000
+MinHP=21000
+MaxHP=21000
+MaxHIT=180
+MinHIT=130
+DEF=30
+PoderAtaque=200
+PoderEvasion=140
+TiraItem=4
+NumQuiza=3
+QuizaDropea1=993
+QuizaDropea2=1147
+QuizaDropea3=1081
+LanzaSpells=2
+Sp1=53
+Sp2=25
+Snd1=347
+Snd2=348
+Snd3=349
+
+[NPC541]
+Name=Golem de hierro
+Head=0
+Body=373
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=24000
+GiveGLD=24000
+MinHP=40000
+MaxHP=40000
+MaxHIT=210
+MinHIT=120
+Snd1=281
+Snd2=113
+Snd3=340
+DEF=30
+PoderAtaque=250
+PoderEvasion=50
+TiraItem=4
+NumQuiza=1
+QuizaDropea1=1081
+
+[NPC542]
+Name=Demonio Abisal
+NpcType=9
+Body=363
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+ReSpawn=0
+GiveEXP=40000
+GiveGLD=22000
+MinHP=40000
+MaxHP=40000
+MaxHIT=210
+MinHIT=175
+DEF=30
+PoderAtaque=230
+PoderEvasion=150
+Snd1=12
+Snd2=88
+Snd3=94
+NumQuiza=2
+QuizaDropea1=1149
+QuizaDropea2=868
+Distancia=9
+
+[NPC543] ' Demonio
+Name=Demonio
+NpcType=9
+Body=365
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+ReSpawn=0
+GiveEXP=15375
+GiveGLD=6800
+MinHP=15000
+MaxHP=15000
+MaxHIT=200
+MinHIT=110
+DEF=20
+PoderAtaque=210
+PoderEvasion=170
+SND2=52
+NumQuiza=3
+QuizaDropea1=1149
+QuizaDropea2=868
+QuizaDropea3=1081
+Distancia=8
+
+[NPC544]
+Name=Golem infernal
+Head=0
+Body=374
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=300000
+GiveGLD=140000
+MinHP=180000
+MaxHP=180000
+MaxHIT=325
+MinHIT=275
+DEF=64
+PoderAtaque=500
+PoderEvasion=230
+lanzaspells=1
+sp1=25
+TiraItem=8
+NumQuiza=1
+QuizaDropea1=408
+Snd1=281
+Snd2=113
+Snd3=340
+
+[NPC545]
+Name=Golem de plata 
+Head=0
+Body=375
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=65000
+GiveGLD=42000
+MinHP=75000
+MaxHP=75000
+MaxHIT=275
+MinHIT=200
+DEF=30
+Snd1=281
+Snd2=113
+Snd3=340
+PoderAtaque=400
+PoderEvasion=160
+NroItems=0
+TiraItem=6
+NumQuiza=1
+QuizaDropea1=651
+
+[NPC546]
+Name=Golem de oro
+Head=0
+Body=373
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=85000
+GiveGLD=60000
+MinHP=100000
+MaxHP=100000
+MaxHIT=310
+MinHIT=280
+DEF=60
+PoderAtaque=450
+PoderEvasion=180
+TiraItem=7
+NumQuiza=3
+Snd1=281
+Snd2=113
+Snd3=340
+QuizaDropea1=868
+QuizaDropea2=651
+QuizaDropea3=1081
+
+[NPC547]
+Name=Gran Dragón Negro
+NpcType=6
+Body=362
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=500000
+GiveGLD=200000
+MinHP=300000
+MaxHP=300000
+MaxHIT=380
+MinHIT=300
+DEF=0
+PoderAtaque=500
+PoderEvasion=350
+SND1=30
+SND2=31
+SND3=32
+LanzaSpells=2
+Sp1=25
+Sp2=53
+AfectaParalisis=1
+NumQuiza=1
+QuizaDropea1=411
+
+[NPC548]
+Name=Gran Dragón Verde
+NpcType=6
+Body=360
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=50000
+GiveGLD=25000
+MinHP=50000
+MaxHP=50000
+MaxHIT=310
+MinHIT=260
+DEF=0
+PoderAtaque=200
+PoderEvasion=300
+SND1=30
+SND2=31
+SND3=32
+AfectaParalisis=1
+LanzaSpells=2
+Sp1=54
+Sp2=25
+NumQuiza=3
+QuizaDropea1=1149
+QuizaDropea2=1081
+QuizaDropea3=1938
+
+[NPC549]
+Name=Gran Dragón Azul
+NpcType=6
+Body=359
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=200000
+GiveGLD=120000
+MinHP=160000
+MaxHP=160000
+MaxHIT=300
+MinHIT=240
+DEF=0
+PoderAtaque=400
+PoderEvasion=350
+LanzaSpells=2
+Sp1=53
+Sp2=25
+SND1=30
+SND2=31
+SND3=32
+AfectaParalisis=1
+
+[NPC550]
+Name=Rey Dragón
+NpcType=6
+Body=357
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=400000
+GiveGLD=200000
+MinHP=250000
+MaxHP=250000
+MaxHIT=380
+MinHIT=340
+DEF=50
+PoderAtaque=600
+PoderEvasion=500
+SND1=30
+SND2=31
+SND3=32
+LanzaSpells=2
+Sp1=25
+Sp2=56
+NumQuiza=1
+QuizaDropea1=409
+AfectaParalisis=1
+
+[NPC551] 'Oso pardo
+Name=Oso Pardo
+Head=0
+Body=73
+Heading=3
+Movement=3
+Attackable=1
+Hostile=1
+Alineacion=2
+GiveEXP=900
+GiveGLD=552
+MinHP=920
+MaxHP=920
+MaxHIT=145
+MinHIT=110
+PoderAtaque=90
+PoderEvasion=75
+Domable=300
+NROITEMS=1
+Obj1=415-1
+miedo=5
+Snd1=328
+Snd2=332
+Snd3=341
+LocaleID=200
+Distancia=6
+
+[NPC552]
+Name=Asesino
+Head=201
+Body=48
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+Alineacion=2
+ReSpawn=0
+GiveEXP=855
+GiveGLD=555
+MinHP=700
+MaxHP=700
+MaxHIT=140
+MinHIT=40
+PoderAtaque=200
+PoderEvasion=150
+Def=0
+miedo=5
+SND1=58
+SND2=117
+NumQuiza=1
+QuizaDropea1=739
+LocaleID=193
+Distancia=7
+
+[NPC553] 'Bandido
+Name=Bandido
+Head=2
+Body=47
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+Alineacion=2
+ReSpawn=0
+GiveEXP=300
+GiveGLD=300
+MinHP=350
+MaxHP=350
+MaxHIT=60
+MinHIT=36
+PoderAtaque=100
+PoderEvasion=75
+miedo=5
+SND1=46
+SND3=36
+LocaleID=192
+Distancia=6
+
+[NPC554] 
+Name=Mago protector
+Head=401
+Body=135
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=3800
+GiveGLD=1400
+MinHP=2600
+MaxHP=2600
+MaxHIT=126
+MinHIT=75
+DEF=20
+Snd1=82
+Snd2=91
+Snd3=87
+PoderAtaque=200
+PoderEvasion=150
+LanzaSpells=1
+Sp1=2
+NumQuiza=2
+QuizaDropea1=651
+QuizaDropea2=653
+LocaleID=213
+
+[NPC555] 'Orco
+Name=Orco brujo
+Head=0
+Body=43
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1280
+GiveGLD=900
+MinHP=1200
+MaxHP=1200
+MaxHIT=100
+MinHIT=75
+DEF=25
+PoderAtaque=200
+PoderEvasion=60
+LanzaSpells=1
+Sp1=8
+LocaleID=211
+Snd1=299
+Snd2=300
+Snd3=301
+
+[NPC556] 'NPC
+Name=Fuego Fatuo
+Head=0
+Body=144
+Heading=3
+Movement=2
+Attackable=1
+Comercia=0
+Hostile=0
+Alineacion=0
+GiveEXP=640
+GiveGLD=630
+MinHP=900
+MaxHP=900
+MaxHIT=100
+MinHIT=100
+PoderAtaque=1000
+PoderEvasion=500
+Domable=0
+LanzaSpells=2
+Sp1=24
+Sp2=51
+AguaValida=1
+miedo=10
+LocaleID=231
+
+[NPC557] 
+Name=Liche
+Head=0
+Body=149
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=3000
+GiveGLD=1300
+MinHP=1600
+MaxHP=1600
+MaxHIT=170
+MinHIT=120
+Snd1=10
+Snd2=149
+Snd3=105
+DEF=30
+PoderAtaque=230
+PoderEvasion=190
+NumQuiza=2
+QuizaDropea1=752
+QuizaDropea2=858
+Distancia=8
+
+[NPC558] 'Lobo
+Name=Lobo
+Head=0
+Body=10
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=105
+GiveGLD=60
+MinHP=75
+MaxHP=75
+MaxHIT=18
+MinHIT=12
+DEF=8
+PoderAtaque=60
+PoderEvasion=20
+Snd1=35
+Snd2=9
+NROITEMS=1
+Obj1=414-1
+IntervaloAtaque=1800
+IntervaloMovimiento=200
+Distancia=5
+
+[NPC559] 'Ogro Gigante
+Name=Ogro Gigante
+Head=0
+Body=429
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=12000
+GiveGLD=4200
+MinHP=10000
+MaxHP=10000
+MaxHIT=200
+MinHIT=150
+DEF=15
+PoderAtaque=110
+PoderEvasion=95
+Snd1=113
+Snd2=287
+Snd3=288
+IntervaloAtaque=1800
+IntervaloMovimiento=300
+NumQuiza=1
+QuizaDropea1=707
+
+[NPC560] 'Ogro 
+Name=Ogro 
+Head=0
+Body=76
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=4300
+GiveGLD=3460
+MinHP=3200
+MaxHP=3200
+MaxHIT=150
+MinHIT=130
+DEF=10
+PoderAtaque=80
+PoderEvasion=65
+Snd1=114
+Snd2=189
+Snd3=122
+IntervaloAtaque=1800
+IntervaloMovimiento=300
+Distancia=7
+
+
+[NPC561] 'Ogro Guerrero
+Name=Ogro Guerrero
+Head=0
+Body=237
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=3900
+GiveGLD=2650
+MinHP=3800
+MaxHP=3800
+MaxHIT=170
+MinHIT=140
+DEF=12
+PoderAtaque=90
+PoderEvasion=55
+Snd1=114
+Snd2=189
+Snd3=122
+IntervaloAtaque=1800
+IntervaloMovimiento=300
+Distancia=8
+
+'''NUEVOS ZOMBIES''''
+
+[NPC562] 'Elfo Renacido
+Name=Elfo Renacido
+Head=632
+Body=492
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=450
+GiveGLD=300
+MinHP=600
+MaxHP=600
+MaxHIT=40
+MinHIT=35
+DEF=25
+NROITEMS=0
+PoderAtaque=95
+PoderEvasion=25
+Snd1=332
+Snd2=333
+Snd3=334
+QuizaDropea=2
+NumQuiza1=752
+NumQuiza2=670
+Distancia=6
+
+[NPC563] 'Muerto Vivo
+Name=Muerto Vivo
+Head=626
+Body=493
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=460
+GiveGLD=310
+MinHP=620
+MaxHP=620
+MaxHIT=40
+MinHIT=40
+DEF=27
+NROITEMS=0
+PoderAtaque=105
+PoderEvasion=26
+Snd1=332
+Snd2=333
+Snd3=334
+QuizaDropea=1
+NumQuiza1=752
+Distancia=6
+
+[NPC564] 'Enano Maldecido
+Name=Enano Maldecido
+Head=641
+Body=236
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=600
+GiveGLD=400
+MinHP=690
+MaxHP=690
+MaxHIT=43
+MinHIT=43
+DEF=30
+QuizaDropea=1
+NumQuiza1=752
+NROITEMS=0
+PoderAtaque=110
+PoderEvasion=27
+Snd1=332
+Snd2=333
+Snd3=334
+Distancia=7
+
+[NPC565] 'Hechicera Demoniaca
+Name=Hechicera Demoniaca
+Head=636
+Body=630
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=1200
+GiveGLD=1000
+MinHP=1100
+MaxHP=1000
+MaxHIT=70
+MinHIT=50
+DEF=40
+NumQuiza=2
+QuizaDropea1=653
+QuizaDropea2=708
+NROITEMS=0
+PoderAtaque=105
+PoderEvasion=35
+LanzaSpells=1
+Sp1=52
+SND1=180
+SND2=345
+SND3=349
+IntervaloMovimiento=270
+AfectaParalisis=1
+InvervaloRespawn=180
+Distancia=7
+
+'''NUEVOS ZOMBIES''''
+----------------------
+
+[NPC566]
+Name=Destructor Ermitaño
+NpcType=6
+Body=695
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=350000
+GiveGLD=180000
+MaxHIT=300
+MinHIT=250
+MinHP=200000
+MaxHP=200000
+DEF=0
+PoderAtaque=300
+PoderEvasion=250
+NumQuiza=1
+QuizaDropea1=407
+QuizaProb=25
+AfectaParalisis=1
+InvervaloRespawn=900
+LanzaSpells=1
+Sp1=32
+
+[NPC567]
+Name=Fiera de tres cabezas
+NpcType=6
+Body=698
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=45000
+GiveGLD=15000
+MinHP=30000
+MaxHP=30000
+MaxHIT=240
+MinHIT=190
+DEF=0
+PoderAtaque=200
+PoderEvasion=100
+Distancia=9
+
+[NPC568]
+Name=Esbirro Demoníaco
+NpcType=6
+Body=696
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=25000
+GiveGLD=6000
+MinHP=16000
+MaxHP=16000
+MaxHIT=200
+MinHIT=180
+DEF=0
+PoderAtaque=200
+PoderEvasion=80
+Distancia=8
+
+[NPC569]
+Name=Esclavo Minero
+NpcType=6
+Body=697
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=14000
+GiveGLD=5200
+MinHP=9000
+MaxHP=9000
+MaxHIT=190
+MinHIT=180
+DEF=0
+PoderAtaque=100
+PoderEvasion=80
+Distancia=8
+
+[NPC570]
+Name=Cadáver Poseído
+NpcType=6
+Body=699
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=10000
+GiveGLD=3000
+MinHP=6000
+MaxHP=6000
+MaxHIT=180
+MinHIT=170
+DEF=0
+PoderAtaque=80
+PoderEvasion=50
+Distancia=6
+
+[NPC571]
+Name=Gran Hechizero Malvado
+NpcType=6
+Body=700
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=19500
+GiveGLD=9000
+MinHP=17000
+MaxHP=17000
+MaxHIT=210
+MinHIT=190
+DEF=0
+PoderAtaque=150
+PoderEvasion=100
+
+[NPC572]
+Name=Guardian de las Alcantarillas
+NpcType=6
+Body=701
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+Respawn=0
+GiveEXP=18000
+GiveGLD=5200
+MinHP=15000
+MaxHP=15000
+MaxHIT=210
+MinHIT=190
+DEF=0
+PoderAtaque=150
+PoderEvasion=100
+
+[NPC574]
+Name=Golem de hielo
+Body=377
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=75000
+GiveGLD=20000
+MinHP=70000
+MaxHP=70000
+MaxHIT=290
+MinHIT=240
+DEF=60
+PoderAtaque=500
+PoderEvasion=200
+TiraItem=10
+NumQuiza=1
+QuizaDropea1=869
+Snd1=281
+Snd2=113
+Snd3=340
+
+[NPC583]
+Name=Hombre Lobo
+Head=0
+Body=450
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=950
+GiveGLD=400
+MinHP=820
+MaxHP=820
+MaxHIT=110
+MinHIT=80
+DEF=25
+PoderAtaque=60
+PoderEvasion=65
+Snd1=326
+Snd2=327
+NROITEMS=1
+Obj1=414-1
+IntervaloAtaque=1800
+IntervaloMovimiento=250
+Distancia=7
+
+[NPC584]
+Name=Rata Gigante
+Head=0
+Body=462
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=600
+GiveGLD=150
+MinHP=650
+MaxHP=650
+MaxHIT=80
+MinHIT=60
+Snd1=308
+Snd2=309
+Snd3=310
+DEF=15
+PoderAtaque=30
+PoderEvasion=40
+Distancia=4
+
+[NPC585]
+Name=Mano Maldita
+Head=0
+Body=461
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=70
+GiveGLD=50
+MinHP=40
+MaxHP=40
+MaxHIT=20
+MinHIT=15
+DEF=10
+Snd1=311
+Snd2=312
+Snd3=313
+PoderAtaque=30
+PoderEvasion=40
+Distancia=2
+
+[NPC586] 
+Name=Barco Fantasma
+Body=703
+Heading=3
+Movement=3
+Alineacion=2
+Hostile=1
+Attackable=1
+GiveEXP=14000
+GiveGLD=4500
+MinHP=12000
+MaxHP=12000
+MaxHIT=190
+MinHIT=150
+DEF=25
+PoderAtaque=220
+PoderEvasion=200
+AguaValida=1
+TierraInvalida=1
+TiraItem=5
+NumQuiza=1
+QuizaDropea1=199
+Snd3=28
+Distancia=7
+
+[NPC587] 
+Name=Sanguijuela Mutada
+Head=0
+Body=449
+Heading=3
+Movement=3
+Alineacion=2
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=4300
+GiveGLD=1600
+MinHP=2200
+MaxHP=2200
+MaxHIT=180
+MinHIT=140
+DEF=40
+PoderAtaque=230
+PoderEvasion=190
+Snd3=28
+Snd2=34
+Snd1=31
+Distancia=5
+
+[NPC588]
+Name=Espectro Umbrío
+Head=0
+Respawn=0
+Body=446
+Heading=3
+Movement=3
+Attackable=1
+Comercia=0
+Hostile=1
+GiveEXP=29000
+GiveGLD=25000
+MinHP=52500
+MaxHP=52500
+MaxHIT=190
+MinHIT=190
+DEF=40
+PoderAtaque=210
+PoderEvasion=60
+AfectaParalisis=1
+IntervaloRespawn=600
+LanzaSpells=1
+Sp1=53
+Snd1=323
+Snd2=324
+Snd3=325

@@ -1,0 +1,51 @@
+
+'ObjType:
+'  1 Comidas
+'  2 Armas
+'  3 Armaduras
+'  4 Árboles
+'  5 Dinero
+'  6 Puertas
+'  7 Objetos Contenedores
+'  8 Carteles
+'  9 Llaves
+' 10 Foros
+' 11 Pociones
+' 12 Libros
+' 13 Bebidas
+' 14 Lena
+' 15 Fuego
+' 16 Escudos
+' 17 Cascos
+' 18 Herramientas
+' 19 Teleports
+' 20 Muebles y Decoraciones
+' 21 Items Mágicos
+' 22 Yacimientos
+' 23 Metales
+' 24 Pergaminos de Hechizos
+' 25 (Nada)
+' 26 Instrumentos Musicales
+' 27 Yunque
+' 28 Fragua
+' 29 Lingotes y Gemas
+' 30 Pieles
+' 31 Embarcaciones
+' 32 Flechas
+' 33 Botellas Vacias
+' 34 Botellas Llenas
+' 35 Manchas
+' 36 Pases
+' 37 (Nada)
+' 38 Mapas
+' 39 Bolsas de Oro (contienen más de 10k de oro)
+' 40 Pozos Mágicos
+' 41 Esposas
+' 42 Raices
+' 43 Cadáveres
+' 44 Monturas
+' 45 Puestos de Entrenamiento
+' 46 Nudillos para Artes Marciales
+' 47 Anillos Habilitadores de Hechizos
+' 50 Objetos de donador
+

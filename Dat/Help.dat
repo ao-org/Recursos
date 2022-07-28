@@ -1,0 +1,9 @@
+[INIT]
+NumLines=5
+
+[Help]
+Line1=* Reglamento del juego https://ao20.com.ar/reglamento
+Line2=* Si estás muerto, dirígete a una ciudad y busca un sacerdote, él te resucitará dandole click derecho. También puedes tipear /Hogar.
+Line3=* Para realizar una consulta a un GAME MASTER, debes utilizar el comando /GM y ellos acudirán a ti.
+Line4=* Para denunciar insultos de otro usuario utiliza el comando /DENUNCIAR ''nombre''
+Line5=* Recuerden que en la página oficial del juego encontrarán toda la información que necesiten para jugar y las noticias actualizadas sobre el juego y su comunidad. (www.ao20.com.ar)

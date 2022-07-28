@@ -1,0 +1,53 @@
+[Invasiones]
+Cantidad=0
+Invasion1=InvasionBander
+Invasion2=InvasionCarcel
+Invasion3=...Arkhein?
+
+[InvasionBander]
+Aviso=Las Hordas del Caos se aproximan a Banderbill. ¡Soldados del Rey, reportense dentro de las murallas!
+AvisarTiempo=5		# Avisar X minutos antes
+RepetirAviso=1		# Repetir cada X minutos
+Desc=¡Las Hordas del Caos están atacando Banderbill! 
+RepetirDesc=5		# Repetir descripcion del evento
+MensajeGanaron=¡Banderbill ha sido salvada! El Rey Tancredo felicita a sus súbditos por tan honorable victoria.
+MensajePerdieron=¡Las fuerzas de la Legión han atravesado las murallas! Un río de sangre noble corre por las calles de la ciudad. El Rey se ha refugiado en el castillo.
+Intervalo=0		# Cada cuanto ocurre el evento (min)
+Duracion=20		# Cuando dura (minutos)
+Offset=5		# Minutos - Para que no se pisen los eventos
+MaxVidaMuralla=200000
+MaxNPCs=55
+NPCs=1049-1050
+IntervaloSpawn=5	# Segundos
+SpawnBoxes=7
+# SpawnBoxX=Mapa-X1-Y1-X2-Y2-Dir-CoordMuralla
+SpawnBox1=58-53-21-81-24-Norte-20
+SpawnBox2=58-15-21-37-24-Norte-20
+SpawnBox3=66-74-12-77-86-Este-79
+SpawnBox4=338-69-12-77-86-Este-79
+SpawnBox5=346-71-69-86-87-Oeste-70
+SpawnBox6=346-29-11-40-58-Oeste-28
+SpawnBox7=345-60-62-40-88-Oeste-28
+
+[InvasionCarcel]
+Aviso=Las Hordas del Caos se aproximan a la Carcel Banderbill.
+AvisarTiempo=5		# Avisar X minutos antes
+RepetirAviso=1		# Repetir cada X minutos
+Desc=¡Las Hordas del Caos están atacando la carcel de Banderbill! 
+RepetirDesc=5		# Repetir descripcion del evento
+MensajeGanaron=¡La Carcel de Banderbill ha sido salvada! El Rey Tancredo felicita a sus súbditos por tan honorable victoria.
+MensajePerdieron=¡Las fuerzas de la Legión rescatan a su lider!.
+Intervalo=0	# Cada cuanto ocurre el evento (min)
+Duracion=20		# Cuando dura (minutos)
+Offset=5		# Minutos - Para que no se pisen los eventos
+MaxVidaMuralla=200000
+MaxNPCs=55
+NPCs=1049-1050
+IntervaloSpawn=5	# Segundos
+SpawnBoxes=5
+# SpawnBoxX=Mapa-X1-Y1-X2-Y2-Dir-CoordMuralla
+SpawnBox1=66-18-23-20-68-Este-22
+SpawnBox2=66-29-11-71-14-Sur-16
+SpawnBox3=66-75-17-78-67-Oeste-73
+SpawnBox4=66-27-81-39-88-Norte-77
+SpawnBox5=66-58-82-68-96-Norte-77

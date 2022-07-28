@@ -1,0 +1,9182 @@
+[INIT]
+NumBodies=1360
+
+[BODY1]
+Std=1
+FileNum=1006
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY2]
+Std=1
+FileNum=1007
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY3]
+Std=1
+FileNum=1009
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY4]
+Std=5
+FileNum=4051
+HeadOffsetY=-26
+
+[BODY5]
+Std=18
+FileNum=4094
+HeadOffsetY=-26
+
+[BODY6]
+Std=19
+FileNum=4095
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY7]
+Std=1
+FileNum=1178
+HeadOffsetY=-26
+
+[BODY8]
+Std=18
+FileNum=4041
+HeadOffsetX=0
+HeadOffsetY=-23
+
+[BODY9]
+Std=49
+FileNum=4377
+HeadOffsetX=0
+HeadOffsetY=-32
+
+[BODY10]
+Std=37
+FileNum=4043
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY11]
+Std=38
+FileNum=4044
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY12]
+Std=5
+FileNum=4045
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY13]
+Std=32
+FileNum=4705
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.50
+
+
+[BODY14]
+Std=40
+FileNum=4047
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY15]
+Std=5
+FileNum=4048
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY16]
+Std=41
+FileNum=4049
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY17]
+Std=42
+FileNum=4050
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY18]
+Std=43
+FileNum=4052
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY19]
+Std=43
+FileNum=4053
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY20]
+Std=1
+FileNum=1179
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY21]
+Std=1
+FileNum=1008
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY22]
+Std=1
+FileNum=1004
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY23]
+Std=1
+FileNum=1010
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY24]
+Walk1=18941	 ' arriba
+Walk2=18943	 ' derecha
+Walk3=18940  ' abajo
+Walk4=18942	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY25]
+Std=1
+FileNum=1403
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY26]
+Std=1
+FileNum=1404
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY27]
+Std=1
+FileNum=1182
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY28]
+Std=1
+FileNum=1683
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY29]
+Std=1
+FileNum=1420
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY30]
+Std=60
+FileNum=4370
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY31]
+Std=61
+FileNum=4371
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY32]
+Std=1
+FileNum=1011
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY33]
+Std=1
+FileNum=4055
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY34]
+Std=1
+FileNum=4056
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY35]
+Std=1
+FileNum=1012
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY36]
+Std=1
+FileNum=1080
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY37]
+Walk1=4622	 ' arriba
+Walk2=4624	 ' derecha
+Walk3=4621	 ' abajo
+Walk4=4623	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY38]
+Std=1
+FileNum=1013
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY39]
+Std=1
+FileNum=1014
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY40]
+Walk1=4634	 ' arriba
+Walk2=4636	 ' derecha
+Walk3=4633	 ' abajo
+Walk4=4635	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY41]
+Walk1=545	 ' arriba
+Walk2=545	 ' derecha
+Walk3=545    ' abajo
+Walk4=545	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY42]
+Std=20
+FileNum=4060
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY43]
+Walk1=4646	 ' arriba
+Walk2=4648	 ' derecha
+Walk3=4645	 ' abajo
+Walk4=4647	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY44]
+Std=1
+FileNum=1018
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY45]
+Std=1
+FileNum=1017
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY46]
+Std=1
+FileNum=1020
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY47]
+Std=1
+FileNum=1016
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY48]
+Std=1
+FileNum=1019
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY49]
+Std=1
+FileNum=1021
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY50]
+Std=1
+FileNum=1435
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY51]
+Std=80
+FileNum=4631
+HeadOffsetX=0
+HeadOffsetY=-75
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY52]
+Std=1
+FileNum=1401
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY53]
+Std=1
+FileNum=1402
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY54]
+Std=1
+FileNum=1101
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY55]
+Std=20
+FileNum=4595
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY56]
+Std=1
+FileNum=1220
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY57]
+Std=1
+FileNum=1593
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY58]
+Std=1
+FileNum=1594
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY59]
+Std=22
+FileNum=4059
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY60]
+Std=1
+FileNum=1005
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY61]
+Std=1
+FileNum=1588
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY62]
+Std=1
+FileNum=1587
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY63]
+Std=1
+FileNum=1406
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY64]
+Std=1
+FileNum=1407
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY65]
+Std=1
+FileNum=1181
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY66]
+Std=1
+FileNum=1603
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY67]
+Std=1
+FileNum=1188
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY68]
+Walk1=4735	 ' arriba
+Walk2=4737	 ' derecha
+Walk3=4734	 ' abajo
+Walk4=4736	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY69]
+Walk1=4739	 ' arriba
+Walk2=4741	 ' derecha
+Walk3=4738	 ' abajo
+Walk4=4740	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY70]
+Walk1=4743	 ' arriba
+Walk2=4745	 ' derecha
+Walk3=4742	 ' abajo
+Walk4=4744	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY71]
+Walk1=4747	 ' arriba
+Walk2=4749	 ' derecha
+Walk3=4746	 ' abajo
+Walk4=4748	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY72]
+Std=63
+FileNum=4585
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY73]
+Std=32
+FileNum=4633
+HeadOffsetX=0
+HeadOffsetY=-90
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY74]
+Std=60
+FileNum=4371
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY75]
+Walk1=10033	 ' arriba
+Walk2=10035	 ' derecha
+Walk3=10032	 ' abajo
+Walk4=10034	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY76]
+Walk1=10061	 ' arriba
+Walk2=10063	 ' derecha
+Walk3=10060	 ' abajo
+Walk4=10062	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY77]
+Walk1=10087	 ' arriba
+Walk2=10089	 ' derecha
+Walk3=10086	 ' abajo
+Walk4=10088	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY78]
+Walk1=10113	 ' arriba
+Walk2=10115	 ' derecha
+Walk3=10112	 ' abajo
+Walk4=10114	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY79]
+Walk1=10139	 ' arriba
+Walk2=10141	 ' derecha
+Walk3=10138	 ' abajo
+Walk4=10140	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY80]
+Walk1=10165	 ' arriba
+Walk2=10167	 ' derecha
+Walk3=10164	 ' abajo
+Walk4=10166	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY81]
+Walk1=10191	 ' arriba
+Walk2=10193	 ' derecha
+Walk3=10190	 ' abajo
+Walk4=10192	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY82]
+Std=1
+FileNum=1184
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY83]
+Walk1=31415	 ' arriba
+Walk2=31417	 ' derecha
+Walk3=31414	 ' abajo
+Walk4=31416	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY84]
+Walk1=10383	 ' arriba
+Walk2=10381	 ' derecha
+Walk3=10382	 ' abajo
+Walk4=10380	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY85]
+Walk1=10401	 ' arriba
+Walk2=10403	 ' derecha
+Walk3=10400	 ' abajo
+Walk4=10402	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY86]
+Walk1=10421	 ' arriba
+Walk2=10423	 ' derecha
+Walk3=10420	 ' abajo
+Walk4=10422	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY87]
+Std=7
+FileNum=394
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY88]
+Walk1=10503	 ' arriba
+Walk2=10505	 ' derecha
+Walk3=10502	 ' abajo
+Walk4=10504	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY89]
+Walk1=10529	 ' arriba
+Walk2=10531	 ' derecha
+Walk3=10528	 ' abajo
+Walk4=10530	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY90]
+Std=1
+FileNum=1169
+HeadOffsetY=-26
+
+
+[BODY91]
+Walk1=10581	 ' arriba
+Walk2=10583	 ' derecha
+Walk3=10580	 ' abajo
+Walk4=10582	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY92]
+Walk1=10607	 ' arriba
+Walk2=10609	 ' derecha
+Walk3=10606	 ' abajo
+Walk4=10608	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY93]
+Walk1=10633	 ' arriba
+Walk2=10635	 ' derecha
+Walk3=10632	 ' abajo
+Walk4=10634	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY94]
+Walk1=10659	 ' arriba
+Walk2=10661	 ' derecha
+Walk3=10658	 ' abajo
+Walk4=10660	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY95]
+Walk1=10685	 ' arriba
+Walk2=10687	 ' derecha
+Walk3=10684	 ' abajo
+Walk4=10686	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY96]
+Walk1=10711	 ' arriba
+Walk2=10713	 ' derecha
+Walk3=10710	 ' abajo
+Walk4=10712	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY97]
+Walk1=10737	 ' arriba
+Walk2=10739	 ' derecha
+Walk3=10736	 ' abajo
+Walk4=10738	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY98]
+Walk1=10763	 ' arriba
+Walk2=10765	 ' derecha
+Walk3=10762	 ' abajo
+Walk4=10764	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY99]
+Walk1=10787	 ' arriba
+Walk2=10789	 ' derecha
+Walk3=10786	 ' abajo
+Walk4=10788	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY100]
+Walk1=10813	 ' arriba
+Walk2=10815	 ' derecha
+Walk3=10812	 ' abajo
+Walk4=10814	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY101]
+Walk1=10839	 ' arriba
+Walk2=10841	 ' derecha
+Walk3=10838	 ' abajo
+Walk4=10840	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY102]
+Walk1=10865	 ' arriba
+Walk2=10867	 ' derecha
+Walk3=10864	 ' abajo
+Walk4=10866	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY103]
+Walk1=10916	 ' arriba
+Walk2=10918	 ' derecha
+Walk3=10915	 ' abajo
+Walk4=10917	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY104]
+Walk1=10942	 ' arriba
+Walk2=10944	 ' derecha
+Walk3=10941	 ' abajo
+Walk4=10943	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY105]
+Walk1=10968	 ' arriba
+Walk2=10970	 ' derecha
+Walk3=10967	 ' abajo
+Walk4=10969	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY106]
+Walk1=10994	 ' arriba
+Walk2=10996	 ' derecha
+Walk3=10993	 ' abajo
+Walk4=10995	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY107]
+Walk1=11020	 ' arriba
+Walk2=11022	 ' derecha
+Walk3=11019	 ' abajo
+Walk4=11021	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY108]
+Walk1=11046	 ' arriba
+Walk2=11048	 ' derecha
+Walk3=11045	 ' abajo
+Walk4=11047	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY109]
+Walk1=11072	 ' arriba
+Walk2=11074	 ' derecha
+Walk3=11071	 ' abajo
+Walk4=11073	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY110]
+Walk1=11098	 ' arriba
+Walk2=11100	 ' derecha
+Walk3=11097	 ' abajo
+Walk4=11099	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY111]
+Walk1=11124	 ' arriba
+Walk2=11126	 ' derecha
+Walk3=11123	 ' abajo
+Walk4=11125	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY112]
+Walk1=11150	 ' arriba
+Walk2=11152	 ' derecha
+Walk3=11149	 ' abajo
+Walk4=11151	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY113]
+Walk1=11176	 ' arriba
+Walk2=11178	 ' derecha
+Walk3=11175	 ' abajo
+Walk4=11177	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY114]
+Walk1=11202	 ' arriba
+Walk2=11204	 ' derecha
+Walk3=11201	 ' abajo
+Walk4=11203	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY115]
+Walk1=11228	 ' arriba
+Walk2=11230	 ' derecha
+Walk3=11227	 ' abajo
+Walk4=11229	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY116]
+Walk1=11254	 ' arriba
+Walk2=11256	 ' derecha
+Walk3=11253	 ' abajo
+Walk4=11255	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY117]
+Walk1=11280	 ' arriba
+Walk2=11282	 ' derecha
+Walk3=11279	 ' abajo
+Walk4=11281	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY118]
+Walk1=11306	 ' arriba
+Walk2=11308	 ' derecha
+Walk3=11305	 ' abajo
+Walk4=11307	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-36
+
+[BODY119]
+Std=1
+FileNum=1590
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY120]
+Walk1=11358	 ' arriba
+Walk2=11360	 ' derecha
+Walk3=11357	 ' abajo
+Walk4=11359	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY121]
+Walk1=11384	 ' arriba
+Walk2=11386	 ' derecha
+Walk3=11383	 ' abajo
+Walk4=11385	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY122]
+Walk1=11410	 ' arriba
+Walk2=11412	 ' derecha
+Walk3=11409	 ' abajo
+Walk4=11411	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY123]
+Walk1=11436	 ' arriba
+Walk2=11438	 ' derecha
+Walk3=11435	 ' abajo
+Walk4=11437	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY124]
+Std=1
+FileNum=1456
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY125]
+Walk1=11488	 ' arriba
+Walk2=11490	 ' derecha
+Walk3=11487	 ' abajo
+Walk4=11489	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY126]
+Walk1=11514	 ' arriba
+Walk2=11516	 ' derecha
+Walk3=11513	 ' abajo
+Walk4=11515	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY127]
+Walk1=11540	 ' arriba
+Walk2=11542	 ' derecha
+Walk3=11539	 ' abajo
+Walk4=11541	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY128]
+Std=1
+FileNum=1597
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY129]
+Std=1
+FileNum=1595
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY130]
+Walk1=11618	 ' arriba
+Walk2=11620	 ' derecha
+Walk3=11617	 ' abajo
+Walk4=11619	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY131]
+Walk1=11644	 ' arriba
+Walk2=11646	 ' derecha
+Walk3=11643	 ' abajo
+Walk4=11645	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY132]
+Walk1=11670	 ' arriba
+Walk2=11672	 ' derecha
+Walk3=11669	 ' abajo
+Walk4=11671	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY133]
+Walk1=11696	 ' arriba
+Walk2=11698	 ' derecha
+Walk3=11695	 ' abajo
+Walk4=11697	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY134]
+Walk1=11722	 ' arriba
+Walk2=11724	 ' derecha
+Walk3=11721	 ' abajo
+Walk4=11723	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY135]
+Walk1=11748	 ' arriba
+Walk2=11750	 ' derecha
+Walk3=11747	 ' abajo
+Walk4=11749	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY136]
+Walk1=11774	 ' arriba
+Walk2=11776	 ' derecha
+Walk3=11773	 ' abajo
+Walk4=11775	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY137]
+Walk1=11800	 ' arriba
+Walk2=11802	 ' derecha
+Walk3=11799	 ' abajo
+Walk4=11801	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY138]
+Walk1=11826	 ' arriba
+Walk2=11828	 ' derecha
+Walk3=11825	 ' abajo
+Walk4=11827	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY139]
+Walk1=11852	 ' arriba
+Walk2=11854	 ' derecha
+Walk3=11851	 ' abajo
+Walk4=11853	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY140]
+Walk1=11878	 ' arriba
+Walk2=11880	 ' derecha
+Walk3=11877	 ' abajo
+Walk4=11879	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY141]
+Walk1=31381	 ' arriba
+Walk2=31383	 ' derecha
+Walk3=31380	 ' abajo
+Walk4=31382	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY142]
+Walk1=11940	 ' arriba
+Walk2=11942	 ' derecha
+Walk3=11939	 ' abajo
+Walk4=11941	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY143]
+Walk1=860	 ' arriba
+Walk2=862	 ' derecha
+Walk3=859	 ' abajo
+Walk4=861	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY144]
+Walk1=275	 ' arriba
+Walk2=275	 ' derecha
+Walk3=275	 ' abajo
+Walk4=275	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY145]
+Walk1=12017	 ' arriba
+Walk2=12019	 ' derecha
+Walk3=12016	 ' abajo
+Walk4=12018	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY146]
+Walk1=12029	 ' arriba
+Walk2=12031	 ' derecha
+Walk3=12028	 ' abajo
+Walk4=12030	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY147]
+Walk1=12049	 ' arriba
+Walk2=12051	 ' derecha
+Walk3=12048	 ' abajo
+Walk4=12050	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY148]
+Walk1=12069	 ' arriba
+Walk2=12071	 ' derecha
+Walk3=12068	 ' abajo
+Walk4=12070	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY149]
+Walk1=12105	 ' arriba
+Walk2=12107	 ' derecha
+Walk3=12104	 ' abajo
+Walk4=12106	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY150]
+Std=70
+FileNum=4305
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY151]
+Walk1=31354	 ' arriba
+Walk2=31356	 ' derecha
+Walk3=31353	 ' abajo
+Walk4=31355	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY152]
+Std=32
+FileNum=4635
+HeadOffsetX=0
+HeadOffsetY=-90
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY153]
+Std=67
+FileNum=4596
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY154]
+Std=32
+FileNum=4637
+HeadOffsetX=0
+HeadOffsetY=-90
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY155]
+Std=1
+FileNum=1591
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY156]
+Std=1
+FileNum=1624
+HeadOffsetX=0
+HeadOffsetY=-36
+
+[BODY157]
+Std=1
+FileNum=1623
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY158]
+Std=1
+FileNum=1622
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY159]
+Std=1
+FileNum=1621
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY160]
+Std=1
+FileNum=1620
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY161]
+Std=1
+FileNum=1619
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY162]
+Std=1
+FileNum=1618
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY163]
+Std=1
+FileNum=1617
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY164]
+Std=1
+FileNum=1616
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY165]
+Std=1
+FileNum=1615
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY166]
+Std=51
+FileNum=4367
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY167]
+Walk1=14721	 ' arriba
+Walk2=14723	 ' derecha
+Walk3=14720	 ' abajo
+Walk4=14722	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY168]
+Std=1
+FileNum=1189
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY169]
+Std=1
+FileNum=1592
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY170]
+Walk1=31230	 ' arriba
+Walk2=31232	 ' derecha
+Walk3=31229	 ' abajo
+Walk4=31231	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY171]
+Std=32
+FileNum=4634
+HeadOffsetX=0
+HeadOffsetY=-70
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY172]
+Walk1=14907	 ' arriba
+Walk2=14909	 ' derecha
+Walk3=14906	 ' abajo
+Walk4=14908	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY173]
+Walk1=13768	 ' arriba
+Walk2=13770	 ' derecha
+Walk3=13767	 ' abajo
+Walk4=13769	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY174]
+Std=1
+FileNum=1225
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY175]
+Std=1
+FileNum=1226
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY176]
+Std=1
+FileNum=1227
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY177]
+Std=1
+FileNum=1228
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY178]
+Std=61
+FileNum=4372
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY179]
+Std=60
+FileNum=4372
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY180]
+Std=54
+FileNum=4373
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY181]
+Std=54
+FileNum=4374
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY182]
+Std=63
+FileNum=4375
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY183]
+Std=64
+FileNum=4376
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY184]
+Std=36
+FileNum=4594
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY185]
+Std=63
+FileNum=4587
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY186]
+Std=59
+FileNum=4588
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY187]
+Std=59
+FileNum=4589
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY188]
+Std=59
+FileNum=4590
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY189]
+Std=67
+FileNum=4597
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY191]
+Std=67
+FileNum=4598
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY192]
+Std=68
+FileNum=4599
+HeadOffsetX=0
+HeadOffsetY=-26 
+
+[BODY193]
+Std=71
+FileNum=4602
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY194]
+Std=73
+FileNum=4605
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY195]
+Std=74
+FileNum=4604
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY196]
+Std=74
+FileNum=4603
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY197]
+Std=79
+FileNum=4621
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY198]
+Std=79
+FileNum=4622
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY199]
+Std=32
+FileNum=4636
+HeadOffsetX=0
+HeadOffsetY=-70
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY200]
+Std=32
+FileNum=4638
+HeadOffsetX=0
+HeadOffsetY=-70
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY202]
+Walk1=556	 ' arriba
+Walk2=556	 ' derecha
+Walk3=556    ' abajo
+Walk4=556	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY203]
+Walk1=567	 ' arriba
+Walk2=567	 ' derecha
+Walk3=567    ' abajo
+Walk4=567	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY204]
+Walk1=568	 ' arriba
+Walk2=568	 ' derecha
+Walk3=568    ' abajo
+Walk4=568	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY205]
+Walk1=569	 ' arriba
+Walk2=569	 ' derecha
+Walk3=569    ' abajo
+Walk4=569	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY206]
+Walk1=570	 ' arriba
+Walk2=570	 ' derecha
+Walk3=570    ' abajo
+Walk4=570	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY207]
+Walk1=630	 ' arriba
+Walk2=630	 ' derecha
+Walk3=630    ' abajo
+Walk4=630	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY208]
+Walk1=2378	 ' arriba
+Walk2=2378	 ' derecha
+Walk3=2378    ' abajo
+Walk4=2378	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY209]
+Std=20
+FileNum=4715
+HeadOffsetX=0
+HeadOffsetY=-30
+
+[BODY210]
+Std=20
+FileNum=4716
+HeadOffsetX=0
+HeadOffsetY=-30
+
+
+[BODY211]
+Std=34
+FileNum=4717
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY212]
+
+
+[BODY213]
+
+[BODY214]
+Std=1
+FileNum=1614
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY215]
+Std=1
+FileNum=1613
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY216]
+Walk1=31196	 ' arriba
+Walk2=31198	 ' derecha
+Walk3=31195	 ' abajo
+Walk4=31197	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY217]
+Walk1=31170	 ' arriba
+Walk2=31172	 ' derecha
+Walk3=31169	 ' abajo
+Walk4=31171	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY218]
+Walk1=31144	 ' arriba
+Walk2=31146	 ' derecha
+Walk3=31143	 ' abajo
+Walk4=31145	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY219]
+Std=63
+FileNum=4586
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY220]
+Std=1
+FileNum=1194
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY221]
+Std=1
+FileNum=1178
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY222]
+Std=1
+FileNum=1195
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY223]
+
+
+
+[BODY224]
+Walk1=31027	 ' arriba
+Walk2=31029	 ' derecha
+Walk3=31026	 ' abajo
+Walk4=31028	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY225]
+Walk1=31001	 ' arriba
+Walk2=31003	 ' derecha
+Walk3=31000	 ' abajo
+Walk4=31002	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY226]
+Walk1=3499	 ' arriba
+Walk2=3501	 ' derecha
+Walk3=3498	 ' abajo
+Walk4=3500	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY227]
+Walk1=3525	 ' arriba
+Walk2=3527	 ' derecha
+Walk3=3524	 ' abajo
+Walk4=3526	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY228]
+Walk1=3551	 ' arriba
+Walk2=3553	 ' derecha
+Walk3=3550	 ' abajo
+Walk4=3552	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY229]
+Walk1=3577	 ' arriba
+Walk2=3579	 ' derecha
+Walk3=3576	 ' abajo
+Walk4=3578	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY230]
+Walk1=3604	 ' arriba
+Walk2=3606	 ' derecha
+Walk3=3603	 ' abajo
+Walk4=3605	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY231]
+Walk1=3630	 ' arriba
+Walk2=3632	 ' derecha
+Walk3=3629	 ' abajo
+Walk4=3631	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY232]
+Walk1=3656	 ' arriba
+Walk2=3658	 ' derecha
+Walk3=3655	 ' abajo
+Walk4=3657	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY233]
+Walk1=3682	 ' arriba
+Walk2=3684	 ' derecha
+Walk3=3681	 ' abajo
+Walk4=3683	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY234]
+Walk1=3708	 ' arriba
+Walk2=3710	 ' derecha
+Walk3=3707	 ' abajo
+Walk4=3709	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY235]
+Walk1=30948	 ' arriba
+Walk2=30950	 ' derecha
+Walk3=30947	 ' abajo
+Walk4=30949	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY236]
+Walk1=30974	 ' arriba
+Walk2=30976	 ' derecha
+Walk3=30973	 ' abajo
+Walk4=30975	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY237]
+Walk1=3828	 ' arriba
+Walk2=3830	 ' derecha
+Walk3=3827	 ' abajo
+Walk4=3829	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY238]
+Walk1=976	 ' arriba
+Walk2=976	 ' derecha
+Walk3=976	 ' abajo
+Walk4=976	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY239]
+Walk1=13583	 ' arriba
+Walk2=13585	 ' derecha
+Walk3=13582	 ' abajo
+Walk4=13584	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY240]
+Walk1=30895	 ' arriba
+Walk2=30897	 ' derecha
+Walk3=30894	 ' abajo
+Walk4=30896	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY241]
+Walk1=13670	 ' arriba
+Walk2=13672	 ' derecha
+Walk3=13669	 ' abajo
+Walk4=13671	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY242]
+Walk1=13696	 ' arriba
+Walk2=13698	 ' derecha
+Walk3=13695	 ' abajo
+Walk4=13697	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY243]
+Walk1=13722	 ' arriba
+Walk2=13724	 ' derecha
+Walk3=13721	 ' abajo
+Walk4=13723	 ' izq
+HeadOffsetX=2
+HeadOffsetY=-35
+
+[BODY244]
+Walk1=13748	 ' arriba
+Walk2=13750	 ' derecha
+Walk3=13747	 ' abajo
+Walk4=13749	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY245]
+
+
+[BODY246]
+Walk1=30921	 ' arriba
+Walk2=30923	 ' derecha
+Walk3=30920	 ' abajo
+Walk4=30922	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY247]
+Std=1
+FileNum=1311
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY248]
+Walk1=15141	 ' arriba
+Walk2=15143	 ' derecha
+Walk3=15140	 ' abajo
+Walk4=15142	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY249]
+Walk1=15193	 ' arriba
+Walk2=15195	 ' derecha
+Walk3=15192	 ' abajo
+Walk4=15194	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY250]
+Walk1=15167	 ' arriba
+Walk2=15169	 ' derecha
+Walk3=15166	 ' abajo
+Walk4=15168	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY251]
+Walk1=15219	 ' arriba
+Walk2=15221	 ' derecha
+Walk3=15218	 ' abajo
+Walk4=15220	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY252]
+Walk1=15245	 ' arriba
+Walk2=15247	 ' derecha
+Walk3=15244	 ' abajo
+Walk4=15246	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY253]
+Walk1=15279	 ' arriba
+Walk2=15281	 ' derecha
+Walk3=15278	 ' abajo
+Walk4=15280	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY254]
+Walk1=3238	 ' arriba
+Walk2=3240	 ' derecha
+Walk3=3237	 ' abajo
+Walk4=3239	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY255]
+Walk1=15383	 ' arriba
+Walk2=15385	 ' derecha
+Walk3=15382	 ' abajo
+Walk4=15384	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY256]
+Walk1=15409	 ' arriba
+Walk2=15411	 ' derecha
+Walk3=15408	 ' abajo
+Walk4=15410	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY257]
+
+
+[BODY258]
+Walk1=15674	 ' arriba
+Walk2=15676	 ' derecha
+Walk3=15673	 ' abajo
+Walk4=15675	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY259]
+Walk1=15724	 ' arriba
+Walk2=15726	 ' derecha
+Walk3=15723	 ' abajo
+Walk4=15725	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY260]
+Walk1=15754	 ' arriba
+Walk2=15756	 ' derecha
+Walk3=15753	 ' abajo
+Walk4=15755	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY261]
+Walk1=15784	 ' arriba
+Walk2=15786	 ' derecha
+Walk3=15783	 ' abajo
+Walk4=15785	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY262]
+Walk1=15824	 ' arriba
+Walk2=15826	 ' derecha
+Walk3=15823	 ' abajo
+Walk4=15825	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY263]
+Walk1=15854	 ' arriba
+Walk2=15856	 ' derecha
+Walk3=15853	 ' abajo
+Walk4=15855	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY264]
+Walk1=15884	 ' arriba
+Walk2=15886	 ' derecha
+Walk3=15883	 ' abajo
+Walk4=15885	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY265]
+Walk1=16024	 ' arriba
+Walk2=16026	 ' derecha
+Walk3=16023	 ' abajo
+Walk4=16025	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY266]
+Walk1=16054	 ' arriba
+Walk2=16056	 ' derecha
+Walk3=16053	 ' abajo
+Walk4=16055	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY267]
+Walk1=16084	 ' arriba
+Walk2=16086	 ' derecha
+Walk3=16083	 ' abajo
+Walk4=16085	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY268]
+Walk1=16124	 ' arriba
+Walk2=16126	 ' derecha
+Walk3=16123	 ' abajo
+Walk4=16125	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY269]
+Walk1=16324	 ' arriba
+Walk2=16326	 ' derecha
+Walk3=16323	 ' abajo
+Walk4=16325	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY270]
+Walk1=16354	 ' arriba
+Walk2=16356	 ' derecha
+Walk3=16353	 ' abajo
+Walk4=16355	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY271]
+Walk1=16384	 ' arriba
+Walk2=16386	 ' derecha
+Walk3=16383	 ' abajo
+Walk4=16385	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+
+[BODY273]
+Walk1=16747	 ' arriba
+Walk2=16748	 ' derecha
+Walk3=16746	 ' abajo
+Walk4=16749	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY274]
+Walk1=30842	 ' arriba
+Walk2=30844	 ' derecha
+Walk3=30841	 ' abajo
+Walk4=30843	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY275]
+Std=5
+FileNum=4292
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY276]
+Walk1=17762	 ' arriba
+Walk2=17764	 ' derecha
+Walk3=17761	 ' abajo
+Walk4=17763	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY277]
+Walk1=17787	 ' arriba
+Walk2=17789	 ' derecha
+Walk3=17786	 ' abajo
+Walk4=17788	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY278]
+Walk1=17873	 ' arriba
+Walk2=17875	 ' derecha
+Walk3=17872	 ' abajo
+Walk4=17874	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY279]
+Std=80
+FileNum=4632
+HeadOffsetX=0
+HeadOffsetY=-66
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY280]
+Walk1=17954	 ' arriba
+Walk2=17956	 ' derecha
+Walk3=17953	 ' abajo
+Walk4=17955	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY281]
+Walk1=17984	 ' arriba
+Walk2=17986	 ' derecha
+Walk3=17983	 ' abajo
+Walk4=17985	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY282]
+
+
+[BODY283]
+Walk1=30815	 ' arriba
+Walk2=30817	 ' derecha
+Walk3=30814	 ' abajo
+Walk4=30816	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY284]
+Walk1=3857	 ' arriba
+Walk2=3859	 ' derecha
+Walk3=3856	 ' abajo
+Walk4=3858	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY285]
+
+
+[BODY286]
+Walk1=18489	 ' arriba
+Walk2=18491	 ' derecha
+Walk3=18488	 ' abajo
+Walk4=18490	 ' izq
+HeadOffsetX=-2
+HeadOffsetY=-35
+
+[BODY287]
+Std=1
+FileNum=1435
+HeadOffsetX=0
+HeadOffsetY=-36
+
+[BODY288]
+Std=1
+FileNum=1081
+HeadOffsetX=0
+HeadOffsetY=-36
+
+[BODY289]
+Walk1=30682	 ' arriba
+Walk2=30684	 ' derecha
+Walk3=30681	 ' abajo
+Walk4=30683	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY290]
+Walk1=30708	 ' arriba
+Walk2=30710	 ' derecha
+Walk3=30707	 ' abajo
+Walk4=30709	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY291]
+Std=79
+FileNum=4610
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY292]
+Std=79
+FileNum=4611
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY293]
+Std=1
+FileNum=1318
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY294]
+Std=1
+FileNum=1082
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY295]
+
+
+[BODY296]
+
+
+[BODY297]
+
+
+[BODY298]
+
+
+[BODY299]
+
+
+[BODY300]
+
+
+[BODY301]
+Walk1=30789	 ' arriba
+Walk2=30791	 ' derecha
+Walk3=30788	 ' abajo
+Walk4=30790	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY302]
+Walk1=19389	 ' arriba
+Walk2=19391	 ' derecha
+Walk3=19388	 ' abajo
+Walk4=19390	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY303]
+Walk1=19416	 ' arriba
+Walk2=19418	 ' derecha
+Walk3=19415	 ' abajo
+Walk4=19417	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY304]
+Walk1=19443	 ' arriba
+Walk2=19445	 ' derecha
+Walk3=19442	 ' abajo
+Walk4=19444	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY305]
+Walk1=19470	 ' arriba
+Walk2=19472	 ' derecha
+Walk3=19469	 ' abajo
+Walk4=19471	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY306]
+Walk1=19497	 ' arriba
+Walk2=19499	 ' derecha
+Walk3=19496	 ' abajo
+Walk4=19498	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY307]
+Walk1=19523	 ' arriba
+Walk2=19525	 ' derecha
+Walk3=19522	 ' abajo
+Walk4=19524	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY308]
+
+
+[BODY309]
+Std=1
+FileNum=1315
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY310]
+
+
+[BODY311]
+Walk1=19670	 ' arriba
+Walk2=19692	 ' derecha
+Walk3=19657	 ' abajo
+Walk4=19681	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY312]
+Std=1
+FileNum=1260
+HeadOffsetX=2
+HeadOffsetY=-26
+
+[BODY313]
+Std=1
+FileNum=1262
+HeadOffsetX=-0
+HeadOffsetY=-35
+
+[BODY314]
+Std=1
+FileNum=1264
+HeadOffsetX=-0
+HeadOffsetY=-35
+
+[BODY315]
+Std=1
+FileNum=1266
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY316]
+Std=1
+FileNum=1266
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY317]
+Std=1
+FileNum=1269
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY318]
+
+
+[BODY319]
+Std=1
+FileNum=1598
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY320]
+Walk1=5398	 ' arriba
+Walk2=5400	 ' derecha
+Walk3=5397	 ' abajo
+Walk4=5399	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY321]
+Walk1=5424	 ' arriba
+Walk2=5426	 ' derecha
+Walk3=5423	 ' abajo
+Walk4=5425	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY322]
+Std=1
+FileNum=1338
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY323]
+Walk1=5476	 ' arriba
+Walk2=5478	 ' derecha
+Walk3=5475	 ' abajo
+Walk4=5477	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY324]
+Walk1=5505	 ' arriba
+Walk2=5507	 ' derecha
+Walk3=5504	 ' abajo
+Walk4=5506	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY325]
+Walk1=5531	 ' arriba
+Walk2=5533	 ' derecha
+Walk3=5530	 ' abajo
+Walk4=5532	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY326]
+Walk1=5557	 ' arriba
+Walk2=5559	 ' derecha
+Walk3=5556	 ' abajo
+Walk4=5558	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY327]
+Walk1=5583	 ' arriba
+Walk2=5585	 ' derecha
+Walk3=5582	 ' abajo
+Walk4=5584	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY328]
+Walk1=25175	 ' arriba
+Walk2=25177	 ' derecha
+Walk3=25174	 ' abajo
+Walk4=25176	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY329]
+Std=1
+FileNum=1596
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY330]
+Walk1=82	 ' arriba
+Walk2=84	 ' derecha
+Walk3=81	 ' abajo
+Walk4=83	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY331]
+Walk1=1468	 ' arriba
+Walk2=1470	 ' derecha
+Walk3=1467	 ' abajo
+Walk4=1469	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY332]
+Walk1=6685	 ' arriba
+Walk2=6687	 ' derecha
+Walk3=6684	 ' abajo
+Walk4=6686	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY333]
+Walk1=6711	 ' arriba
+Walk2=6713	 ' derecha
+Walk3=6710	 ' abajo
+Walk4=6712	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY334]
+Walk1=6737	 ' arriba
+Walk2=6739	 ' derecha
+Walk3=6736	 ' abajo
+Walk4=6738	 ' izq
+HeadOffsetX=1
+HeadOffsetY=-35
+
+[BODY335]
+Walk1=6763	 ' arriba
+Walk2=6765	 ' derecha
+Walk3=6762	 ' abajo
+Walk4=6764	 ' izq
+HeadOffsetX=1
+HeadOffsetY=-35
+
+[BODY336]
+Walk1=6791	 ' arriba
+Walk2=6793	 ' derecha
+Walk3=6790	 ' abajo
+Walk4=6792	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY337]
+Walk1=6861	 ' arriba
+Walk2=6863	 ' derecha
+Walk3=6860	 ' abajo
+Walk4=6862	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY338]
+Walk1=6865	 ' arriba
+Walk2=6867	 ' derecha
+Walk3=6864	 ' abajo
+Walk4=6866	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY339]
+Walk1=6869	 ' arriba
+Walk2=6871	 ' derecha
+Walk3=6868	 ' abajo
+Walk4=6870	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY340]
+
+
+[BODY341]
+Walk1=21145	 ' arriba
+Walk2=21147	 ' derecha
+Walk3=21144	 ' abajo
+Walk4=21146	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY342]
+Walk1=21171	 ' arriba
+Walk2=21173	 ' derecha
+Walk3=21170	 ' abajo
+Walk4=21172	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY343]
+Walk1=21197	 ' arriba
+Walk2=21199	 ' derecha
+Walk3=21196	 ' abajo
+Walk4=21198	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY344]
+Walk1=21223	 ' arriba
+Walk2=21225	 ' derecha
+Walk3=21222	 ' abajo
+Walk4=21224	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY345]
+Walk1=21229	 ' arriba
+Walk2=21231	 ' derecha
+Walk3=21228	 ' abajo
+Walk4=21230	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY346]
+Walk1=21255	 ' arriba
+Walk2=21257	 ' derecha
+Walk3=21254	 ' abajo
+Walk4=21256	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY347]
+Walk1=21281	 ' arriba
+Walk2=21283	 ' derecha
+Walk3=21280	 ' abajo
+Walk4=21282	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY348]
+Walk1=21307	 ' arriba
+Walk2=21309	 ' derecha
+Walk3=21306	 ' abajo
+Walk4=21308	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY349]
+Walk1=21333	 ' arriba
+Walk2=21335	 ' derecha
+Walk3=21332	 ' abajo
+Walk4=21334	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY350]
+Walk1=21381	 ' arriba
+Walk2=21383	 ' derecha
+Walk3=21380	 ' abajo
+Walk4=21382	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY351]
+Walk1=21617	 ' arriba
+Walk2=21619	 ' derecha
+Walk3=21616	 ' abajo
+Walk4=21618	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY352]
+Walk1=21644	 ' arriba
+Walk2=21646	 ' derecha
+Walk3=21643	 ' abajo
+Walk4=21645	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY353]
+Walk1=21671	 ' arriba
+Walk2=21673	 ' derecha
+Walk3=21670	 ' abajo
+Walk4=21672	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY354]
+Walk1=22223	 ' arriba
+Walk2=22225	 ' derecha
+Walk3=22222	 ' abajo
+Walk4=22224	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY355]
+Walk1=22250	 ' arriba
+Walk2=22252	 ' derecha
+Walk3=22249	 ' abajo
+Walk4=22251	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY356]
+Std=1
+FileNum=1346
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY357]
+Walk1=22306	 ' arriba
+Walk2=22332	 ' derecha
+Walk3=22293	 ' abajo
+Walk4=22319	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY358]
+Walk1=22382	 ' arriba
+Walk2=22384	 ' derecha
+Walk3=22381	 ' abajo
+Walk4=22383	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY359]
+Std=78
+FileNum=4606
+HeadOffsetX=0
+HeadOffsetY=-0
+
+[BODY360]
+Std=78
+FileNum=4607
+HeadOffsetX=0
+HeadOffsetY=-0
+
+[BODY361]
+Std=78
+FileNum=4608
+HeadOffsetX=0
+HeadOffsetY=-0
+
+[BODY362]
+Std=21
+FileNum=4353
+HeadOffsetX=0
+HeadOffsetY=-34
+BodyOffsetX=0
+BodyOffsetY=32
+
+
+[BODY363]
+Walk1=16459	 ' arriba
+Walk2=16459	 ' derecha
+Walk3=16459	 ' abajo
+Walk4=16459	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY364]
+Walk1=22651	 ' arriba
+Walk2=22653	 ' derecha
+Walk3=22650	 ' abajo
+Walk4=22652	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY365]
+Std=77
+FileNum=4270
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY366]
+
+
+[BODY367]
+Walk1=22767	 ' arriba
+Walk2=22769	 ' derecha
+Walk3=22766	 ' abajo
+Walk4=22768	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY368]
+Walk1=22807	 ' arriba
+Walk2=22809	 ' derecha
+Walk3=22806	 ' abajo
+Walk4=22808	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY369]
+
+
+[BODY370]
+Std=66
+FileNum=4584
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY371]
+Std=65
+FileNum=4580
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY372]
+Std=65
+FileNum=4583
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY373]
+Std=65
+FileNum=4582
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY374]
+
+
+[BODY375]
+Std=65
+FileNum=4581
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY376]
+
+
+
+[BODY377]
+Std=7
+FileNum=4591
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY378]
+Std=1
+FileNum=1420
+HeadOffsetX=0
+HeadOffsetY=-27
+
+[BODY379]
+Walk1=25370	 ' arriba
+Walk2=25372	 ' derecha
+Walk3=25369	 ' abajo
+Walk4=25371	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY380]
+Walk1=25451	 ' arriba
+Walk2=25453	 ' derecha
+Walk3=25450	 ' abajo
+Walk4=25452	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY381]
+Std=79
+FileNum=4627
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY382]
+Std=79
+FileNum=4612
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY383]
+Std=79
+FileNum=4620
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY384]
+Std=79
+FileNum=4628
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY385]
+Walk1=25397	 ' arriba
+Walk2=25399	 ' derecha
+Walk3=25396	 ' abajo
+Walk4=25398	 ' izq
+HeadOffsetX=1
+HeadOffsetY=-35
+
+[BODY386]
+Walk1=25424	 ' arriba
+Walk2=25426	 ' derecha
+Walk3=25423	 ' abajo
+Walk4=25425	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY387]
+Walk1=25451	 ' arriba
+Walk2=25453	 ' derecha
+Walk3=25450	 ' abajo
+Walk4=25452	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY388]
+Walk1=25478	 ' arriba
+Walk2=25480	 ' derecha
+Walk3=25477	 ' abajo
+Walk4=25479	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY389]
+Walk1=25505	 ' arriba
+Walk2=25507	 ' derecha
+Walk3=25504	 ' abajo
+Walk4=25506	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY390]
+Walk1=25532	 ' arriba
+Walk2=25534	 ' derecha
+Walk3=25531	 ' abajo
+Walk4=25533	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY391]
+Walk1=25559	 ' arriba
+Walk2=25561	 ' derecha
+Walk3=25558	 ' abajo
+Walk4=25560	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY392]
+Walk1=25588	 ' arriba
+Walk2=25590	 ' derecha
+Walk3=25587	 ' abajo
+Walk4=25589	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY393]
+Walk1=25615	 ' arriba
+Walk2=25617	 ' derecha
+Walk3=25614	 ' abajo
+Walk4=25616	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY394]
+Walk1=25642	 ' arriba
+Walk2=25644	 ' derecha
+Walk3=25641	 ' abajo
+Walk4=25643	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY395]
+Walk1=25669	 ' arriba
+Walk2=25671	 ' derecha
+Walk3=25668	 ' abajo
+Walk4=25670	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY396]
+Walk1=25927	 ' arriba
+Walk2=25929	 ' derecha
+Walk3=25926	 ' abajo
+Walk4=25928	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY397]
+Walk1=25954	 ' arriba
+Walk2=25956	 ' derecha
+Walk3=25953	 ' abajo
+Walk4=25955	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY398]
+Walk1=25980	 ' arriba
+Walk2=25982	 ' derecha
+Walk3=25979	 ' abajo
+Walk4=25981	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY399]
+Walk1=26006	 ' arriba
+Walk2=26008	 ' derecha
+Walk3=26005	 ' abajo
+Walk4=26007	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY400]
+Walk1=26136	 ' arriba
+Walk2=26138	 ' derecha
+Walk3=26135	 ' abajo
+Walk4=26137	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY401]
+Std=1
+FileNum=1325
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY402]
+
+
+[BODY403]
+Walk1=26986	 ' arriba
+Walk2=26988	 ' derecha
+Walk3=26985	 ' abajo
+Walk4=28481	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY404]
+Walk1=27013	 ' arriba
+Walk2=27015	 ' derecha
+Walk3=27012	 ' abajo
+Walk4=27014	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY405]
+Walk1=31841	 ' arriba
+Walk2=31843	 ' derecha
+Walk3=31840	 ' abajo
+Walk4=31842	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY406]
+Walk1=31805	 ' arriba
+Walk2=31806	 ' derecha
+Walk3=31804	 ' abajo
+Walk4=31807	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY407]
+Walk1=29204	 ' arriba
+Walk2=29206	 ' derecha
+Walk3=29203	 ' abajo
+Walk4=29205	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY408]
+Walk1=29230	 ' arriba
+Walk2=29232	 ' derecha
+Walk3=29229	 ' abajo
+Walk4=29231	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY409]
+Walk1=29256	 ' arriba
+Walk2=29258	 ' derecha
+Walk3=29255	 ' abajo
+Walk4=29257	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY410]
+Walk1=29282	 ' arriba
+Walk2=29284	 ' derecha
+Walk3=29281	 ' abajo
+Walk4=29283	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY411]
+Walk1=29888	 ' arriba
+Walk2=29886	 ' derecha
+Walk3=29887	 ' abajo
+Walk4=29885	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY412]
+Walk1=29914	 ' arriba
+Walk2=29912	 ' derecha
+Walk3=29913	 ' abajo
+Walk4=29911	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-45
+
+[BODY413]
+Walk1=29940	 ' arriba
+Walk2=29938	 ' derecha
+Walk3=29939	 ' abajo
+Walk4=29937	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-44
+
+[BODY414]
+Walk1=29966	 ' arriba
+Walk2=29964	 ' derecha
+Walk3=29965	 ' abajo
+Walk4=29963	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-48
+
+[BODY415]
+Walk1=29988	 ' arriba
+Walk2=29986	 ' derecha
+Walk3=29987	 ' abajo
+Walk4=29985	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-52
+
+[BODY416]
+Std=79
+FileNum=4629
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY417]
+
+
+
+[BODY418]
+Walk1=30062	 ' arriba
+Walk2=30064	 ' derecha
+Walk3=30061	 ' abajo
+Walk4=30063	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY419]
+Std=79
+FileNum=4630
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY420]
+
+[BODY421]
+
+
+[BODY422]
+
+
+[BODY423]
+Walk1=31727	 ' arriba
+Walk2=31729	 ' derecha
+Walk3=31726	 ' abajo
+Walk4=31728	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY424]
+Walk1=31755	 ' arriba
+Walk2=31757	 ' derecha
+Walk3=31754	 ' abajo
+Walk4=31756	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY425]
+Walk1=31781	 ' arriba
+Walk2=31783	 ' derecha
+Walk3=31780	 ' abajo
+Walk4=31782	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY426]
+Walk1=31870	 ' arriba
+Walk2=31872	 ' derecha
+Walk3=31869	 ' abajo
+Walk4=31871	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY427]
+Walk1=31897	 ' arriba
+Walk2=31899	 ' derecha
+Walk3=31896	 ' abajo
+Walk4=31898	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY428]
+Std=1
+FileNum=1172
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY429]
+
+
+[BODY430]
+Walk1=31978	 ' arriba
+Walk2=31980	 ' derecha
+Walk3=31977	 ' abajo
+Walk4=31979	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY431]
+Walk1=13935	 ' arriba
+Walk2=13937	 ' derecha
+Walk3=13934	 ' abajo
+Walk4=13936	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY432]
+Walk1=22306	 ' arriba
+Walk2=22332	 ' derecha
+Walk3=22293	 ' abajo
+Walk4=22319	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-34
+
+[BODY433]
+Std=59
+FileNum=4370
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY434]
+Walk1=1091	 ' arriba
+Walk2=1093	 ' derecha
+Walk3=1090	 ' abajo
+Walk4=1092	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY435]
+[BODY436]
+[BODY437]
+
+[BODY438]
+Walk1=1117	 ' arriba
+Walk2=1119	 ' derecha
+Walk3=1116	 ' abajo
+Walk4=1118	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-33
+
+
+[BODY440]
+Walk1=16809	 ' arriba
+Walk2=16810	 ' derecha
+Walk3=16808	 ' abajo
+Walk4=16811	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-27
+
+[BODY441]
+Walk1=16785	 ' arriba
+Walk2=16787	 ' derecha
+Walk3=16784	 ' abajo
+Walk4=16786	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-99
+
+[BODY442]
+
+
+[BODY443]
+Std=59
+FileNum=4369
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY444]
+Std=60
+FileNum=4369
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY445]
+Walk1=27533	 ' arriba
+Walk2=27535	 ' derecha
+Walk3=27532	 ' abajo
+Walk4=27534	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-107
+
+[BODY446]
+Walk1=27765	 ' arriba
+Walk2=27766	 ' derecha
+Walk3=27764	 ' abajo
+Walk4=27767	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY447]
+
+
+[BODY448]
+Walk1=1209	 ' arriba
+Walk2=1211	 ' derecha
+Walk3=1208	 ' abajo
+Walk4=1210	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-49
+
+[BODY449]
+
+
+[BODY450]
+Walk1=3184	 ' arriba
+Walk2=3185	 ' derecha
+Walk3=3183	 ' abajo
+Walk4=3186	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-52
+
+[BODY451]
+[BODY452]
+
+
+[BODY453]
+Walk1=3931	 ' arriba
+Walk2=3933	 ' derecha
+Walk3=3930	 ' abajo
+Walk4=3932	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY454]
+[BODY455]
+[BODY456]
+
+[BODY457]
+Std=1
+FileNum=1001
+HeadOffsetY=-35
+
+[BODY458]
+Walk1=2133	 ' arriba
+Walk2=2135	 ' derecha
+Walk3=2132	 ' abajo
+Walk4=2134	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY459]
+Walk1=5892	 ' arriba
+Walk2=5894	 ' derecha
+Walk3=5891	 ' abajo
+Walk4=5893	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-65
+
+[BODY460]
+Walk1=5920	 ' arriba
+Walk2=5922	 ' derecha
+Walk3=5919	 ' abajo
+Walk4=5921	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-49
+
+[BODY461]
+Walk1=5946	 ' arriba
+Walk2=5947	 ' derecha
+Walk3=5945	 ' abajo
+Walk4=5948	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-14
+
+[BODY462]
+Walk1=5970	 ' arriba
+Walk2=5971	 ' derecha
+Walk3=5969	 ' abajo
+Walk4=5972	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-25
+
+[BODY463]
+Walk1=5673	 ' arriba
+Walk2=5675	 ' derecha
+Walk3=5672	 ' abajo
+Walk4=5674	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-116
+
+[BODY464]
+
+
+
+[BODY465]
+Walk1=7084	 ' arriba
+Walk2=7086	 ' derecha
+Walk3=7083	 ' abajo
+Walk4=7085	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-11
+
+[BODY466]
+Walk1=8498	 ' arriba
+Walk2=8500	 ' derecha
+Walk3=8497	 ' abajo
+Walk4=8499	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-11
+
+[BODY467]
+
+
+[BODY468]
+
+
+[BODY469]
+
+
+[BODY470]
+
+[BODY471]
+[BODY472]
+[BODY473]
+
+[BODY474]
+
+
+[BODY475]
+Walk1=3283	 ' arriba
+Walk2=3284	 ' derecha
+Walk3=3282	 ' abajo
+Walk4=3285	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY476]
+Walk1=1990	 ' arriba
+Walk2=1992	 ' derecha
+Walk3=1989	 ' abajo
+Walk4=1991	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-11
+
+[BODY477]
+Walk1=6986	 ' arriba
+Walk2=6987	 ' derecha
+Walk3=6985	 ' abajo
+Walk4=6988	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-150
+
+[BODY478]
+Walk1=5740	 ' arriba
+Walk2=5742	 ' derecha
+Walk3=5739	 ' abajo
+Walk4=5741	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-29
+
+[BODY479]
+Std=1
+FileNum=1003
+HeadOffsetY=-26
+
+[BODY480]
+Std=20
+FileNum=4700
+HeadOffsetY=-32
+
+[BODY481]
+Walk1=32012	 ' arriba
+Walk2=32012	 ' derecha
+Walk3=32012	 ' abajo
+Walk4=32012	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-14
+
+[BODY482]
+Std=20
+FileNum=4701
+HeadOffsetY=-32
+
+[BODY483]
+Walk1=32045	 ' arriba
+Walk2=32063	 ' derecha
+Walk3=32036	 ' abajo
+Walk4=32054	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY484]
+Walk1=32083	 ' arriba
+Walk2=32082	 ' derecha
+Walk3=32080	 ' abajo
+Walk4=32081	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY485]
+Walk1=32101	 ' arriba
+Walk2=32103	 ' derecha
+Walk3=32100	 ' abajo
+Walk4=32102	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY486]
+Std=20
+FileNum=4702
+HeadOffsetY=-32
+
+
+[BODY487]
+
+
+[BODY488]
+Walk1=32603	 ' arriba
+Walk2=32605	 ' derecha
+Walk3=32602	 ' abajo
+Walk4=32604	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY489]
+Walk1=32630	 ' arriba
+Walk2=32632	 ' derecha
+Walk3=32629	 ' abajo
+Walk4=32631	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY490]
+Walk1=32657	 ' arriba
+Walk2=32659	 ' derecha
+Walk3=32656	 ' abajo
+Walk4=32658	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY491]
+Walk1=32684	 ' arriba
+Walk2=32686	 ' derecha
+Walk3=32683	 ' abajo
+Walk4=32685	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY492]
+Walk1=32711	 ' arriba
+Walk2=32713	 ' derecha
+Walk3=32710	 ' abajo
+Walk4=32712	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY493]
+Walk1=32738	 ' arriba
+Walk2=32740	 ' derecha
+Walk3=32737	 ' abajo
+Walk4=32739	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY494]
+Walk1=32765	 ' arriba
+Walk2=32767	 ' derecha
+Walk3=32764	 ' abajo
+Walk4=32766	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY495]
+Walk1=32792	 ' arriba
+Walk2=32794	 ' derecha
+Walk3=32791	 ' abajo
+Walk4=32793	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY496]
+Walk1=32819	 ' arriba
+Walk2=32821	 ' derecha
+Walk3=32818	 ' abajo
+Walk4=32820	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY497]
+Walk1=32846	 ' arriba
+Walk2=32848	 ' derecha
+Walk3=32845	 ' abajo
+Walk4=32847	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY498]
+Std=1
+FileNum=1210
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY499]
+Walk1=32900	 ' arriba
+Walk2=32902	 ' derecha
+Walk3=32899	 ' abajo
+Walk4=32901	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY500]
+Walk1=32927	 ' arriba
+Walk2=32929	 ' derecha
+Walk3=32926	 ' abajo
+Walk4=32928	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY501]
+Walk1=32954	 ' arriba
+Walk2=32956	 ' derecha
+Walk3=32953	 ' abajo
+Walk4=32955	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY502]
+Walk1=32981	 ' arriba
+Walk2=32983	 ' derecha
+Walk3=32980	 ' abajo
+Walk4=32982	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY503]
+Walk1=33008	 ' arriba
+Walk2=33010	 ' derecha
+Walk3=33007	 ' abajo
+Walk4=33009	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY504]
+Walk1=33035	 ' arriba
+Walk2=33037	 ' derecha
+Walk3=33034	 ' abajo
+Walk4=33036	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY505]
+Walk1=33062	 ' arriba
+Walk2=33064	 ' derecha
+Walk3=33061	 ' abajo
+Walk4=33063	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY506]
+Walk1=33089	 ' arriba
+Walk2=33091	 ' derecha
+Walk3=33088	 ' abajo
+Walk4=33090	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY507]
+Walk1=33116	 ' arriba
+Walk2=33118	 ' derecha
+Walk3=33115	 ' abajo
+Walk4=33117	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY508]
+Walk1=33163	 ' arriba
+Walk2=33165	 ' derecha
+Walk3=33162	 ' abajo
+Walk4=33164	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY509]
+Walk1=33190	 ' arriba
+Walk2=33192	 ' derecha
+Walk3=33189	 ' abajo
+Walk4=33191	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY510]
+Walk1=33217	 ' arriba
+Walk2=33219	 ' derecha
+Walk3=33216	 ' abajo
+Walk4=33218	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY511]
+Walk1=33244	 ' arriba
+Walk2=33246	 ' derecha
+Walk3=33243	 ' abajo
+Walk4=33245	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY512]
+Walk1=39124	 ' arriba
+Walk2=39126	 ' derecha
+Walk3=39123	 ' abajo
+Walk4=39125	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY513]
+Walk1=39151	 ' arriba
+Walk2=39153	 ' derecha
+Walk3=39150	 ' abajo
+Walk4=39152	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY514]
+Walk1=39178	 ' arriba
+Walk2=39180	 ' derecha
+Walk3=39177	 ' abajo
+Walk4=39179	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY515]
+Walk1=39205	 ' arriba
+Walk2=39207	 ' derecha
+Walk3=39204	 ' abajo
+Walk4=39206	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY516]
+Walk1=39232	 ' arriba
+Walk2=39234	 ' derecha
+Walk3=39231	 ' abajo
+Walk4=39233	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY517]
+Walk1=39259	 ' arriba
+Walk2=39261	 ' derecha
+Walk3=39258	 ' abajo
+Walk4=39260	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY518]
+Walk1=39286	 ' arriba
+Walk2=39288	 ' derecha
+Walk3=39285	 ' abajo
+Walk4=39287	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY519]
+Walk1=39313	 ' arriba
+Walk2=39315	 ' derecha
+Walk3=39312	 ' abajo
+Walk4=39314	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY520]
+Walk1=39340	 ' arriba
+Walk2=39342	 ' derecha
+Walk3=39339	 ' abajo
+Walk4=39341	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY521]
+Walk1=39367	 ' arriba
+Walk2=39369	 ' derecha
+Walk3=39366	 ' abajo
+Walk4=39368	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY522]
+Walk1=39394	 ' arriba
+Walk2=39396	 ' derecha
+Walk3=39393	 ' abajo
+Walk4=39395	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY523]
+Walk1=39421	 ' arriba
+Walk2=39423	 ' derecha
+Walk3=39420	 ' abajo
+Walk4=39422	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY524]
+Walk1=39448	 ' arriba
+Walk2=39450	 ' derecha
+Walk3=39447	 ' abajo
+Walk4=39449	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY525]
+Walk1=39475	 ' arriba
+Walk2=39477	 ' derecha
+Walk3=39474	 ' abajo
+Walk4=39476	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY526]
+Walk1=39502	 ' arriba
+Walk2=39504	 ' derecha
+Walk3=39501	 ' abajo
+Walk4=39503	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY527]
+Walk1=39529	 ' arriba
+Walk2=39531	 ' derecha
+Walk3=39528	 ' abajo
+Walk4=39530	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY528]
+Walk1=39556	 ' arriba
+Walk2=39558	 ' derecha
+Walk3=39555	 ' abajo
+Walk4=39557	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY529]
+Walk1=39583	 ' arriba
+Walk2=39585	 ' derecha
+Walk3=39582	 ' abajo
+Walk4=39584	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY530]
+Walk1=39610	 ' arriba
+Walk2=39612	 ' derecha
+Walk3=39609	 ' abajo
+Walk4=39611	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY531]
+Walk1=39637	 ' arriba
+Walk2=39639	 ' derecha
+Walk3=39636	 ' abajo
+Walk4=39638	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY532]
+Walk1=39664	 ' arriba
+Walk2=39666	 ' derecha
+Walk3=39663	 ' abajo
+Walk4=39665	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY533]
+Walk1=39691	 ' arriba
+Walk2=39693	 ' derecha
+Walk3=39690	 ' abajo
+Walk4=39692	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY534]
+Walk1=39718	 ' arriba
+Walk2=39720	 ' derecha
+Walk3=39717	 ' abajo
+Walk4=39719	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY535]
+Walk1=39745	 ' arriba
+Walk2=39747	 ' derecha
+Walk3=39744	 ' abajo
+Walk4=39746	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY536]
+Walk1=39772	 ' arriba
+Walk2=39774	 ' derecha
+Walk3=39771	 ' abajo
+Walk4=39773	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY537]
+Walk1=39799	 ' arriba
+Walk2=39801	 ' derecha
+Walk3=39798	 ' abajo
+Walk4=39800	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY538]
+Walk1=39826	 ' arriba
+Walk2=39828	 ' derecha
+Walk3=39825	 ' abajo
+Walk4=39827	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY539]
+Walk1=39853	 ' arriba
+Walk2=39855	 ' derecha
+Walk3=39852	 ' abajo
+Walk4=39854	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY540]
+Walk1=39880	 ' arriba
+Walk2=39882	 ' derecha
+Walk3=39879	 ' abajo
+Walk4=39881	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY541]
+Walk1=39907	 ' arriba
+Walk2=39909	 ' derecha
+Walk3=39906	 ' abajo
+Walk4=39908	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY542]
+Walk1=39934	 ' arriba
+Walk2=39936	 ' derecha
+Walk3=39933	 ' abajo
+Walk4=39935	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY543]
+Walk1=39961	 ' arriba
+Walk2=39963	 ' derecha
+Walk3=39960	 ' abajo
+Walk4=39962	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY544]
+Walk1=39988	 ' arriba
+Walk2=39990	 ' derecha
+Walk3=39987	 ' abajo
+Walk4=39989	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY545]
+Walk1=40015	 ' arriba
+Walk2=40017	 ' derecha
+Walk3=40014	 ' abajo
+Walk4=40016	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY546]
+Walk1=40042	 ' arriba
+Walk2=40044	 ' derecha
+Walk3=40041	 ' abajo
+Walk4=40043	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY547]
+Walk1=40069	 ' arriba
+Walk2=40071	 ' derecha
+Walk3=40068	 ' abajo
+Walk4=40070	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY548]
+Walk1=40096	 ' arriba
+Walk2=40098	 ' derecha
+Walk3=40095	 ' abajo
+Walk4=40097	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY549]
+Walk1=40123	 ' arriba
+Walk2=40125	 ' derecha
+Walk3=40122	 ' abajo
+Walk4=40124	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY550]
+Walk1=40150	 ' arriba
+Walk2=40152	 ' derecha
+Walk3=40149	 ' abajo
+Walk4=40151	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY551]
+Walk1=40177	 ' arriba
+Walk2=40179	 ' derecha
+Walk3=40176	 ' abajo
+Walk4=40178	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY552]
+Walk1=40204	 ' arriba
+Walk2=40206	 ' derecha
+Walk3=40203	 ' abajo
+Walk4=40205	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY553]
+Walk1=40231	 ' arriba
+Walk2=40233	 ' derecha
+Walk3=40230	 ' abajo
+Walk4=40232	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY554]
+Walk1=40258	 ' arriba
+Walk2=40260	 ' derecha
+Walk3=40257	 ' abajo
+Walk4=40259	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY555]
+Walk1=40285	 ' arriba
+Walk2=40287	 ' derecha
+Walk3=40284	 ' abajo
+Walk4=40286	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY556]
+Walk1=40312	 ' arriba
+Walk2=40314	 ' derecha
+Walk3=40311	 ' abajo
+Walk4=40313	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY557]
+Walk1=40339	 ' arriba
+Walk2=40341	 ' derecha
+Walk3=40338	 ' abajo
+Walk4=40340	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY558]
+Walk1=40366	 ' arriba
+Walk2=40368	 ' derecha
+Walk3=40365	 ' abajo
+Walk4=40367	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY559]
+Walk1=40393	 ' arriba
+Walk2=40395	 ' derecha
+Walk3=40392	 ' abajo
+Walk4=40394	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY560]
+Walk1=40420	 ' arriba
+Walk2=40422	 ' derecha
+Walk3=40419	 ' abajo
+Walk4=40421	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY561]
+Walk1=40447	 ' arriba
+Walk2=40449	 ' derecha
+Walk3=40446	 ' abajo
+Walk4=40448	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY562]
+Walk1=40474	 ' arriba
+Walk2=40476	 ' derecha
+Walk3=40473	 ' abajo
+Walk4=40475	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY563]
+Walk1=40501	 ' arriba
+Walk2=40503	 ' derecha
+Walk3=40500	 ' abajo
+Walk4=40502	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY564]
+Walk1=40528	 ' arriba
+Walk2=40530	 ' derecha
+Walk3=40527	 ' abajo
+Walk4=40529	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY565]
+Walk1=40555	 ' arriba
+Walk2=40557	 ' derecha
+Walk3=40554	 ' abajo
+Walk4=40556	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY566]
+Walk1=40582	 ' arriba
+Walk2=40584	 ' derecha
+Walk3=40581	 ' abajo
+Walk4=40583	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY567]
+Walk1=40609	 ' arriba
+Walk2=40611	 ' derecha
+Walk3=40608	 ' abajo
+Walk4=40610	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY568]
+Walk1=40636	 ' arriba
+Walk2=40638	 ' derecha
+Walk3=40635	 ' abajo
+Walk4=40637	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY569]
+Walk1=40663	 ' arriba
+Walk2=40665	 ' derecha
+Walk3=40662	 ' abajo
+Walk4=40664	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY570]
+Walk1=40690	 ' arriba
+Walk2=40692	 ' derecha
+Walk3=40689	 ' abajo
+Walk4=40691	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY571]
+Walk1=40717	 ' arriba
+Walk2=40719	 ' derecha
+Walk3=40716	 ' abajo
+Walk4=40718	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY572]
+Walk1=40744	 ' arriba
+Walk2=40746	 ' derecha
+Walk3=40743	 ' abajo
+Walk4=40745	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY573]
+Walk1=40771	 ' arriba
+Walk2=40773	 ' derecha
+Walk3=40770	 ' abajo
+Walk4=40772	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY574]
+Walk1=40798	 ' arriba
+Walk2=40800	 ' derecha
+Walk3=40797	 ' abajo
+Walk4=40799	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY575]
+Walk1=40825	 ' arriba
+Walk2=40827	 ' derecha
+Walk3=40824	 ' abajo
+Walk4=40826	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY576]
+Walk1=40852	 ' arriba
+Walk2=40854	 ' derecha
+Walk3=40851	 ' abajo
+Walk4=40853	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY577]
+Walk1=40879	 ' arriba
+Walk2=40881	 ' derecha
+Walk3=40878	 ' abajo
+Walk4=40880	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY578]
+Walk1=40906	 ' arriba
+Walk2=40908	 ' derecha
+Walk3=40905	 ' abajo
+Walk4=40907	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY579]
+Walk1=40933	 ' arriba
+Walk2=40935	 ' derecha
+Walk3=40932	 ' abajo
+Walk4=40934	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY580]
+Walk1=40960	 ' arriba
+Walk2=40962	 ' derecha
+Walk3=40959	 ' abajo
+Walk4=40961	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY581]
+Walk1=40987	 ' arriba
+Walk2=40989	 ' derecha
+Walk3=40986	 ' abajo
+Walk4=40988	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY582]
+Walk1=41014	 ' arriba
+Walk2=41016	 ' derecha
+Walk3=41013	 ' abajo
+Walk4=41015	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY583]
+Walk1=41041	 ' arriba
+Walk2=41043	 ' derecha
+Walk3=41040	 ' abajo
+Walk4=41042	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY584]
+Walk1=41068	 ' arriba
+Walk2=41070	 ' derecha
+Walk3=41067	 ' abajo
+Walk4=41069	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY585]
+Walk1=41095	 ' arriba
+Walk2=41097	 ' derecha
+Walk3=41094	 ' abajo
+Walk4=41096	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY586]
+Walk1=41122	 ' arriba
+Walk2=41124	 ' derecha
+Walk3=41121	 ' abajo
+Walk4=41123	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY587]
+Walk1=41149	 ' arriba
+Walk2=41151	 ' derecha
+Walk3=41148	 ' abajo
+Walk4=41150	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY588]
+Walk1=41176	 ' arriba
+Walk2=41178	 ' derecha
+Walk3=41175	 ' abajo
+Walk4=41177	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY589]
+Walk1=41203	 ' arriba
+Walk2=41205	 ' derecha
+Walk3=41202	 ' abajo
+Walk4=41204	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY590]
+Walk1=41230	 ' arriba
+Walk2=41232	 ' derecha
+Walk3=41229	 ' abajo
+Walk4=41231	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY591]
+Walk1=41257	 ' arriba
+Walk2=41259	 ' derecha
+Walk3=41256	 ' abajo
+Walk4=41258	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY592]
+Walk1=41284	 ' arriba
+Walk2=41286	 ' derecha
+Walk3=41283	 ' abajo
+Walk4=41285	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY593]
+Walk1=41311	 ' arriba
+Walk2=41313	 ' derecha
+Walk3=41310	 ' abajo
+Walk4=41312	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY594]
+Walk1=41338	 ' arriba
+Walk2=41340	 ' derecha
+Walk3=41337	 ' abajo
+Walk4=41339	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY595]
+Walk1=41365	 ' arriba
+Walk2=41367	 ' derecha
+Walk3=41364	 ' abajo
+Walk4=41366	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY596]
+Walk1=41392	 ' arriba
+Walk2=41394	 ' derecha
+Walk3=41391	 ' abajo
+Walk4=41393	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY597]
+Walk1=41419	 ' arriba
+Walk2=41421	 ' derecha
+Walk3=41418	 ' abajo
+Walk4=41420	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY598]
+Walk1=41446	 ' arriba
+Walk2=41448	 ' derecha
+Walk3=41445	 ' abajo
+Walk4=41447	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY599]
+Walk1=41473	 ' arriba
+Walk2=41475	 ' derecha
+Walk3=41472	 ' abajo
+Walk4=41474	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY600]
+Walk1=41500	 ' arriba
+Walk2=41502	 ' derecha
+Walk3=41499	 ' abajo
+Walk4=41501	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY601]
+Walk1=41527	 ' arriba
+Walk2=41529	 ' derecha
+Walk3=41526	 ' abajo
+Walk4=41528	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY602]
+Walk1=41554	 ' arriba
+Walk2=41556	 ' derecha
+Walk3=41553	 ' abajo
+Walk4=41555	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY603]
+Std=1
+FileNum=1891
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY604]
+Std=1
+FileNum=1900
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY605]
+Std=1
+FileNum=1901
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY606]
+Std=1
+FileNum=1902
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY607]
+Std=1
+FileNum=1903
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY608]
+Std=1
+FileNum=1904
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY609]
+Std=1
+FileNum=1905
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY610]
+Std=1
+FileNum=1906
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY611]
+Std=1
+FileNum=1907
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY612]
+Std=1
+FileNum=1908
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY613]
+Std=1
+FileNum=1909
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY614]
+Std=1
+FileNum=1910
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY615]
+Std=1
+FileNum=1911
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY616]
+Std=1
+FileNum=1912
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY617]
+Std=1
+FileNum=1913
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY618]
+Std=1
+FileNum=1914
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY619]
+Std=1
+FileNum=1915
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY620]
+Std=1
+FileNum=1916
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY621]
+Std=1
+FileNum=1917
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY622]
+Std=1
+FileNum=1918
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY623]
+Std=1
+FileNum=1919
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY624]
+Std=1
+FileNum=1920
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY625]
+Std=1
+FileNum=1921
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY626]
+Std=1
+FileNum=1922
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY627]
+Std=1
+FileNum=1923
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY628]
+Std=1
+FileNum=1924
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY629]
+Std=1
+FileNum=1925
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY630]
+Std=1
+FileNum=1926
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY631]
+Std=1
+FileNum=1927
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY632]
+Std=1
+FileNum=1928
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY633]
+Std=1
+FileNum=1929
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY634]
+Std=1
+FileNum=1930
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY635]
+Std=1
+FileNum=1931
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY636]
+Std=1
+FileNum=1932
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY637]
+Std=1
+FileNum=1933
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY638]
+Std=1
+FileNum=1934
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY639]
+Std=1
+FileNum=1935
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY640]
+Std=1
+FileNum=1936
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY641]
+Std=1
+FileNum=1937
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY642]
+Std=1
+FileNum=1938
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY643]
+Std=1
+FileNum=1939
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY644]
+Std=1
+FileNum=1435
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY645]
+Std=1
+FileNum=1433
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY646]
+Std=1
+FileNum=1942
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY647]
+Std=1
+FileNum=1943
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY648]
+Std=1
+FileNum=1944
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY649]
+Std=1
+FileNum=1945
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY650]
+Std=1
+FileNum=1468
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY651]
+Std=1
+FileNum=1534
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY652]
+Std=1
+FileNum=1948
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY653]
+Std=1
+FileNum=1949
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY654]
+Std=1
+FileNum=1950
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY655]
+Std=1
+FileNum=1951
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY656]
+Std=1
+FileNum=1952
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY657]
+Std=1
+FileNum=1953
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY658]
+Std=1
+FileNum=1954
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY659]
+Std=1
+FileNum=1955
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY660]
+Std=1
+FileNum=1956
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY661]
+Std=1
+FileNum=1957
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY662]
+Std=1
+FileNum=1958
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY663]
+Std=1
+FileNum=1959
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY664]
+Std=1
+FileNum=1960
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY665]
+Std=1
+FileNum=1961
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY666]
+Std=1
+FileNum=1962
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY667]
+Std=1
+FileNum=1963
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY668]
+Std=1
+FileNum=1964
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY669]
+Std=1
+FileNum=1965
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY670]
+Std=1
+FileNum=1966
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY671]
+Std=1
+FileNum=1967
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY672]
+Walk1=43444	 ' arriba
+Walk2=43446	 ' derecha
+Walk3=43443	 ' abajo
+Walk4=43445	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY673]
+Walk1=43471	 ' arriba
+Walk2=43473	 ' derecha
+Walk3=43470	 ' abajo
+Walk4=43472	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY674]
+Walk1=43498	 ' arriba
+Walk2=43500	 ' derecha
+Walk3=43497	 ' abajo
+Walk4=43499	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY675]
+Walk1=43525	 ' arriba
+Walk2=43527	 ' derecha
+Walk3=43524	 ' abajo
+Walk4=43526	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY676]
+Walk1=43552	 ' arriba
+Walk2=43554	 ' derecha
+Walk3=43551	 ' abajo
+Walk4=43553	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY677]
+Walk1=43579	 ' arriba
+Walk2=43581	 ' derecha
+Walk3=43578	 ' abajo
+Walk4=43580	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY678]
+Walk1=43606	 ' arriba
+Walk2=43608	 ' derecha
+Walk3=43605	 ' abajo
+Walk4=43607	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY679]
+Walk1=43633	 ' arriba
+Walk2=43635	 ' derecha
+Walk3=43632	 ' abajo
+Walk4=43634	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY680]
+Walk1=43660	 ' arriba
+Walk2=43662	 ' derecha
+Walk3=43659	 ' abajo
+Walk4=43661	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY681]
+Walk1=43687	 ' arriba
+Walk2=43689	 ' derecha
+Walk3=43686	 ' abajo
+Walk4=43688	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY682]
+Walk1=43714	 ' arriba
+Walk2=43716	 ' derecha
+Walk3=43713	 ' abajo
+Walk4=43715	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY683]
+Walk1=43741	 ' arriba
+Walk2=43743	 ' derecha
+Walk3=43740	 ' abajo
+Walk4=43742	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY684]
+Walk1=43768	 ' arriba
+Walk2=43770	 ' derecha
+Walk3=43767	 ' abajo
+Walk4=43769	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY685]
+Walk1=43795	 ' arriba
+Walk2=43797	 ' derecha
+Walk3=43794	 ' abajo
+Walk4=43796	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY686]
+Walk1=43822	 ' arriba
+Walk2=43824	 ' derecha
+Walk3=43821	 ' abajo
+Walk4=43823	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY687]
+Walk1=43849	 ' arriba
+Walk2=43851	 ' derecha
+Walk3=43848	 ' abajo
+Walk4=43850	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY688]
+Std=79
+FileNum=4614
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY689]
+Std=79
+FileNum=4615
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY690]
+Std=79
+FileNum=4616
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY691]
+Std=79
+FileNum=4617
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY692]
+Walk1=43981	 ' arriba
+Walk2=43979	 ' derecha
+Walk3=43980	 ' abajo
+Walk4=43978	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-44
+
+[BODY693]
+Walk1=44007	 ' arriba
+Walk2=44005	 ' derecha
+Walk3=44006	 ' abajo
+Walk4=44004	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-44
+
+[BODY694]
+Walk1=44665	 ' arriba
+Walk2=44667	 ' derecha
+Walk3=44664	 ' abajo
+Walk4=44666	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-15
+
+[BODY695]
+
+
+[BODY696]
+Walk1=45627	 ' arriba
+Walk2=45629	 ' derecha
+Walk3=45626	 ' abajo
+Walk4=45628	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-70
+
+[BODY697]
+Walk1=45651	 ' arriba
+Walk2=45652	 ' derecha
+Walk3=45650	 ' abajo
+Walk4=45653	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY698]
+Walk1=45675	 ' arriba
+Walk2=45677	 ' derecha
+Walk3=45674	 ' abajo
+Walk4=45676	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-100
+
+[BODY699]
+Walk1=45703	 ' arriba
+Walk2=45705	 ' derecha
+Walk3=45702	 ' abajo
+Walk4=45704	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-30
+
+[BODY700]
+Walk1=45731	 ' arriba
+Walk2=45732	 ' derecha
+Walk3=45730	 ' abajo
+Walk4=45733	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-120
+
+[BODY701]
+Walk1=44637	 ' arriba
+Walk2=44639	 ' derecha
+Walk3=44636	 ' abajo
+Walk4=44638	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-100
+
+[BODY702]
+
+
+[BODY703]
+Walk1=45771	 ' arriba
+Walk2=45773	 ' derecha
+Walk3=45770	 ' abajo
+Walk4=45772	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-90
+
+[BODY704]
+Walk1=45791	 ' arriba
+Walk2=45793	 ' derecha
+Walk3=45790	 ' abajo
+Walk4=45792	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-110
+
+[BODY705]
+Std=1
+FileNum=1006
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY706]
+Walk1=3860	 ' arriba
+Walk2=3860	 ' derecha
+Walk3=3860	 ' abajo
+Walk4=3860	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY707]
+Walk1=3861	 ' arriba
+Walk2=3861	 ' derecha
+Walk3=3861	 ' abajo
+Walk4=3861	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY708]
+Walk1=3862	 ' arriba
+Walk2=3862	 ' derecha
+Walk3=3862	 ' abajo
+Walk4=3862	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY709]
+Walk1=3863	 ' arriba
+Walk2=3863	 ' derecha
+Walk3=3863	 ' abajo
+Walk4=3863	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY710]
+Walk1=3864	 ' arriba
+Walk2=3864	 ' derecha
+Walk3=3864	 ' abajo
+Walk4=3864	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-120
+
+[BODY711]
+Walk1=3865	 ' arriba
+Walk2=3865	 ' derecha
+Walk3=3865	 ' abajo
+Walk4=3865	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY712]
+Walk1=3866	 ' arriba
+Walk2=3866	 ' derecha
+Walk3=3866	 ' abajo
+Walk4=3866	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY713]
+Walk1=3867	 ' arriba
+Walk2=3867	 ' derecha
+Walk3=3867	 ' abajo
+Walk4=3867	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY714]
+Walk1=3868	 ' arriba
+Walk2=3868	 ' derecha
+Walk3=3868	 ' abajo
+Walk4=3868	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY715]
+Walk1=3869	 ' arriba
+Walk2=3869	 ' derecha
+Walk3=3869	 ' abajo
+Walk4=3869	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY716]
+Walk1=3870	 ' arriba
+Walk2=3870	 ' derecha
+Walk3=3870	 ' abajo
+Walk4=3870	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY717]
+Walk1=3871	 ' arriba
+Walk2=3871	 ' derecha
+Walk3=3871	 ' abajo
+Walk4=3871	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY718]
+Walk1=3872	 ' arriba
+Walk2=3872	 ' derecha
+Walk3=3872	 ' abajo
+Walk4=3872	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY719]
+Walk1=3873	 ' arriba
+Walk2=3873	 ' derecha
+Walk3=3873	 ' abajo
+Walk4=3873	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY720]
+Walk1=3874	 ' arriba
+Walk2=3874	 ' derecha
+Walk3=3874	 ' abajo
+Walk4=3874	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY721]
+Std=79
+FileNum=4625
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY722]
+Std=79
+FileNum=4626
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY723]
+Std=79
+FileNum=4623
+HeadOffsetX=0
+HeadOffsetY=-62
+
+[BODY724]
+Std=79
+FileNum=4613
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY725]
+Std=79
+FileNum=4624
+HeadOffsetX=0
+HeadOffsetY=-50
+
+[BODY726]
+Walk1=27358	 ' arriba
+Walk2=27358	 ' derecha
+Walk3=27358	 ' abajo
+Walk4=27358	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY727]
+Walk1=27399	 ' arriba
+Walk2=27401	 ' derecha
+Walk3=27398	 ' abajo
+Walk4=27400	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-36
+
+[BODY728]
+Walk1=27359	 ' arriba
+Walk2=27359	 ' derecha
+Walk3=27359	 ' abajo
+Walk4=27359	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY729]
+Walk1=27360	 ' arriba
+Walk2=27360	 ' derecha
+Walk3=27360	 ' abajo
+Walk4=27360	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY730]
+Walk1=27361	 ' arriba
+Walk2=27361	 ' derecha
+Walk3=27361	 ' abajo
+Walk4=27361	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY731]
+Walk1=27362	 ' arriba
+Walk2=27362	 ' derecha
+Walk3=27362	 ' abajo
+Walk4=27362	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY732]
+Walk1=27363	 ' arriba
+Walk2=27363	 ' derecha
+Walk3=27363	 ' abajo
+Walk4=27363	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY733]
+Walk1=27364	 ' arriba
+Walk2=27364	 ' derecha
+Walk3=27364	 ' abajo
+Walk4=27364	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY734]
+Walk1=27365	 ' arriba
+Walk2=27365	 ' derecha
+Walk3=27365	 ' abajo
+Walk4=27365	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY735]
+Walk1=27366	 ' arriba
+Walk2=27366	 ' derecha
+Walk3=27366	 ' abajo
+Walk4=27366	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY736]
+Walk1=27367	 ' arriba
+Walk2=27367	 ' derecha
+Walk3=27367	 ' abajo
+Walk4=27367	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY737]
+Walk1=27368	 ' arriba
+Walk2=27368	 ' derecha
+Walk3=27368	 ' abajo
+Walk4=27368	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY738]
+Walk1=27369	 ' arriba
+Walk2=27369	 ' derecha
+Walk3=27369	 ' abajo
+Walk4=27369	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY739]
+Walk1=27370	 ' arriba
+Walk2=27370	 ' derecha
+Walk3=27370	 ' abajo
+Walk4=27370	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY740]
+Walk1=27371	 ' arriba
+Walk2=27371	 ' derecha
+Walk3=27371	 ' abajo
+Walk4=27371	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY741]
+Walk1=27372	 ' arriba
+Walk2=27372	 ' derecha
+Walk3=27372	 ' abajo
+Walk4=27372	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY742]
+Walk1=27373	 ' arriba
+Walk2=27373	 ' derecha
+Walk3=27373	 ' abajo
+Walk4=27373	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY743]
+Walk1=7196	 ' arriba
+Walk2=7193	 ' derecha
+Walk3=7195	 ' abajo
+Walk4=7194	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-56
+
+[BODY744]
+Walk1=46897	 ' arriba
+Walk2=46899	 ' derecha
+Walk3=46896	 ' abajo
+Walk4=46898	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY745]
+Walk1=46924	 ' arriba
+Walk2=46926	 ' derecha
+Walk3=46923	 ' abajo
+Walk4=46925	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY746]
+Walk1=46951	 ' arriba
+Walk2=46953	 ' derecha
+Walk3=46950	 ' abajo
+Walk4=46952	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY747]
+Walk1=46978	 ' arriba
+Walk2=46980	 ' derecha
+Walk3=46977	 ' abajo
+Walk4=46979	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY748]
+Walk1=47005	 ' arriba
+Walk2=47007	 ' derecha
+Walk3=47004	 ' abajo
+Walk4=47006	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY749]
+Walk1=47032	 ' arriba
+Walk2=47034	 ' derecha
+Walk3=47031	 ' abajo
+Walk4=47033	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY750]
+Walk1=47059	 ' arriba
+Walk2=47061	 ' derecha
+Walk3=47058	 ' abajo
+Walk4=47060	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY751]
+Walk1=47086	 ' arriba
+Walk2=47088	 ' derecha
+Walk3=47085	 ' abajo
+Walk4=47087	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY752]
+Walk1=47113	 ' arriba
+Walk2=47115	 ' derecha
+Walk3=47112	 ' abajo
+Walk4=47114	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY753]
+Walk1=47140	 ' arriba
+Walk2=47142	 ' derecha
+Walk3=47139	 ' abajo
+Walk4=47141	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY754]
+Std=1
+FileNum=1281
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY755]
+Walk1=47194	 ' arriba
+Walk2=47196	 ' derecha
+Walk3=47193	 ' abajo
+Walk4=47195	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY756]
+Walk1=47221	 ' arriba
+Walk2=47223	 ' derecha
+Walk3=47220	 ' abajo
+Walk4=47222	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY757]
+Walk1=47248	 ' arriba
+Walk2=47250	 ' derecha
+Walk3=47247	 ' abajo
+Walk4=47249	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY758]
+Walk1=47275	 ' arriba
+Walk2=47277	 ' derecha
+Walk3=47274	 ' abajo
+Walk4=47276	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY759]
+Walk1=47302	 ' arriba
+Walk2=47304	 ' derecha
+Walk3=47301	 ' abajo
+Walk4=47303	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY760]
+Walk1=47329	 ' arriba
+Walk2=47331	 ' derecha
+Walk3=47328	 ' abajo
+Walk4=47330	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY761]
+Walk1=47356	 ' arriba
+Walk2=47358	 ' derecha
+Walk3=47355	 ' abajo
+Walk4=47357	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY762]
+Walk1=47383	 ' arriba
+Walk2=47385	 ' derecha
+Walk3=47382	 ' abajo
+Walk4=47384	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY763]
+Walk1=47410	 ' arriba
+Walk2=47412	 ' derecha
+Walk3=47409	 ' abajo
+Walk4=47411	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY764]
+Walk1=47437	 ' arriba
+Walk2=47439	 ' derecha
+Walk3=47436	 ' abajo
+Walk4=47438	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY765]
+Walk1=47464	 ' arriba
+Walk2=47466	 ' derecha
+Walk3=47463	 ' abajo
+Walk4=47465	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY766]
+Walk1=47491	 ' arriba
+Walk2=47493	 ' derecha
+Walk3=47490	 ' abajo
+Walk4=47492	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY767]
+Walk1=47518	 ' arriba
+Walk2=47520	 ' derecha
+Walk3=47517	 ' abajo
+Walk4=47519	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY768]
+Walk1=47545	 ' arriba
+Walk2=47547	 ' derecha
+Walk3=47544	 ' abajo
+Walk4=47546	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY769]
+Walk1=47572	 ' arriba
+Walk2=47574	 ' derecha
+Walk3=47571	 ' abajo
+Walk4=47573	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY770]
+Walk1=47599	 ' arriba
+Walk2=47601	 ' derecha
+Walk3=47598	 ' abajo
+Walk4=47600	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY771]
+Walk1=47626	 ' arriba
+Walk2=47628	 ' derecha
+Walk3=47625	 ' abajo
+Walk4=47627	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY772]
+Walk1=12625	 ' arriba
+Walk2=12627	 ' derecha
+Walk3=12624	 ' abajo
+Walk4=12626	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-15
+
+[BODY773]
+Std=1
+FileNum=1405
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY774]
+Walk1=49579	 ' arriba
+Walk2=49578	 ' derecha
+Walk3=49577	 ' abajo
+Walk4=49576	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY775]
+Walk1=49604	 ' arriba
+Walk2=49606	 ' derecha
+Walk3=49603	 ' abajo
+Walk4=49605	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY776]
+Walk1=49632	 ' arriba
+Walk2=49633	 ' derecha
+Walk3=49631	 ' abajo
+Walk4=49634	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY777]
+Walk1=49648	 ' arriba
+Walk2=49650	 ' derecha
+Walk3=49647	 ' abajo
+Walk4=49649	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY778]
+
+[BODY779]
+Walk1=49688	 ' arriba
+Walk2=49690	 ' derecha
+Walk3=49687	 ' abajo
+Walk4=49689	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY780]
+Std=31
+FileNum=4065
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY781]
+Walk1=49761	 ' arriba
+Walk2=49763	 ' derecha
+Walk3=49760	 ' abajo
+Walk4=49762	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-5
+
+[BODY782]
+Walk1=49773	 ' arriba
+Walk2=49775	 ' derecha
+Walk3=49772	 ' abajo
+Walk4=49774	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-15
+
+[BODY783]
+Walk1=49801	 ' arriba
+Walk2=49802	 ' derecha
+Walk3=49800	 ' abajo
+Walk4=49803	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY784]
+Walk1=49829	 ' arriba
+Walk2=49830	 ' derecha
+Walk3=49828	 ' abajo
+Walk4=49831	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY785]
+
+
+[BODY786]
+Walk1=49864	 ' arriba
+Walk2=49866	 ' derecha
+Walk3=49863	 ' abajo
+Walk4=49865	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-10
+
+[BODY787]
+Walk1=49890	 ' arriba
+Walk2=49892	 ' derecha
+Walk3=49889	 ' abajo
+Walk4=49891	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY788]
+
+
+[BODY789]
+Walk1=50036	 ' arriba
+Walk2=50035	 ' derecha
+Walk3=50033	 ' abajo
+Walk4=50034	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY790]
+Walk1=50070	 ' arriba
+Walk2=50072	 ' derecha
+Walk3=50069	 ' abajo
+Walk4=50071	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY791]
+Walk1=50096	 ' arriba
+Walk2=50098	 ' derecha
+Walk3=50095	 ' abajo
+Walk4=50097	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY792]
+Walk1=50112	 ' arriba
+Walk2=50114	 ' derecha
+Walk3=50111	 ' abajo
+Walk4=50113	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY793]
+Walk1=50128	 ' arriba
+Walk2=50129	 ' derecha
+Walk3=50127	 ' abajo
+Walk4=50130	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY794]
+Walk1=50148	 ' arriba
+Walk2=50150	 ' derecha
+Walk3=50147	 ' abajo
+Walk4=50149	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY795]
+Walk1=50174	 ' arriba
+Walk2=50176	 ' derecha
+Walk3=50173	 ' abajo
+Walk4=50175	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY796]
+Walk1=50200	 ' arriba
+Walk2=50202	 ' derecha
+Walk3=50199	 ' abajo
+Walk4=50201	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY797]
+Std=65
+FileNum=4593
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY798]
+Walk1=50248	 ' arriba
+Walk2=50250	 ' derecha
+Walk3=50247	 ' abajo
+Walk4=50249	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY799]
+Walk1=50268	 ' arriba
+Walk2=50270	 ' derecha
+Walk3=50267	 ' abajo
+Walk4=50269	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY800]
+Walk1=50324
+Walk2=50325
+Walk3=50323
+Walk4=50326
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY801]
+Walk1=50348
+Walk2=50349
+Walk3=50347
+Walk4=50350
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY802]
+Walk1=50372
+Walk2=50373
+Walk3=50371
+Walk4=50374
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY803]
+Walk1=50396
+Walk2=50397
+Walk3=50395
+Walk4=50398
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY804]
+Walk1=50432	 ' arriba
+Walk2=50434	 ' derecha
+Walk3=50431	 ' abajo
+Walk4=50433	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY805]
+Walk1=50452	 ' arriba
+Walk2=50454	 ' derecha
+Walk3=50451	 ' abajo
+Walk4=50453	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY806]
+Std=70
+FileNum=4305
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY807]
+Std=65
+FileNum=4592
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY808]
+Walk1=1993	 ' arriba
+Walk2=1993	 ' derecha
+Walk3=1993	 ' abajo
+Walk4=1993	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY809]
+Walk1=1503	 ' arriba
+Walk2=1503	 ' derecha
+Walk3=1503	 ' abajo
+Walk4=1503	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY810]
+Walk1=1504	 ' arriba
+Walk2=1504	 ' derecha
+Walk3=1504	 ' abajo
+Walk4=1504	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY811]
+Std=6
+FileNum=4601
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY812]
+Std=76
+FileNum=4601
+HeadOffsetX=0
+HeadOffsetY=0
+
+
+[BODY813]
+Std=82
+FileNum=4732
+HeadOffsetX=0
+HeadOffsetY=-126
+BodyOffsetX=0
+BodyOffsetY=32
+Speed=0.50
+
+[BODY814]
+Std=83
+FileNum=4733
+HeadOffsetX=0
+HeadOffsetY=-126
+BodyOffsetX=0
+BodyOffsetY=32
+Speed=0.50
+
+[BODY815]
+
+
+[BODY816]
+Std=31
+FileNum=4149
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.50
+
+[BODY817]
+Std=31
+FileNum=4150
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY818]
+Std=31
+FileNum=4151
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY819]
+Std=31
+FileNum=4152
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY820]
+Std=31
+FileNum=4153
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY821]
+Std=31
+FileNum=4154
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY822]
+Std=31
+FileNum=4155
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY823]
+Std=31
+FileNum=4156
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY824]
+Std=84
+FileNum=4736
+HeadOffsetX=0
+HeadOffsetY=-64
+BodyOffsetX=0
+BodyOffsetY=0
+Speed=0.50
+
+[BODY825]
+Std=84
+FileNum=4737
+HeadOffsetX=0
+HeadOffsetY=-64
+BodyOffsetX=0
+BodyOffsetY=0
+Speed=0.50
+
+[BODY826]
+Std=32
+FileNum=4159
+HeadOffsetX=0
+HeadOffsetY=-35
+BodyOffsetX=0
+BodyOffsetY=32
+Speed=0.5
+
+[BODY827]
+Std=32
+FileNum=4160
+HeadOffsetX=0
+HeadOffsetY=-35
+BodyOffsetX=0
+BodyOffsetY=32
+Speed=0.5
+
+[BODY828]
+Std=5
+FileNum=4204
+HeadOffsetX=0
+HeadOffsetY=-35
+BodyOffsetX=0
+BodyOffsetY=0
+Speed=0.5
+
+[BODY829]
+Walk1=51672	 ' arriba
+Walk2=51673	 ' derecha
+Walk3=51671	 ' abajo
+Walk4=51674  ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY830]
+Walk1=51696	 ' arriba
+Walk2=51697	 ' derecha
+Walk3=51695	 ' abajo
+Walk4=51698  ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY831]
+Nombre=Pato 1
+Walk1=55506
+Walk2=55505
+Walk3=55503
+Walk4=55504
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY832]
+Nombre=Pato 2
+Walk1=55522
+Walk2=55521
+Walk3=55519
+Walk4=55520
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY833]
+Nombre=Pato 3
+Walk1=55538
+Walk2=55537
+Walk3=55535
+Walk4=55536
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY834]
+Nombre=Pato 4
+Walk1=55554
+Walk2=55553
+Walk3=55551
+Walk4=55552
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY835]
+Nombre=Pato 5
+Walk1=55570
+Walk2=55569
+Walk3=55567
+Walk4=55568
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY836]
+Nombre=Pato 6
+Walk1=55586
+Walk2=55585
+Walk3=55583
+Walk4=55584
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY837]
+Nombre=Pato 7
+Walk1=55602
+Walk2=55601
+Walk3=55599
+Walk4=55600
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY838]
+Nombre=Pato 8
+Walk1=55618
+Walk2=55617
+Walk3=55615
+Walk4=55616
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY839]
+Std=84
+FileNum=4735
+HeadOffsetX=0
+HeadOffsetY=-64
+BodyOffsetX=0
+BodyOffsetY=0
+Speed=0.50
+
+[BODY840]
+Walk1=55759
+Walk2=55761
+Walk3=55758
+Walk4=55760
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY841]
+Walk1=55785
+Walk2=55787
+Walk3=55784
+Walk4=55786
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY842]
+Walk1=55811
+Walk2=55813
+Walk3=55810
+Walk4=55812
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY843]
+Walk1=49394
+Walk2=49394
+Walk3=49394
+Walk4=49394
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY844]
+Std=1
+FileNum=4093
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY845]
+Std=22
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.4
+
+[BODY846]
+Std=23
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.4
+
+[BODY847]
+Std=75
+FileNum=4019
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY848]
+Std=84
+FileNum=4734
+HeadOffsetX=0
+HeadOffsetY=-64
+BodyOffsetX=0
+BodyOffsetY=0
+Speed=0.50
+
+[BODY849]
+Std=48
+FileNum=4020
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY850]
+Std=53
+FileNum=4205
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY851]
+Std=37
+FileNum=4206
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY852]
+Std=50
+FileNum=4207
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY853]
+Std=49
+FileNum=4022
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY854]
+Std=6
+FileNum=4021
+HeadOffsetX=0
+HeadOffsetY=0
+
+
+[BODY855]
+Std=48
+FileNum=4023
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY856]
+Std=48
+FileNum=4024
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY857]
+Walk1=57307	 ' arriba
+Walk2=57307	 ' derecha
+Walk3=57307	 ' abajo
+Walk4=57307	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY858]
+Walk1=57330	 ' arriba
+Walk2=57330	 ' derecha
+Walk3=57330	 ' abajo
+Walk4=57330	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY859]
+Walk1=57314	 ' arriba
+Walk2=57314	 ' derecha
+Walk3=57314	 ' abajo
+Walk4=57314	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY860]
+Walk1=57322	 ' arriba
+Walk2=57322	 ' derecha
+Walk3=57322 ' abajo
+Walk4=57322	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY861]
+Walk1=57339	 ' arriba
+Walk2=57339	 ' derecha
+Walk3=57339	 ' abajo
+Walk4=57339	 ' izq
+HeadOffsetX=1
+HeadOffsetY=-34
+
+[BODY862]
+Walk1=57437
+Walk2=57437
+Walk3=57437
+Walk4=57437
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=16
+BodyOffsetY=64
+
+[BODY863]
+Walk1=57438
+Walk2=57438
+Walk3=57438
+Walk4=57438
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=16
+BodyOffsetY=64
+
+[BODY864]
+Walk1=57436
+Walk2=57436
+Walk3=57436
+Walk4=57436
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=16
+BodyOffsetY=64
+
+[BODY865]
+Walk1=57439
+Walk2=57439
+Walk3=57439
+Walk4=57439
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=16
+BodyOffsetY=64
+
+[BODY866]
+Std=1
+FileNum=1256
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY867]
+Std=1
+FileNum=1006
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY868]
+Std=1
+FileNum=1914
+HeadOffsetY=-35
+
+[BODY869]
+Std=1
+FileNum=1916
+HeadOffsetY=-35
+
+[BODY870]
+Std=1
+FileNum=1917
+HeadOffsetY=-25
+
+[BODY871]
+Std=1
+FileNum=1343
+HeadOffsetY=-35
+
+[BODY872]
+Std=2
+FileNum=1343
+HeadOffsetY=-35
+
+[BODY873]
+Std=3
+FileNum=1343
+HeadOffsetY=-35
+
+[BODY874]
+Std=5
+FileNum=4051
+HeadOffsetY=-25
+
+[BODY875]
+Std=6
+FileNum=4025
+HeadOffsetY=-35
+
+[BODY876]
+Std=6
+FileNum=4026
+HeadOffsetY=-35
+
+[BODY877]
+Std=5
+FileNum=4209
+HeadOffsetY=-35
+
+[BODY878]
+Std=1
+FileNum=1022
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY879]
+Std=1
+FileNum=1023
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY880]
+Std=1
+FileNum=1363
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY881]
+Std=1
+FileNum=1025
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY882]
+Std=1
+FileNum=1026
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY883]
+Std=1
+FileNum=1027
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY884]
+Std=1
+FileNum=1028
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY885]
+Std=1
+FileNum=1029
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY886]
+Std=1
+FileNum=1030
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY887]
+Std=1
+FileNum=1031
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY888]
+Std=1
+FileNum=1032
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY889]
+Std=1
+FileNum=1033
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY890]
+Std=1
+FileNum=1034
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY891]
+Std=1
+FileNum=1035
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY892]
+Std=1
+FileNum=1036
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY893]
+Std=1
+FileNum=1037
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY894]
+Std=1
+FileNum=1038
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY895]
+Std=1
+FileNum=1039
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY896]
+Std=1
+FileNum=1040
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY897]
+Std=1
+FileNum=1041
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY898]
+Std=1
+FileNum=1042
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY899]
+Std=1
+FileNum=1043
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY900]
+Std=1
+FileNum=1044
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY901]
+Std=1
+FileNum=1045
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY902]
+Std=1
+FileNum=1046
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY903]
+Std=1
+FileNum=1047
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY904]
+Std=1
+FileNum=1048
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY905]
+Std=1
+FileNum=1049
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY906]
+Std=1
+FileNum=1050
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY907]
+Std=1
+FileNum=1051
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY908]
+Std=1
+FileNum=1052
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY909]
+Std=1
+FileNum=1053
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY910]
+Std=1
+FileNum=1054
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY911]
+Std=1
+FileNum=1055
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY912]
+Std=1
+FileNum=1056
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY913]
+Std=1
+FileNum=1057
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY914]
+Std=1
+FileNum=1058
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY915]
+Std=1
+FileNum=1059
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY916]
+Std=1
+FileNum=1362
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY917]
+Std=1
+FileNum=1061
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY918]
+Std=1
+FileNum=1062
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY919]
+Std=1
+FileNum=1063
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY920]
+Std=1
+FileNum=1064
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY921]
+Std=1
+FileNum=1065
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY922]
+Std=1
+FileNum=1066
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY923]
+Std=1
+FileNum=1067
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY924]
+Std=1
+FileNum=1068
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY925]
+Std=1
+FileNum=1069
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY926]
+Std=1
+FileNum=1070
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY927]
+Std=1
+FileNum=1071
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY928]
+Std=1
+FileNum=1072
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY929]
+Std=1
+FileNum=1073
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY930]
+Std=1
+FileNum=1074
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY931]
+Std=1
+FileNum=1075
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY932]
+Std=1
+FileNum=1076
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY933]
+Std=1
+FileNum=1077
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY934]
+Std=1
+FileNum=1078
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY935]
+Std=1
+FileNum=1079
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY936]
+Std=1
+FileNum=1080
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY937]
+Std=1
+FileNum=1083
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY938]
+Std=1
+FileNum=1084
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY939]
+Std=1
+FileNum=1085
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY940]
+Std=1
+FileNum=1086
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY941]
+Std=1
+FileNum=1087
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY942]
+Std=1
+FileNum=1168
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY943]
+Std=1
+FileNum=1089
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY944]
+Std=1
+FileNum=1090
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY945]
+Std=1
+FileNum=1091
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY946]
+Std=1
+FileNum=1092
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY947]
+Std=1
+FileNum=1093
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY948]
+Std=1
+FileNum=1094
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY949]
+Std=1
+FileNum=1095
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY950]
+Std=1
+FileNum=1096
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY951]
+Std=1
+FileNum=1097
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY952]
+Std=1
+FileNum=1098
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY953]
+Std=1
+FileNum=1419
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY954]
+Std=1
+FileNum=1100
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY955]
+Std=1
+FileNum=1101
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY956]
+Std=1
+FileNum=1102
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY957]
+Std=1
+FileNum=1103
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY958]
+Std=1
+FileNum=1104
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY959]
+Std=1
+FileNum=1105
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY960]
+Std=1
+FileNum=1106
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY961]
+Std=1
+FileNum=1107
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY962]
+Std=1
+FileNum=1108
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY963]
+Std=1
+FileNum=1109
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY964]
+Std=1
+FileNum=1110
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY965]
+Std=1
+FileNum=1111
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY966]
+Std=1
+FileNum=1112
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY967]
+Std=1
+FileNum=1113
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY968]
+Std=1
+FileNum=1114
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY969]
+Std=1
+FileNum=1115
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY970]
+Std=1
+FileNum=1116
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY971]
+Std=1
+FileNum=1117
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY972]
+Std=1
+FileNum=1118
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY973]
+Std=1
+FileNum=1119
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY974]
+Std=1
+FileNum=1120
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY975]
+Std=1
+FileNum=1121
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY976]
+Std=1
+FileNum=1122
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY977]
+Std=1
+FileNum=1123
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY978]
+Std=1
+FileNum=1124
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY979]
+Std=1
+FileNum=1125
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY980]
+Std=1
+FileNum=1126
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY981]
+Std=1
+FileNum=1127
+HeadOffsetX=0
+HeadOffsetY=-25
+
+[BODY982]
+Std=1
+FileNum=1128
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY983]
+Std=1
+FileNum=1129
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY984]
+Std=1
+FileNum=1130
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY985]
+Std=1
+FileNum=1131
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY986]
+Std=1
+FileNum=1132
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY987]
+Std=1
+FileNum=1133
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY988]
+Std=1
+FileNum=1134
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY989]
+Std=1
+FileNum=1135
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY990]
+Std=1
+FileNum=1136
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY991]
+Std=1
+FileNum=1137
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY992]
+Std=1
+FileNum=1138
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY993]
+Std=1
+FileNum=1139
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY994]
+Std=1
+FileNum=1140
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY995]
+Std=1
+FileNum=1141
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY996]
+Std=1
+FileNum=1142
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY997]
+Std=1
+FileNum=1143
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY998]
+Std=1
+FileNum=1144
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY999]
+Std=1
+FileNum=1145
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1000]
+Std=1
+FileNum=1146
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1001]
+Std=1
+FileNum=1147
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1002]
+Std=1
+FileNum=1148
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1003]
+Std=1
+FileNum=1419
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1004]
+Std=1
+FileNum=1150
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1005]
+Std=1
+FileNum=1151
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1006]
+Std=1
+FileNum=1152
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1007]
+Std=1
+FileNum=1153
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1008]
+Std=1
+FileNum=1154
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1009]
+Std=1
+FileNum=1155
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1010]
+Std=1
+FileNum=1156
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1011]
+Std=1
+FileNum=1157
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1012]
+Std=1
+FileNum=1158
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1013]
+Std=1
+FileNum=1159
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1014]
+Std=1
+FileNum=1160
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1015]
+Std=1
+FileNum=1161
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1016]
+Std=1
+FileNum=1162
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1017]
+Std=1
+FileNum=1163
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1018]
+Std=1
+FileNum=1164
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1019]
+Std=1
+FileNum=1165
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1020]
+Std=1
+FileNum=1166
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1021]
+Std=1
+FileNum=1167
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1022]
+Std=7
+FileNum=4062
+HeadOffsetX=0
+HeadOffsetY=-60
+
+[BODY1023]
+Std=7
+FileNum=4063
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1024]
+Std=7
+FileNum=4064
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1025]
+Std=2
+FileNum=1169
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1026]
+Std=3
+FileNum=1169
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1027]
+Std=4
+FileNum=1169
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1028]
+Std=1
+FileNum=1174
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1029]
+Std=1
+FileNum=4210
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1030]
+
+
+[BODY1031]
+Std=1
+FileNum=1198
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1032]
+Std=1
+FileNum=1300
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1033]
+Std=1
+FileNum=1687
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1034]
+Std=1
+FileNum=1688
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1035]
+Std=1
+FileNum=1689
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1036]
+Std=1
+FileNum=1690
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1037]
+Std=1
+FileNum=1691
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1038]
+Std=1
+FileNum=1692
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1039]
+Std=1
+FileNum=1693
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1040]
+Std=1
+FileNum=1694
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1041]
+Std=1
+FileNum=1695
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1042]
+Std=1
+FileNum=1696
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1043]
+Std=1
+FileNum=1697
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1044]
+Std=1
+FileNum=1540
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1045]
+Std=1
+FileNum=1698
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1046]
+Std=1
+FileNum=1899
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1047]
+Std=1
+FileNum=1898
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1048]
+Std=1
+FileNum=1897
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1049]
+Std=1
+FileNum=1896
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1050]
+Std=1
+FileNum=1895
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1051]
+Std=1
+FileNum=1894
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1052]
+Std=1
+FileNum=1893
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1053]
+Std=1
+FileNum=1892
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1054]
+Std=1
+FileNum=1799
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1055]
+Std=1
+FileNum=1798
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1056]
+Std=1
+FileNum=1797
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1057]
+Std=1
+FileNum=1350
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1058]
+Std=1
+FileNum=1352
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1059]
+Std=1
+FileNum=1353
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1060]
+Std=1
+FileNum=1354
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1061]
+Std=1
+FileNum=1355
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1062]
+Std=1
+FileNum=1356
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1063]
+Std=1
+FileNum=1357
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1064]
+Std=1
+FileNum=1358
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1065]
+Std=1
+FileNum=1359
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1066]
+Std=1
+FileNum=1360
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1067]
+Std=1
+FileNum=1361
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1068]
+Std=1
+FileNum=1362
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1069]
+Std=1
+FileNum=1363
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1070]
+Std=1
+FileNum=1364
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1071]
+Std=1
+FileNum=1365
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1072]
+Std=1
+FileNum=1366
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1073]
+Std=1
+FileNum=1367
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1074]
+Std=1
+FileNum=1368
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1075]
+Std=1
+FileNum=1369
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1076]
+Std=1
+FileNum=1376
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1077]
+Std=1
+FileNum=1377
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1078]
+Std=1
+FileNum=1378
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1079]
+Std=1
+FileNum=1379
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1080]
+Std=1
+FileNum=1380
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1081]
+Std=1
+FileNum=1381
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1082]
+Std=1
+FileNum=1382
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1083]
+Std=1
+FileNum=1383
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1084]
+Std=1
+FileNum=1384
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1085]
+Std=1
+FileNum=1385
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1086]
+Std=1
+FileNum=1386
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1087]
+Std=1
+FileNum=1387
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1088]
+Std=1
+FileNum=1388
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1089]
+Std=1
+FileNum=1389
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1090]
+Std=1
+FileNum=1390
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1091]
+Std=1
+FileNum=1391
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1092]
+Std=1
+FileNum=1392
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1093]
+Std=1
+FileNum=1393
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1094]
+Std=1
+FileNum=1394
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1095]
+Std=1
+FileNum=1395
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1096]
+Std=1
+FileNum=1396
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1097]
+Std=1
+FileNum=1397
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1098]
+Std=1
+FileNum=1398
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1099]
+Std=1
+FileNum=1399
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1100]
+Std=1
+FileNum=1450
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1101]
+Std=1
+FileNum=1451
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1102]
+Std=1
+FileNum=1452
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1103]
+Std=1
+FileNum=1453
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1104]
+Std=1
+FileNum=1454
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1105]
+Std=1
+FileNum=1455
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1106]
+Std=1
+FileNum=1458
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1107]
+Std=1
+FileNum=1538
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1108]
+Std=1
+FileNum=1539
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1109]
+Std=1
+FileNum=1459
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1110]
+Std=1
+FileNum=1460
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1111]
+Std=1
+FileNum=1461
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1112]
+Std=1
+FileNum=1462
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1113]
+Std=1
+FileNum=1463
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1114]
+Std=1
+FileNum=1464
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1115]
+Std=1
+FileNum=1465
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1116]
+Std=1
+FileNum=1466
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1117]
+Std=1
+FileNum=1467
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1118]
+Std=1
+FileNum=1468
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1119]
+Std=1
+FileNum=1469
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1120]
+Std=1
+FileNum=1470
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1121]
+Std=1
+FileNum=1471
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1122]
+Std=7
+FileNum=4105
+HeadOffsetX=-20
+HeadOffsetY=-82
+
+[BODY1123]
+Std=7
+FileNum=4106
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1124]
+Std=8
+FileNum=4107
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1125]
+Std=9
+FileNum=4107
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1126]
+Std=8
+FileNum=4108
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1127]
+Std=9
+FileNum=4108
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1128]
+Std=8
+FileNum=4109
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1129]
+Std=9
+FileNum=4109
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1130]
+Std=8
+FileNum=4110
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1131]
+Std=9
+FileNum=4110
+Speed=0.6
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1132]
+Std=8
+FileNum=4111
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1133]
+Std=9
+FileNum=4111
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1134]
+Std=8
+FileNum=4112
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1135]
+Std=9
+FileNum=4112
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1136]
+Std=8
+FileNum=4113
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1137]
+Std=9
+FileNum=4113
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1138]
+Std=8
+FileNum=4114
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1139]
+Std=9
+FileNum=4114
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1140]
+Std=1
+FileNum=1449
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1141]
+Std=1
+FileNum=1472
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1142]
+Std=1
+FileNum=1473
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1143]
+Std=1
+FileNum=1474
+HeadOffsetX=0
+HeadOffsetY=-25
+
+[BODY1144]
+Std=1
+FileNum=1475
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1145]
+Std=1
+FileNum=1476
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1146]
+Std=1
+FileNum=1477
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1147]
+Std=1
+FileNum=1478
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1148]
+Std=1
+FileNum=1479
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1149]
+Std=1
+FileNum=1480
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1150]
+Std=1
+FileNum=1481
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1151]
+Std=1
+FileNum=1482
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1152]
+Std=1
+FileNum=1483
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1153]
+Std=1
+FileNum=1484
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1154]
+Std=1
+FileNum=1485
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1155]
+Std=1
+FileNum=1486
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1156]
+Std=1
+FileNum=1487
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1157]
+Std=1
+FileNum=1488
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1158]
+Std=1
+FileNum=1489
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1159]
+Std=1
+FileNum=1490
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1160]
+Std=1
+FileNum=1491
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1161]
+Std=1
+FileNum=1492
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1162]
+Std=1
+FileNum=1493
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1163]
+Std=1
+FileNum=1494
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1164]
+Std=1
+FileNum=1495
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1165]
+Std=1
+FileNum=1496
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1166]
+Std=1
+FileNum=1497
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1167]
+Std=1
+FileNum=1498
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1168]
+Std=1
+FileNum=1499
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1169]
+Std=1
+FileNum=1505
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1170]
+Std=1
+FileNum=1506
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1171]
+Std=1
+FileNum=1507
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1172]
+Std=1
+FileNum=1508
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1173]
+Std=1
+FileNum=1509
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1174]
+Std=1
+FileNum=1510
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1175]
+Std=1
+FileNum=1511
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1176]
+Std=1
+FileNum=1512
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1177]
+Std=1
+FileNum=1513
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1178]
+Std=1
+FileNum=1514
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1179]
+Std=1
+FileNum=1515
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1180]
+Std=1
+FileNum=1516
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1181]
+Std=1
+FileNum=1517
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1182]
+Std=1
+FileNum=1518
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1183]
+Std=1
+FileNum=1519
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1184]
+Std=1
+FileNum=1520
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1185]
+Std=1
+FileNum=1521
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1186]
+Std=1
+FileNum=1522
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1187]
+Std=1
+FileNum=1523
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1188]
+Std=1
+FileNum=1524
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1189]
+Std=1
+FileNum=1525
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1190]
+Std=1
+FileNum=1526
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1191]
+Std=1
+FileNum=1527
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1192]
+Std=1
+FileNum=1528
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1193]
+Std=1
+FileNum=1529
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1194]
+Std=1
+FileNum=1301
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1195]
+Std=1
+FileNum=1302
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1196]
+Std=1
+FileNum=1303
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1197]
+Std=1
+FileNum=1304
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1198]
+Std=1
+FileNum=1305
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1199]
+Std=1
+FileNum=1306
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1200]
+Std=1
+FileNum=1535
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1201]
+Std=1
+FileNum=1536
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1202]
+Std=1
+FileNum=1537
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1203]
+Std=1
+FileNum=1541
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1204]
+Std=1
+FileNum=1542
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1205]
+Std=1
+FileNum=1543
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1206]
+Std=1
+FileNum=1544
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1207]
+Std=1
+FileNum=1545
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1208]
+Std=1
+FileNum=1546
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1209]
+Std=1
+FileNum=1547
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1210]
+Std=1
+FileNum=1548
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1211]
+Std=1
+FileNum=1549
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1212]
+Std=1
+FileNum=1550
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1213]
+Std=1
+FileNum=1551
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1214]
+Std=1
+FileNum=1552
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1215]
+Std=1
+FileNum=1553
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1216]
+Std=1
+FileNum=1554
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1217]
+Std=1
+FileNum=1555
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1218]
+Std=1
+FileNum=1556
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1219]
+Std=1
+FileNum=1557
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1220]
+Std=1
+FileNum=1558
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1221]
+Std=1
+FileNum=1559
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1222]
+Std=1
+FileNum=1560
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1223]
+Std=1
+FileNum=1561
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1224]
+Std=1
+FileNum=1562
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1225]
+Std=1
+FileNum=1563
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1226]
+Std=1
+FileNum=1564
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1227]
+Std=1
+FileNum=1565
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1228]
+Std=1
+FileNum=1566
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1229]
+Std=1
+FileNum=1567
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1230]
+Std=1
+FileNum=1568
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1231]
+Std=1
+FileNum=1569
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1232]
+Std=1
+FileNum=1570
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1233]
+Std=1
+FileNum=1571
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1234]
+Std=1
+FileNum=1573
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1235]
+Std=1
+FileNum=1574
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1236]
+Std=1
+FileNum=1575
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1237]
+Std=1
+FileNum=1576
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1238]
+Std=1
+FileNum=1577
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1239]
+Std=1
+FileNum=1578
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1240]
+Std=1
+FileNum=1579
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1241]
+Std=1
+FileNum=1580
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1242]
+Std=1
+FileNum=1581
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1243]
+Std=1
+FileNum=1582
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1244]
+Std=1
+FileNum=1583
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1245]
+Std=10
+FileNum=4115
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1246]
+Std=11
+FileNum=4115
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1247]
+Std=12
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1248]
+Std=13
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1249]
+Std=14
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1250]
+Std=15
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1251]
+Std=16
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1252]
+Std=17
+FileNum=4116
+HeadOffsetX=0
+HeadOffsetY=-35
+Speed=0.25
+
+[BODY1253]
+Std=1
+FileNum=1584
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1254]
+Std=1
+FileNum=1585
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1255]
+Std=1
+FileNum=1586
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1256]
+Std=24
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY1257]
+Std=25
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY1258]
+Std=26
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1259]
+Std=27
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+
+
+[BODY1260]
+Std=28
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY1261]
+Std=29
+FileNum=4018
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY1262]
+Std=7
+FileNum=4351
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1263]
+Std=30
+FileNum=395
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1264]
+Std=7
+FileNum=395
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1265]
+Std=7
+FileNum=387
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1266]
+Std=30
+FileNum=387
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1267]
+Std=7
+FileNum=386
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1268]
+Std=30
+FileNum=386
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1269]
+Std=7
+FileNum=388
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1270]
+Std=30
+FileNum=388
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1271]
+Std=7
+FileNum=390
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1272]
+Std=30
+FileNum=390
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1273]
+Std=7
+FileNum=389
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1274]
+Std=30
+FileNum=389
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1275]
+Std=31
+FileNum=4352
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1276]
+Std=7
+FileNum=4360
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1277]
+Std=30
+FileNum=4360
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1278]
+Std=32
+FileNum=4361
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1279]
+Std=32
+FileNum=4362
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1280]
+Std=34
+FileNum=4364
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1281]
+Std=35
+FileNum=4365
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1282]
+Std=44
+FileNum=4366
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1283]
+Std=46
+FileNum=4364
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1284]
+Std=46
+FileNum=4365
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1285]
+Std=45
+FileNum=4366
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1286]
+Std=54
+FileNum=4368
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1287]
+Std=55
+FileNum=600
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1288]
+Std=56
+FileNum=600
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1289]
+Walk1=92	 ' arriba
+Walk2=92	 ' derecha
+Walk3=92	 ' abajo
+Walk4=92	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY1290]
+Std=57
+FileNum=600
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1291]
+Std=58
+FileNum=600
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1292]
+Walk1=16189	 ' arriba
+Walk2=16189	 ' derecha
+Walk3=16189  ' abajo
+Walk4=16189	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-40
+
+[BODY1293]
+Std=1
+FileNum=1968
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1294]
+Std=1
+FileNum=1969
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1295]
+Std=1
+FileNum=1970
+HeadOffsetX=0
+HeadOffsetY=-35
+
+[BODY1296]
+Std=1
+FileNum=1971
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1297]
+Std=81
+FileNum=4706
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1298]
+Std=81
+FileNum=4707
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1299]
+Std=81
+FileNum=4708
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1300]
+Std=81
+FileNum=4709
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1301]
+Std=81
+FileNum=4710
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1302]
+Std=81
+FileNum=4711
+HeadOffsetX=0
+HeadOffsetY=-26
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1303]
+Std=20
+FileNum=4712
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1304]
+Std=36
+FileNum=4713
+HeadOffsetX=0
+HeadOffsetY=-26
+
+
+[BODY1305]
+Std=31
+FileNum=4714
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1306]
+Walk1=38357	 ' arriba
+Walk2=38357	 ' derecha
+Walk3=38357	 ' abajo
+Walk4=38357	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1307]
+Walk1=38358	 ' arriba
+Walk2=38358	 ' derecha
+Walk3=38358	 ' abajo
+Walk4=38358	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1308]
+Walk1=38359	 ' arriba
+Walk2=38359	 ' derecha
+Walk3=38359	 ' abajo
+Walk4=38359	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1309]
+Walk1=38360	 ' arriba
+Walk2=38360	 ' derecha
+Walk3=38360	 ' abajo
+Walk4=38360	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1310]
+Walk1=38361	 ' arriba
+Walk2=38361	 ' derecha
+Walk3=38361	 ' abajo
+Walk4=38361	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1311]
+Walk1=38362	 ' arriba
+Walk2=38362	 ' derecha
+Walk3=38362	 ' abajo
+Walk4=38362	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1312]
+Walk1=38363	 ' arriba
+Walk2=38363	 ' derecha
+Walk3=38363	 ' abajo
+Walk4=38363	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1313]
+Walk1=38364	 ' arriba
+Walk2=38364	 ' derecha
+Walk3=38364	 ' abajo
+Walk4=38364	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1314]
+Walk1=4181	 ' arriba
+Walk2=4181	 ' derecha
+Walk3=4181	 ' abajo
+Walk4=4181	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1315]
+Walk1=4182	 ' arriba
+Walk2=4182	 ' derecha
+Walk3=4182	 ' abajo
+Walk4=4182	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1316]
+Walk1=4183	 ' arriba
+Walk2=4183	 ' derecha
+Walk3=4183	 ' abajo
+Walk4=4183	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1317]
+Walk1=4180	 ' arriba
+Walk2=4180	 ' derecha
+Walk3=4180	 ' abajo
+Walk4=4180	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+
+[BODY1318]
+Walk1=24058	 ' arriba
+Walk2=24058	 ' derecha
+Walk3=24058	 ' abajo
+Walk4=24058	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1319]
+Walk1=61957	 ' arriba
+Walk2=61957	 ' derecha
+Walk3=61957	 ' abajo
+Walk4=61957	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1320]
+Walk1=14773	 ' arriba
+Walk2=14773	 ' derecha
+Walk3=14773	 ' abajo
+Walk4=14773	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1321]
+Walk1=14774	 ' arriba
+Walk2=14774	 ' derecha
+Walk3=14774	 ' abajo
+Walk4=14774	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1322]
+Walk1=15332	 ' arriba
+Walk2=15332	 ' derecha
+Walk3=15332	 ' abajo
+Walk4=15332	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1323]
+Walk1=15421	 ' arriba
+Walk2=15421	 ' derecha
+Walk3=15421	 ' abajo
+Walk4=15421	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1324]
+Walk1=15431	 ' arriba
+Walk2=15431	 ' derecha
+Walk3=15431	 ' abajo
+Walk4=15431	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1325]
+Walk1=15796	 ' arriba
+Walk2=15796	 ' derecha
+Walk3=15796	 ' abajo
+Walk4=15796	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1326]
+Walk1=16096	 ' arriba
+Walk2=16096	 ' derecha
+Walk3=16096	 ' abajo
+Walk4=16096	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+Speed=0.25
+
+[BODY1327]
+Walk1=12944	 ' arriba
+Walk2=12944	 ' derecha
+Walk3=12944	 ' abajo
+Walk4=12944	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=0
+BodyOffsetY=32
+
+[BODY1328]
+Walk1=14686	 ' arriba
+Walk2=14686	 ' derecha
+Walk3=14686	 ' abajo
+Walk4=14686	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=0
+BodyOffsetY=32
+
+
+[BODY1329]
+Walk1=15091	 ' arriba
+Walk2=15091	 ' derecha
+Walk3=15091	 ' abajo
+Walk4=15091	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+BodyOffsetX=0
+BodyOffsetY=32
+
+
+[BODY1330]
+Std=10
+FileNum=4730
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1331]
+Std=10
+FileNum=4731
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1332]
+Std=51
+FileNum=4738
+HeadOffsetX=0
+HeadOffsetY=-64
+
+[BODY1333]
+Std=85
+FileNum=4739
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+
+[BODY1334]
+Std=86
+FileNum=4739
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+[BODY1335]
+Std=87
+FileNum=4740
+HeadOffsetX=0
+HeadOffsetY=-32
+
+[BODY1336]
+Std=88
+FileNum=4740
+HeadOffsetX=0
+HeadOffsetY=-32
+
+[BODY1337]
+Walk1=51988	 ' arriba
+Walk2=51988	 ' derecha
+Walk3=51988	 ' abajo
+Walk4=51988	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-35
+
+
+[BODY1338]
+Walk1=524	 ' arriba
+Walk2=524	 ' derecha
+Walk3=524	 ' abajo
+Walk4=524	 ' izq
+HeadOffsetX=0
+HeadOffsetY=0
+
+[BODY1339]
+Std=1
+FileNum=1972
+HeadOffsetX=0
+HeadOffsetY=-32
+
+[BODY1340]
+Std=1
+FileNum=1973
+HeadOffsetX=0
+HeadOffsetY=-32
+
+[BODY1341]
+Std=1
+FileNum=1974
+HeadOffsetX=0
+HeadOffsetY=-26
+
+[BODY1342]
+Walk1=1476	 ' arriba
+Walk2=1476	 ' derecha
+Walk3=1476	 ' abajo
+Walk4=1476	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-60
+
+[BODY1343]
+Walk1=1474	 ' arriba
+Walk2=1474	 ' derecha
+Walk3=1474	 ' abajo
+Walk4=1474	 ' izq
+HeadOffsetX=0
+HeadOffsetY=-60
+
+[BODY1344]
+Std=23
+FileNum=4741
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+[BODY1345]
+Std=89
+FileNum=4741
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+[BODY1346]
+Std=90
+FileNum=4742
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+[BODY1347]
+Std=65
+FileNum=4743
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.50
+
+[BODY1348]
+Std=31
+FileNum=4744
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=1
+
+[BODY1349]
+Std=91
+FileNum=4744
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=1
+
+[BODY1350]
+Std=31
+FileNum=4745
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=1
+
+[BODY1351]
+Std=91
+FileNum=4745
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=1
+
+[BODY1352]
+Std=93
+FileNum=4746
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.3
+
+[BODY1353]
+Std=94
+FileNum=4746
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.3
+
+[BODY1354]
+Std=95
+FileNum=4746
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.3
+
+[BODY1355]
+Std=21
+FileNum=4747
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4
+
+[BODY1356]
+Std=96
+FileNum=4747
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4
+
+[BODY1357]
+Std=97
+FileNum=4748
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4
+
+[BODY1358]
+Std=93
+FileNum=4749
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4
+
+[BODY1359]
+Std=94
+FileNum=4749
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4
+
+[BODY1360]
+Std=95
+FileNum=4749
+HeadOffsetX=0
+HeadOffsetY=-64
+Speed=0.4

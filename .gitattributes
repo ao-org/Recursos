@@ -1,0 +1,42 @@
+# Remove files for archives generated using `git archive`
+.github export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+
+# Declaramos que archivos son binarios.
+# Para que Git no los toque al hacer checkout y normalizar las cosas.
+*.bin binary
+*.exe binary
+*.msv binary
+*.frx binary
+*.ico binary
+*.png binary
+*.gif binary
+*.jpg binary
+*.gif binary
+*.bmp binary
+*.mcl binary
+*.dll binary
+*.ind binary
+*.con binary
+*.bin binary
+*.mid binary
+*.mp3 binary
+*.wav binary
+*.ao binary
+*.AO binary
+*.ocx binary
+*.OCX binary
+*.map binary
+*.inf binary
+*.csm binary
+*.ind binary
+*.rao binary
+*.xls binary
+
+# Seteamos la codificación de los archivos en el working-directory
+# TODOS los archivos utilizados por Visual Basic DEBEN USAR la codificación "windows-1252"
+*.dat text eol=crlf working-tree-encoding=windows-1252
+*.ini text eol=crlf working-tree-encoding=windows-1252
+*.txt text eol=crlf working-tree-encoding=windows-1252
+

@@ -1,0 +1,34 @@
+'''
+' Cada rango tiene las siguientes propiedades
+'
+' - Rank: Numero del 1 al 255 (usuarios no enlistados tienen rank=0)
+' - Título:               El título del rango.
+' - NivelRequerido:       El mínimo nivel requerido para obtener el rango.
+' - AsesinatosRequeridos: La mínima cantidad de asesinatos (criminales o ciudadanos depende la facción) necesarios.
+'
+' Es MUY importante enumerar los rangos y no saltearse ninguno.
+' Las recompensas se calculan basadas en los rangos.
+'
+' ======== TEMPLATE =========
+'
+'<N>Rango=<NivelRequerido>-<AsesinatosRequeridos>-<Título>
+'
+' Ejemplo: 1Rango=25-100-Soldado
+'''
+
+[INIT]
+NumRangos=5
+
+[ArmadaReal]
+1Rango=21-50-Soldado
+2Rango=30-350-Caballero
+3Rango=35-700-Capitán
+4Rango=40-1050-Protector del Reino
+5Rango=43-2000-Campeón de la Luz
+
+[LegionCaos]
+1Rango=25-100-Acólito
+2Rango=30-350-Emisario del Caos
+3Rango=35-700-Sanguinario
+4Rango=40-1050-Caballero de la Oscuridad
+5Rango=43-2000-Devorador de Almas

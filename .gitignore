@@ -1,0 +1,9 @@
+*.rao
+Graficos/bmp/*
+init/MiniMap.dat
+Dat/AreasStats.ini
+/Mapas/NPCs y Bodys
+/Mapas/Copia de Mapas
+/Mapas/.stversions
+OUTPUT/Configuracion.ini
+OUTPUT/Cuenta.ini
