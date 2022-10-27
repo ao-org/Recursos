@@ -13,3 +13,4 @@ El archivo `version_actualizar_steam.php` se utiliza para cambiar el ultimo buil
 # Diagrama
 
 <img src="https://i.ibb.co/vhXsMFx/AO20-drawio-2.png"/>
+
