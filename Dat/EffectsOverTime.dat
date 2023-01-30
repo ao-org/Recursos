@@ -1,0 +1,39 @@
+[INIT]
+EffectCount=2
+
+'Types
+' 1: eModifyHelath
+
+' Limits
+' 1: eSingle 'Only one on target for this type
+' 2: eSingleByCaser 'The target can have more than 1 effect of this type but only 1 for every caster
+' 3: eAny 'No limits
+
+' TickPower: the effect of this value dependes on the dot type, on modify health represents how much the it modify the health every tick
+' Ticks: the amount of times this ticks before it removes itself
+' TickTime: time betwen ticks in miliseconds
+' Override: if there is alrady another effect on the target we (true)reset the timer or we dont do nothing (false)
+
+'BuffType
+'1 positive buff like heal of stat increase
+'2 negative buff like damage of stat decrease
+
+[EOT1]
+Type=1
+TickPower=30
+Ticks=8
+TickTime=1500
+Limit=2
+TickFX=86
+Override=1
+BuffType=1
+
+[EOT2]
+Type=1
+TickPower=-20
+Ticks=8
+TickTime=1500
+Limit=2
+TickFX=86
+Override=1
+BuffType=2
