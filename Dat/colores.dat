@@ -1,13 +1,13 @@
-'permite customizar los colores de los PJs
+'<<<<<<<<<<ESTE CAMBIA EL NICKS>>>>>>>>>>
 'todos los valores deben estar entre 0 y 255
 'los rangos van de 1 a 47 (inclusive). El 0 y el 48,49,50 estan reservados. Mas arriba son ignorados.
 
 
-'neutral (sobreescribe el 48)
+'neutral/exiliado?(afuturo) (sobreescribe el 48)
 [Ne]
-R=233
-G=50
-B=0
+R=188
+G=188
+B=188
 
 'ciudadanos (sobreescribe el 49)
 [Ci]
@@ -32,41 +32,41 @@ R=0
 G=136
 B=0
 
-'semidioses (GM)
+'rolmasters (GM)
 [2]
+R=0
+G=136
+B=0
+
+'semidioses (GM)
+[3]
 R=0
 G=225
 B=0
 
 'dioses (GM)
-[3]
-R=217
-G=164
-B=32
-
-'admins (GM)
 [4]
 R=217
 G=164
 B=32
 
-'rolmasters (GM)
+'admins (GM)
 [5]
-R=0
-G=136
-B=0
+R=217
+G=164
+B=32
 
-'caos
-[6]
-R=155
-G=0
-B=0
+[6] 'Concilio del caos (HarT
+R=255
+G=78
+B=40
 
-' Concilio Caos
-[7]
-R=180
-G=180
-B=180
+[7] 'Consejo de banderbill (HarThaoS)
+R=2
+G=242
+B=255
+
+
 
 ' Armada
 [8]
@@ -131,34 +131,34 @@ G=0
 B=0
 
 [20]
-R=0
-G=0
-B=0
+R=6
+G=128
+B=255
 
 [21]
-R=0
-G=0
-B=0
+R=60
+G=163
+B=255
 
 [22]
-R=0
-G=0
-B=0
+R=62
+G=239
+B=253
 
 [23]
-R=0
+R=255
 G=0
 B=0
 
 [24]
-R=0
-G=0
-B=0
+R=255
+G=100
+B=100
 
 [25]
-R=0
-G=0
-B=0
+R=253
+G=143
+B=63
 
 [26]
 R=0
