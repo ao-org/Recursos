@@ -6,7 +6,7 @@
 
 ## Resumen
 
-Este RFC propone la implementación de un proceso de Solicitud de Comentarios (RFC) en el proyecto para facilitar discusiones estructuradas y la toma de decisiones sobre cambios y nuevas características.
+Este RFC propone la implementación de un proceso de Solicitud de Comentarios (RFC -  Request for Comments) en el proyecto para facilitar discusiones estructuradas y la toma de decisiones sobre cambios y nuevas características.
 
 ## Motivación
 
