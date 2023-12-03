@@ -14,12 +14,12 @@ Many software changes, including bug fixes and documentation improvements can be
 For more information read our first RFC [`ao-rfc-1.md`](./rfcs/ao-rfc-1.md).
 
 ## 🇦🇷 RFCs (Solicitudes de Comentarios)
-Las RFCs son una forma efectiva para que una organización de ingeniería gestione tanto los cambios históricos como los planificados. Con curación, su archivo de RFCs cuenta la historia de la tecnología y el proceso de pensamiento de su comunidad. Creemos en un diálogo abierto y honesto entre todos los miembros. Debido a esto, hemos adoptado el sistema de Solicitudes de Comentarios.
+Las RFCs son una forma efectiva para que una organización de software gestione tanto los cambios. El archivo de RFCs cuenta la historia de la tecnología y el proceso de pensamiento de su comunidad. Creemos en un diálogo abierto y honesto entre todos los miembros. Debido a esto, hemos adoptado el sistema de Solicitudes de Comentarios.
 
 - Cualquier persona en la comunidad puede crear una Solicitud de Comentario y que sea incluida en esta serie.
 - Estas no son ideas autoritarias (lo que es autoritario es lo que está en el código).
 
-Muchos cambios de software, incluidas correcciones de errores y mejoras de documentación, pueden implementarse y revisarse mediante el flujo de trabajo normal de solicitudes de extracción de Git sin necesidad de pasar por este proceso. Sin embargo, solicitamos que las solicitudes e ideas más grandes sigan un poco de formalidad, especialmente cuando esté pensando en cambios que afecten a otros miembros en otras partes de la comunidad. Al crear una RFC, se garantiza que las personas afectadas tengan una notificación adecuada sobre los cambios.
+Muchos cambios de software, incluidas correcciones de errores y mejoras de documentación, pueden implementarse y revisarse mediante el flujo de trabajo normal de Pull Requests de Git sin necesidad de pasar por este proceso. Sin embargo, solicitamos que las solicitudes e ideas más grandes sigan un poco de formalidad, especialmente cuando esté pensando en cambios que afecten a otros miembros de la comunidad. Al crear una RFC, se garantiza que las personas afectadas tengan una notificación adecuada sobre los cambios.
 
 Para mas informacion leer el primer RFC [`ao-rfc-1.md`](./rfcs/ao-rfc-1.md).
 
