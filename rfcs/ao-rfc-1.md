@@ -16,7 +16,7 @@ La motivación detrás de la implementación de un proceso RFC es mejorar la tra
 
 ### Carpeta RFC
 
-- Utilice la carpeta [`rfcs`](./) en este proyecto para los archivos RFC.
+- Utilice la carpeta [`rfcs`](./) en este proyecto para los archivos RFC utilizando el siguiente https://github.com/ao-org/Recursos/blob/master/rfcs/ao-rfc-template.md [`template`](./ao-rfc-template.md)
 
 ### Formato RFC
 
