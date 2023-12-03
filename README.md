@@ -21,7 +21,7 @@ Las RFCs son una forma efectiva para que una organización de ingeniería gestio
 
 Muchos cambios de software, incluidas correcciones de errores y mejoras de documentación, pueden implementarse y revisarse mediante el flujo de trabajo normal de solicitudes de extracción de Git sin necesidad de pasar por este proceso. Sin embargo, solicitamos que las solicitudes e ideas más grandes sigan un poco de formalidad, especialmente cuando esté pensando en cambios que afecten a otros miembros en otras partes de la comunidad. Al crear una RFC, se garantiza que las personas afectadas tengan una notificación adecuada sobre los cambios.
 
-Utilice la carpeta [`ao-rfc-1.md`](./rfcs/ao-rfc-1.md).
+Para mas informacion leer el primer RFC [`ao-rfc-1.md`](./rfcs/ao-rfc-1.md).
 
 ## Por favor considera apoyarnos en https://www.patreon.com/nolandstudios 
 
