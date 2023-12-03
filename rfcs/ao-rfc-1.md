@@ -16,7 +16,7 @@ La motivación detrás de la implementación de un proceso RFC es mejorar la tra
 
 ### Carpeta RFC
 
-- Utilice la carpeta `rfcs` en este proyecto para los archivos RFC.
+- Utilice la carpeta [`rfcs`](./rfcs) en este proyecto para los archivos RFC.
 
 ### Formato RFC
 
