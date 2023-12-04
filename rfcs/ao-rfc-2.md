@@ -12,7 +12,7 @@ El juego actualmente enfrenta desafíos con tablas de clasificación estancadas 
 
 ## Especificación
 - Después de 60 días de inactividad, los personajes perderán el 5% de su oro (inventario o banco), semanalmente.
-- Después de 30 días de inactividad, los personajes comenzarán a perder el 5% de su experiencia por día.
+- Después de 30 días de inactividad, los personajes comenzarán a perder el 10% de su experiencia por día.
 - Los personajes listados en MAO (MercadoAO) estarán exentos de estas penalizaciones.
 
 ## Implementación
