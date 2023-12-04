@@ -2,7 +2,7 @@
 
 - Autor: Lucas Recoaro (@recox)
 - Fecha: 15 de diciembre de 2023
-- Estado: Borrador
+- Estado: Aceptado
 
 ## Resumen
 
