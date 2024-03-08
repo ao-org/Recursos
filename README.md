@@ -1,4 +1,4 @@
-# ⚒️🔨 Recursos 🏹🪓
+# ⚒️🔨 Assets / Recursos 🏹🪓
 Recursos del cliente y servidor de Argentum Online
 
 ## 🇳🇿 RFCs (Request For Comments)
