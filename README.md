@@ -1,5 +1,5 @@
 # ⚒️🔨 Recursos 🏹🪓
-Recursos del cliente y el servidor de Argentum20
+Recursos del cliente y servidor de Argentum Online
 
 ## 🇳🇿 RFCs (Request For Comments)
 RFCs are an effective way for an engineering organization to manage both historical and planned changes. With curation, your RFC archive tells the story of your community's technology and thought process. We believe in an open and honest dialog between all members. Because of this, we've embraced the Request for Comments system.
