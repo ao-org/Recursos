@@ -24448,7 +24448,7 @@ Instransferible=1
 
 
 [OBJ2198]
-Name=Collar Magico
+Name=Collar Mágico
 GrhIndex=49141
 ObjType=30
 Crucial=1 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
@@ -24812,7 +24812,7 @@ Intirable=1
 
 
 [OBJ2231]
-Name=Amuleto Magico
+Name=Amuleto Mágico
 GrhIndex=49175
 valor=
 ObjType=30
@@ -27710,7 +27710,7 @@ Texto=
 
 
 [OBJ2497]
-Name=Antidoto
+Name=Antídoto
 GrhIndex=49194
 ObjType=11
 TipoPocion=5
@@ -27725,7 +27725,7 @@ GrhIndex=49313
 valor=3
 Objtype=29
 Crucial=0
-Texto=Antidoto Magico
+Texto=Antídoto Mágico
 
 [OBJ2499]
 Name=Hojas
@@ -29600,7 +29600,7 @@ Nosecae=1
 
 
 [OBJ2706]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55305
 valor=0
 Objtype=29
@@ -29609,7 +29609,7 @@ Texto=
 
 
 [OBJ2707]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55306
 valor=0
 Objtype=29
@@ -29619,7 +29619,7 @@ Nosecae=1
 
 
 [OBJ2708]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55307
 valor=0
 Objtype=29
@@ -29628,7 +29628,7 @@ Texto=
 
 
 [OBJ2709]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55308
 valor=0
 Objtype=29
@@ -29638,7 +29638,7 @@ Nosecae=1
 
 
 [OBJ2710]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55309
 valor=0
 Objtype=29
@@ -29648,7 +29648,7 @@ Nosecae=1
 
 
 [OBJ2711]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55310
 valor=0
 Objtype=29
@@ -29659,7 +29659,7 @@ Nosecae=1
 
 
 [OBJ2712]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55311
 valor=0
 Objtype=29
@@ -29669,7 +29669,7 @@ Nosecae=1
 
 
 [OBJ2713]
-Name=Pendientes Magicos
+Name=Pendientes Mágicos
 GrhIndex=55312
 valor=0
 Objtype=29
