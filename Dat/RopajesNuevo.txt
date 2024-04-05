@@ -1,0 +1,19 @@
+GrhIndex=
+RopajeHumano=
+RopajeElfo=
+RopajeElfoOscuro=
+RopajeEnano=
+RopajeOrco=
+RopajeGnomo=
+RopajeHumana=
+RopajeElfa=
+RopajeElfaOscura=
+RopajeEnana=
+RopajeOrca=
+RopajeGnoma=
+
+Orden de trabajo:
+Humano/Humana/Elfo/Elfa
+Enano/Gnomo/Enana/Gnoma
+Orco/Orca
+Elfo Oscuro/Elfa Oscura

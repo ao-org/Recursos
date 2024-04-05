@@ -1,0 +1,294 @@
+1	Gritos/risa de mujer con eco
+2	Golpe con arma
+3	Spawn NPC
+4	Cerdo
+5	Puerta abriendose
+6	Sonido antiguo que se escuchaba al subir de nivel
+7	Comiendo
+8	Mugido de vaca?
+9	Aullido lobo
+10	Golpe recibido
+11	Sonido de muerte HOMBRE
+12	Golpe con arma
+13	Talar
+14	Pescar
+15	Minar
+16	Inmovilizar
+17	Curar
+18	Curar 2
+19	Flecha Magica
+20	Resucitar
+21	Pajaritos
+22	Pajaritos 2
+23	Paso
+24	Paso 2
+25	Equipar arma
+26	Mosquito
+27	Tormenta de Fuego
+28	Pajaritos / Grillos?
+29	Pajaritos 3
+30	Gran dragon 1/Leviatan
+31	Gran dragon 2
+32	Gran dragon 3
+33	Zombie
+34	Pajaritos 4
+35	Lobo atacando
+36	Resorte explosivo
+37	Rechazo de ataque con escudo-casco
+38	Sonido de laud tipo comienzo de historia
+39	Sonido de laud tipo terror
+40	Sonido de laud similar al comienzo de historia
+41	Martillazos
+42	Talar
+43	Llamada de clan
+44	Creacion de clan
+45	Trompetas
+46	Tomar liquido/potas
+47	Pulga?
+48	Redoblantes
+49	Igual que sonido 38
+50	Mar
+51	Flauta
+52	Moscas
+53	Aguila
+54	Leviatan
+55	Sonido similar a red de pesca
+56	Caballo relinchando
+57	Caballo relinchando 2
+58	Campanada reloj antiguo
+59	Cerdo enojado
+60	cuervos
+61	cuervos
+62	cuervo
+63	tijeras
+64	Talar/hachazo
+65	hachazo y golpe de clavado
+66	engranaje
+67	gallo cantando
+68	golpes en el piso?
+69	pasos
+70	cabalgata
+71	cabalgata 2
+72	grito corto de mujer
+73	perro poseido
+74	grito al morir mujer
+75	grito corto de mujer 2
+76	golpe seco / golpe a puerta?
+77	latido, sonido de fuerza agilidad cuando termina
+78	sonido de oso
+79	sonido de leon
+80	lluvia
+81	aullido lobo 2
+82	comer
+83	mono 1
+84	mono 2
+85	mono 3
+86	mosca molesta
+87	mar
+88	mar
+89	oso
+90	oveja
+91	cabra
+92	mono 4
+93	paloma
+94	pasos en grava
+95	pato
+96	pato 2
+97	perro
+98	cerdo
+99	risa malvada hombre corta
+100	risa malvada hombre larga
+101	rana
+102	rana 2
+103	cascabel de serpiente
+104	tos de hombre
+105	trueno
+106	campanitas
+107	viento fuerte dura 2:10
+108	viento fuerte
+109	sonido como de dioses "JOMJOMJOM"
+110	apertura magica
+111	sonido similar al de lanzar un hechizo
+112	sonido de fuerza agilidad
+113	sonido similar al de lanzar un hechizo 2
+114	sonido similar al de lanzar un hechizo 3
+115	burbujas
+116	incendio
+117	resucitar con sacerdote
+118	grito de bruja
+119	grito de hombre
+120	coro raro
+121	estructura cayendo
+122	cuerno de guerra/gaita?
+123	pocion de invisibilidad tolkien
+124	lobo aullando
+125	murcielagos
+126	sonido del asesino
+127	serpiente
+128	serpiente
+129	muchos lobos aullando
+130	oveja bebe
+131	grillos
+132	sonido de drop especial en npc
+133	sonido de golpe con eco
+134	acople corto
+135	tomar pocion
+136	sonido de golpe con eco
+137	gallo cantando
+138	oso
+139	oso
+140	sonido de bestia
+141	Lynn
+142	gallo muriendo
+143	monstruo marino
+144	risa malvada mujer
+145	risa malvada mujer 2
+146	sonido como de curacion divina
+147	sonido como de portal magico
+148	sonido como de portal magico 2
+149	disparo/galope?
+150	Campanada reloj antiguo
+151	motor arrancando?
+152	flautin
+153	flautin 2
+154	flautin 3
+155	hombre muriendo de disparo
+156	risa malvada hombre
+157	gas
+158     meditacion
+161	campanadas
+162	apocalipsis
+168	sonido no muerto
+180	golpe y caida de agua
+191	lluvia
+192	lluvia
+193	mar
+194	lluvia
+195	lluvia parando
+197	paso
+198	paso
+199	paso
+200	paso
+201	paso
+202	pescando
+203	disparo?
+204	capturando algo
+205	capturando algo 2
+206	tambor
+207	sonido sin distinguir
+208	sonido como de chatarra
+209	gota con eco
+210	click
+211	disparo
+231	aliento de dragon
+238	sonido como de curacion divina
+249	flecha
+251	grito de guerra / partitura de la armonia
+264	fuegos artificiales
+312	disparo
+345	Lynn
+349	sonido como de npc que atrapa
+358	sonido como de npc que atrapa 2
+375	fuego artificial
+376	fuego artificial
+380	sonido como de ataque con cadena pesada
+400	trueno
+401	trueno
+402	trueno
+403	trueno desapareciendo
+404	trueno fuerte
+405	pre-trueno
+406	post-trueno
+448	sonido como de atrapada
+449	sonido de onda
+453	monedas
+463	sonido de onda
+481	pocion de stat IAO
+500	sonido al depositar/retirar boveda
+501	sonido al depositar/retirar boveda
+520	descarga electrica
+522	sonido mensaje privado
+528	sonido de runa
+554	sonido al subir de lvl
+555	sonido de arena cayendo?
+600	Bienvenido a mi tienda
+601	Buenos dias
+602	Â¿Como puedo ayudar?
+603	Lo pides, lo tienes
+604	Me parece bien
+605	Mira cuanto quieras
+606	Tengo lo que buscas
+607	Una gran eleccion
+608	Una grandiosa idea
+609	Vuelve pronto
+610	20 aÃ±os de trayectoria avalan nuestro compromiso
+611	Bienvenido al banco
+612	Cuidamos sus cosas mejor que usted
+613	Puede confiar en nosotros
+614	Que transaccion desea realizar hoy
+620	Oigo tus plegarias
+621	Orare por ti
+622	Que la luz guie tu camino
+623	Ten cuidado ahi fuera
+648	Redymon - has oido las noticias
+700	Â¿En que puedo ayudarte?
+701	Observa, tengo justo lo que necesitas
+702	Creo que podriamos hacer un excelente trato
+703	Mejor salir preparado
+704	Escucha tengo una mision para ti
+705	Excelente ten tu recompensa te la has ganado
+706	No me quedan mas misiones vuelve mas tarde
+707	Nunca se sabe que peligros encontraras ahi afuera
+708	Perfecto has realizado un excelente trabajo
+709	Te gustaria probar tu valor
+1190	De la tristeza de tu ausencia a la alegria de tu llegada bienvenido
+1191	algo de enano no esta preparada para despertar sabiendo que este sera su ultimo dia
+1192	la esperanza es lo que nos hace mas fuertes bienvenido
+1193	te estabamos esperando no dejemos que ese maldito manche nuestro honor bienvenido
+1194	cada uno desempeÃ±a el papel que el destino le ha escrito bienvenido
+1195	la luz blanca esta de nuestro lado bienvenido
+1219	hemos logrado deshacernos de los subditosos de gul belthor gracias a la union de nuestras fuerzas pero no toda felicidad es completa
+2028	Aksha
+2036	Bandido
+2046	Bandido
+2052	falso arranque con eco?
+2058	espadazo
+2102	sonida malvada hombre
+2114	Lynn
+2117	sonido de yunque
+2185	sonido similar apuÃ±alada?
+2186	espadazo y sangre cayendo
+2187	apuÃ±alada
+2188	no lo olvides, escudo ante todo
+2189	no lo olvides, escudo ante todo 2
+2190	un casco es muy importante
+2191	un casco es muy importante 2
+2192	un casco es muy importante 3
+2193	aqui tiene las armaduras mas fuertes
+2194	aqui tiene las armaduras mas fuertes 2
+2195	un trozo de metal en el cuerpo suena bien
+2196	un trozo de metal en el cuerpo suena bien 2
+2197	un trozo de metal en el cuerpo suena bien 3
+2198	no lo olvides escudo ante todo 3
+2199	aqui tiene las armaduras mas fuertes 3
+2200	buenas tardes seÃ±or
+2201	nos vemos pronto
+2202	buenas tardes seÃ±or 2
+2203	buenas tardes seÃ±or 3
+2204	nos vemos pronto 2
+2205	nos vemos pronto 3
+9999	cronica tv
+cupdice	sonido de dados
+fuego	sonido de fuego
+harp3	sonido de arpa
+lluviain	lluvia empezando
+lluviainend	lluvia terminando
+lluviainst	lluvia empezando 2
+lluviaout	lluvia afuera
+lluviaoutend	lluvia afuera terminando
+lluviaoutst	lluvia afuera st ?
+2323    trex
+2525    velociraptor
+2626    hiena
+2541    pistolanueva
+1152    burbujas para alquimia
