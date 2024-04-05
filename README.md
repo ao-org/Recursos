@@ -1,6 +1,9 @@
 # ⚒️🔨 Assets / Recursos 🏹🪓
 Recursos del cliente y servidor de Argentum Online
 
+# Important Notice:
+Before utilizing these assets, it is crucial that you thoroughly review the license terms. For detailed information on usage rights and restrictions, please consult the [license.txt](license.txt) file. Your understanding and adherence to these terms ensure the respectful and lawful use of these resources.
+
 ## 🇳🇿 RFCs (Request For Comments)
 RFCs are an effective way for an engineering organization to manage both historical and planned changes. With curation, your RFC archive tells the story of your community's technology and thought process. We believe in an open and honest dialog between all members. Because of this, we've embraced the Request for Comments system.
 
