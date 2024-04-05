@@ -1,5 +1,5 @@
 [INIT]
-NumEscudos=97
+NumEscudos=102
 
 [ESC1]
 Std=1
@@ -389,3 +389,23 @@ FileNum=2383
 [ESC97]
 Std=1
 FileNum=2384
+
+[ESC98]
+Std=1
+FileNum=2388
+
+[ESC99]
+Std=1
+FileNum=2141
+
+[ESC100]
+Std=2
+FileNum=2141
+
+[ESC101]
+Std=1
+FileNum=2100
+
+[ESC102]
+Std=10
+FileNum=2140

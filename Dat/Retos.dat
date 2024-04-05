@@ -1,8 +1,8 @@
 [Retos]
 MaximoEquipo=5		# N vs N
-ApuestaMinima=20000	# Monedas de oro
+ApuestaMinima=10000	# Monedas de oro
 ImpuestoApuesta=0.1	# Parte que nos quedamos de la apuesta
-DuracionMaxima=900	# En segundos
+DuracionMaxima=600	# En segundos
 TiempoGuardarItems=60	# En segundos
 TiempoConteo=15		# En segundos
 

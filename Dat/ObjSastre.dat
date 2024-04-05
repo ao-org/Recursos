@@ -1,72 +1,77 @@
 [INIT]
-NumObjs=23
+NumObjs=25
 
-[Obj1]
+[Obj1]'Tela trabajada
 Index=3578
 
-[Obj2]
+[Obj2]'Vestimenta Comun
 Index=32
 
-[Obj3]
+[Obj3]'Vestimenta de Enano
 Index=240
 
-[Obj4]
+[Obj4]'Ropa de Clan
 Index=1975
 
-[Obj5]
+[Obj5]'Ropa de BurguÃ©s Turquesa
 Index=2911
 
-[Obj6]
+[Obj6]'Ropa Estuaria (M)
 Index=508
 
-[Obj7]
+[Obj7]'TÃºnica de Mago
 Index=196
 
-[Obj8]
+[Obj8]'TÃºnica Aventurera (Bajos)
 Index=1226
 
-[Obj9]
+[Obj9]'TÃºnica Ocre
 Index=1955
 
-[Obj10]
+[Obj10]'TÃºnica de Nigromante
 Index=1089
 
-[Obj11]
+[Obj11]'TÃºnica Dorada de Gala (E/G)
 Index=2857
 
-[Obj12]
+[Obj12]'Vestido Indulgente Rojo (H/E/EO-M)
 Index=2932
 
-[Obj13]
+[Obj13]'Manto de los Vientos
 Index=2916
 
-[Obj14]
-Index=2938
+[Obj14]'TÃºnica Natural Mujer
+Index=1961
 
-[Obj15]
+[Obj15]'Sotana de Gran Hechicero (E/G)
 Index=2854
 
-[Obj16]
+[Obj16]'TÃºnica Legendaria
 Index=519
 
-[Obj17]
+[Obj17]'TÃºnica Legendaria (E/G)
 Index=1957
 
-[Obj18]
+[Obj18]'Casco de Lobo
 Index=1778
 
-[Obj19]
+[Obj19]'Casco de Tigre
 Index=1758
 
-[Obj20]
+[Obj20]'Capucha de Elite
 Index=1769
 
-[Obj21]
-Index=1239
-
-[Obj22]
+[Obj21]'Sombrero de Mago
 Index=992
 
-[Obj23]
+[Obj22]'Morral
 Index=3462
 
+[Obj23]'Cuerdas
+Index=3822
+
+[Obj24]'Sombrero de Mago Superior
+Index=3990
+
+[Obj25]'Capucha de Elite
+Index=1769

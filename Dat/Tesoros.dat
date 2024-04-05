@@ -1,56 +1,45 @@
-[Tesoros]
-CantidadMapas=14
-Mapa1=282
-Mapa2=401
-Mapa3=110
-Mapa4=217
-Mapa5=156
-Mapa6=206
-Mapa7=380
-Mapa8=84
+[Tesoros] 'Campo
+CantidadMapas=10
+Mapa1=16
+Mapa2=213
+Mapa3=255
+Mapa4=94
+Mapa5=42
+Mapa6=46
+Mapa7=69
+Mapa8=18
 Mapa9=233
-Mapa10=201
-Mapa11=297
-Mapa12=218
-Mapa13=16
-Mapa14=31
+Mapa10=244
 
 TiposDeTesoros=1
 Tesoro1=3140-1
 
-[Regalos]
-CantidadMapas=18
-Mapa1=391
-Mapa2=116
-Mapa3=392
-Mapa4=383
-Mapa5=395
-Mapa6=284
-Mapa7=401
-Mapa8=100
-Mapa9=120
-Mapa10=366
-Mapa11-367
-Mapa11-368
-Mapa12-307
-Mapa13-306
-Mapa14-310
-Mapa15-303
-Mapa16-208
-Mapa17-315
-Mapa18-314
-
+*********************************************************************
+[Regalos] 'Dubgeon
+CantidadMapas=12
+Mapa1=293
+Mapa2=383
+Mapa3=309
+Mapa4=334
+Mapa5=284
+Mapa6=51
+Mapa7=567
+Mapa8=297
+Mapa9=173
+Mapa10=401
+Mapa11=282
+Mapa12=224
 
 TiposDeRegalos=1
-Regalo1=1605-1
+Regalo1=3744-1
 
+*********************************************
 [Criatura]
 NPCs=2
 NPC1=591
 NPC2=592
 
-CantidadMapas=11
-
+CantidadMapas=15
 Mapa1=35
 Mapa2=14
 Mapa3=22
@@ -58,8 +47,13 @@ Mapa4=29
 Mapa5=2
 Mapa6=8
 Mapa7=5
-Mapa8=11
+Mapa8=39
 Mapa9=14
 Mapa10=57
-Mapa11=61
+Mapa11=192
+Mapa12=228
+Mapa13=16
+Mapa14=23
+Mapa15=46
+
 

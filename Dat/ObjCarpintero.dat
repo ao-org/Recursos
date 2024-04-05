@@ -1,60 +1,59 @@
 [INIT]
-NumObjs=21
+NumObjs=30
 
 [OBJ1] 'Cuchara
 Index=163
 
-[OBJ2] 'Flecha Común
+[OBJ2] 'Flecha
 Index=480
 
-[OBJ3] 'Flecha Reforzada
+[OBJ3] 'Flecha +1
+Index=3550
+
+[OBJ4] 'Flecha +2
 Index=551
 
-[OBJ4] 'Flecha Incendiaria
+[OBJ5] 'Flecha +3
 Index=553
 
-[OBJ5] 'Flecha Élfica
+[OBJ6] 'Flecha Élfica
 Index=552
 
-
-[OBJ6] ' Arco Simple
+[OBJ7] ' Arco Simple
 Index=479
 
-[OBJ7] 'Arco Simple Reforzado
+[OBJ8] 'Arco Simple Reforzado
 Index=3466
 
-[OBJ8] 'Arco Compuesto
+[OBJ9] 'Arco Compuesto
 Index=1867
 
-[OBJ9] 'Arco de Roble
+[OBJ10] 'Arco de Roble
 Index=1870
 
-[OBJ10] 'Arco de Cazador
+[OBJ11] 'Arco de Cazador
 Index=1876 
 
-[OBJ11] 'Barca
+[OBJ12] 'Barca
 Index=474
 
-[OBJ12] 'Galera
+[OBJ13] 'Galera
 Index=475
 
-[OBJ13] 'Galeón
+[OBJ14] 'Galeón
 Index=476
 
-[OBJ14] 'Laúd
+[OBJ15] 'Laúd
 Index=469
-
-[OBJ15] 'Flauta
-Index=540
 
 [OBJ16] 'Laúd Mágico
 Index=41
 
-[OBJ17] 'Flauta Elfica
-Index=40
+[OBJ17] 'Flauta
+Index=540
 
-[OBJ18] 'Vara de Fresno
-Index=1800
+[OBJ18] 'Flauta Elfica
+Index=40
 
 [OBJ19] 'Bastón Nudoso
 Index=1797
@@ -62,6 +61,33 @@ Index=1797
 [OBJ20] 'Báculo Engarzado
 Index=1788
 
-[OBJ21] 'Escudo de Roble
+[OBJ21] 'Rodela
+Index=1719
+
+[OBJ22] 'Escudo de Roble
 Index=1724
+
+[OBJ23] 'Tablones
+Index=3742
+
+[OBJ24] 'Tablones Cepillados Elficos
+Index=3743
+
+[OBJ25] 'Rueda de carro
+Index=2679
+
+[OBJ26] 'Carcaj de Flechas 
+Index=3801
+
+[OBJ27] 'Carcaj de Flechas +1
+Index=3806
+
+[OBJ28] 'Carcaj de Flechas +2
+Index=3802
+
+[OBJ29] 'Carcaj de Flechas +3
+Index=3804
+
+[OBJ30] 'Carcaj de Flechas Elficas
+Index=3803
 

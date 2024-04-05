@@ -1,20 +1,20 @@
 [INIT]
 NumObjs=6
 
-[OBJ1] 'Poción Azul
+[OBJ1] 'Pócima de Maná
 Index=894
 
-[OBJ2] 'Poción Roja
+[OBJ2] 'Pócima de Vida
 Index=891
 
-[OBJ3] 'Poción Amarilla
+[OBJ3] 'Pócima de Agilidad
 Index=889
 
-[OBJ4] 'Poción Verde
+[OBJ4] 'Pócima de Fuerza
 Index=892
 
-[OBJ5] 'Poción Violeta
+[OBJ5] 'Pócima de Antidoto
 Index=890
 
-[OBJ6] 'Pocion Naranja
-Index=169
+[OBJ6] 'Pócima de Energía
+Index=1019

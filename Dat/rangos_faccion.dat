@@ -20,15 +20,15 @@
 NumRangos=5
 
 [ArmadaReal]
-1Rango=21-50-Soldado
-2Rango=30-350-Caballero
-3Rango=35-700-Capitán
-4Rango=40-1050-Protector del Reino
-5Rango=43-2000-Campeón de la Luz
+1Rango=25-100-Soldado
+2Rango=30-500-Caballero
+3Rango=35-2500-Capitán
+4Rango=40-5000-Protector del Reino
+5Rango=43-10000-Campeón de la Luz
 
 [LegionCaos]
 1Rango=25-100-Acólito
-2Rango=30-350-Emisario del Caos
-3Rango=35-700-Sanguinario
-4Rango=40-1050-Caballero de la Oscuridad
-5Rango=43-2000-Devorador de Almas
+2Rango=30-500-Emisario del Caos
+3Rango=35-2500-Sanguinario
+4Rango=40-5000-Caballero de la Oscuridad
+5Rango=43-10000-Devorador de Almas

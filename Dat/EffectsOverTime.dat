@@ -1,15 +1,30 @@
-[INIT]
-EffectCount=2
-
 'Types
 ' 1: eModifyHelath
+' 2: eApplyModifiers
+' 3: eTaunt
+' 4: eTaunted
+' 5: eTrap this ona is informative to track trap active time
+' 6: eDrunk
+' 7: eTranslation
+' 8: eApplyEffectOnHit
+' 9: eModifyMana
+' 10: eApplyEffectToParty
+' 11: ePullTarget
+' 12: eDelayedBlast
+' 13: eUnequip
+' 14: eMultipleAttacks
+' 15: eShield
+' 16: eTransform
+' 17: eDamageBonus
 
 ' Limits
 ' 1: eSingle 'Only one on target for this type
-' 2: eSingleByCaser 'The target can have more than 1 effect of this type but only 1 for every caster
+' 2: eSingleByCaster 'The target can have more than 1 effect of this type but only 1 for every caster
 ' 3: eAny 'No limits
+' 4: eSingleByType
+' 5:eSingleByTypeId only one by TypeId (so we can have different buff that share the same id and can't stack like different lvls of the same buff)
 
-' TickPower: the effect of this value dependes on the dot type, on modify health represents how much the it modify the health every tick
+' TickPowerMin/TickPowerMax: the effect of this value dependes on the dot type, on modify health represents how much the it modify the health every tick
 ' Ticks: the amount of times this ticks before it removes itself
 ' TickTime: time betwen ticks in miliseconds
 ' Override: if there is alrady another effect on the target we (true)reset the timer or we dont do nothing (false)
@@ -17,23 +32,779 @@ EffectCount=2
 'BuffType
 '1 positive buff like heal of stat increase
 '2 negative buff like damage of stat decrease
+'3 used cd
+'4 this is an informative debuff, like trap, lets you track timed effects on client but should not be affected that remove buff/debuff 
+'5 this is an informative buff, like trap, lets you track timed effects on client but should not be affected that remove buff/debuff 
 
-[EOT1]
+' Modifiers, this values apply effect like 5% more damage 10% damage reduction
+' 1 means 100% we use decimals for lower values so 0.5 is 50%
+' PhysicalDamageReduction = 
+' MagicDamageReduction =
+' PhysicalDamageDone =
+' MagicDamageDone =
+' SpeedModifier = 
+'linear modifier, these values modifiy direct values like +20
+' PhysicalLinearBonus =
+' HitModifier =
+' EvasionModifier
+
+'EffectModifiers: this values defines if an effect has to consider the Modifiers when performing damage
+' AffectedByMagicBonus=1
+' AffectedByMagicReduction=1
+' AffectedByPhysicalBonus=1
+' AffectedByPhysicalReduction=1
+' AffectedBySpeedModifier=1
+
+
+[INIT]
+EffectCount=60
+
+[EOT1] 'regeneracion 3
 Type=1
-TickPower=30
-Ticks=8
+TickPowerMin=20
+TickPowerMax=25
+Ticks=6
 TickTime=1500
 Limit=2
-TickFX=86
+TickFX=144
 Override=1
 BuffType=1
+AffectedByMagicHealing=1
+AffectedBySelfHealing=1
+ClientEffectTypeId=1
 
 [EOT2]
 Type=1
-TickPower=-20
+TickPowerMin=-15
+TickPowerMax=-25
 Ticks=8
 TickTime=1500
 Limit=2
-TickFX=86
+TickFX=0
 Override=1
 BuffType=2
+AffectedByMagicBonus=1
+AffectedByMagicReduction=1
+
+[EOT3]'Falange
+Type=2
+TickTime=6000
+Limit=1
+Override=0
+BuffType=4
+PhysicalDamageReduction=0.4
+MagicDamageReduction=0.4
+PhysicalDamageDone=-0.20
+MagicDamageDone=-0.20
+ClientEffectTypeId=2
+OnHitFx=146
+RequireShield=1
+
+[EOT4]'Taunted
+Type=4
+TickTime=10000
+Limit=1
+Override=0
+BuffType=4
+PhysicalDamageDone=-0.5
+MagicDamageDone=-0.5
+ClientEffectTypeId=4
+
+[EOT5]'Taunt
+Type=3
+TickTime=20000
+Limit=1
+Override=0
+BuffType=4
+Area=20
+SpeedModifier=-0.2
+ClientEffectTypeId=4
+Aura=20054:-65536:5:0 
+
+[EOT6]'Trap inmo
+Type=5
+TickTime=120000
+Subtype=1
+Limit=3
+Override=0
+BuffType=5
+OnHitFx=12
+ClientEffectTypeId=5
+
+[EOT7]'Trap explosion
+Type=5
+TickTime=120000
+Subtype=2
+Limit=3
+Override=0
+BuffType=5
+OnHitFx=13
+OnHitWAV=162
+TickPowerMin=-100
+TickPowerMax=-150
+ClientEffectTypeId=5
+
+[EOT8] 'poison
+Type=1
+TickPowerMin=-25
+TickPowerMax=-45
+Ticks=8
+TickTime=1500
+Limit=2
+TickFX=32
+Override=1
+BuffType=2
+ClientEffectTypeId=4
+
+[EOT9]'Poison trap
+Type=5
+TickTime=120000
+Subtype=3
+Limit=3
+Override=0
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ApplyeffectID=8
+ClientEffectTypeId=5
+
+[EOT10]'Drunk
+Type=6
+TickTime=20000
+Limit=1
+Override=1
+BuffType=2
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=6
+
+[EOT11]'Push back
+Type=7
+Ticks=5
+TickTime=50
+Limit=1
+Override=0
+BuffType=4
+OnHitFx=0
+OnHitWAV=0
+ApplyeffectID=12
+
+[EOT12]'Taunted
+Type=4
+TickTime=3000
+Limit=1
+Override=0
+BuffType=4
+ClientEffectTypeId=4
+
+[EOT13]'Efecto Hechizo Veneno 3
+Type=1
+TickPowerMin=-20
+TickPowerMax=-25
+Ticks=4	
+TickTime=1500
+Limit=3
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=9
+SecondaryTargetModifier=0.5
+
+[EOT14]'Hechizo Veneno 3
+Type=8
+TickTime=60000
+Limit=4
+TickFX=0
+Override=1
+BuffType=4
+ApplyeffectID=13
+ClientEffectTypeId=7
+
+[EOT15]'Pocion Veneno de mana
+Type=9
+TickPowerMin=-7
+TickPowerMax=-7
+Ticks=2
+TickTime=500
+Limit=2
+TickFX=0
+Override=1
+BuffType=2
+ClientEffectTypeId=10
+
+[EOT16]'Veneno de mana
+Type=8
+TickTime=60000
+Limit=4
+TickFX=0
+Override=1
+BuffType=2
+ApplyeffectID=15
+ClientEffectTypeId=8
+
+[EOT17]
+Type=9
+SharedTypeId=2
+Limit=5
+TickPowerMin=5
+TickPowerMax=5
+Ticks=10
+TickTime=1000
+TickFX=147
+Override=1
+BuffType=1
+ClientEffectTypeId=11
+
+[EOT18] 'bard mana song
+Type=10
+Ticks=12
+TickTime=10000
+Limit=4
+TickFX=149
+Area=5
+Override=1
+BuffType=1
+ApplyeffectID=17
+SecondaryEffectId=59
+ClientEffectTypeId=12
+MagicDamageDone=-0.1
+
+[EOT19]'slow
+Type=2
+TickTime=6000
+Limit=2
+Override=1
+BuffType=4
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=15
+SpeedModifier=-0.35
+
+[EOT20]'cannon delayed blast
+Type=12
+TickTime=70
+Limit=3
+Override=0
+BuffType=4
+OnHitFx=121
+OnHitWAV=2222
+TickPowerMin=15
+TickPowerMax=20
+Area=5
+ClientEffectTypeId=15
+
+[EOT21] 'bard speed song
+Type=10
+Ticks=12
+TickManaConsumption=10
+TickStaminaConsumption=0
+TickTime=10000
+Limit=4
+TickFX=148
+Area=5
+Override=1
+BuffType=1
+ApplyeffectID=22
+SecondaryEffectId=22
+ClientEffectTypeId=16
+
+[EOT22]'speed bonus
+Type=2
+SharedTypeId=3
+Limit=5
+TickTime=10000
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=17
+SpeedModifier=0.1
+
+[EOT23]'unequip
+Type=13
+TickTime=8000
+Limit=3
+Override=0
+BuffType=4
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=18
+
+[EOT24]'quick blows
+Type=14
+TickTime=15000
+Limit=1
+Subtype=2 'numer of blows per hit
+Override=0
+Ticks=3 'number of hits
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=21
+PhysicalDamageDone=-0.65
+
+[EOT25] 'bard evasion song
+Type=10
+Ticks=12
+TickTime=10000
+TickManaConsumption=10
+TickStaminaConsumption=0
+Limit=4
+TickFX=148
+Area=5
+Override=1
+BuffType=5
+ApplyeffectID=27
+SecondaryEffectId=27
+ClientEffectTypeId=22
+
+[EOT26] 'bard hit song
+Type=10
+Ticks=12
+TickTime=10000
+TickManaConsumption=10
+TickStaminaConsumption=0
+Limit=4
+TickFX=148
+Area=5
+Override=1
+BuffType=5
+ApplyeffectID=28
+SecondaryEffectId=28
+ClientEffectTypeId=23
+
+[EOT27]'evasion bonus
+Type=2
+TickTime=10000
+SharedTypeId=5
+Limit=5
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=24
+EvasionModifier=40
+
+[EOT28]'hit bonus
+Type=2
+TickTime=10000
+SharedTypeId=4
+Limit=5
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=25
+HitModifier=40
+
+[EOT29] 'shield
+TickPowerMin=100
+TickPowerMax=120
+Type=15
+TickTime=10000
+Limit=5
+SharedTypeId=6
+Override=1
+BuffType=1
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+
+[EOT30] 'transform wolf
+TickPowerMin=200
+TickPowerMax=200
+Type=16
+Ticks=12
+TickTime=5000
+TickManaConsumption=10
+Limit=4
+Override=1
+BuffType=5
+NpcId=900
+OnHitFx=0
+OnHitWAV=0
+LimitCastOnlyOnSelf=1
+Transform=1
+ClientEffectTypeId=27
+PhysicalDamageReduction0
+MagicDamageReduction=0
+PhysicalLinearBonus=35
+MagicDamageDone=0
+HitModifier=50
+EvasionModifier=40
+
+[EOT31] 'transform bear
+TickManaConsumption=10
+Type=16
+Ticks=12
+TickTime=5000
+Limit=4
+Override=1
+BuffType=5
+NpcId=661
+OnHitFx=0
+OnHitWAV=0
+ApplyStatusMask=8
+ClientEffectTypeId=28
+LimitCastOnlyOnSelf=0
+Transform=1
+PhysicalDamageReduction=0.1
+MagicDamageReduction=0.1
+MagicDamageDone=-0.3
+PhysicalLinearBonus=10
+HitModifier=35
+EvasionModifier=0
+SpeedModifier=0
+
+[EOT32] 'Damage bonus
+Type=17
+TickTime=15000
+Ticks=1
+Limit=1
+Override=1
+BuffType=2
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=29
+PhysicalDamageReduction=-0.3
+MagicDamageReduction=-0.3
+
+[EOT33] 'self healing bonus
+Type=2
+TickTime=30000
+Limit=1
+Override=1
+BuffType=1
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=30
+SelfHealingBonus=0.2
+
+[EOT34] 'transform magic creature
+TickManaConsumption=30
+Type=16
+Ticks=12
+TickTime=5000
+Limit=4
+Override=1
+BuffType=5
+NpcId=655
+OnHitFx=0
+OnHitWAV=0
+ApplyStatusMask=8
+ClientEffectTypeId=31
+LimitCastOnlyOnSelf=0
+Transform=1
+MagicDamageDone=0.05
+MagicHealingBonus=0.1
+SpeedModifier=-0.25
+
+[EOT35] 'transformed sprint
+Type=2
+TickTime=4000
+Limit=1
+Override=0
+BuffType=4
+SpeedModifier=0.5
+ClientEffectTypeId=34
+RequireTransform=900
+
+[EOT36]'transformed dmg over time after hit
+Type=8
+TickTime=600000
+Limit=4
+Ticks=1
+TickFX=0
+Override=1
+BuffType=4
+ApplyeffectID=37
+ClientEffectTypeId=35
+RequireTransform=661
+
+[EOT37]'bleeding
+Type=1
+TickPowerMin=-20
+TickPowerMax=-30
+Ticks=8
+TickTime=1500
+Limit=2
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=36
+
+[EOT38]'mushroom poison
+Type=1
+TickPowerMin=-10
+TickPowerMax=-15
+Ticks=8
+TickTime=1500
+Limit=3
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=9
+
+[EOT39] 'regeneracion 1 
+Type=1
+TickPowerMin=10
+TickPowerMax=15
+Ticks=6
+TickTime=1500
+Limit=2
+TickFX=144
+Override=1
+BuffType=1
+AffectedByMagicHealing=1
+AffectedBySelfHealing=1
+ClientEffectTypeId=1
+
+[EOT40] 'regeneracion 2
+Type=1
+TickPowerMin=15
+TickPowerMax=20
+Ticks=6
+TickTime=1500
+Limit=2
+TickFX=144
+Override=1
+BuffType=1
+AffectedByMagicHealing=1
+AffectedBySelfHealing=1
+ClientEffectTypeId=1
+
+[EOT41]'Efecto Veneno 1
+Type=1
+TickPowerMin=-5
+TickPowerMax=-10
+Ticks=8
+TickTime=1500
+Limit=3
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=9
+SecondaryTargetModifier=0.5
+
+[EOT42]'Efecto Veneno 2
+Type=1
+TickPowerMin=-10
+TickPowerMax=-15
+Ticks=6
+TickTime=1500
+Limit=3
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=9
+SecondaryTargetModifier=0.5
+
+[EOT43] 'shield 1
+TickPowerMin=20
+TickPowerMax=30
+Type=15
+TickTime=10000
+Limit=5
+SharedTypeId=6
+Override=1
+BuffType=1
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+
+[EOT44] 'shield 2
+TickPowerMin=50
+TickPowerMax=60
+Type=15
+TickTime=10000
+Limit=5
+SharedTypeId=6
+Override=1
+BuffType=1
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+
+[EOT45]'Hechizo Veneno 1
+Type=8
+TickTime=600000
+Limit=4
+TickFX=0
+Override=1
+BuffType=4
+ApplyeffectID=41
+ClientEffectTypeId=7
+
+[EOT46]'Hechizo Veneno 2
+Type=8
+TickTime=600000
+Limit=4
+TickFX=0
+Override=1
+BuffType=4
+ApplyeffectID=42
+ClientEffectTypeId=7
+
+
+[EOT47] 'speed up peets
+Type=2
+TickTime=20000
+Limit=1
+Override=0
+BuffType=4
+SpeedModifier=1
+ClientEffectTypeId=34
+
+[EOT48]' bonus damage improved by magic bonus
+Type=2
+TickTime=30000
+Limit=1
+Override=0
+BuffType=4
+PhysicalLinearBonus=20
+ClientEffectTypeId=2
+AffectedByMagicBonus=1
+
+[EOT49]' bonus damage weapons 1
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+PhysicalLinearBonus=15
+ClientEffectTypeId=39
+RequireWeapon=1
+
+[EOT50]' bonus damage weapons 2
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+PhysicalLinearBonus=25
+ClientEffectTypeId=39
+RequireWeapon=1
+
+[EOT51]' bonus damage weapons 3
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+PhysicalLinearBonus=40
+ClientEffectTypeId=39
+RequireWeapon=1
+
+[EOT52]' bonus defense with shield 1 
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+DefenseBonus=5
+ClientEffectTypeId=40
+RequireShield=1
+
+
+[EOT53]' bonus defense with shield 2
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+DefenseBonus=10
+ClientEffectTypeId=40
+RequireShield=1
+
+
+[EOT54]' bonus defense with shield 3
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+DefenseBonus=15
+ClientEffectTypeId=40
+RequireShield=1
+
+
+[EOT55] 'absorb shield
+TickPowerMin=32000
+TickPowerMax=32000
+Type=15
+TickTime=600000
+Limit=1
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+
+[EOT56] 'cart shield
+TickPowerMin=50
+TickPowerMax=50
+Type=15
+TickTime=10000
+Limit=1
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+CCInmunity=0
+
+[EOT57] 'cart shield 2
+TickPowerMin=100
+TickPowerMax=100
+Type=15
+TickTime=10000
+Limit=1
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+CCInmunity=
+SpeedModifier=0.2
+
+[EOT58] 'cart shield 3
+TickPowerMin=200
+TickPowerMax=200
+Type=15
+TickTime=10000
+Limit=1
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26
+CCInmunity=1
+SpeedModifier=0.2
+
+[EOT59]
+Type=9
+SharedTypeId=2
+Limit=5
+TickPowerMin=2.5
+TickPowerMax=2.5
+Ticks=10
+TickTime=1000
+TickFX=147
+Override=1
+BuffType=5
+ClientEffectTypeId=11
+
+
+
+
+[EOT60] 'absorb shield for respawn protection
+TickPowerMin=32000
+TickPowerMax=32000
+Type=15
+TickTime=5000
+Limit=1
+Override=1
+BuffType=5
+OnHitFx=0
+OnHitWAV=0
+ClientEffectTypeId=26

@@ -1,63 +1,80 @@
 [INIT]
-NumArmas=20
+NumArmas=26
 
 [Arma1]
-Index=15 ' Daga
+Index=3980 ' Bala de piedra
 
 [Arma2]
-Index=165 ' Daga +1
+Index=15 ' Daga
 
 [Arma3]
-Index=365 ' Daga+2
+Index=4299 ' Caja de balas de piedra
 
 [Arma4]
-Index=366 ' Daga+3
+Index=165 ' Daga +1
 
 [Arma5]
-Index=367 ' Daga +4
+Index=365 ' Daga+2
 
 [Arma6]
-Index=164 ' Espada corta
+Index=366 ' Daga+3
 
 [Arma7]
-Index=3175 ' Trabuco
+Index=367 ' Daga +4
 
 [Arma8]
-Index=3540 ' Bala de Hierro
+Index=164 ' Espada corta
 
 [Arma9]
-Index=2 ' Espada larga 
+Index=3175 ' Trabuco
 
 [Arma10]
-Index=1792 'Sable
+Index=3540 ' Bala de Hierro
 
 [Arma11]
-Index=1817' Espada Dos Manos
+Index=2 ' Espada larga 
 
 [Arma12]
-Index=401 ' Maza de Dos Manos
+Index=1792 'Sable
 
 [Arma13]
-Index=159' Hacha de Barbaro
+Index=1817' Espada Dos Manos
 
 [Arma14]
-Index=399 'Cimitarra
+Index=401 ' Maza de Dos Manos
 
 [Arma15]
-Index=123 ' Espada Vikinga
+Index=159' Hacha de Barbaro
 
 [Arma16]
-Index=124 'Katana
+Index=399 'Cimitarra
 
 [Arma17]
-Index=1246 ' Hacha de Guerra Dos filos
+Index=123 ' Espada Vikinga
 
 [Arma18]
-Index=126' Hacha Larga de Guerra
+Index=124 'Katana
 
 [Arma19]
-Index=403 ' Espada de Plata
+Index=1246 ' Hacha de Guerra Dos filos
 
 [Arma20]
+Index=126' Espada de Plata
+
+[Arma21]
+Index=403 ' Espada de HÃ©roes
+
+[Arma22]
+Index=2598 ' Guantes de Lucha
+
+[Arma23]
 Index=402 ' Espada Matadragones
 
+[Arma24]
+Index=3805 ' Caja de balas de hierro
+
+[Arma25]
+Index=3982 ' Caja de balas de plata
+
+[Arma26]
+Index=3988 ' Espada Celta

@@ -36,6 +36,7 @@ ResuX=49
 ResuY=24
 NecesitaNave=0
 Mapas=59,159,60,61,339,345,58
+
 [Lindos]
 X=63
 Y=43
@@ -47,6 +48,7 @@ MapaResu=64
 ResuX=51
 ResuY=43
 NecesitaNave=1
+Mapas=62,63,64
 
 [Arghal]
 X=41
@@ -80,8 +82,6 @@ Mapas=354
 [Penthar]
 Mapas=189,559,560,571,561,558
 
-[Lindos]
-Mapas=62,63,64
 
 [Prision]
 X=50
@@ -90,5 +90,43 @@ MAPA=66
 
 [Libertad]
 X=48
-Y=68
+Y=73
 MAPA=66
+
+[Renacimiento]
+X=50
+Y=50
+MAPA=399
+
+[NixDock]
+StartX=31
+StartY=46
+EndX=55
+EndY=52
+DestX=44
+DestY=73
+RequiredPassID=3791
+MAPA=511
+
+[ForgatDock]
+StartX=36
+StartY=36
+EndX=61
+EndY=42
+DestX=49
+DestY=62
+RequiredPassID=3791
+MAPA=790
+
+
+[BarcoNavegando]
+StartX=39
+StartY=51
+EndX=64
+EndY=57
+DestX=51
+DestY=54
+DockX=53
+DockY=68
+RequiredPassID=3791
+MAPA=198
