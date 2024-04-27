@@ -1,10 +1,6 @@
 # RFC Title
 
-- Author: Your Name (@yourusername)
-- Date: YYYY-MM-DD
-- Status: Draft
-
-## Abstract
+## Summary
 
 Provide a concise summary of the RFC.
 
