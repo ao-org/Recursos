@@ -90,7 +90,7 @@ en_DescFinal=I thank you. Finally... Tranquility!
 
 [QUEST2]
 Nombre=Primeros Pasos
-Desc=Ya veo, estás interesado en el arte de la Alquimia, se quien puede ayudarte, ve a ver a Caelum en la Granja de Penthar y entregale esta receta de parte mía, el seguramente te enseñará lo que anhelas aprender.
+Desc=Ya veo, estás interesado en el arte de la Alquimia, sé quien puede ayudarte, ve a ver a Caelum en la Granja de Penthar y entregale esta receta de parte mía, el seguramente te enseñará lo que anhelas aprender.
 DescFinal=¡Buena suerte!
 RewardObjs=1
 RewardObj1=1188-1
@@ -162,7 +162,7 @@ en_desc=I have heard rumors that somewhere in this dungeon there is a book with 
 [QUEST6]'Pitonisa Nueva II
 Nombre=Dungeon Pitonisa II
 Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite a la Isla Pitonisa.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredQuest=3
 RequiredLevel=41
 RequiredNPCs=6
@@ -197,7 +197,7 @@ en_desc=Let's test if this really works, I need a rooster feather to be able to 
 [QUEST8]'Pitonisa Nueva III
 Nombre=Dungeon Pitonisa III
 Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite a la Isla Pitonisa.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredQuest=6
 RequiredLevel=42
 RequiredNPCs=4
@@ -214,7 +214,7 @@ en_DescFinal=Thanks for your help! Here is your reward.
 [QUEST9]'Pitonisa Nueva III
 Nombre=Dungeon Pitonisa IV
 Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite a la Isla Pitonisa.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=43
 RequiredQuest=8
 RequiredNPCs=9
@@ -235,7 +235,7 @@ en_DescFinal=Thanks for your help! Here is your reward.
 
 [Quest10]
 Nombre=El Encargo de Seraphia
-Desc=¿Un encargo para mí? veamos...ya veo, Seraphia tan cumplidora como siempre.
+Desc=¿Un encargo para mí? Veamos... Ya veo, Seraphia tan cumplidora como siempre.
 DescFinal=Estoy en deuda contigo, te enseñaré lo que necesitas saber.
 RequiredObjs=1
 RequiredOBJ1=1188-1
@@ -266,7 +266,7 @@ en_DescFinal=That's nice! In the same way I miss my cow, have this reward.
 [QUEST12]'Pitonisa Nueva V
 Nombre=Dungeon Pitonisa V
 Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite a la Isla Pitonisa.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=44
 RequiredQuest=9
 RequiredNPCs=9
@@ -303,7 +303,7 @@ en_desc=Apparently the brotherhood of criminals has not liked the massacre we ha
 [QUEST14]
 Nombre=Terror de los Viajeros
 Desc=Estas bestias salvajes andan al acecho por todos los bosques aledaños de Ullathorpe y han constituido una amenaza para todos los viajeros que vienen a comerciar a la ciudad. Tenemos muchos cazadores trabajando en diezmar las jaurías, pero siempre necesitamos una mano más. ¿Te atreves?
-DescFinal=Realmente posees un gran valor y fortaleza al acompañarnos! Déjame recompensarte.
+DescFinal=¡Realmente posees un gran valor y fortaleza al acompañarnos! Déjame recompensarte.
 NextQuest=
 RequiredLevel=8
 RequiredNPCs=1
@@ -351,7 +351,7 @@ en_DescFinal=How good these heads will look in the city square. Thank you.
 
 [QUEST17]
 Nombre=Arachnida
-Desc=Tanto tiempo sin adentrarnos en las catacumbas se han desarrollado nuevas especies de arañas. si las anteriores daban miedo, estás causan infartos. Hasta se han generado nuevos tipos de venenos e infecciones, algunas incluso podrían causar la muerte de un ser humano. Hay que acabar con esto antes de que terminen invadiendo la ciudad. Elimina todas las que puedas.
+Desc=Tanto tiempo sin adentrarnos en las catacumbas... Se han desarrollado nuevas especies de arañas. Si las anteriores daban miedo, estás causan infartos. Hasta se han generado nuevos tipos de venenos e infecciones, algunas incluso podrían causar la muerte. Hay que acabar con esto antes de que terminen invadiendo la ciudad. Elimina todas las que puedas.
 DescFinal=¿Qué? ¿¡Una araña gigante!?
 RequiredLevel=16
 RequiredNPCs=6
@@ -370,8 +370,8 @@ en_DescFinal=What? A giant spider!?
 
 [QUEST18]
 Nombre=Hora de Fumigar
-Desc=Que no te engañen, ¡las catacumbas son peligrosas! Pueden parecer bellas y dulces, pero son seres horripilantes, hemos perdido cientos de aventureros allí dentro, por culpa de arañas.. También, fuera de la ciudad, esos Osos nos hacen la vida imposible..
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+Desc=Que no te engañen, ¡las catacumbas son peligrosas! Pueden parecer bellas y dulces, pero son seres horripilantes, hemos perdido cientos de aventureros allí dentro, por culpa de arañas... También, fuera de la ciudad, esos osos nos hacen la vida imposible...
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 NextQuest=
 RequiredLevel=18
 RequiredNPCs=2
@@ -421,7 +421,7 @@ en_DescFinal=I can't believe it, we were desperate. We believed it would be the 
 [QUEST22]
 Nombre=Protección Acuática
 Desc=Unos compañeros han tenido problemas con unos nadadores al sur de aquí, están cerca de una cueva misteriosa. Esto no puede volver a suceder, ve y dales una paliza por mí. Si tienes carácter podemos quedarnos con sus trajes.
-DescFinal=Excelente trabajo! Ten uno para tí, te servirá.
+DescFinal=¡Excelente trabajo! Ten uno para tí, te servirá.
 RequiredLevel=13
 RequiredNPCs=1
 RequiredNPC1=1000-5
@@ -452,7 +452,7 @@ en_DescFinal=Thank you, this can serve you.
 
 [QUEST24]
 Nombre=Dependencia de Jabalíes
-Desc=Acabo de observar por la orilla que el sol está bajando y nos estamos quedando sin provisiones para el Mesón. Por favor, ve y consigue diez chuletas de jabalíes!
+Desc=Acabo de observar por la orilla que el sol está bajando y nos estamos quedando sin provisiones para el Mesón. Por favor, ¡ve y consigue!
 DescFinal=Estoy muy agradecida, nos has salvado. Toma estas monedas como recompensa.
 RequiredLevel=13
 RequiredNPCs=1
@@ -468,7 +468,7 @@ en_DescFinal=I am very grateful, you have saved us. Take these coins as a reward
 
 [QUEST25]
 Nombre=Algo de respiro
-Desc=Mh, me han comentado de tí, que eres bueno, valiente, habilidoso y tienes la actitud necesaria. ¿De mi parte? Solo palabras. Compruébalo, necesito aliento de sirena para un experimento. Y sí, por supuesto: habrá premio.
+Desc=Mmh, me han comentado de tí, que eres bueno, valiente, habilidoso y tienes la actitud necesaria. ¿De mi parte? Sólo palabras. Compruébalo, necesito aliento de sirena para un experimento. Y sí, por supuesto: habrá premio.
 DescFinal=
 NextQuest=
 RequiredLevel=25
@@ -483,7 +483,7 @@ en_desc=Mh, I have been told about yourself, that you are good, brave, skilled a
 
 [QUEST26]
 Nombre=Malditos Piratas
-Desc=Esa tripulación de piratas ha robado nuestros tesoros. No pretendo dejar todo como si nada, si logras vencerlos y allarnarnos el camino guardaré parte de la recompensa para tí.
+Desc=Esa tripulación de piratas ha robado nuestros tesoros. No pretendo dejar todo como si nada, si logras vencerlos y allanarnos el camino guardaré parte de la recompensa para tí.
 DescFinal=Siendo sincero, creí que no podrías. ¡Aquí tienes!
 NextQuest=
 RequiredLevel=28
@@ -502,7 +502,7 @@ en_DescFinal=To be honest, I thought you couldn't. Here you are!
 
 [QUEST27]
 Nombre=Distintos tipos de hechiceros
-Desc=Si quieres aprender a dominar la magia deberías comenzar enfrentandote a quienes la aplican, ve y emprende a cacería dentro de la isla. ¡Buena suerte!
+Desc=Si quieres aprender a dominar la magia deberías comenzar enfrentándote a quienes la aplican, ve y emprende a cacería dentro de la isla. ¡Buena suerte!
 Descfinal=Gran trabajo, puedes seguir entrenando las veces que quieras.
 RequiredLevel=25
 RequiredNPCs=4
@@ -535,7 +535,7 @@ en_DescFinal=Great job, you can keep training as many times as you want.
 [QUEST29]
 Nombre=Liberar el Bosque Élfico
 Desc=Necesitamos liberar la zona del bosque élfico al occidente, la ciudad de Banderbill utiliza en demasía la leña que allí se consigue.
-DescFinal=Estamos escasos de liquidez para concretar el pago en oro, pero podemos pagarte en material.
+DescFinal=Estamos escasos de liquidez para concretar el pago en oro, pero podemos pagarte con material.
 Repetible=1
 RequiredLevel=25
 RequiredNPCs=5
@@ -567,7 +567,7 @@ en_DescFinal=This amulet will prove your worth. Don't miss it!
 
 [QUEST31]
 Nombre=Coleccionista de Corales
-Desc=Hola, cómo estás. Yo no estoy muy bien, desde que perdí la movilidad en la mitad del cuerpo ya no puedo bucear y recolectar corales. Era mi pasión y también mi negocio, se vendían muy bien en el puerto de Nix. Si te interesa podríamos llegar a un acuerdo por dinero, no te veo muy capaz para el buceo pero las mantarrayas suelen comerlos por equivocación, puedes destripar algunas de ellas y ver si los consigues.
+Desc=Hola, ¿cómo estás? Yo no estoy muy bien, desde que perdí la movilidad en la mitad del cuerpo ya no puedo bucear y recolectar corales. Era mi pasión y también mi negocio, se vendían muy bien en el puerto de Nix. Si te interesa podríamos llegar a un acuerdo por dinero, no te veo muy capaz para el buceo pero las mantarrayas suelen comerlos por equivocación, puedes destripar algunas de ellas y ver si los consigues.
 DescFinal=Podemos seguir trabajando juntos muchacho.
 RequiredNPCs=1
 RequiredNPC1=547-10
@@ -599,7 +599,7 @@ en_DescFinal=You are amazing! The rumors about your bravery were true.
 
 [QUEST33]
 Nombre=Robos de Ultramar
-Desc=Me han despojado de todo, tenía una especie de trato con los piratas que frecuentan estas costas pero rompieron todo código. Solían reabastecerse aquí de ciertos víveres a un precio interesante que me resultaba mejor que ir a venderlos a la ciudad de Ullathorpe. Al parecer se produjo un motín y el capitán fue asesinado. Ahora alguien más ocupa ese puesto. Por favor necesito que recuperes mis cubiertos, suena loco lo sé... ¡Pero eran de oro!
+Desc=Me han despojado de todo, tenía una especie de trato con los piratas que frecuentan estas costas pero rompieron todo código. Solían reabastecerse aquí de ciertos víveres a un precio interesante que me resultaba mejor que ir a venderlos a la ciudad de Ullathorpe. Al parecer se produjo un motín y el capitán fue asesinado. Ahora alguien más ocupa ese puesto. Por favor necesito que recuperes mis cubiertos, suena loco, lo sé... ¡Pero eran de oro!
 DescFinal=¡No estaba tan loco! ¿Has visto lo preciosos que son?
 RewardGLD=175
 RewardEXP=2320
@@ -614,8 +614,8 @@ en_DescFinal=I wasn't so crazy! Have you seen how precious they are?
 
 [QUEST34]
 Nombre=Un tallo de mi talle
-Desc=¡Qué fortuna verte! Pensé que jamás vería a alguien por aquí. ¿No eres un bandido, cierto? Bah, qué digo. Si lo fueses ya estaría herido. Necesito materiales para terminar de construir mi cabaña. ¿Serías capaz de traerme algo de madera?
-DescFinal=¡Ahora si podré terminar mi hogar! Muchas gracias
+Desc=¡Qué fortuna verte! Pensé que jamás vería a alguien por aquí. No eres un bandido, ¿cierto? Bah, qué digo. Si lo fueses ya estaría herido. Necesito materiales para terminar de construir mi cabaña. ¿Serías capaz de traerme algo de madera?
+DescFinal=¡Ahora si podré terminar mi hogar! Muchas gracias.
 NextQuest=
 RequiredOBJs=1
 RequiredObj1=58-1500
@@ -629,7 +629,7 @@ en_DescFinal=Now if I will be able to finish my home! Thanks a lot
 
 [QUEST35]
 Nombre=Pasillos oscuros
-Desc=Al sur de aquí podrás encontrar una isla escondida entre la niebla. En su interior habitan las gorgonas, criaturas capaces de controlar el tiempo y convertir en piedra a los mortales. Quizás no deba asustarte demasiado, puede ser solo una leyenda. Lo cierto es que nos gustaría explorar la mazmorra y tu pareces interesado en participar.
+Desc=Al sur de aquí podrás encontrar una isla escondida entre la niebla. En su interior habitan las gorgonas, criaturas capaces de controlar el tiempo y convertir en piedra a los mortales. Quizás no deba asustarte demasiado, puede ser sólo una leyenda. Lo cierto es que nos gustaría explorar la mazmorra y tu pareces interesado en participar.
 DescFinal=Te ves exhausto...
 NextQuest=30
 RequiredLevel=40
@@ -662,7 +662,7 @@ en_DescFinal=Very good equipment! I congratulate you warrior, excellent work. Ha
 [QUEST37]
 Nombre=Magia Oscura
 Desc=En el interior de Dungeon Marabel se encuentra presente un ser de piedra muy poderoso que debe su vida a un componente mágico que le incorporan los orcos brujos del lugar. Los orcos lo utilizan como protector del lugar. Nuestros magos quieren estudiar cómo es el encantamiento que los manipula. Derrota un Golem de Piedra y tráeme la Piedra Sagrada.
-DescFinal=Bueno, ahora les tocará el trabajo a nuestros sacerdotes.
+DescFinal=Bueno, ahora le tocará el trabajo a nuestros sacerdotes.
 RequiredLevel=23
 RequiredNPCs=1
 RequiredNPC1=536-1
@@ -691,7 +691,7 @@ en_desc=Welcome to the Argentum universe, I'm Heather. The witch of these lands,
 
 [QUEST39]
 Nombre=Consejo de Cortesía
-Desc=Ahora sí, ambos nos sentimos cómodos. Bueno, tú no tanto. Pero eso no importa. Veo en tu rostro el sentido de la inocencia y el aroma de la tranquilidad, como recomendación personal: aquí no la tengas. Habrá muchos criminales en busca de tus pertenencias y en el peor caso de tu cadáver. Estas Armas serán de ayuda, al menos por un corto plazo.
+Desc=Ahora sí, ambos nos sentimos cómodos. Bueno, tú no tanto. Pero eso no importa. Veo en tu rostro el sentido de la inocencia y el aroma de la tranquilidad, como recomendación personal: aquí no la tengas. Habrá muchos criminales en busca de tus pertenencias y en el peor caso de tu cadáver. Estas armas serán de ayuda, al menos por un corto plazo.
 DescFinal=
 RequiredQuest=38
 RequiredLevel=12
@@ -705,7 +705,7 @@ en_desc=Now, we both feel comfortable. Well, you not so much. But that doesn't m
 
 [QUEST40]
 Nombre=Agasajo de la Alquimia
-Desc=Muchas personas han pasado por aquí aunque no lo creas. Aún recuerdo una mujer llamada Lilith, tenía un conocimiento único y se dedicaba a la Botánica. Me dejo este cofre que contiene una variedad de pociones para recuperar tu salud y maná. Las pociones rojas son para tu salud y las azules para tu maná.
+Desc=Muchas personas han pasado por aquí aunque no lo creas. Aún recuerdo una mujer llamada Lilith, tenía un conocimiento único y se dedicaba a la botánica. Me dejó este cofre que contiene una variedad de pociones para recuperar tu salud y maná. Las pociones rojas son para tu salud y las azules para tu maná.
 DescFinal=
 RequiredLevel=12
 RequiredQuest=39
@@ -744,7 +744,7 @@ en_DescFinal=Good luck out there!
 
 [QUEST43]
 Nombre=Mutante Arácnido
-Desc=Ahora que tienes un hechizo decente puedes intentar derrotar al Mutante Arácnido que acecha las Catacumbas.
+Desc=Ahora que tienes un hechizo decente... Puedes intentar derrotar al Mutante Arácnido que acecha las Catacumbas.
 DescFinal=Eres muy valiente, te mereces este premio.
 RequiredLevel=18
 RequiredQuest=17
@@ -774,7 +774,7 @@ en_DescFinal=You are very brave, you deserve this award.
 
 [QUEST45] 'Quest nueva para Drenaje
 Nombre=Investigar las anomalias
-Desc=Han llegado reportes de una posible anomalia, en lo profundo de este drenaje ¿puedes ir a verificar la zona?
+Desc=Han llegado reportes de una posible anomalia en lo profundo de este drenaje ¿puedes ir a verificar la zona?
 DescFinal=Gracias por esta información, me fue de mucha ayuda, ten a cambio estas monedas de oro.
 RequiredLevel=20
 RequiredNPCs=8
@@ -813,7 +813,7 @@ en_DescFinal=You already look more seasoned. One more story to tell your childre
 
 [QUEST48]
 Nombre=Invadir el Inframundo
-Desc=En el interior del averno se encuentra la criatura más fuerte de este mundo, enfrentala y demuestra lo que vales. Te recomiendo llevar a tus mejores guerreros contigo, no será una tarea sencilla.
+Desc=En el interior del averno se encuentra la criatura más fuerte de este mundo, enfréntala y demuestra lo que vales. Te recomiendo llevar a tus mejores guerreros contigo, no será una tarea sencilla.
 DescFinal=Este amuleto demostrará tu valía. ¡No lo pierdas!
 RequiredLevel=40
 RequiredNPCs=1
@@ -827,7 +827,7 @@ en_DescFinal=This amulet will prove your worth. Don't miss it!
 
 [QUEST49]
 Nombre=¿Ciencia o mito?
-Desc=Los historiadores siempre han dado con que en Veriil pudieron notar la presencia de una mujer con similitudes a una vieja mitología griega, conocida como Medusa. Una despiadada criatura protectora de conceptos religiosos antiguos. Podrás identificarla fácilmente por su cabello, que fue sustituido hace muchísimo tiempo por unas serpientes debido a un castigo. Requiero sus órganos para estudiar su adn y tratar de conocer sus secretos. Habrá una muy buena recompensa. No lo dudes.
+Desc=Los historiadores siempre han dado con que en Veriil pudieron notar la presencia de una mujer con similitudes a una vieja mitología griega, conocida como Medusa. Una despiadada criatura protectora de conceptos religiosos antiguos. Podrás identificarla fácilmente por su cabello, que fue sustituido hace muchísimo tiempo por unas serpientes debido a un castigo. Requiero sus órganos para estudiar su composición y tratar de conocer sus secretos. Habrá una muy buena recompensa. No lo dudes.
 DescFinal=Ten, acabas de hacer un gran aporte a la ciencia.
 RequiredLevel=30
 RequiredNPCs=1
@@ -872,7 +872,7 @@ en_desc=In the main hall of the jellyfish cave usually appears its leader, who i
 
 [QUEST52]
 Nombre=Gran Dragón Rojo
-Desc=Al norte de Arkhein hay una guarida dónde se habita el dragón más famoso de este mundo. Aventurarse en su búsqueda es algo realmente caro, demasiado dinero en víveres, armamento y escolta, porque claramente no podrás solo. No es fácil lograr este objetivo, bah qué digo... ¡Es el más difícil!
+Desc=Al norte de Arkhein hay una guarida dónde habita el dragón más famoso de este mundo. Aventurarse en su búsqueda es algo realmente caro, demasiado dinero en víveres, armamento y escolta, porque claramente no podrás solo. No es fácil lograr este objetivo, bah qué digo... ¡Es el más difícil!
 DescFinal=Esto sí que es único, no lo pierdas.
 RequiredLevel=22
 RequiredNPCs=1
@@ -902,7 +902,7 @@ en_DescFinal=Excellent. This is your generous pay for your services.
 
 [QUEST54]
 Nombre=Desbloquear los túneles
-Desc=Estamos realmente preocupados, nos están demandando cada vez más grandes cantidades de hierro desde Banderbill para su reconstrucción de la ciudad. Sería una bendición si no fuera por lo difícil que nos es retirar el material de las minas. Hay enanos oscuros bloqueando los caminos y entorpeciendo nuestros rieles. Por favor ayúdanos con esto.
+Desc=Estamos realmente preocupados, nos están demandando cada vez más grandes cantidades de hierro desde Banderbill para su reconstrucción. Sería una bendición si no fuera por lo difícil que nos es retirar el material de las minas. Hay enanos oscuros bloqueando los caminos y entorpeciendo nuestros rieles. Por favor, ayúdanos con esto.
 DescFinal=Gracias, quizás volver a necesitar tu ayuda.
 RequiredLevel=25
 RequiredNPCs=4
@@ -919,7 +919,7 @@ en_DescFinal=Thank you, maybe I'll need your help again.
 
 [QUEST55]
 Nombre=Retomar las rutas comerciales
-Desc=Hacia el norte se encuentra una isla abandonada por dios. Desde ella accedes a las ruinas de Earost, una mítica cueva donde habitó un kraken gigante hace cientos de años. Ahora se ha convertido en un refugio pirata y una posición estratégica que bloquea el transporte de mercancías entre Banderbill y Nix. Necesito que te dirijas a la Isla Pirata, ingreses en la cueva, te infiltres entre ellos y acabes con su capitán. Recuerda llevar contigo el traje de caucho. Tu ayuda es fundamental para retomar la ruta comercial.
+Desc=Hacia el norte se encuentra una isla abandonada por los dioses. Desde ella accedes a las ruinas de Earost, una mítica cueva donde habitó un kraken gigante hace cientos de años. Ahora se ha convertido en un refugio pirata y una posición estratégica que bloquea el transporte de mercancías entre Banderbill y Nix. Necesito que te dirijas a la Isla Pirata, ingreses en la cueva, te infiltres entre ellos y acabes con su capitán. Recuerda llevar contigo el traje de caucho. Tu ayuda es fundamental para retomar la ruta comercial.
 DescFinal=¡Gracias muchacho, tu lealtad al imperio no tiene precio!
 RequiredLevel=25
 RequiredNPCs=1
@@ -953,7 +953,7 @@ en_DescFinal=How are there also giants?
 [QUEST59]
 Nombre=Asegurar el paso
 Desc=El único camino del infierno para alcanzar al devorador del inframundo está custodiado por jinetes que destruyen a cualquier expedición que ingresa al túnel. Aunque no lo parezcan, son diferentes entre ellos. Ve y hazte camino hacia el final.
-DescFinal=¿Has logrado sobrevivir? increíble ¿crees que eres capaz de hacerlo otra vez?
+DescFinal=¿Has logrado sobrevivir? Increíble. ¿Crees que eres capaz de hacerlo otra vez?
 RequiredLevel=40
 RequiredNPCs=4
 RequiredNPC1=1021-6
@@ -969,7 +969,7 @@ en_DescFinal=Have you managed to survive? incredible, do you think you are capab
 [QUEST60]
 Nombre=Magia de Fuego
 Desc=Necesito estudiar la magia que mantiene vivos a los elementales de fuego y convierte su masa inerte en energía.
-DescFinal=Gracias por tu ayuda, podes volver cuando quieras.
+DescFinal=Gracias por tu ayuda, puedes volver cuando quieras.
 RequiredLevel=40
 RequiredNPCs=1
 RequiredNPC1=994-25
@@ -1060,7 +1060,7 @@ en_DescFinal=Good job, this will be of great help for your training.
 
 [QUEST66]
 Nombre=Casco Infernal
-Desc=Puedo forjar un casco para ti, será digno de las Fuerzas del Caos. Solo para Clerigos, Paladines y Guerreros.
+Desc=Puedo forjar un casco para ti, será digno de las Fuerzas del Caos. Sólo para Clérigos, Paladines y Guerreros.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1071,7 +1071,7 @@ RewardObj1=1279-1
 
 [QUEST67]
 Nombre=Escudo de la Legión Oscura
-Desc=Puedo forjar un escudo para tí, digno de las Fuerzas del Caos. Solo para Bardos, Asesinos, Bandidos, Cazadores y Piratas.
+Desc=Puedo forjar un escudo para tí, digno de las Fuerzas del Caos. Sólo para Bardos, Asesinos, Bandidos, Cazadores y Piratas.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1082,7 +1082,7 @@ RewardObj1=1714-1
 
 [QUEST68]
 Nombre=Casco del Guardián
-Desc=Puedo forjar un casco para tí, digno de las Fuerzas del Imperio. Solo para Asesinos, Bandidos, Cazadores y Piratas.
+Desc=Puedo forjar un casco para tí, digno de las Fuerzas del Imperio. Sólo para Asesinos, Bandidos, Cazadores y Piratas.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1152,7 +1152,7 @@ en_DescFinal=You can now equip a Fighter's Mount, talk to me if you want to upgr
 
 [QUEST73]
 Nombre=Montura Legionaria de Hechiceros.
-Desc=Traeme 9 insignias rojas, te llevarás una excelente montura de la Legión Oscura. Solo utilizable por Magos, Druidas, y Bardos.
+Desc=Traeme 9 insignias rojas, te llevarás una excelente montura de la Legión Oscura. Sólo utilizable por Magos, Druidas, y Bardos.
 DescFinal=
 RequiredLevel=40
 Repetible=0
@@ -1181,7 +1181,7 @@ en_DescFinal=Finally the rumors were true, be careful if you pass by there again
 
 [QUEST75]
 Nombre=Cofre de Armas Legendarias
-Desc=Un Arma del más alto nivel por insignias.
+Desc=Un arma del más alto nivel por insignias.
 DescFinal=Buena suerte.
 RequiredLevel=1
 Repetible=1
@@ -1194,7 +1194,7 @@ en_desc=A weapon of the highest level for badges.
 
 [QUEST76]
 Nombre=Cofre de Armaduras Legendarias
-Desc=Una Armadura del más alto nivel por insignias.
+Desc=Una armadura del más alto nivel por insignias.
 DescFinal=Buena suerte.
 RequiredLevel=1
 Repetible=1
@@ -1207,7 +1207,7 @@ en_desc=An armor of the highest level for badges.
 
 [QUEST77]
 Nombre=Cofre de Cascos Legendarios.
-Desc=Este cofre contiene los mejores cascos de estas tierras!
+Desc=¡Este cofre contiene los mejores cascos de estas tierras!
 DescFinal=Buena suerte.
 RequiredLevel=1
 Repetible=1
@@ -1234,7 +1234,7 @@ en_desc=Only for the best wizards of the Royal Army.
 
 [QUEST79]
 Nombre=Bastón de la Eterna Noche
-Desc=Solo para los Magos de alto rango en la Legión Oscura.
+Desc=Sólo para los Magos de alto rango en la Legión Oscura.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1246,7 +1246,7 @@ en_desc=Only for the high-ranking Wizards in the Dark Legion.
 
 [QUEST80]
 Nombre=Escudo de la Armada Real
-Desc=Puedo forjar un escudo para tí, será digno de la nobleza real. Solo para Bardos, Asesinos, Bandidos, Cazadores y Piratas.
+Desc=Puedo forjar un escudo para tí, será digno de la nobleza real. Sólo para Bardos, Asesinos, Bandidos, Cazadores y Piratas.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1295,7 +1295,7 @@ en_desc=The best royal bow available in this world.
 [QUEST84]
 Nombre=Viejo lobo de mar
 Desc=Ando necesitando un suministro de anzuelos para mis clases de pesca con novatos pero desgraciadamente mi proveedor local se mudó a Nueva Esperanza. Los goblins suelen tener algunos de muy buena calidad ya que viven de roedores y pescados. Si me traes los suficientes puedo mejorar esa caña de pescar vieja que tienes y convertirla en algo realmente útil.
-DescFinal=Veo que tienes madera de pescador, podrías ser de gran utilidad para el gremio. si te interesa ve a hablar con mi hermano Ralph, podrás encontrarlo en los muelles de la ciudad la Banderbill.
+DescFinal=Veo que tienes madera de pescador, podrías ser de gran utilidad para el gremio. Si te interesa ve a hablar con mi hermano Ralph, podrás encontrarlo en los muelles de la ciudad la Banderbill.
 RequiredLevel=17
 Repetible=1
 RequiredOBJs=2
@@ -1321,7 +1321,7 @@ en_desc=Bring me 9 red badges, you will take an excellent mount of the Dark Legi
 
 [QUEST86]
 Nombre=Montura Real de Hechicero
-Desc=Traeme 9 insignias azules, te llevarás una excelente montura digna del Ejército Real. Solo utilizable por Magos, Druidas y Bardos.
+Desc=Traeme 9 insignias azules, te llevarás una excelente montura digna del Ejército Real. Sólo utilizable por Magos, Druidas y Bardos.
 DescFinal=
 RequiredLevel=40
 Repetible=0
@@ -1412,7 +1412,7 @@ en_desc=Dagger for the best assassins of the Dark Legion.
 
 [QUEST93]
 Nombre=Exterminarlos como en Barad-dûr
-Desc=Esto será simple, las tierras de Argentum están plagadas de orcos. Deberás matar cien de ellos para completar esta misión.
+Desc=Esto será simple, las tierras de Argentum están plagadas de orcos. Deberás matar algunos de ellos para completar esta misión.
 DescFinal=Esto sí que es único, no lo pierdas.
 RequiredLevel=20
 RequiredNPCs=3
@@ -1426,7 +1426,7 @@ en_DescFinal=This if it is unique, do not lose it.
 
 [QUEST94]
 Nombre=Escudo de Torre Imperial
-Desc=Puedo forjar un escudo para tí, digno de las Fuerzas del Imperio. Solo para Clerigos, Paladines y Guerreros.
+Desc=Puedo forjar un escudo para tí, digno de las Fuerzas del Imperio. Sólo para Clérigos, Paladines y Guerreros.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1477,7 +1477,7 @@ en_DescFinal=Ten, you have accessed this privilege.
 
 [QUEST98]
 Nombre=Cofre de Escudos Legendarios
-Desc=Este cofre contiene los mejores escudos de estas tierras!
+Desc=¡Este cofre contiene los mejores escudos de estas tierras!
 DescFinal=Buena suerte.
 RequiredLevel=1
 Repetible=1
@@ -1491,7 +1491,7 @@ en_desc=This chest contains the best shields of these lands!
 [QUEST99]
 Nombre=Peligro en la pirámide
 Desc=Estas alimañas con forma de humanoide están intentando encontrar algún tipo de tesoro dentro de la pirámide, no puedo contarte mucho de que hay allí pero si me ayudas a limpiar la zona puedo recompensarte muy bien.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 NextQuest=
 RequiredLevel=13
 RequiredNPCs=1
@@ -1505,7 +1505,7 @@ en_DescFinal=Thanks for your help! Here's your reward.
 [QUEST100]
 Nombre=Bosques infestados de Lobos Negros
 Desc=Como has notado en tu búsqueda de jabalíes es imposible adentrarse en el bosque sin ser atacado por estas bestias, los lobos negros. Son de un tamaño superior al común, y más feroces.
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=14
 RequiredNPCs=1
 RequiredNPC1=559-20
@@ -1529,7 +1529,7 @@ en_DescFinal=Go again, follow your training.
 
 [QUEST102]
 Nombre=Amenaza de Drenaje
-Desc=Necesitamos ayuda para acabar con la amenaza que acecha los drenajes. Ten cuidado! Las aguas que recorren esos ductos están contaminadas y llenas de alimañas. Deberás contar con protección adecuada.
+Desc=Necesitamos ayuda para acabar con la amenaza que acecha los drenajes. ¡Ten cuidado! Las aguas que recorren esos ductos están contaminadas y llenas de alimañas. Deberás contar con protección adecuada.
 DescFinal=Ve a hablar con el viejo Rudoph en la ciudad de tu facción y entrégale esto de mi parte, estoy seguro que él podrá ayudarte.
 NextQuest=
 RequiredLevel=13
@@ -1541,21 +1541,21 @@ en_DescFinal=Go talk to old Rudoph in your faction's city and give him this on m
 
 [QUEST109]
 Nombre=Reclutando Guerreros
-Desc=Que necesitas muchacho?. Ya veo, vienes a ayudarnos, enséñame el formulario de registro.
-DescFinal=Todo parece estar en orden, si estás listo comencemos de una vez!
+Desc=¿Qué necesitas muchacho? Ya veo, vienes a ayudarnos, enséñame el formulario de registro.
+DescFinal=Todo parece estar en orden, si estás listo comencemos de una vez...
 NextQuest=
 RequiredQuest=102
 RequiredLevel=13
 Repetible=0
 RequiredOBJs=1
 RequiredOBJ1=3325-1
-en_desc=What do you need boy?. I see, you come to help us, show me the registration form.
+en_desc=What do you need boy? I see, you come to help us, show me the registration form.
 en_DescFinal=Everything seems to be in order, if you are ready let's start at once!
 
 
 [QUEST103]
 Nombre=Un traje especial
-Desc=Necesitaras un traje especial de caucho para protegerte. Sin dudas puedo confeccionar uno para ti, aunque me temo que no será suficiente. Deberíamos añadirle algún repelente natural.
+Desc=Necesitarás un traje especial de caucho para protegerte. Sin dudas puedo confeccionar uno para ti, aunque me temo que no será suficiente. Deberíamos añadirle algún repelente natural.
 DescFinal=Ve a hablar con Sheila, podrás encontrarla en el Mesón, llevale este recipiente.
 RequiredQuest=109
 RequiredLevel=13
@@ -1583,7 +1583,7 @@ en_DescFinal=I can't believe it, he's a Grouper, I see he has qualities. Wait fo
 
 [QUEST104]
 Nombre=Manos a la obra (Razas Altas)
-Desc=Muy bien, tenemos todos los materiales pongamos manos a la obra.
+Desc=Muy bien, tenemos todos los materiales. Pongamos manos a la obra.
 DescFinal=Toma, de seguro estarás bien protegido con esto, mucha suerte viajero y ten mucho cuidado.
 RequiredLevel=13
 RequiredQuest=110
@@ -1598,7 +1598,7 @@ en_DescFinal=Take, you will surely be well protected with this, good luck travel
 
 [QUEST111]
 Nombre=Manos a la obra (Razas Bajas)
-Desc=Muy bien, tenemos todos los materiales pongamos manos a la obra.
+Desc=Muy bien, tenemos todos los materiales. Pongamos manos a la obra.
 DescFinal=Toma, de seguro estarás bien protegido con esto, mucha suerte viajero y ten mucho cuidado.
 RequiredLevel=13
 RequiredQuest=110
@@ -1612,7 +1612,7 @@ en_DescFinal=Take, you will surely be well protected with this, good luck travel
 
 [QUEST105]
 Nombre=Casco del Terror
-Desc=Puedo forjar un casco para ti, será digno de las Fuerzas del Caos. Solo para Asesinos, Bandidos, Cazadores y Piratas.
+Desc=Puedo forjar un casco para ti, será digno de las Fuerzas del Caos. Sólo para Asesinos, Bandidos, Cazadores y Piratas.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -1623,8 +1623,8 @@ RewardObj1=1773-1
 
 [QUEST106]
 Nombre=Un Experto Pescador
-Desc=Asi que te ha enviado mi hermano, veamos..., déjame ver esa caña!, Ya veo, es de muy buena calidad, pero necesitarás algo mejor que eso para atrapar peces de gran porte. Te ofrezco un trato!, los fluidos de la araña negra que se encuentra en el drenaje de la ciudad proporciona una increíble resistencia a las líneas de pesca. Si puedes conseguirme un poco creo que podré confeccionarte una gran caña.
-DescFinal=Toma esta caña podrás notar la diferencia en muy poco tiempo. Pero ten cuidado, atrapar peces de gran  porte no será nada fácil.
+Desc=Asi que te ha enviado mi hermano, veamos... ¡déjame ver esa caña! Ya veo, es de muy buena calidad, pero necesitarás algo mejor que eso para atrapar peces de gran porte. Te ofrezco un trato... Los fluidos de la araña negra que se encuentra en el drenaje de la ciudad proporciona una increíble resistencia a las líneas de pesca. Si puedes conseguirme un poco creo que podré confeccionarte una gran caña.
+DescFinal=Toma esta caña. Podrás notar la diferencia en muy poco tiempo. Pero ten cuidado, atrapar peces de gran porte no será nada fácil.
 RequiredQuest=84
 RequiredLevel=20
 RequiredOBJs=2
@@ -1638,7 +1638,7 @@ en_desc=So my brother has sent you, let's see..., let me see that rod!I see, it 
 en_DescFinal=Take this cane you can tell the difference in a very short time. But be careful, catching large fish will not be easy.
 
 [QUEST107]
-Nombre=Reliquias familiares.
+Nombre=Reliquias familiares
 Desc=Ven, quiero enseñarte algo. Esta caña de plata es una pieza única que ha pasado de generación en generación. Podría obsequiartela si cumples un pequeño encargo para mí. Hace unos días uno de nuestros barcos pesqueros fue atacado por piratas, afortunadamente todos estamos con vida, pero he perdido unas reliquias familiares muy importantes para mi. Caza a esos malditos piratas, recuperarlas y estaré en deuda contigo.
 DescFinal=¡Lo has logrado! Con esta caña única de plata serás la envidia de todo pescador.
 RequiredLevel=23
@@ -1668,7 +1668,7 @@ Trabajador=1
 en_desc=I see, you want to be part of our fishermen's guild. You'll need something better than that broken network for it. If you want I can improve it for you although I warn you that it will cost you a lot of money.
 
 [QUEST112]
-Nombre=Sal de aquí.
+Nombre=Sal de aquí
 Desc=¿Qué quieres? ¿Tu también quieres un traje de baño? ¿No ves que estoy ocupado? Ten, toma esta lista. No vuelvas hasta completarla y veremos.
 DescFinal=Felicitaciones, lo has logrado, esto es lo que te prometí.
 RequiredLevel=18
@@ -1690,9 +1690,9 @@ en_desc=What do you want? Do you also want a swimsuit? Don't you see that I'm bu
 en_DescFinal=Congratulations, you've made it, this is what I promised you.
 
 [QUEST113]
-Nombre=Problemas menores.
+Nombre=Problemas menores
 Desc=Bien, ahora si tengo una tarea para ti. Es algo que podría solucionar en unos segundos pero no puedo dejar mi puesto. Los locales informan que una creciente jauría de lobos se está gestando en los bosques. Ve y haz lo necesario para parar esta amenaza.
-DescFinal=Estoy sorprendido. Sorprendido de que hayas tardado tanto ¿Acaso te perdiste en el camino?
+DescFinal=Estoy sorprendido. Sorprendido de que hayas tardado tanto ¿acaso te perdiste en el camino?
 RequiredQuest=112
 RequiredNPCs=1
 RequiredNPC1=558-20
@@ -1705,8 +1705,8 @@ en_desc=Okay, now if I have a task for you. It's something I could fix in a few 
 en_DescFinal=I'm surprised. Surprised that you took so long, did you get lost along the way?
 
 [QUEST114]
-Nombre=Alerta verde.
-Desc=¿Has oído hablar de los duendes? Son como los orcos, pero más pequeños y aún más estúpidos. Sin embargo, estos mini orcos pueden ser un problema cuando se encuentran en grandes números. Ya sabes que hacer...
+Nombre=Alerta verde
+Desc=¿Has oído hablar de los duendes? Son como los orcos, pero más pequeños y aún más estúpidos. Sin embargo, estos mini orcos pueden ser un problema cuando se encuentran en grandes números. Ya sabes qué hacer...
 DescFinal=¿Ya terminaste? Estas empezando a agradarme, toma esto por tu tiempo.
 RequiredQuest=113
 RequiredNPCs=2
@@ -1719,9 +1719,9 @@ en_desc=Have you heard of goblins? They are like orcs, but smaller and even more
 en_DescFinal=Are you done yet? You are starting to please me, take this for your time.
 
 [QUEST115]
-Nombre=Colmillos en la noche.
+Nombre=Colmillos en la noche
 Desc=Tengo un problema que demanda de alguien de confianza y tu ya te la has ganado. Es una misión peligrosa, quizás no sobrevivas pero es un riesgo que estoy dispuesto a tomar. Recuerdas aquella vez que te envíe a matar esos lobos salvajes, bueno, esto no se le parece en nada. Estas criaturas pueden devorarte en segundos. Ten cuidado.
-DescFinal=¡Estás con vida! yo sabía que lo lograrías.
+DescFinal=¡Estás con vida! Yo sabía que lo lograrías.
 RequiredQuest=114
 RequiredNPCs=1
 RequiredNPC1=559-10
@@ -1734,8 +1734,8 @@ en_DescFinal=You're alive! I knew you would make it.
 
 [QUEST116]'Granja de Penthar
 Nombre=Prueba tu valor
-Desc=Tu defensa contra los duendes ha sido impresionante, pero al este tenemos una amenaza mayor. Ve y elimina a 10 Liches y vuelve a verme.
-DescFinal=Que rápido lo has logrado, estoy impresionado.
+Desc=Tu defensa contra los duendes ha sido impresionante, pero al este tenemos una amenaza mayor. Ve y elimina 10 Liches y vuelve a verme.
+DescFinal=Qué rápido lo has logrado, estoy impresionado.
 RequiredQuest=132
 RequiredLevel=21
 RequiredNPCs=1
@@ -1746,9 +1746,9 @@ en_Desc=Your defense against the goblins has been impressive, but to the east we
 en_DescFinal=How quickly you achieved it, I'm impressed.
 
 [QUEST117]
-Nombre=Tiempos Bandidos.
-Desc=¡Malditos! ¡Malditos sean! Están asaltando a los pobres pescadores de Nix, trabajadores como lo era mi padre. Si pudiera los mataría yo mismo, pero no puedo dejar mi guardia. Ve y acaba con esta escoria. Y ya que estás en la zona haz un pequeño "control de población"" sobre los goblins, tu me entiendes..."
-DescFinal=Has honrado la memoria de mi padre… no hay palabras que expresen mi gratitud pero a faltas de palabras bueno es el oro. Toma.
+Nombre=Tiempos Bandidos
+Desc=¡Malditos! ¡Malditos sean! Están asaltando a los pobres pescadores de Nix, trabajadores como lo era mi padre. Si pudiera los mataría yo mismo, pero no puedo dejar mi guardia. Ve y acaba con esta escoria. Y ya que estás en la zona haz un pequeño "control de población" sobre los goblins, tu me entiendes...
+DescFinal=Has honrado la memoria de mi padre… No hay palabras que expresen mi gratitud pero a falta de palabras bueno es el oro. Toma.
 RequiredQuest=115
 RequiredNPCs=2
 RequiredNPC1=522-20
@@ -1763,7 +1763,7 @@ en_DescFinal=You have honored the memory of my father... there are no words that
 
 
 [QUEST118]
-Nombre=Garras y caparazones.
+Nombre=Garras y caparazones
 Desc=Ya que has demostrado tu utilidad es hora de que me ayudes. Necesito que me traigas quince caparazones de tortuga y diez pieles de oso. No preguntes para qué. No quieres saber, créeme.
 DescFinal=¿Dónde estabas? No respondas, lo único que importa es que has traído lo que te he pedido. Y no, no voy a decirte que uso les voy a dar.
 RequiredQuest=116
@@ -1780,7 +1780,7 @@ en_desc=Since you have proven your usefulness it is time for you to help me. I n
 en_DescFinal=Where were you? Don't answer, the only thing that matters is that you have brought what I have asked of you. And no, I'm not going to tell you what I'm going to use for them.
 
 [QUEST119]
-Nombre=Traición a la raza.
+Nombre=Traición a la raza
 Desc=¡Centenares de años en la basura! ¿Sabes lo que nos ha costado reconstruir nuestra reputación? ¿Dejar atrás nuestro pasado salvaje? Todo para que estos “orcos” cabezas duras vayan por ahí saqueando y asesinando gente sin razón. Me entristece hacer esto pero es lo que debe hacerse. Ah, y mata las arañas ya que estas allí. No hicieron nada malo pero nada con tantas patas merece estar vivo.
 DescFinal=¿Está hecho? ¿Cuánto ha costado? Calla, no quiero saberlo...
 RequiredQuest=118
@@ -1794,7 +1794,7 @@ en_desc=Hundreds of years in the trash! Do you know what it has cost us to rebui
 en_DescFinal=It's done? How much has it cost? Shut up, I don't want to know...
 
 [QUEST120]
-Nombre=Puñales traicioneros.
+Nombre=Puñales traicioneros
 Desc=Ratas inmundas. Los elfos oscuros antes supieron ser nuestros aliados pero su afán por apuñalar por la espalda terminó con nuestra amistad. Ahora merodean el camino entre Ullathorpe y Banderbill, escondidos entre las sombras para asaltar viajeros despistados. Es hora de que alguien los ponga en su lugar.
 DescFinal=Gracias a tí ahora los pobres viajeros pueden explorar en paz. Por ahora...
 RequiredQuest=133
@@ -1807,9 +1807,9 @@ en_desc=Filthy rats. The dark elves used to know how to be our allies but their 
 en_DescFinal=Thanks to you now the poor travelers can explore in peace. For now...
 
 [QUEST121]
-Nombre=Fuga gigante.
+Nombre=Fuga gigante
 Desc=¿Qué sabes de los ogros? No, no son como los orcos pero más grandes… Son mucho peores. Verás, durante mucho tiempo estuvieron encarcelados dentro de Dungeon Marabel pero alguien (o algo) los liberó y ahora lo único más grande que ellos es su apetito por venganza. Venganza y carne humana. Ten cuidado y no te dejes llevar por su tamaño, son bestias sumamente atléticas, ya veras a lo que me refiero.
-DescFinal=¡¿Sigues vivo?! Ehem, digo, Por supuesto que sí, jamás te daría una tarea en la cual corra riesgo tu vida… ten toma este oro y no hagas más preguntas.
+DescFinal=¡¿Sigues vivo?! Ehem, digo, por supuesto que sí, jamás te daría una tarea en la cual corra riesgo tu vida… Ten, toma este oro y no hagas más preguntas.
 RequiredQuest=120
 RequiredNPCs=2
 RequiredNPC1=560-10
@@ -1823,9 +1823,9 @@ en_desc=What do you know about ogres? No, they are not like orcs but bigger... T
 en_DescFinal=Are you still alive?! Ehem, I say, Of course I do, I would never give you a task in which your life is at risk... take this gold and don't ask any more questions.
 
 [QUEST122]
-Nombre=Una Valiosa amistad.
+Nombre=Una valiosa amistad
 Desc=A estas alturas puedo decir que personas como tú serán siempre bienvenidas por aquí. Me encargaré personalmente de que todo el pueblo elfo sepa de tu lealtad y valor.
-DescFinal=Esto que te doy es tan solo un poco de lo que merece tu amistad. Toma
+DescFinal=Esto que te doy es tan sólo un poco de lo que merece tu amistad. Toma.
 RequiredQuest=130
 RewardGLD=10000
 RewardEXP=1
@@ -1852,7 +1852,7 @@ en_DescFinal=Thank you for bringing me the note.
 [QUEST124]
 Nombre=Mula
 Desc=Bienvenido a mi establo, tráeme 1 Herradura de Mula y te llevarás una buena montura para empezar.
-DescFinal=Ahora puedes equipar una Mula, habla conmigo si quieres mejorarla más adelante.
+DescFinal=Ahora puedes montar una Mula, habla conmigo si quieres mejorarla más adelante.
 RequiredLevel=28
 RequiredOBJs=1
 RequiredOBJ1=134-1
@@ -1865,7 +1865,7 @@ en_DescFinal=You can now equip a Mule, talk to me if you want to upgrade it late
 [QUEST125]
 Nombre=Un encargo muy especial
 Desc=Encargo (Descripción)
-DescFinal=Encargó (Descripción Final)
+DescFinal=Encargo (Descripción Final)
 RequiredLevel=12
 RequiredQuest=123
 RequiredOBJs=0
@@ -1878,8 +1878,8 @@ Repetible=0
 
 [QUEST126]
 Nombre=Algo de espacio adicional 1.
-Desc=¿Con que quieres fabricar una mochila? Traeme los materiales necesarios y con gusto te ayudaré.
-DescFinal=Fue un placer servirle señor,¡Aquí tiene su mochila!
+Desc=¿Con qué quieres fabricar una mochila? Traeme los materiales necesarios y con gusto te ayudaré.
+DescFinal=Fue un placer servirle señor, ¡aquí tiene su mochila!
 RequiredLevel=30
 RequiredOBJs=3
 RequiredOBJ1=3461-1
@@ -1910,7 +1910,7 @@ en_DescFinal=I thank you. Finally... Tranquility!
 [QUEST128]
 Nombre=Caballo Palomino
 Desc=Bienvenido de vuelta a mi establo, tráeme 1 Herradura del Caballo Palomino y te llevarás una buena montura.
-DescFinal=Ahora puedes equipar un Caballo Palomino, habla conmigo si quieres mejorarlo más adelante.
+DescFinal=Ahora puedes montar un Caballo Palomino, habla conmigo si quieres mejorarlo más adelante.
 RequiredLevel=40
 RequiredOBJs=4
 RequiredOBJ1=1346-1
@@ -1927,7 +1927,7 @@ en_DescFinal=You can now equip a Fighter's Mount, talk to me if you want to upgr
 [QUEST129]
 Nombre=Corcel Invencible
 Desc=Bienvenido de vuelta a mi establo, tráeme 1 Herradura del Corcel y te llevarás una buena montura.
-DescFinal=Ahora puedes equipar un Corcel Invencible, habla conmigo si quieres mejorarlo más adelante.
+DescFinal=Ahora puedes montar un Corcel Invencible, habla conmigo si quieres mejorarlo más adelante.
 RequiredLevel=42
 RequiredOBJs=4
 RequiredOBJ1=1342-1
@@ -1943,7 +1943,7 @@ en_DescFinal=You can now equip an Invincible Steed, talk to me if you want to up
 [QUEST130]
 Nombre=La última misión.
 Desc=No tienes idea de lo mucho que nos has ayudado pero aun tenemos un problema más que creemos puedes solucionar. Este enemigo no se parece en nada a los que has enfrentado antes. De un solo golpe puede matar incluso al enano más fuerte. Debes tener cuidado pero si lo logras la recompensa será enorme.
-DescFinal=¡Wow! Realmente eres un guerrero de primer nivel. Es más deberías ser tú quien haga guardia aquí y no yo. Bueno tampoco te emociones eso no va a pasar. Igualmente, muchísimas gracias por tu ayuda.
+DescFinal=¡Wow! Realmente eres un guerrero de primer nivel. Es más deberías ser tú quien haga guardia aquí y no yo. Bueno, tampoco te emociones, eso no va a pasar. Igualmente, muchísimas gracias por tu ayuda.
 RequiredQuest=121
 RequiredNPCs=1
 RequiredNPC1=1149-25
@@ -1966,8 +1966,8 @@ en_DescFinal=Go with this and tell him you're on my side.
 
 [QUEST132]
 Nombre=Granja en Alerta
-Desc=Estos ultimos dias esos malditos duendes han estado robando nuestras cosechas ¡necesito tú ayuda!
-DescFinal=Por el momento con eso alcanza, pero quedate dando vueltas por aquí, quizás necesite de tu ayuda más adelante.
+Desc=Estos últimos dias esos malditos duendes han estado robando nuestras cosechas ¡necesito tú ayuda!
+DescFinal=Por el momento con eso alcanza, pero quédate dando vueltas por aquí, quizás necesite de tu ayuda más adelante.
 RequiredLevel=18
 RequiredNPCS=2
 RequiredNPC1=518-20
@@ -1979,9 +1979,9 @@ en_desc=These last few days those damn goblins have been stealing our crops, I n
 en_DescFinal=For the moment that's enough, but stay hanging around here, maybe I'll need your help later.
 
 [QUEST133]
-Nombre=Muchas gracias por tu ayuda!
-Desc=Muchas gracias! Sería un placer para mi otorgarte tu paga, pero lamentablemente no la tengo. Ese elfo engreído de la Casa del Árbol aún sigue en deuda conmigo. Considerando que el fue quien te mandó aquí, ¿no crees que el debería hacerse cargo de la recompensa? Ve y habla con Lempard y dile de mi parte que es hora de saldar las cuentas.
-DescFinal=¿Ya has vuelto? Se ve que realmente eres bueno en lo que haces. ¿Como? ¿Ho Ka Rdum te envía a cobrar su deuda? Arrgh, estos ogros creen que pueden decirme que hacer. Descuida, tendrás tu recompensa, siempre cumplo con mi palabra. Eso sí, ya que has ayudado tanto a Elhandar y Ho Ka Rdum, creo que lo justo es que ahora me ayudes con algunos mandados. Estoy seguro que para un guerrero de tu calibre, no demorará mucho. Una vez que termines con todas las tareas, habremos terminado y recibirás tu paga.
+Nombre=¡Muchas gracias por tu ayuda!
+Desc=¡Muchas gracias! Sería un placer para mi otorgarte tu paga, pero lamentablemente no la tengo. Ese elfo engreído de la Casa del Árbol aún sigue en deuda conmigo. Considerando que el fue quien te mandó aquí, ¿no crees que el debería hacerse cargo de la recompensa? Ve y habla con Lempard y dile de mi parte que es hora de saldar las cuentas.
+DescFinal=¿Ya has vuelto? Se ve que realmente eres bueno en lo que haces. ¿Cómo? ¿Ho Ka Rdum te envía a cobrar su deuda? Arrgh, estos ogros creen que pueden decirme qué hacer. Descuida, tendrás tu recompensa, siempre cumplo con mi palabra. Eso sí, ya que has ayudado tanto a Elhandar y Ho Ka Rdum, creo que lo justo es que ahora me ayudes con algunos mandados. Estoy seguro que para un guerrero de tu calibre, no demorará mucho. Una vez que termines con todas las tareas, habremos terminado y recibirás tu paga.
 RequiredQuest=119
 TalkTo=1151
 Repetible=0
@@ -2002,7 +2002,7 @@ en_DescFinal=Thank you very much for your help! With these minerals we can keep 
 
 [QUEST135]
 Nombre=Invasión del Archipielago
-Desc=Este lugar solía ser muy calmo, pero ultimamente se ha vuelto muy peligroso. Si me ayudas a reestablecer la paz, serás bien recompensado.
+Desc=Este lugar solía ser muy calmo, pero últimamente se ha vuelto muy peligroso. Si me ayudas a reestablecer la paz, serás bien recompensado.
 DescFinal=Gracias, lo prometido es deuda.
 RequiredNPCs=7
 RequiredNPC1=506-5
@@ -2022,7 +2022,7 @@ en_DescFinal=Thank you, what was promised is a debt.
 
 [QUEST136]
 Nombre=Tormenta de Fuego
-Desc=Para obtener el poder divino de los dragones, deberas enfrentarlos, elimina a 15 de ellos y vuelve a verme, serás bien recompensado. 
+Desc=Para obtener el poder divino de los dragones, deberás enfrentarlos, elimina a 15 de ellos y vuelve a verme, serás bien recompensado. 
 DescFinal=Has sido muy valiente, con este hechizo podrás llevar siempre el fuego interno contigo.
 RequiredNPCs=1
 RequiredNPC1=587-15
@@ -2123,9 +2123,9 @@ en_DescFinal=You have been very brave, with this spell you will always be able t
 '========================================Quest de trabajadores (Carritos)========================================================
 
 [QUEST143]
-Nombre=Carrito de principiante (Pescador).
+Nombre=Carrito de principiante (Pescador)
 Desc=Consigue los ingredientes necesarios para preparar el gran festín y a cambio recibirás las indicaciones para construir una carreta para tu mercancía.
-DescFinal=Veamos..., creo que esto te servirá un buen tiempo, recuerda que podremos mejorarla cuando lo desees.
+DescFinal=Veamos... Creo que esto te servirá un buen tiempo, recuerda que podremos mejorarla cuando lo desees.
 RequiredLevel=15
 RequiredOBJs=4
 RequiredOBJ1=2089-10000 '(Lisas)
@@ -2145,9 +2145,9 @@ en_DescFinal=
 
 
 [QUEST144]
-Nombre=Carrito de principiante (Leñador).
+Nombre=Carrito de principiante (Leñador)
 Desc=Si quieres que te ayude a construir un carrito adecuado para tu labor, debes aventurarte en busca de recursos afrontando a criaturas que habitan en nuestras tierras, toma esta nota, en ella tienes enumerados todos los requisitos ¿Eres capaz de completarla? ¡Exitos!
-DescFinal= Veamos..., creo que esto te servirá un buen tiempo, recuerda que podremos mejorarlo cuando lo desees.
+DescFinal= Veamos... Creo que esto te servirá un buen tiempo, recuerda que podremos mejorarlo cuando lo desees.
 RequiredLevel=15
 RequiredOBJs=1
 RequiredOBJ1=3742-5000   '(Tablones Cepillados)
@@ -2163,9 +2163,9 @@ en_desc=
 en_DescFinal=
 
 [QUEST145]
-Nombre=Carrito de principiante (Minero).
+Nombre=Carrito de principiante (Minero)
 Desc=Eres el futuro de nuestro trabajo, sé consciente de que nuestro Dios Grodnar nos premia y nos protege en todo momento, él me encargó enseñarle a las futuras generaciones la técnica para fabricar nuestros preciados vagones… Para ello debemos conseguir su aprobación mediante el culto, es por eso que te encomiendo la búsqueda de estos materiales:
-DescFinal=Veamos..., creo que esto te servirá un buen tiempo, recuerda que podremos mejorarlo cuando lo desees.
+DescFinal=Veamos... Creo que esto te servirá un buen tiempo, recuerda que podremos mejorarlo cuando lo desees.
 RequiredLevel=15
 RequiredOBJs=1
 RequiredOBJ1=386-2000  	'(Lingotes Hierro)
@@ -2181,8 +2181,8 @@ en_desc=
 en_DescFinal=
 
 [QUEST146]
-Nombre=Carrito Reforzado (Pescador).
-Desc= ¡Oye tú!, Esa carretilla es demasiado pequeña para la cantidad de peces que traes, creo que es hora de mejorarla. Cumple con el siguiente encargo y veré que puedo hacer por tí.
+Nombre=Carrito Reforzado (Pescador)
+Desc= ¡Oye tú!, esa carretilla es demasiado pequeña para la cantidad de peces que traes, creo que es hora de mejorarla. Cumple con el siguiente encargo y veré que puedo hacer por tí.
 DescFinal= Esta carretilla de seguro te será mucho más útil y te ayudará a mantener fresca tu mercadería por más tiempo. Aún así podremos seguir mejorándola si lo deseas.
 RequiredLevel=25
 RequiredQuest=143
@@ -2203,8 +2203,8 @@ en_desc=
 en_DescFinal=
 
 [QUEST147]
-Nombre=Carrito Reforzado(Leñador).
-Desc=Veo que quieres mejorar tu viejo carro, consigueme los siguientes materiales de seguro podré ayudarte.
+Nombre=Carrito Reforzado (Leñador)
+Desc=Veo que quieres mejorar tu viejo carro, consígueme los siguientes materiales y de seguro podré ayudarte.
 DescFinal=Un carro reforzado que enaltece la profesión, recuerda que podremos mejorarlo cuando lo desees.
 RequiredLevel=25
 RequiredQuest=144
@@ -2226,9 +2226,9 @@ en_desc=
 en_DescFinal=
 
 [QUEST148]
-Nombre=Carrito Reforzado(Minero).
+Nombre=Carrito Reforzado (Minero)
 Desc= Creo que es hora de mejorar ese viejo carro por un auténtico vagón apto para recorrer los rieles de las minas. Aunque para ello necesitaré hacerme de algunos materiales.
-DescFinal=¡Toma!, verás cuánto más fácil es con este vagón apto para minas. Recuerda que puedes seguir mejorándolo si así lo deseas.
+DescFinal=¡Toma! Verás cuánto más fácil es con este vagón apto para minas. Recuerda que puedes seguir mejorándolo si así lo deseas.
 RequiredLevel=25
 RequiredQuest=145
 RequiredOBJs=3
@@ -2247,9 +2247,9 @@ en_desc=
 en_DescFinal=
 
 [QUEST149]
-Nombre=Carrito de Elite (Pescador).
-Desc= Necesitas cambiar la carretilla?, Que rápido progresas muchacho,. Veamos con los siguientes materiales creo que podré echarte una mano.
-DescFinal= Aquí tienes, sin dudas uno de mis mejores trabajos!, aunque lamento decirte que desde aquí deberás encontrar tu propio estilo.
+Nombre=Carrito de Elite (Pescador)
+Desc=¿Necesitas cambiar la carretilla? Qué rápido progresas muchacho... Veamos, con los siguientes materiales creo que podré echarte una mano.
+DescFinal= Aquí tienes, ¡sin dudas uno de mis mejores trabajos! Aunque lamento decirte que desde aquí deberás encontrar tu propio estilo.
 RequiredLevel=30
 RequiredQuest=146
 RequiredOBJs=8
@@ -2274,7 +2274,7 @@ en_desc=
 en_DescFinal=
 
 [QUEST150]
-Nombre=Carrito de Elite (Leñador).
+Nombre=Carrito de Elite (Leñador)
 Desc=La vieja carreta, veo que te ha sido de gran utilidad aunque no soportará mucho más peso. Creo que podríamos construir una nueva si consigues los siguientes materiales:
 DescFinal=Toma, podrás cargar tantos kilos de leña como desees, aunque he de informarte que ya no dispongo de las herramientas para seguir mejorandolo.
 RequiredLevel=30
@@ -2297,8 +2297,8 @@ en_desc=
 en_DescFinal=
 
 [QUEST151]
-Nombre=Carrito de Elite (Minero).
-Desc= Ohh, increible! me enorgullese ver el uso que le has dado a este vagón. Si me consigues los materiales podremos escalarlo al siguiente nivel.
+Nombre=Carrito de Elite (Minero)
+Desc= ¡Ohh, increíble! Me enorgullese ver el uso que le has dado a este vagón. Si me consigues los materiales podremos escalarlo al siguiente nivel.
 DescFinal= El terror de los rieles será llamado. Observa no encontrarás nada igual espero que te acompañe el resto de tu recorrido porque no creo que podamos construir algo mejor.
 RequiredLevel=30
 RequiredQuest=148
@@ -2322,7 +2322,7 @@ en_DescFinal=
 
 [QUEST152]
 Nombre=Cofre de Hechizos
-Desc=Este cofre contiene los mejores hechizos para los más aptos guerreros!
+Desc=¡Este cofre contiene los mejores hechizos para los más aptos guerreros!
 DescFinal=Buena suerte.
 RequiredLevel=1
 Repetible=1
@@ -2336,7 +2336,7 @@ en_desc=This chest contains the best spells for the fittest warriors!
 [QUEST153]
 Nombre=Unicornio
 Desc=Bienvenido de vuelta a mi establo, tráeme 1 Herradura de Unicornio y te llevarás una buena montura.
-DescFinal=Ahora puedes equipar un Unicornio, habla conmigo si quieres mejorarlo más adelante.
+DescFinal=Ahora puedes montar un Unicornio, habla conmigo si quieres mejorarlo más adelante.
 RequiredLevel=42
 RequiredOBJs=4
 RequiredOBJ1=1342-1
@@ -2367,9 +2367,9 @@ en_DescFinal=Well done, take your well-deserved reward.f
 
 
 [QUEST155]
-Nombre=Piramide
-Desc=Me resulta imposible ingresar a la piramide y continuar mis investigaciones ¿podrás ayudarme?
-DescFinal=Buen trabajo, aqui tienes tu recompensa.
+Nombre=Pirámide
+Desc=Me resulta imposible ingresar a la pirámide y continuar mis investigaciones... ¿Podrás ayudarme?
+DescFinal=Buen trabajo, aquí tienes tu recompensa.
 RequiredLevel=20
 RequiredNPCs=5
 RequiredNPC1=1223-3
@@ -2385,7 +2385,7 @@ en_DescFinal=Good job, here's your reward.
 [QUEST156]
 Nombre=El descanso de Anubis
 Desc=Para poder ingresar a la cámara de Anubis deberás encontrar el escarabajo de jade. Desafortunadamente se encuentra fragmentado, pero si consigues todas sus partes creo que podré volver a componerlo para tí.
-DescFinal=Mira que buen trabajo he realizado, creo que soy muy bueno en esto ¿verdad?.Aquí lo tienes.
+DescFinal=Mira que buen trabajo he realizado, creo que soy muy bueno en esto ¿verdad?. Aquí lo tienes.
 RequiredLevel=30
 RequiredObjs=5
 RequiredObj1=3529-1
@@ -2401,9 +2401,9 @@ en_desc=In order to enter the Anubis chamber you must find the jade beetle. Unfo
 en_DescFinal=Look what a good job I've done, I think I'm very good at this, right? Here you have it.
 
 [QUEST157]
-Nombre=Tablones Cepillados.
-Desc=Puedo cepillar todo ese leño por ti, de 10000 Leños puedo entregarte 1000 Tablones
-DescFinal=Mira que buen trabajo he realizado. Aquí lo tienes.
+Nombre=Tablones Cepillados
+Desc=Puedo cepillar todo ese leño por ti, de 10000 leños puedo entregarte 1000 tablones.
+DescFinal=Mira qué buen trabajo he realizado. Aquí lo tienes.
 RequiredLevel=1
 RequiredOBJs=1
 RequiredOBJ1=58-10000 	'(Leños)
@@ -2417,8 +2417,8 @@ en_desc=
 en_DescFinal=
 
 [QUEST158]
-Nombre=Tablones Cepillados Élficos.
-Desc=Puedo cepilla todo ese leño por ti, de 10000 Leños puedo entregarte 1000 Tablones
+Nombre=Tablones Cepillados Élficos
+Desc=Puedo cepillar todo ese leño por ti, de 10000 leños puedo entregarte 1000 tablones.
 DescFinal=Mira que buen trabajo he realizado. Aquí lo tienes.
 RequiredLevel=1
 RequiredOBJs=1
@@ -2434,7 +2434,7 @@ en_DescFinal=
 
 [QUEST159]
 Nombre=Casco del Imperio
-Desc=Puedo forjar un casco para tí, digno de las Fuerzas del Imperio. Solo para Clerigos, Paladines y Guerreros.
+Desc=Puedo forjar un casco para tí, digno de las Fuerzas del Imperio. Sólo para Clérigos, Paladines y Guerreros.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -2448,7 +2448,7 @@ NoWiki=1
 
 [QUEST161]
 Nombre=Relicario sagrado
-Desc=Si quieres puedo santificar tu relicario
+Desc=Si quieres puedo santificar tu relicario.
 DescFinal=Tu relicario fue bendecido.
 RequiredLevel=1
 RequiredOBJs=2
@@ -2465,7 +2465,7 @@ en_DescFinal=
 
 [QUEST162]
 Nombre=Relicario sagrado (múltiple)
-Desc=Si quieres puedo santificar tu relicarios
+Desc=Si quieres puedo santificar tus relicarios.
 DescFinal=Tus relicarios fueron bendecidos.
 RequiredLevel=1
 RequiredOBJs=2
@@ -2483,8 +2483,8 @@ en_DescFinal=
 
 [QUEST163]'Dungeon Dragon Nueva
 Nombre=Dungeon Dragon I
-Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=40
 RequiredNPCs=1
 RequiredNPC1=924-15
@@ -2498,8 +2498,8 @@ en_DescFinal=Thanks for your help! Here is your reward.
 
 [QUEST164]'Dungeon Dragon Nueva II
 Nombre=Dungeon Dragon II
-Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=41
 RequiredQuest=163
 RequiredNPCs=1
@@ -2514,8 +2514,8 @@ en_DescFinal=Thanks for your help! Here is your reward.
 
 [QUEST165]'Dungeon Dragon Nueva III
 Nombre=Dungeon Dragon III
-Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon
-DescFinal=Gracias por tu ayuda! Aquí tienes tu recompensa.
+Desc=Tengo una importante recompensa disponible para aquellos valientes guerreros que tengan ganas de dar batalla a unas temibles criaturas, su última ubicación remite al Dungeon Dragon.
+DescFinal=¡Gracias por tu ayuda! Aquí tienes tu recompensa.
 RequiredLevel=42
 RequiredQuest=164
 RequiredNPCs=1
@@ -2603,7 +2603,7 @@ NoWiki=1
 [QUEST190]'Makrom 12
 Nombre=Limpieza del Dungeon Newbie I
 Desc=¿Eres nuevo por aquí? Puedo ofrecerte una gran recompensa si me ayudas a despejar este dungeon. 
-DescFinal=Estaré eternamente agradecido contigo!
+DescFinal=¡Estaré eternamente agradecido contigo!
 RequiredLevel=1
 RequiredNPCs=3
 RequiredNPC1=508-5
@@ -2618,7 +2618,7 @@ en_DescFinal=I will be eternally grateful to you!
 [QUEST191]
 Nombre=Limpieza del Dungeon Newbie II
 Desc=¿Eres nuevo por aquí? Puedo ofrecerte una gran recompensa si me ayudas a despejar este dungeon. 
-DescFinal=Estaré eternamente agradecido contigo!
+DescFinal=¡Estaré eternamente agradecido contigo!
 RequiredQuest=190
 RequiredLevel=4
 RequiredNPCs=3
@@ -2634,7 +2634,7 @@ en_DescFinal=I will be eternally grateful to you!
 [QUEST192]
 Nombre=Limpieza del Dungeon Newbie III
 Desc=¿Eres nuevo por aquí? Puedo ofrecerte una gran recompensa si me ayudas a despejar este dungeon. 
-DescFinal=Estaré eternamente agradecido contigo!
+DescFinal=¡Estaré eternamente agradecido contigo!
 RequiredQuest=191
 RequiredLevel=7
 RequiredNPCs=2
@@ -2649,7 +2649,7 @@ en_DescFinal=I will be eternally grateful to you!
 [QUEST193]
 Nombre=Limpieza del Dungeon Newbie IV
 Desc=¿Eres nuevo por aquí? Puedo ofrecerte una gran recompensa si me ayudas a despejar este dungeon. 
-DescFinal=Estaré eternamente agradecido contigo!
+DescFinal=¡Estaré eternamente agradecido contigo!
 RequiredQuest=192
 RequiredLevel=10
 RequiredNPCs=2
@@ -2664,7 +2664,7 @@ en_DescFinal=I will be eternally grateful to you!
 [QUEST194]
 Nombre=Limpieza del Dungeon Newbie V
 Desc=¿Eres nuevo por aquí? Puedo ofrecerte una gran recompensa si me ayudas a despejar este dungeon. 
-DescFinal=Estaré eternamente agradecido contigo!
+DescFinal=¡Estaré eternamente agradecido contigo!
 RequiredQuest=193
 RequiredLevel=11
 RequiredNPCs=1
@@ -2768,7 +2768,7 @@ en_desc=I can forge a shield for you, it will be worthy of the forces of chaos.
 
 [QUEST221]
 Nombre=Escudo de la Oscuridad
-Desc=Puedo forjar un escudo para ti, será digno de las Fuerzas del Caos. Solo para Clerigos, Paladines y Guerreros.
+Desc=Puedo forjar un escudo para ti, será digno de las Fuerzas del Caos. Sólo para Clérigos, Paladines y Guerreros.
 DescFinal=
 RequiredLevel=40
 Repetible=1
@@ -2826,9 +2826,9 @@ NoWiki=1
 NoWiki=1
 
 [QUEST232]
-Nombre=Receta de Antidoto
-Desc=Para adquirir la habilidad de crear pociones de ANTIDOTO tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Antidoto.
+Nombre=Receta de Antídoto
+Desc=Para adquirir la habilidad de crear pociones de antídoto tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de antidoto.
 RequiredLevel=8
 Repetible=0
 RequiredOBJs=1
@@ -2900,8 +2900,8 @@ PosMap=34
 NoWiki=1
 
 [QUEST248]
-Nombre=Cambio de Traje (De Altos a Bajos)
-Desc=Muy bien, no hay problema, entregame tu traje de Altos y te daré uno de Bajos.
+Nombre=Cambio de Traje (De altos a bajos)
+Desc=Muy bien, no hay problema, entrégame tu traje de altos y te daré uno de bajos.
 DescFinal=Toma, ya tienes lo que necesitas.
 RequiredLevel=13
 Repetible=1
@@ -2914,8 +2914,8 @@ en_DescFinal=Here, you already have what you need.
 
 
 [QUEST249]
-Nombre=Cambio de Traje (De Bajos a Altos)
-Desc=Muy bien, no hay problema, entregame tu traje de Bajos y te daré uno de Altos.
+Nombre=Cambio de Traje (De bajos a altos)
+Desc=Muy bien, no hay problema, entrégame tu traje de bajos y te daré uno de altos.
 DescFinal=Toma, ya tienes lo que necesitas.
 RequiredLevel=13
 Repetible=1
@@ -2931,8 +2931,8 @@ NoWiki=1
 
 [QUEST251]
 Nombre=Receta de Vida
-Desc=Para adquirir la habilidad de crear pociones de VIDA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Vida.
+Desc=Para adquirir la habilidad de crear pociones de vida tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de vida.
 RequiredLevel=4
 Repetible=0
 RequiredOBJs=1
@@ -2949,8 +2949,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Life Potions.
 
 [QUEST252]
 Nombre=Receta de Maná
-Desc=Para adquirir la habilidad de crear pociones de MANÁ tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Maná.
+Desc=Para adquirir la habilidad de crear pociones de maná tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de maná.
 RequiredLevel=6
 Repetible=0
 RequiredOBJs=1
@@ -2968,8 +2968,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Mana Potions.
 
 [QUEST253]
 Nombre=Receta de Fuerza
-Desc=Para adquirir la habilidad de crear pociones de FUERZA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Fuerza.
+Desc=Para adquirir la habilidad de crear pociones de fuerza tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de fuerza.
 RequiredLevel=14
 Repetible=0
 RequiredOBJs=1
@@ -2987,8 +2987,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Force Potions.
 
 [QUEST254]
 Nombre=Receta de Agilidad
-Desc=Para adquirir la habilidad de crear pociones de AGILIDAD tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Agilidad.
+Desc=Para adquirir la habilidad de crear pociones de agilidad tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de agilidad.
 RequiredLevel=12
 Repetible=0
 RequiredOBJs=1
@@ -3006,8 +3006,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Agility Potions.
 
 [QUEST255]
 Nombre=Receta de Energía
-Desc=Para adquirir la habilidad de crear pociones de ENERGIA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Energia.
+Desc=Para adquirir la habilidad de crear pociones de energía tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de energía.
 RequiredLevel=10
 Repetible=0
 RequiredOBJs=1
@@ -3025,8 +3025,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Energy Potions.
 
 [QUEST256]
 Nombre=Receta de Energía
-Desc=Para adquirir la habilidad de crear pociones de ENERGIA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Energia.
+Desc=Para adquirir la habilidad de crear pociones de energía tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de energía.
 RequiredLevel=10
 Repetible=0
 RequiredOBJs=1
@@ -3044,8 +3044,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Energy Potions.
 
 [QUEST257]
 Nombre=Receta de Energía
-Desc=Para adquirir la habilidad de crear pociones de ENERGIA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Energia.
+Desc=Para adquirir la habilidad de crear pociones de energía tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de energía.
 Repetible=0
 RequiredOBJs=1
 RequiredOBJ1=4320-10 	'Semillas Prosperas
@@ -3058,8 +3058,8 @@ en_DescFinal=Great job, here is your recipe, now you can create Energy Potions.
 
 [QUEST258]
 Nombre=Receta de Energía 2
-Desc=Para adquirir la habilidad de crear pociones de ENERGIA tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
-DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear Pociones de Energia.
+Desc=Para adquirir la habilidad de crear pociones de energía tendrás que recolectar material y eliminar ciertas criaturas, vuelve a hablar conmigo cuando termines.
+DescFinal=Estupendo trabajo, aquí tienes tu receta, ahora podrás crear pociones de energía.
 Repetible=0
 RequiredOBJs=1
 RequiredOBJ1=4320-10 	'Semillas Prosperas
