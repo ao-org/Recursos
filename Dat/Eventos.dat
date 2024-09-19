@@ -30,13 +30,13 @@ SpawnBox6=346-29-11-40-58-Oeste-28
 SpawnBox7=345-60-62-40-88-Oeste-28
 
 [InvasionCarcel]
-Aviso=Las Hordas del Caos se aproximan a la Carcel Banderbill.
+Aviso=Las Hordas del Caos se aproximan a la Cárcel Banderbill.
 AvisarTiempo=5		# Avisar X minutos antes
 RepetirAviso=1		# Repetir cada X minutos
-Desc=¡Las Hordas del Caos están atacando la carcel de Banderbill! 
+Desc=¡Las Hordas del Caos están atacando la cárcel de Banderbill! 
 RepetirDesc=5		# Repetir descripcion del evento
 MensajeGanaron=¡La Carcel de Banderbill ha sido salvada! El Rey Tancredo felicita a sus súbditos por tan honorable victoria.
-MensajePerdieron=¡Las fuerzas de la Legión rescatan a su lider!.
+MensajePerdieron=¡Las fuerzas de la Legión rescatan a su lider!
 Intervalo=0	# Cada cuanto ocurre el evento (min)
 Duracion=20		# Cuando dura (minutos)
 Offset=5		# Minutos - Para que no se pisen los eventos

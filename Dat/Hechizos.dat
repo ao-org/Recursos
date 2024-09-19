@@ -134,11 +134,11 @@ NeedStaff=2
 
 
 [HECHIZO5]
-Nombre=Aturdición
+Nombre=Aturdimiento
 Desc=Causa de 100 a 110 puntos de daño a la víctima seleccionada.
 PalabrasMagicas=ÖÄR NÏÄ RÖ
-HechizeroMsg=Has lanzado aturdición sobre
-TargetMsg=lanzó aturdición sobre vos.
+HechizeroMsg=Has lanzado aturdimiento sobre
+TargetMsg=lanzó aturdimiento sobre vos.
 en_name=Stun
 en_Desc=Causes 100 to 110 hit points to the target.
 PalabrasMagicas=ÖÄR NÏÄ RÖ
@@ -252,7 +252,7 @@ Invoca=2
 
 [HECHIZO10]
 Nombre=Mimetismo
-Desc=Asimila momentáneamente la apariencia de la forma de vida que se lo lances.
+Desc=Asimila momentáneamente la apariencia de la forma de vida a la que se lo lances.
 PalabrasMagicas=Cimim Ux Maïo
 HechizeroMsg=Te has mimetizado con
 TargetMsg=se ha mimetizado contigo.
@@ -277,7 +277,7 @@ Mimetiza=1
 
 [HECHIZO11]
 Nombre=Curar veneno
-Desc=Cura el envenenamiento del personaje seleccionado.
+Desc=Cura el envenenamiento del objetivo.
 PalabrasMagicas=NIHIL VED
 HechizeroMsg=Has curado a
 TargetMsg=te ha curado del envenenamiento.
@@ -356,7 +356,7 @@ TargetEffectType=1
 
 [HECHIZO14]
 Nombre=Resucitar
-Desc=Resucitar un usuario muerto.
+Desc=Resucitar un personaje muerto.
 PalabrasMagicas=AHIL KNÄ XÄR
 HechizeroMsg=Has resucitado a
 TargetMsg=te ha resucitado.
@@ -364,7 +364,7 @@ PropioMsg=Te has resucitado.
 en_name=Resurrect.
 en_Desc=Resurrects a dead player.
 PalabrasMagicas=AHIL KNÄ XÄR
-en_HechizeroMsg=You brought  back to life.
+en_HechizeroMsg=You brought back to life.
 en_TargetMsg=You have been brought back to life by
 en_PropioMsg=You have resurrected.
 Tipo=2
@@ -380,11 +380,11 @@ TargetEffectType=1
 
 [HECHIZO15]
 Nombre=Detectar Invisibilidad
-Desc=Detecta todo usuario invisible en el rango de visión del usuario.
+Desc=Detecta todo personaje invisible en el rango de visión del lanzador.
 HechizeroMsg=Has lanzado Detectar Invisibilidad.
 PalabrasMagicas=Fant Visiblî
-TargetMsg=Detectó invisibilidad en la Zona
-en_TargetMsg=Detected invisibility in the Zone
+TargetMsg=Detectó invisibilidad en la zona
+en_TargetMsg=Detected invisibility in the zone
 en_name=Detect Invisibility
 en_Desc=Detects every invisible player on your field of view.
 en_HechizeroMsg=You've casted Detect Invisibility
@@ -698,7 +698,7 @@ PropioMsg=Te has removido la parálisis.
 en_name=Remove Paralysis.
 en_Desc=Removes Paralyze or Immobilize.
 PalabrasMagicas=AN HOAX VORP
-en_HechizeroMsg=You've cured  of their paralysis.
+en_HechizeroMsg=You've cured of their paralysis.
 en_TargetMsg=has cured you of your paralysis.
 en_PropioMsg=You've cured your paralysis.
 Tipo=2
@@ -830,7 +830,7 @@ ParticleViaje=204
 
 [HECHIZO44]
 Nombre=Materializar: Bebida
-Desc=Este hechizo puede crear bebida a partir de su lanzamiento.
+Desc=Conviertes magia en materia. Este hechizo puede crear bebida a partir de su lanzamiento.
 PalabrasMagicas=Sunt Aquum
 HechizeroMsg=Has creado algo de bebida.
 en_name=Materialize: Drink
@@ -852,7 +852,7 @@ Nowiki=1
 
 [HECHIZO45]
 Nombre=Materializar: Comida
-Desc=Los hechizos de materialización convierten magia en materia. Este hechizo puede crear comida a partir de su lanzamiento.
+Desc=Conviertes magia en materia. Este hechizo puede crear comida a partir de su lanzamiento.
 PalabrasMagicas=Sunt Alifens
 HechizeroMsg=Has creado algo de comida.
 en_name=Materialize: Food.
@@ -875,7 +875,7 @@ Nowiki=1
 
 [HECHIZO46]
 Nombre=Portal Planar
-Desc=El hechizo Portal planar crea un teleport a una dimensión intermundia.
+Desc=Crea un teleport a una dimensión intermundia.
 PalabrasMagicas=Opercure Dimentia
 HechizeroMsg=Has creado un Portal interplanar.
 en_name=Plane Portal
@@ -991,7 +991,7 @@ NeedStaff=2
 
 [HECHIZO54]
 Nombre=Implosión
-Desc=Causa de 120 a 130 puntos de daño a la víctima seleccionada.
+Desc=Causa de 120 a 130 puntos de daño a la víctima.
 PalabrasMagicas=Rahil Mortem
 HechizeroMsg=Has lanzado Implosión sobre
 TargetMsg=lanzó Implosión sobre vos.
@@ -1020,7 +1020,7 @@ Nowiki=1
 
 [HECHIZO55]
 Nombre=Lamento de la Banshee
-Desc=Causa 150 a 180 puntos de daño y no le afecta la RM.
+Desc=Causa 150 a 180 puntos de daño ignorando la RM del objetivo.
 PalabrasMagicas=V R NI MÈS
 HechizeroMsg=Has lanzado Lamento de la Banshee sobre
 TargetMsg=lanzó Lamento de la Banshee sobre vos.
@@ -1080,7 +1080,7 @@ Nowiki=1
 
 [HECHIZO57]
 Nombre=Ralentizar
-Desc=Los movimientos del usuario pasan a ser lentos.
+Desc=Los movimientos del objetivo pasan a ser lentos.
 PalabrasMagicas=Fr'Z´Er
 HechizeroMsg=Has ralentizado a
 TargetMsg=te ha ralentizado.
@@ -1176,7 +1176,7 @@ Nowiki=1
 
 [HECHIZO101]
 Nombre=Heroísmo
-Desc=Dota de poder al usuario.
+Desc=Dota de poder al objetivo.
 PalabrasMagicas=Her'oCTHER
 HechizeroMsg=Has lanzado Heroísmo sobre
 TargetMsg=ha lanzado Heroísmo sobre ti.
@@ -1240,7 +1240,7 @@ NoWiki=1
 
 [HECHIZO112]
 Nombre=Disipar Magia
-Desc=Cura los estados de daño negativo del objetivo.
+Desc=Cura los estados de daño negativos del objetivo.
 PalabrasMagicas=Protego
 HechizeroMsg=Has disipado la magia en
 TargetMsg=te ha sanado, ahora te sientes mejor.
@@ -1296,7 +1296,7 @@ Nowiki=1
 
 [HECHIZO121]
 Nombre=Partitura Maldita
-Desc=Baja la velocidad de movimiento del usuario, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
+Desc=Reduce la velocidad de movimiento del personaje, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
 PalabrasMagicas=Siviare Diamonto
 HechizeroMsg=Has lanzado Partitura maldita sobre
 TargetMsg=te ha lanzado Partitura maldita.
@@ -1520,7 +1520,7 @@ NoWiki=1
 
 [HECHIZO151]
 Nombre=Grito Sanador
-Desc=Cura el envenenamiento del usuario.
+Desc=Cura el envenenamiento del personaje.
 PalabrasMagicas=AGHH c'ORp!
 HechizeroMsg=Has curado a
 TargetMsg=te ha curado del envenenamiento.
@@ -1548,7 +1548,7 @@ TargetEffectType=1
 
 [HECHIZO152]
 Nombre=Frenesí Berserker
-Desc=Remueve la paralisis.
+Desc=Remueve la parálisis.
 PalabrasMagicas=¡AAAAAAAGHRRRR!
 HechizeroMsg=Le has removido la parálisis a
 TargetMsg=te ha removido la parálisis.
@@ -1887,7 +1887,7 @@ TargetEffectType=2
 
 [HECHIZO210]
 Nombre=Colmillo Venenoso (NPCS)
-Desc=Causa 20 a 35 puntos de daño y envenena al oponente.
+Desc=Causa 20 a 35 puntos de daño y envenena a la víctima.
 PalabrasMagicas=VÄX'N ÄCi'
 HechizeroMsg=Has lanzado un colmillo venenoso sobre
 TargetMsg=te lanzó un colmillo venenoso.
@@ -2124,7 +2124,7 @@ TargetEffectType=2
 
 [HECHIZO218] 'npcs
 Nombre=Partitura Maldita (Area)
-Desc=Baja la velocidad de movimiento del usuario, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
+Desc=Reduce la velocidad de movimiento del personaje, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
 PalabrasMagicas=Siviare Diamonto
 HechizeroMsg=
 TargetMsg=te ha lanzado Partitura maldita.
@@ -2188,7 +2188,7 @@ Nowiki=1
 
 [HECHIZO220] 'npcs
 Nombre=Partitura Maldita (Area)
-Desc=Baja la velocidad de movimiento del usuario, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
+Desc=Reduce la velocidad de movimiento del personaje, incluido su poder de combate, por 5 segundos en un radio de 4 tiles.
 PalabrasMagicas=Siviare Diamonto
 HechizeroMsg=
 TargetMsg=te ha lanzado Partitura maldita.
@@ -2504,7 +2504,6 @@ en_Desc=Increase the speed of the character.
 
 [HECHIZO240]'Libre
 
-
 [HECHIZO241]'Libre
 
 
@@ -2566,7 +2565,7 @@ NoWiki=1
 
 [HECHIZO244]
 Nombre=Falange
-Desc=Concentra al usuario en la defensa, reduciento 40% del daño recibido y reciendo 40% del daño realizado.
+Desc=Concentra al personaje en la defensa, reduciendo 40% del daño recibido y 40% del daño realizado.
 PalabrasMagicas=
 HechizeroMsg=Has usa Falange sobre
 TargetMsg=ha usado Falange sobre ti.
@@ -2624,7 +2623,7 @@ NoWiki=1
 
 [HECHIZO246]
 Nombre=Provocar
-Desc=Provoca a los enemigos cercanos forzandolos a atacarte..
+Desc=Provoca a los enemigos cercanos, forzándolos a atacarte.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=te ha provocado.
@@ -2675,7 +2674,7 @@ Nowiki=1
 
 [HECHIZO248]
 Nombre=Flecha Cargada
-Desc=Empuja a un enemigo
+Desc=Empuja a un enemigo.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=te ha empuja
@@ -2738,7 +2737,7 @@ Nowiki=1
 
 [HECHIZO250]
 Nombre=Danza de Flechas
-Desc=Dispara varias flechas en una dirección
+Desc=Dispara varias flechas en una dirección.
 PalabrasMagicas=
 HechizeroMsg=Has lanzado Danza de Flechas
 TargetMsg=
@@ -2763,7 +2762,7 @@ NoWiki=1
 
 [HECHIZO251]
 Nombre=Partitura de Regeneración
-Desc=Canta una canción regenerativa que recupera tu mana y el de tus aliados
+Desc=Canta una canción regenerativa que recupera tu mana y el de tus aliados.
 PalabrasMagicas=
 HechizeroMsg=Has iniciado la partitura de regeneración
 TargetMsg=
@@ -2817,8 +2816,8 @@ NoWiki=1
 
 [HECHIZO253]
 Nombre=Golpes Rápidos
-Desc=Los próximos 3 ataques que realices golpean varias veces en por cada ataque reduciendo el daño de cada golpe.
-PalabrasMagicas=
+Desc=Los próximos 3 ataques que realices golpean varias veces por ataque, reduciendo el daño de cada golpe.
+PalabrasMagicas= 
 HechizeroMsg=
 TargetMsg=
 PropioMsg=
@@ -2916,8 +2915,8 @@ TargetEffectType=2
 
 [HECHIZO257]
 Nombre=Protección Divina 3
-Desc=Crea un escudo que previene el daño recibido
-PalabrasMagicas=TOLLI AH TEYO  
+Desc=Crea un escudo que previene el daño recibido.
+PalabrasMagicas=TOLLI AH TEYO
 HechizeroMsg=Has tirado protección a
 TargetMsg=te ha tirado protección.
 PropioMsg=Te has tirado protección.
@@ -2939,8 +2938,8 @@ NoWiki=1
 
 [HECHIZO258]
 Nombre=Forma de Lobo
-Desc=Te transforma en lobo cambiando tus aptitudes físicas
-PalabrasMagicas= LU' T PUM    
+Desc=Te transforma en lobo cambiando tus aptitudes físicas.
+PalabrasMagicas= LU' T PUM
 HechizeroMsg=
 TargetMsg=
 PropioMsg=
@@ -2962,8 +2961,8 @@ NoWiki=1
 
 [HECHIZO259]
 Nombre=Forma de Oso
-Desc=Te transforma en oso cambiando tus aptitudes físicas
-PalabrasMagicas= UR' T SUS    
+Desc=Te transforma en oso cambiando tus aptitudes físicas.
+PalabrasMagicas= UR' T SUS
 HechizeroMsg=
 TargetMsg=
 PropioMsg=
@@ -2985,7 +2984,7 @@ NoWiki=1
 
 [HECHIZO260]
 Nombre=Penitencia
-Desc=Aumenta el daño del próximo ataque que reciba el objetivo
+Desc=Aumenta el daño del próximo ataque que reciba el objetivo.
 PalabrasMagicas=TLAZO TLA' PALLI 	 
 TargetMsg=lanzó Penitencia sobre vos.
 HechizeroMsg=Has lanzado Penitencia sobre
@@ -2999,7 +2998,7 @@ ManaRequerido=350
 StaRequerido=5000
 IconoIndex=74713
 MinSkill=70
-Target=3   															 
+Target=3
 Cooldown=30
 CdEffectId=29
 EOTID=32
@@ -3008,7 +3007,7 @@ NoWiki=1
 
 [HECHIZO261]
 Nombre=Recrecimiento
-Desc=Aumenta el la vida que recuperas de cualquier fuente (hechizos curativos, pociones, etc.)
+Desc=Aumenta la vida que recuperas de cualquier fuente (hechizos curativos, pociones, etc.)
 PalabrasMagicas=TLI'X PAN LI
 PropioMsg=Has lanzado Recrecimiento sobre ti.
 TargetMsg=lanzó Recrecimiento sobre vos.
@@ -3023,7 +3022,7 @@ TimeParticula=0
 ManaRequerido=400
 StaRequerido=20
 IconoIndex=74694
-Target=3   															 
+Target=3
 Cooldown=15
 CdEffectId=30
 EOTID=33
@@ -3032,7 +3031,7 @@ NoWiki=1
 
 [HECHIZO262]
 Nombre=Forma de Espíritu del Bosque
-Desc=Te transforma en un espíritu del bosque cambiando tus aptitudes mágicas
+Desc=Te transforma en un espíritu del bosque cambiando tus aptitudes mágicas.
 PalabrasMagicas=SIL' PIRI VARUM
 HechizeroMsg=
 TargetMsg=
@@ -3074,7 +3073,7 @@ WAV=0
 FXgrh=0
 TimeParticula=0
 IconoIndex=74714
-Target=3   															 
+Target=3
 Cooldown=20
 CdEffectId=31
 IsBindable=1
@@ -3097,7 +3096,7 @@ TimeParticula=0
 IconoIndex=74716
 ManaRequerido=100
 StaRequerido=5000
-Target=3   															 
+Target=3
 Cooldown=20
 CdEffectId=32
 IsBindable=1
@@ -3105,7 +3104,7 @@ NoWiki=1
 
 [HECHIZO265]
 Nombre=Desplazamiento Veloz
-Desc=Aceleras tu movimientos por unos segundos
+Desc=Aceleras tus movimientos por unos segundos.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3242,8 +3241,8 @@ NoWiki=1
 
 [HECHIZO270]
 Nombre=Protección Divina 1
-Desc=Crea un escudo que previene el daño recibido
-PalabrasMagicas=TOLLI AH TEYO  
+Desc=Crea un escudo que previene el daño recibido.
+PalabrasMagicas=TOLLI AH TEYO
 HechizeroMsg=Has tirado protección a
 TargetMsg=te ha tirado protección.
 PropioMsg=Te has tirado protección.
@@ -3266,8 +3265,8 @@ NoWiki=1
 
 [HECHIZO271]
 Nombre=Protección Divina 2
-Desc=Crea un escudo que previene el daño recibido
-PalabrasMagicas=TOLLI AH TEYO  
+Desc=Crea un escudo que previene el daño recibido.
+PalabrasMagicas=TOLLI AH TEYO
 HechizeroMsg=Has tirado protección a
 TargetMsg=te ha tirado protección.
 PropioMsg=Te has tirado protección.
@@ -3289,7 +3288,7 @@ NoWiki=1
 
 [HECHIZO272]
 Nombre=Acelerar Mascotas
-Desc=aumenta la velocidad de movimiento de tus mascotas
+Desc=Aumenta la velocidad de movimiento de tus mascotas.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3311,7 +3310,7 @@ NoWiki=1
 
 [HECHIZO273]
 Nombre=Mejorar Ataque de Mascotas
-Desc=aumenta el daño realizado por tus mascotas
+Desc=Aumenta el daño realizado por tus mascotas.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3333,7 +3332,7 @@ NoWiki=1
 
 [HECHIZO274]
 Nombre=Afilar
-Desc=Aumenta el filo de tu arma
+Desc=Aumenta el filo de tu arma.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3355,7 +3354,7 @@ NoWiki=1
 
 [HECHIZO275]
 Nombre=Afilar Avanzado
-Desc=Aumenta el filo de tu arma
+Desc=Aumenta el filo de tu arma.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3378,7 +3377,7 @@ NoWiki=1
 
 [HECHIZO276]
 Nombre=Afilar Superior
-Desc=Aumenta el filo de tu arma
+Desc=Aumenta el filo de tu arma.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3401,7 +3400,7 @@ NoWiki=1
 
 [HECHIZO277]
 Nombre=Refuerzo
-Desc=Refuerza tu equipo para aumentar su defensa
+Desc=Refuerza tu equipo para aumentar su defensa.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3424,7 +3423,7 @@ NoWiki=1
 
 [HECHIZO278]
 Nombre=Refuerzo Avanzado
-Desc=Refuerza tu equipo para aumentar su defensa
+Desc=Refuerza tu equipo para aumentar su defensa.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3447,7 +3446,7 @@ NoWiki=1
 
 [HECHIZO279]
 Nombre=Refuerzo Superior
-Desc=Refuerza tu equipo para aumentar su defensa
+Desc=Refuerza tu equipo para aumentar su defensa.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3494,7 +3493,7 @@ IsBindable=1
 
 [HECHIZO281]
 Nombre=Veneno 1
-Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe
+Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3516,7 +3515,7 @@ NoWiki=1
 
 [HECHIZO282]
 Nombre=Veneno 2
-Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe
+Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3538,7 +3537,7 @@ NoWiki=1
 
 [HECHIZO283]
 Nombre=Veneno 3
-Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe
+Desc=Aplica veneno en el arma, al golper un enemigo aplica veneno en cada golpe.
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=
@@ -3560,7 +3559,7 @@ NoWiki=1
 
 [HECHIZO284]
 Nombre=Veneno de mana
-Desc=Aplica veneno en el armar, al golpear un enemigo este pierde mana por segundo. 
+Desc=Aplica veneno en el arma, al golpear un enemigo este pierde mana por segundo. 
 PalabrasMagicas=
 HechizeroMsg=
 TargetMsg=

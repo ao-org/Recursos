@@ -193,7 +193,7 @@ Snd3=Muerte de la criatura
 Name=Sacerdote
 en_Name=Priest
 NpcType=1
-Desc=¡Hola, hijo mio! Soy el Sacerdote de este pueblo. Si quieres ser resucitado, hazme click izquierdo y luego escribe /Resucitar
+Desc=¡Hola, hijo mío! Soy el Sacerdote de este pueblo. Si quieres ser resucitado, hazme click izquierdo y luego escribe /Resucitar
 en_Desc=Hi, son! I am the priest of this town. If you want to be resurrected, left click me and type /Resucitar
 Head=3
 Body=117
@@ -449,7 +449,7 @@ Minimap=1
 [NPC12]
 Name=Ríos <Minero>
 En_Name=Rivers <Miner>
-Desc=Acércate, tengo las herramientas necesarias para obtener minerales en este mundo
+Desc=Acércate, tengo las herramientas necesarias para obtener minerales en este mundo.
 en_Desc=Come closer, I have the necessary tools to obtain minerals in this world
 Head=427
 Body=45
@@ -517,7 +517,7 @@ QuestNumber7=153
 [NPC15]
 Name=Joseph <Mercader>
 En_name=Joseph <Merchant>
-Desc=¡Hola, bienvenido a mi tienda! Estoy interesado en todo tipo de productos. No olvides de pasar de vez en cuando, puede que mañana ya hayan comprado lo que estabas buscando!
+Desc=¡Hola, bienvenido a mi tienda! Estoy interesado en todo tipo de productos. No olvides de pasar de vez en cuando, puede que mañana ya hayan comprado lo que estabas buscando.
 en_Desc=Hello, welcome to my store! I am interested in all kinds of products. Don't forget to stop by from time to time, tomorrow they may already have bought what you were looking for!
 Head=30
 Body=5
@@ -538,7 +538,7 @@ Obj2=197-1
 Name=Liliana <Alquimias de Principiante>
 En_Name=Liliana <Beginner Alchemies>
 ShowName=1
-Desc=¿Te has quedado sin pociones? Tengo algunas para ofrecerte, a un precio que te va a convenir… y mucho!
+Desc=¿Te has quedado sin pociones? Tengo algunas para ofrecerte, a un precio que te va a convenir… ¡y mucho!
 en_Desc=Are you out of potions? I have some to offer you, at a price that will suit you… a lot!
 Head=0
 Body=4107
@@ -772,7 +772,7 @@ Obj2=15-1
 [NPC49]
 Name=Lyhn <Sastre de Nix>
 En_Name=Lyhn <Tailer of Nix>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=165
 ShowName=1
 Body=676
@@ -812,7 +812,7 @@ en_desc=Quality in leathers. Only for ladies!
 Name=Horacio <Sastre de Nuevos Ropajes>
 En_Name=Horatio <Tailor of New Clothes>
 en_desc=I sell new clothes that give headaches
-Desc=Vendo ropajes nuevos que dan dolores de cabeza
+Desc=Vendo ropajes nuevos que dan dolores de cabeza.
 Head=30
 ShowName=1
 Body=42
@@ -940,7 +940,7 @@ en_desc=Do you think someone like you could face the famous Great Red Dragon? I 
 
 [NPC59]
 Name=Franklin <Quest>
-Desc=Ven conmigo.Te contaré lo que sé acerca de las Medusas. Necesitamos tu ayuda para conocer mas sobre estas criaturas.
+Desc=Ven conmigo. Te contaré lo que sé acerca de las Medusas. Necesitamos tu ayuda para conocer mas sobre estas criaturas.
 Head=403
 Body=981
 NpcType=17
@@ -1029,7 +1029,7 @@ Obj15=3577-1
 
 [NPC77]
 Name=Xyret
-Desc=Acercate maldito, aquí encontrarás lo mejor que el mar ofrece.
+Desc=Acércate maldito, aquí encontrarás lo mejor que el mar ofrece.
 Body=4582
 ShowName=1
 Heading=3
@@ -1096,7 +1096,7 @@ en_desc=This food is disgusting, but you are more disgusted.
 [NPC85]
 Name=Eza Talrê <Quest>
 NpcType=17
-Desc=Ven muchacho/a este es tu momento para aprender a dominar el poder que llevas dentro. Anímate.
+Desc=Ven aquí, este es tu momento para aprender a dominar el poder que llevas dentro. Anímate.
 ShowName=1
 Head=73
 Heading=3
@@ -1220,7 +1220,7 @@ en_desc=Do you want to be an expert fisherman?
 Name=Bael el Bardo <Quest>
 En_Name=Bael the Bard
 NpcType=17
-Desc=¿Tienes tiempo libre para oir unas canciones?
+Desc=¿Tienes tiempo libre para oír unas canciones?
 ShowName=1
 Head=102
 Heading=3
@@ -1234,7 +1234,7 @@ en_desc=Do you have free time to listen to some songs?
 [NPC94]
 Name=Mezier <Quest>
 NpcType=17
-Desc=Estaba buscando un aventurero como tu. Claro que serás bien recompensado.
+Desc=Estaba buscando un aventurero como tú. Claro que serás bien recompensado.
 ShowName=1
 Head=109
 Heading=3
@@ -1291,7 +1291,7 @@ en_desc=The best steel in the kingdom.
 [NPC97]
 Name=Shaman Yarl
 NpcType=1
-Desc=Puedo sentir el poder fluir dentro de tí, dejalo salir!. Soy el shaman de este pueblo. si quieres ser resucitado escribe /Resucitar o haz clic derecho sobre mi.
+Desc=Puedo sentir el poder fluir dentro de tí, ¡dejalo salir!. Soy el shaman de este pueblo. Si quieres ser resucitado escribe /Resucitar o haz clic derecho sobre mi.
 Head=514
 Body=205
 Heading=3
@@ -1408,7 +1408,7 @@ en_desc=Welcome to my garden! I have the best fruits in the area. You will not b
 [NPC102]
 Name=Zodrot <Carpintero de Eleuria>
 En_Name=Zodrot <Eleurian Carpenter>
-Desc=Bienvenido, hago los mejores trabajos en madera, que necesitas?.
+Desc=Bienvenido, hago los mejores trabajos en madera, ¿qué necesitas?
 Head=522
 Body=1203
 Arma=138
@@ -1432,7 +1432,7 @@ en_desc=Welcome, I do the best woodwork, what do you need?.
 [NPC103]
 Name=Bagul <Minero>
 En_name=Bagul <Miner>
-Desc=¿Estas interesado en la minería? Cuento con todas las herramientas necesarias.
+Desc=¿Estás interesado en la minería? Cuento con todas las herramientas necesarias.
 Head=509
 Body=1032
 Heading=3
@@ -1456,7 +1456,7 @@ en_desc=Are you interested in mining? I have all the necessary tools.
 [NPC104]
 Name=Mebag <Pescador>
 En_Name=Mebag <Fisherman>
-Desc=Aquí conseguirás lo mejor que el mar puede ofrecer!
+Desc=¡Aquí conseguirás lo mejor que el mar puede ofrecer!
 Head=525
 Body=17
 Heading=3
@@ -1518,7 +1518,7 @@ en_desc=I buy what the sea can offer!
 
 [NPC110]
 Name=Grimrot <Quest>
-Desc=Prueba el acero Orco, tal vez te lleves una sorpresa.
+Desc=Prueba el acero Orco, tal vez te lleves una sorpresa...
 ShowName=1
 NpcType=17
 Head=516
@@ -1682,7 +1682,7 @@ MagicDef=15
 
 [NPC118]
 Name=Carol <Quest>
-Desc=Refuerzo armas de trabajadores, acercate y charlemos.
+Desc=Refuerzo armas de trabajadores, acércate y hablemos.
 Head=79
 Body=27
 Heading=3
@@ -2372,7 +2372,7 @@ MagicDef=15
 Name=Tytha <Sastrería Bajos>
 En_Name=Tytha <Lower Tailoring>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=353
 Body=964
 Heading=3
@@ -2936,7 +2936,7 @@ MagicDef=0
 [NPC425]
 Name=Ulises <Quest>
 NpcType=17
-Desc=Ven acercate tengo trabajo para ti.
+Desc=Ven, acércate, tengo trabajo para ti.
 ShowName=1
 Head=420
 Heading=3
@@ -6758,7 +6758,7 @@ MagicDef=0
 [NPC651]
 Name=Vendedor de personajes
 en_name=Character Salesman
-Desc=Yo me encargaré de vendértelo a buen precio. confía en mi, solo completa el siguiente formulario.
+Desc=Yo me encargaré de vendértelo a buen precio. Confía en mi, sólo completa el siguiente formulario.
 NpcType=22
 ShowName=1
 Heading=3
@@ -10593,7 +10593,7 @@ MagicDef=5
 [NPC1012]
 Name=Tiberius <Equipamiento Legionario>
 En_Name=Tiberius <Legion Equipment>
-Desc=Lo mejor que podrás conseguir en este mundo, solo para los más dignos seguidores del Señor del Caos.
+Desc=Lo mejor que podrás conseguir en este mundo, sólo para los más dignos seguidores del Señor del Caos.
 ShowName=1
 NpcType=17
 Head=127
@@ -12049,7 +12049,7 @@ MagicDef=5
 
 [NPC1081]
 Name=Amarie <Sastre de Ullathorpe>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=177
 ShowName=1
 Body=747
@@ -12094,7 +12094,7 @@ MagicDef=5
 [NPC1082]
 Name=Celyne <Sastre de Ullathorpe>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=351
 Body=1194
 Heading=3
@@ -12133,7 +12133,7 @@ MagicDef=5
 [NPC1083]
 Name=Khor <Armero de Ullathorpe>
 ShowName=1
-Desc=¡Hey, tú! Rata de Alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
+Desc=¡Hey, tú! Rata de alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
 Head=34
 Body=73
 Arma=151
@@ -12302,7 +12302,7 @@ MagicDef=5
 
 [NPC1088]
 Name=Amarie <Sastre de Nix>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=177
 ShowName=1
 Body=747
@@ -12347,7 +12347,7 @@ MagicDef=5
 [NPC1089]
 Name=Celyne <Sastre de Nix>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=351
 Body=1194
 Heading=3
@@ -12387,7 +12387,7 @@ MagicDef=5
 [NPC1090]
 Name=Khor <Armero de Nix>
 ShowName=1
-Desc=¡Hey, tú! Rata de Alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
+Desc=¡Hey, tú! Rata de alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
 Head=34
 Body=73
 Arma=151
@@ -12572,7 +12572,7 @@ MagicDef=5
 [NPC1096]
 Name=Morena <Sastre de Banderbill>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=707
 Body=1185
 Heading=3
@@ -12637,7 +12637,7 @@ MagicDef=5
 
 [NPC1098]
 Name=Roy <Armaduras de Banderbill>
-Desc=Acercate, tengo algunas armaduras que podrían protegerte.
+Desc=Acércate, tengo algunas armaduras que podrían protegerte.
 ShowName=1
 Head=604
 Body=337
@@ -12787,7 +12787,7 @@ MagicDef=5
 [NPC1103]
 Name=Morena <Sastre de Arkhein>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=707
 Body=1185
 Heading=3
@@ -12889,7 +12889,7 @@ MagicDef=5
 [NPC1106]
 Name=Ligno <Hechicero de Arkhein>
 ShowName=1
-Desc=Tengo gran variedad de hechizos!
+Desc=¡Tengo gran variedad de hechizos!
 Head=712
 Body=203
 Heading=3
@@ -13032,7 +13032,7 @@ MagicDef=5
 [NPC1110]
 Name=Celyne <Sastre de Arghal>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=351
 Body=1194
 Heading=3
@@ -13071,7 +13071,7 @@ MagicDef=5
 [NPC1111]
 Name=Khor <Armero de Arghal>
 ShowName=1
-Desc=¡Hey, tú! Rata de Alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
+Desc=¡Hey, tú! Rata de alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
 Head=34
 Body=73
 Arma=151
@@ -13106,7 +13106,7 @@ MagicDef=5
 [NPC1112]
 Name=Canserbero <Herrero de Arghal>
 ShowName=1
-Desc=Solo se muere quién se olvida.
+Desc=Sólo se muere quién se olvida.
 Body=4587
 Heading=3
 Movement=1
@@ -13175,7 +13175,7 @@ MagicDef=5
 [NPC1115] Penthar
 Name=Gorrum <Sastre de Penthar>
 ShowName=1
-Desc=Ven, acercate. Dejame mostrarte mi amplia variedad en ropajes para los mas valerosos guerreros.
+Desc=Ven, acércate. Déjame mostrarte mi amplia variedad en ropajes para los más valerosos guerreros.
 Head=503
 Body=131
 Heading=3
@@ -13397,7 +13397,7 @@ MagicDef=5
 
 [NPC1121] Penthar
 Name=Zodrot <Carpintero de Penthar>
-Desc=Bienvenido, hago los mejores trabajos en madera, que necesitas?.
+Desc=Bienvenido, hago los mejores trabajos en madera, ¿qué necesitas?
 Head=522
 Body=1203
 Arma=138
@@ -13465,7 +13465,7 @@ MagicDef=5
 
 [NPC1123]
 Name=Amarie <Sastre de Lindos>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=177
 ShowName=1
 Body=747
@@ -13510,7 +13510,7 @@ MagicDef=5
 [NPC1124]
 Name=Celyne <Sastre de Lindos>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=351
 Body=1194
 Heading=3
@@ -14004,7 +14004,7 @@ MagicDef=5
 [NPC1138]
 Name=Celyne <Sastre de Esperanza>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=351
 Body=1194
 Heading=3
@@ -14192,7 +14192,7 @@ MagicDef=5
 
 [NPC1144]
 Name=Nazsnik <Quest>
-Desc=Bienvenido a Penthar!
+Desc=¡Bienvenido a Penthar!
 Head=568
 Body=4581
 Heading=3
@@ -14212,7 +14212,7 @@ MagicDef=5
 
 [NPC1145] ' Futuro NPC quest penthar
 Name=Dalyor <Habitante de Penthar>
-Desc=Bienvenido a Penthar!
+Desc=¡Bienvenido a Penthar!
 Head=527
 Body=4945
 Heading=3
@@ -14231,7 +14231,7 @@ MagicDef=5
 
 [NPC1146]
 Name=Brayer
-Desc=Habla conmigo si quieres Cambiar Contador de Evento Bufón Caótico .
+Desc=Habla conmigo si quieres Cambiar Contador de Evento Bufón Caótico.
 ShowName=1
 Head=8
 Body=226
@@ -14324,7 +14324,7 @@ MagicDef=5
 [NPC1150]
 Name=Elhandar <Quest>
 NpcType=17
-Desc=¡uhm!¡Tantas cosas que hacer y conseguir y siempre con tan poco tiempo! umGr...
+Desc=¡Uhm!¡Tantas cosas que hacer y conseguir y siempre con tan poco tiempo! umGr...
 ShowName=1
 Body=140
 Head=171
@@ -14370,7 +14370,7 @@ TestOnly=1
 
 [NPC1152] 'Libro de Pesca
 Name=Viejo libro de pesca
-Desc=Regista aquí tu puntaje para convertirte en el mejor!
+Desc=¡Registra aquí tu puntaje para convertirte en el mejor!
 Head=0
 Body=4041
 ShowName=1
@@ -14414,7 +14414,7 @@ NPCLVL=30
 
 [NPC1154] 'Fermin
 Name=Fermin
-Desc=Si crees que tienes lo necesario para convertirte en el mejor pescador, acepta mi desafio!. Varios como tu lo están intentando. Puedes registar tus capturas en el "Viejo libro de pesca""."
+Desc=Si crees que tienes lo necesario para convertirte en el mejor pescador, ¡acepta mi desafio! Varios como tú lo están intentando. Puedes registar tus capturas en el "Viejo libro de pesca".
 Head=10
 Body=27
 Arma=0
@@ -14423,7 +14423,7 @@ Heading=3
 Movement=1
 NpcType=0
 Minimap=1
-en_desc=If you think you have what it takes to become the best fisherman, accept my challenge! Several like you are trying. You can record your catches in the "Old Fishing Book"".
+en_desc=If you think you have what it takes to become the best fisherman, accept my challenge! Several like you are trying. You can record your catches in the "Old Fishing Book".
 NPCLVL=16
 MagicResistance=40
 MagicDef=10
@@ -14431,7 +14431,7 @@ MagicDef=10
 [NPC1155]'Se le quitan las dos Quests, porque ninguna estaba operativa quest124, quest125
 Name=Malvur
 NpcType=17
-Desc=Todo esta muy tranquilo por el puerto de pescadores!
+Desc=¡Todo está muy tranquilo por el puerto de pescadores!
 ShowName=1
 Head=305
 Heading=3
@@ -14604,7 +14604,7 @@ Name=Baki <Gremio de Pescadores>
 En_Name=Baki <Fishermens Guild>
 ShowName=1
 NpcType=17
-Desc=Mhmmm, ¿son nuevos por acá no?. Les voy a dar un pequeño consejo, gratis. No se tienten con el valor de los peces especiales, los mercaderes de la ciudad son unos estafadores. El verdadero valor de estos peces los vas a encontrar en el Puerto de Pescadores, donde podrás registrar tus hallazgos en el Viejo Libro de Pesca, y así participar de una competición solo apta para los más hábiles, donde se otorgan grandes y jugosos premios. Confien en mi.
+Desc=Mhmmm, son nuevos por acá ¿no? Les voy a dar un pequeño consejo, gratis. No se tienten con el valor de los peces especiales, los mercaderes de la ciudad son unos estafadores. El verdadero valor de estos peces los vas a encontrar en el Puerto de Pescadores, donde podrás registrar tus hallazgos en el Viejo Libro de Pesca, y así participar de una competición sólo apta para los más hábiles, donde se otorgan grandes y jugosos premios. Confien en mi.
 Head=351
 Body=1149
 Arma=149
@@ -14633,7 +14633,7 @@ MagicDef=0
 Name=Ho Ka Rdum <Quest>
 ShowName=1
 NpcType=17
-Desc=Temo por mi granja
+Desc=Temo por mi granja...
 Head=555
 Body=886
 Escudo=67
@@ -14647,7 +14647,7 @@ QuestNumber2=116
 'QuestNumber3=118
 'QuestNumber4=119
 'QuestNumber5=133
-en_desc=I fear for my farm
+en_desc=I fear for my farm...
 NPCLVL=2
 MagicResistance=5
 MagicDef=0
@@ -15339,7 +15339,7 @@ MagicDef=15
 Name=Mercader <Shop Patreon>
 En_name=Merchant <Shop Patreon>
 NpcType=21
-Desc=Acepto creditos patreon por items muy convenientes
+Desc=Acepto créditos Patreon por ítems muy convenientes. ¡No te los pierdas!
 Head=45
 Body=289
 Casco=40
@@ -15360,7 +15360,7 @@ MagicDef=15
 [NPC1218]
 Name=Mercader Mago II
 ShowName=1
-Desc=Vendo las mejores Magias
+Desc=Vendo las mejores magias.
 Head=1
 Body=118
 Casco=13
@@ -15462,7 +15462,7 @@ MagicDef=15
 
 [NPC1222]
 Name=Horus <Quest>
-Desc=Veo que estás intentando desentrañar los secretos de la cámara de Anubis.Han pasado ya muchos años desde la última vez que lo hán intentado. Puedo ayudarte si quieres, pero te recomiendo que busques mas guerreros. Tu solo no podras acabar con el.
+Desc=Veo que estás intentando desentrañar los secretos de la cámara de Anubis. Han pasado ya muchos años desde la última vez que lo han intentado. Puedo ayudarte si quieres, pero te recomiendo que busques más guerreros. Tu sólo no podrás acabar con él.
 en_Desc=I see that you are trying to unravel the secrets of Anubis' camera.It has been many years since the last time you tried. I can help you if you want, but I recommend that you look for more warriors. You alone will not be able to end it. r. It has been many years since you last tried. I can help you if you want, but I recommend you look for more warriors. You just can't finish him off.
 ShowName=1
 NpcType=17
@@ -15544,7 +15544,7 @@ NPCLVL=13
 [NPC1225]
 Name=Sloane <Quest>
 NpcType=17
-Desc=Oye tú ¿Alguna vez has visto una Naga? Ayúdame con esto y verás de que se trata.
+Desc=Oye tú ¿alguna vez has visto una Naga? Ayúdame con esto y verás de qué se trata.
 ShowName=1
 Head=58
 Heading=3
@@ -15710,7 +15710,7 @@ MagicDef=10
 [NPC1232]
 Name=Brendall
 NpcType=17
-Desc=¡Sin tu ayuda moriré al igual que todo Arkhein!  ¡Te necesitamos!
+Desc=¡Sin tu ayuda moriré al igual que todo Arkhein! ¡Te necesitamos!
 ShowName=1
 Head=306
 Heading=3
@@ -15718,7 +15718,7 @@ Body=19
 Arma=109
 Movement=1
 BackUp=0
-en_desc=Without your help I will die just like all Arkhein!  We need you!
+en_desc=Without your help I will die just like all Arkhein! We need you!
 NPCLVL=28
 MagicResistance=70
 MagicDef=10
@@ -15784,7 +15784,7 @@ TestOnly=1
 [NPC1235]
 Name=Asesino Impieadoso <Orden de las Sombras>
 En_Name=Ruthless Assassin <Shadow Order>
-Desc=¡Caeras ante mi al igual que tu Rey!
+Desc=¡Caerás ante mi al igual que tu Rey!
 Head=116
 Body=124
 Casco=56
@@ -16048,7 +16048,7 @@ MagicDef=10
 [NPC1245]
 Name=Horan <Armero de Kamal>
 ShowName=1
-Desc=¡Hey, tú! Rata de Alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
+Desc=¡Hey, tú! Rata de alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
 Head=34
 Body=73
 Arma=151
@@ -16080,7 +16080,7 @@ MagicDef=10
 [NPC1246]
 Name=Keia
 ShowName=1
-Desc=Solo se muere quién se olvida.
+Desc=Sólo se muere quién se olvida.
 Head=408
 Body=69
 Heading=3
@@ -16177,7 +16177,7 @@ MagicDef=10
 [NPC1249]
 Name=Gaara
 ShowName=1
-Desc=Tengo gran variedad de hechizos!
+Desc=¡Tengo gran variedad de hechizos!
 Head=401
 Body=112
 Heading=3
@@ -16299,7 +16299,7 @@ MagicDef=10
 [NPC1252]
 Name=Darisia <Sastre de Kamal>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=166
 Body=3134
 Heading=3
@@ -16978,7 +16978,7 @@ MagicDef=10
 Name=Sacerdotisa
 en_Name=Priestess
 NpcType=1
-Desc=¡Hola hijo mio! Soy la sacerdotisa de estas tierras. Si quieres ser resucitado escribe /Resucitar o doble click izquierdo.
+Desc=¡Hola hijo mío! Soy la sacerdotisa de estas tierras. Si quieres ser resucitado escribe /Resucitar o doble click izquierdo.
 en_Desc=Hello my son! I am the priestess of this land. If you want to be resurrected type /Resucitar or double left click.
 Head=607
 Body=916
@@ -17017,7 +17017,7 @@ MagicDef=5
 Name=Erika <Alquimista de Forgat>
 En_Name=Erika <Forgat Alchemist>
 ShowName=1
-Desc=Hola! Bienvenido a mi cabaña. Tengo a la venta la mas amplia gama de pociones para tu viaje.
+Desc=Hola! Bienvenido a mi cabaña. Tengo a la venta la más amplia gama de pociones para tu viaje.
 Head=158
 Body=676
 Heading=3
@@ -17057,7 +17057,7 @@ MagicDef=5
 Name=Pandora <Hechicera de Forgat>
 En_Name=Pandora <Sorceress of Forgat>
 ShowName=1
-Desc=¡Soy experta en las artes arcanas. Tengo una gran variedad de hechizos avanzados para tí!
+Desc=¡Soy experta en las artes arcanas! Tengo una gran variedad de hechizos avanzados para tí.
 Head=706
 Body=1081
 Heading=3
@@ -17082,7 +17082,7 @@ MagicDef=5
 [NPC1275]
 Name=Euridice <Hechicera de Forgat>
 En_Name=Eurydice <Sorceress of Forgat>
-Desc=Hola! Poseo los pergaminos arcanos mas buscados por los mortales!
+Desc=Hola! Poseo los pergaminos arcanos más buscados por los mortales.
 Head=732
 Body=604
 ShowName=1
@@ -17115,7 +17115,7 @@ MagicDef=5
 Name=Adelle <Tabernera de Forgat>
 En_Name=Adelle <Forgat Innkeeper>
 ShowName=1
-Desc=Si lo que buscás es algo fresco, estás en el lugar indicado. Qué querés tomar?
+Desc=Si lo que buscás es algo fresco, estás en el lugar indicado. ¿Qué quieres tomar?
 Head=727
 Body=46
 Heading=3
@@ -17138,7 +17138,7 @@ MagicDef=5
 [NPC1277]
 Name=Ámora <Pescadora de Forgat>
 En_Name=Amora <Forgat Fisherwoman>
-Desc=Aquí conseguirás lo mejor que el mar puede ofrecer!
+Desc=¡Aquí conseguirás lo mejor que el mar puede ofrecer!
 Head=688
 Body=751
 Heading=3
@@ -17161,7 +17161,7 @@ MagicDef=5
 [NPC1278]
 Name=Susan <Carpintera de Forgat>
 En_Name=Susan <Forgat Carpenter>
-Desc=Bienvenido a la carpintería de Forgat!
+Desc=Bienvenido a la carpintería de Forgat.
 Body=69
 Head=86
 ShowName=1
@@ -17187,7 +17187,7 @@ MagicDef=5
 [NPC1279]
 Name=Hilda <Provisiones de Forgat>
 En_Name=Hilda <Forgat Provisions>
-Desc=¡Hola! Vendo una gran variedad de provisiones!
+Desc=¡Hola! Vendo una gran variedad de provisiones.
 Head=57
 Body=678
 ShowName=1
@@ -17245,7 +17245,7 @@ MagicDef=5
 [NPC1281]
 Name=Raquel <Armera de Forgat>
 En_Name=Rachel <Armor of Forgat>
-Desc=Acá forjamos las armas más resistentes!
+Desc=¡Aquí forjamos las armas más resistentes!
 ShowName=1
 Head=59
 Body=305
@@ -17279,7 +17279,7 @@ MagicDef=5
 [NPC1282]
 Name=Mar <Minera de Forgat>
 En_name=Sea <Forgat Mining>
-Desc=Tengo las mejores herramientas!
+Desc=¡Tengo las mejores herramientas!
 Head=473
 Body=217
 Heading=3
@@ -17324,7 +17324,7 @@ MagicDef=5
 
 [NPC1284]
 Name=Rengal <Quest>
-Desc=Eres el futuro de nuestro trabajo, sé consciente de que nuestro Dios Grodnar nos premia y nos protege en todo momento, él me encargó enseñarle a las futuras generaciones la técnica para fabricar nuestros preciados vagones
+Desc=Eres el futuro de nuestro trabajo, sé consciente de que nuestro Dios Grodnar nos premia y nos protege en todo momento, él me encargó enseñarle a las futuras generaciones la técnica para fabricar nuestros preciados vagones.
 en_Desc=You are the future of our work, be aware that our God Grodnar rewards us and protects us at all times, he commissioned me to teach future generations the technique to manufacture our precious wagons
 ShowName=1
 NpcType=17
@@ -17346,7 +17346,7 @@ MagicDef=5
 
 [NPC1285]
 Name=Fisch <Quest>
-Desc=Buenas querido pescador de estas tierras, mi amada necesita varios ingredientes para preparar un gran banquete para los aventureros que están de pasada por la ciudad de Nix. Si nos ayudas podria pasarte indicaciones para construir una buena carretilla para tu mercancia.
+Desc=Hola querido pescador de estas tierras, mi amada necesita varios ingredientes para preparar un gran banquete para los aventureros que están de pasada por la ciudad de Nix. Si nos ayudas podría pasarte indicaciones para construir una buena carretilla para tu mercancía.
 en_Desc=Hello dear fisherman of these lands, my beloved needs several ingredients to prepare a great banquet for the adventurers who are passing through the city of Nix. If you help us I could pass you instructions to build a good wheelbarrow for your merchandise.
 ShowName=1
 NpcType=17
@@ -17369,7 +17369,7 @@ MagicDef=5
 
 [NPC1286]
 Name=LucAstilla <Quest>
-Desc=¡Chssss, Aquí amigo!, puedo cepillar toda esa leña por ti en un instante y ahorrarte mucho tiempo
+Desc=¡Chssss, aquí amigo! Puedo cepillar toda esa leña por ti en un instante y ahorrarte mucho tiempo.
 en_Desc=Ptss.. here mate, I can brush all that firewood for you in no time and save you a lot of time
 ShowName=1
 NpcType=17
@@ -17425,7 +17425,7 @@ NoWiki=1
 [NPC1288]
 Name=Sacerdote
 En_Name=Priest
-Desc=Bienvenido, me especializo en elementos sagrados
+Desc=Bienvenido, me especializo en elementos sagrados.
 Head=3
 Body=117
 BodyIdle=861
@@ -17445,7 +17445,7 @@ MagicDef=0
 Name=Xanthe <Sacerdotisa de Forgat>
 En_Name=Xanthe <Priestess of Forgat>
 NpcType=1
-Desc=¡Hola hijo mio! Soy la sacerdotisa de este pueblo. Si quieres ser resucitado escribe /Resucitar o clic derecho.
+Desc=¡Hola hijo mío! Soy la sacerdotisa de este pueblo. Si quieres ser resucitado escribe /Resucitar o clic derecho.
 en_Desc=Hello my son! I am the priestess of this town. If you want to be resurrected type /Resucitar or right click.
 Head=60
 Body=3258
@@ -17480,7 +17480,7 @@ MagicDef=0
 [NPC1291]
 Name=Escritorio <Quest>
 En_Name=Desktop
-Desc=Este viejo libro parece tener lo que buscaba!
+Desc=¡Este viejo libro parece tener lo que buscaba!
 Head=0
 Body=4284
 ShowName=1
@@ -17497,7 +17497,7 @@ MagicDef=0
 [NPC1292]
 Name=Biblioteca <Quest>
 En_name=Library
-Desc=Creo que este es el libro que estaba buscando!
+Desc=¡Creo que este es el libro que estaba buscando!
 Head=0
 Body=4283
 ShowName=1
@@ -17514,7 +17514,7 @@ MagicDef=0
 [NPC1293]
 Name=Olaf <Armero de Forgat>
 En_name=Olaf <Forgat Armorer>
-Desc=¿No sabes lo que es un hacha arrojadiza?, ¿Que clase de guerrero eres?. Puedo venderte una, no es lo mejor pero te será útil para comenzar. De todas formas te recomiendo que veas a Jorgen para mas ayuda.
+Desc=¿No sabes lo que es un hacha arrojadiza? ¿Qué clase de guerrero eres? Puedo venderte una, no es lo mejor pero te será útil para comenzar. De todas formas te recomiendo que veas a Jorgen para más ayuda.
 Head=46
 Body=217
 Heading=3
@@ -17531,7 +17531,7 @@ MagicDef=0
 
 [NPC1294]
 Name=Jorgen <Quest>
-Desc=Ya veo, te ha enviado Olaf. Dejame ver, puedes practicar con esa hacha, pero si en verdad quieres ser diestro en este arte debemos ir mejorándola con los materialesa adecuados.
+Desc=Ya veo, te ha enviado Olaf. Déjame ver, puedes practicar con esa hacha, pero si en verdad quieres ser diestro en este arte debemos ir mejorándola con los materialesa adecuados.
 Head=36
 Body=878
 Heading=4
@@ -17674,7 +17674,7 @@ MagicDef=5
 
 [NPC1301]
 Name=Quijote <Quest>
-Desc=Hola aventurero, soy Quijote, como te habras dado cuenta esto es mas que un simple molino, tu me comprendes verdad?
+Desc=Hola aventurero, soy Quijote, como te habrás dado cuenta esto es más que un simple molino, tu me comprendes ¿verdad?
 Head=22
 Body=254
 Heading=3
@@ -17693,7 +17693,7 @@ MagicDef=5
 
 [NPC1302]
 Name=Garret <Quest>
-Desc=¡Auú, auú! dime que al menos te lo creiste, me costó mucho confeccionar este traje. Estás por entrar a Cueva de la Desolación, tengo información que puede serte de gran ayuda si quieres sobrevivir adentro.
+Desc=¡Auú, auú! Dime que al menos te lo creiste, me costó mucho confeccionar este traje. Estás por entrar a Cueva de la Desolación, tengo información que puede serte de gran ayuda si quieres sobrevivir dentro.
 Head=0
 Body=4078
 Heading=3
@@ -17712,7 +17712,7 @@ MagicDef=5
 
 [NPC1303]
 Name=Heinrich <Quest>
-Desc=Bienvenido a mi humilde morada, estoy muy sediento y necesito a una persona aventurera y valiente como tu.
+Desc=Bienvenido a mi humilde morada, estoy muy sediento y necesito a una persona aventurera y valiente como tú.
 Head=306
 Body=20
 Heading=3
@@ -17799,7 +17799,7 @@ Caminata4=16:16:0
 [NPC1306]'Vendedor de boletos para viaje al Nix-Jourmut
 Name=Finnegan
 ShowName=1
-Desc=¡Hola! vendo boletos para viajes intercontinentales
+Desc=¡Hola! Vendo boletos para viajes intercontinentales.
 Head=94
 Body=46
 Heading=3
@@ -17817,7 +17817,7 @@ Testonly=1
 
 [NPC1307]
 Name=Zoltan <Quest>
-Desc=Hola viajero, ayudame y te premiaré con un boleto de viaje, también tengo algunas misiones para hacer más entretenida tu travesía.
+Desc=Hola viajero, ayúdame y te premiaré con un boleto de viaje, también tengo algunas misiones para hacer más entretenida tu travesía.
 Head=304
 Body=4712
 Heading=3
@@ -17939,7 +17939,7 @@ MagicDef=10
 [NPC1311] Mercader de Forgat
 Name=Joseph <Mercader Forgat>
 En_name=Joseph <Merchant Forgat>
-Desc=¡Hola! Estoy interesado en todo tipo de productos y vendo boletos a Jourmut.
+Desc=¡Hola! Estoy interesado en todo tipo de productos y además vendo boletos a Jourmut.
 Head=44
 Body=45
 ShowName=1
@@ -17983,7 +17983,7 @@ MagicDef=10
 
 [NPC1313]
 Name=Torgath <Quest>
-Desc=Hola, acercate por favor, creo que podemos ayudarnos mutuamente.
+Desc=Hola, acércate por favor, creo que podemos ayudarnos mutuamente.
 Head=34
 Body=1203
 Heading=2
@@ -18096,7 +18096,7 @@ MagicDef=5
 
 [NPC1320]
 Name=Havoc <Quest>
-Desc=Pssst, acercate, tengo información que podría serte útil.
+Desc=Pssst, acércate, tengo información que podría serte útil.
 Head=301
 Body=1203
 Heading=3
@@ -18128,7 +18128,7 @@ MagicDef=5
 
 [NPC1322]
 Name=Leif <Quest>
-Desc=Afilo armas de trabajadores, acercate y charlemos.
+Desc=Afilo armas de trabajadores, acércate y charlemos.
 Head=0
 Body=4254
 Heading=3
@@ -18335,7 +18335,7 @@ NoWiki=1
 [NPC1330]
 Name=Vendedor de Sets
 En_Name=Set Seller
-Desc=¡Hola! Vendo SETS.
+Desc=¡Hola! Vendo sets.
 Head=30
 Body=5
 ShowName=1
@@ -18393,7 +18393,7 @@ NoWiki=1
 [NPC1331]
 Name=Cartelera <Quest>
 En_Name=Billboard <Quest>
-Desc=Parece tener varios encargos para cumplir
+Desc=Parece tener varios encargos para cumplir.
 Head=0
 Body=4124
 ShowName=1
@@ -18436,7 +18436,7 @@ MagicDef=0
 [NPC1334]
 Name=Vendedor de Skills
 En_Name=Skills Seller
-Desc=¡Hola! Vendo SKILLS.
+Desc=¡Hola! Vendo skills.
 Head=30
 Body=5
 ShowName=1
@@ -18488,7 +18488,7 @@ TestOnly=1
 [NPC1335]Sastre para mujeres de Forgat
 Name=Marie <Sastre de Forgat>
 En_Name=Marie <Tailer of Forgat>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=51
 ShowName=1
 Body=751
@@ -18531,7 +18531,7 @@ en_desc=Quality in leathers. Only for ladies!
 Name=Celine <Sastre de Forgat>
 En_Name=Celine <Tailer of Forgat>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=352
 Body=1191
 Heading=3
@@ -18613,7 +18613,7 @@ MagicDef=5
 [NPC1338]Carpintero de Eldoria
 Name=Finley <Carpintero de Eldoria>
 En_Name=Finley <Eldorian Carpenter>
-Desc=Bienvenido a la carpintería de Eldoria!
+Desc=¡Bienvenido a la carpintería de Eldoria!
 Body=69
 Head=104
 ShowName=1
@@ -18639,7 +18639,7 @@ MagicDef=5
 [NPC1339]Sastre para mujeres de Eldoria
 Name=Meliamne <Sastre de Eldoria>
 En_Name=Meliamne <Tailor of Eldoria>
-Desc=Calidad en pieles. ¡Solo para damas!
+Desc=Calidad en pieles. ¡Sólo para damas!
 Head=150
 ShowName=1
 Body=751
@@ -18682,7 +18682,7 @@ en_desc=Quality in leathers. Only for ladies!
 Name=Caladwen <Sastre de Eldoria>
 En_Name=Caladwen <Tailor of Eldoria>
 ShowName=1
-Desc=¡Tengo las mejores vestimentas y tunicas para bajos de todas las tierras!
+Desc=¡Tengo las mejores vestimentas y túnicas para bajos de todas las tierras!
 Head=370
 Body=1200
 Heading=3
@@ -18765,7 +18765,7 @@ MagicDef=5
 Name=Finrod <Tabernero de Eldoria>
 En_Name=Finrod <Innkeeper of Eldoria>
 ShowName=1
-Desc=Si lo que buscás es algo fresco, estás en el lugar indicado. Qué querés tomar?
+Desc=Si lo que buscás es algo fresco, estás en el lugar indicado. ¿Qué quieres tomar?
 Head=110
 Body=46
 Heading=3
@@ -18789,7 +18789,7 @@ MagicDef=5
 Name=Thessalia <Alquimista de Eldoria>
 En_name=Thessalia <Alchemist of Eldoria>
 ShowName=1
-Desc=Hola! Bienvenido a mi cabaña. Tengo a la venta la mas amplia gama de pociones para tu viaje.
+Desc=Hola! Bienvenido a mi cabaña. Tengo a la venta la más amplia gama de pociones para tu viaje.
 Head=256
 Body=678
 Heading=3
@@ -18831,7 +18831,7 @@ MagicDef=5
 Name=Erevan <Hechicera de Eldoria>
 En_Name=Erevan <Sorceress of Eldoria>
 ShowName=1
-Desc=¡Soy experta en las artes arcanas. Tengo una gran variedad de hechizos avanzados para tí!
+Desc=¡Soy experta en las artes arcanas! Tengo una gran variedad de hechizos avanzados para tí.
 Head=158
 Body=1093
 Heading=3
@@ -18856,7 +18856,7 @@ MagicDef=5
 [NPC1345]
 Name=Thalin <Hechicera de Eldoria>
 En_Name=Thalin <Sorceress of Eldoria>
-Desc=Hola! Poseo los pergaminos arcanos mas buscados por los mortales!
+Desc=Hola! Poseo los pergaminos arcanos más buscados por los mortales.
 Head=159
 Body=1109
 ShowName=1
@@ -18888,7 +18888,7 @@ MagicDef=5
 [NPC1346] Mercader de Eldoria
 Name=Josephelf <Mercader Eldoria>
 En_name=Josephelf <Merchant Eldoria>
-Desc=¡Hola! Estoy interesado en todo tipo de productos y vendo boletos a Jourmut.
+Desc=¡Hola! Estoy interesado en todo tipo de productos y además vendo boletos a Jourmut.
 Head=109
 Body=14
 ShowName=1
@@ -18908,7 +18908,7 @@ MagicDef=10
 [NPC1347]
 Name=Ghelf <Provisiones de Eldoria>
 En_Name=Ghelf <Eldoria Supplies>
-Desc=¡Hola! Vendo una gran variedad de provisiones!
+Desc=¡Hola! Vendo una gran variedad de provisiones.
 Head=110
 Body=43
 ShowName=1
@@ -18938,7 +18938,7 @@ MagicDef=5
 Name=Khox <Armero de Eldoria>
 En_Name=Khox <Eldorian Armorer>
 ShowName=1
-Desc=¡Hey, tú! Rata de Alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
+Desc=¡Hey, tú! Rata de alcantarilla. Un flacucho como tú necesita un buen acero allí fuera.
 Head=105
 Body=73
 Arma=151
@@ -19003,7 +19003,7 @@ MagicDef=15
 Name=Golksu <Sacerdotisa de Eldoria>
 en_Name=Golksu <Priestess of Eldoria>
 NpcType=1
-Desc=¡Hola hijo mio! Soy la sacerdotisa de esta ciudad. Si quieres ser resucitado escribe /Resucitar o clic derecho.
+Desc=¡Hola hijo mío! Soy la sacerdotisa de esta ciudad. Si quieres ser resucitado escribe /Resucitar o clic derecho.
 en_Desc=Hello my son! I am the priestess of this city. If you want to be resurrected type /Resucitar or right click.
 Head=60
 Body=3258
@@ -20341,86 +20341,3 @@ PoderAtaque=150
 PoderEvasion=115
 NPCLVL=10
 MagicResistance=25
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

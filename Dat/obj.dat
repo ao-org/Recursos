@@ -200,7 +200,7 @@ ObjType=1
 MinHAM=10
 Valor=2
 Crucial=1 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
-Texto=Restaura  10 puntos de hambre
+Texto=Restaura 10 puntos de hambre
 en_name=Red Apple
 en_texto=Restores 10 hunger points
 
@@ -1348,7 +1348,7 @@ en_Name=Ullathorpe House Key 04
 
 '--------------> Casa número 4 de Ullathorpe <--------------
 [OBJ74]
-Name=Puerta abierta  4 Ullathorpe
+Name=Puerta abierta 4 Ullathorpe
 GrhIndex=49581
 ObjType=6
 Cerrada=0
@@ -1358,10 +1358,10 @@ Agarrable=1
 IndexAbierta=74
 IndexCerrada=75
 IndexCerradaLlave=76
-Texto=Puerta abierta  4 Ullathorpe
+Texto=Puerta abierta 4 Ullathorpe
 en_name=Ullathorpe Open door 4
 en_texto=This honorable house belongs to
-ExtraStr=Puerta abierta  4 Ullathorpe
+ExtraStr=Puerta abierta 4 Ullathorpe
 
 [OBJ75]
 Name=Puerta cerrada 4 Ullathorpe
@@ -4573,7 +4573,7 @@ ExtraStr=Puerta cerrada
 
 
 [OBJ305]
-Name=Puerta cerrada con Llave  Bóveda 1 Gran Consejo de Banderbill
+Name=Puerta cerrada con Llave Bóveda 1 Gran Consejo de Banderbill
 GrhIndex=9193
 ObjType=6
 Cerrada=1
@@ -4583,9 +4583,9 @@ Agarrable=1
 IndexAbierta=303
 IndexCerrada=304
 IndexCerradaLlave=305
-Texto=Puerta cerrada con Llave  Bóveda 1 Gran Consejo de Banderbill
+Texto=Puerta cerrada con Llave Bóveda 1 Gran Consejo de Banderbill
 en_Name=locked door vualt 1 banderbill grand Banderbill Council
-ExtraStr=Puerta cerrada con Llave  Bóveda 1 Gran Consejo de Banderbill
+ExtraStr=Puerta cerrada con Llave Bóveda 1 Gran Consejo de Banderbill
 
 
 [OBJ306]
@@ -10215,7 +10215,7 @@ ObjType=1
 MinHAM=1
 Valor=1
 Crucial=0 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
-Texto=Restaura  1 puntos de hambre
+Texto=Restaura 1 puntos de hambre
 en_name=Onion
 en_texto=Restores 1 hunger points
 
@@ -12039,7 +12039,7 @@ IndexCerrada=913
 IndexCerradaLlave=914
 Texto=Esta honorable casa pertenece a
 en_texto=This honorable house belongs to
-en_Name=locked door house 1 of  Tiama
+en_Name=locked door house 1 of Tiama
 ExtraStr=Esta honorable casa pertenece a
 
 [OBJ915]
@@ -15595,7 +15595,7 @@ Texto=Nudillos del Principiante
 
 
 [OBJ1354]
-Name=Nudillos  (Newbie)
+Name=Nudillos (Newbie)
 GrhIndex=25678
 valor=0
 MINHIT=1
@@ -18185,7 +18185,7 @@ CP9=ASESINO
 CP10=GUERRERO
 CP11=CLERIGO
 CP12=MAGO
-en_Name=2nd Hierarchy Chaos Bard Robe  (E/G)
+en_Name=2nd Hierarchy Chaos Bard Robe (E/G)
 
 
 [OBJ1532]
@@ -30243,7 +30243,7 @@ en_texto=Welcome to caotic fort.
 
 [OBJ2451]
 Name=Cartel arena VI
-Info=arena VI  info
+Info=arena VI info
 GrhIndex=50913
 VGrande=501
 ObjType=8
@@ -30255,7 +30255,7 @@ en_texto=Welcome to the arena.
 
 [OBJ2452]
 Name=Cartel arena VII
-Info=arena VII  info
+Info=arena VII info
 GrhIndex=50914
 VGrande=501
 ObjType=8
@@ -30267,7 +30267,7 @@ en_texto=Welcome to the arena.
 
 [OBJ2453]
 Name=Cartel peligro bosque dorck
-Info=peligro bosque dorck  info
+Info=peligro bosque dorck info
 GrhIndex=50916
 VGrande=501
 ObjType=8
@@ -30422,7 +30422,7 @@ VGrande=501
 ObjType=8
 Texto=
 Agarrable=1
-en_texto=Danger!!! You are entering  pirate zone!!!
+en_texto=Danger!!! You are entering pirate zone!!!
 
 
 
@@ -34576,7 +34576,7 @@ MAXDEF=3
 MINDEF=1
 Valor=80
 Crucial=1 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
-en_Name=Vestment Green Villager  (E/G)
+en_Name=Vestment Green Villager (E/G)
 Texto=Vestimenta Verde de Poblador (E/G)
 
 
@@ -34627,7 +34627,7 @@ MAXDEF=2
 MINDEF=1
 Valor=50
 Crucial=1 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
-en_Name=Villager's Sewing Vestment (E/G)  Vestment (E/G)
+en_Name=Villager's Sewing Vestment (E/G) Vestment (E/G)
 Texto=Vestimenta Bordo de Poblador (E/G)
 
 
@@ -37940,7 +37940,7 @@ en_Name=closed door of trade
 ExtraStr=Puerta cerrada comercio
 
 [OBJ2961]
-Name=Puerta cerrada con llave  comercio Banderbill
+Name=Puerta cerrada con llave comercio Banderbill
 GrhIndex=2188
 ObjType=6
 Cerrada=1
@@ -37949,10 +37949,10 @@ Clave=141
 IndexAbierta=2959
 IndexCerrada=2960
 IndexCerradaLlave=2961
-Texto=Puerta cerrada con llave  comercio Banderbill
+Texto=Puerta cerrada con llave comercio Banderbill
 en_texto=Only Authorized will be able to enter
 en_Name=banderbill trade locked door
-ExtraStr=Puerta cerrada con llave  comercio Banderbill
+ExtraStr=Puerta cerrada con llave comercio Banderbill
 
 
 '--------------> Armaduras <--------------
@@ -39486,7 +39486,7 @@ CP9=ASESINO
 CP10=GUERRERO
 CP11=CLERIGO
 CP12=MAGO
-en_Name=3rd Hierarchy Chaos Bard Robe  (E/G)
+en_Name=3rd Hierarchy Chaos Bard Robe (E/G)
 
 
 [OBJ3002]
@@ -41750,7 +41750,7 @@ en_Name=Banderbill Duct Lever Wrench
 '********************************
 '--------------> Casa número 1 de Banderbill New <--------------
 [OBJ3076]
-Name=Puerta abierta  1 new bander
+Name=Puerta abierta 1 new bander
 GrhIndex=2416
 ObjType=6
 Cerrada=0
@@ -41760,10 +41760,10 @@ Agarrable=1
 IndexAbierta=3076
 IndexCerrada=3077
 IndexCerradaLlave=3078
-Texto=Puerta abierta  1 new bander
+Texto=Puerta abierta 1 new bander
 en_name=Banderbill Open door 1
 en_texto=This honorable house belongs to
-ExtraStr=Puerta abierta  1 new bander
+ExtraStr=Puerta abierta 1 new bander
 
 [OBJ3077]
 Name=Puerta cerrada 1 new bander
@@ -41810,7 +41810,7 @@ en_Name=Banderbill House Key 1
 
 '--------------> Casa número 2 de Banderbill New <--------------
 [OBJ3080]
-Name=Puerta abierta  2 new bander
+Name=Puerta abierta 2 new bander
 GrhIndex=2416
 ObjType=6
 Cerrada=0
@@ -41820,10 +41820,10 @@ Agarrable=1
 IndexAbierta=3080
 IndexCerrada=3081
 IndexCerradaLlave=3082
-Texto=Puerta abierta  2 new bander
+Texto=Puerta abierta 2 new bander
 en_name=Banderbill Open door 2
 en_texto=This honorable house belongs to
-ExtraStr=Puerta abierta  2 new bander
+ExtraStr=Puerta abierta 2 new bander
 
 [OBJ3081]
 Name=Puerta cerrada 2 new bander
@@ -42078,7 +42078,7 @@ IndexCerrada=3100
 IndexCerradaLlave=3101
 Texto=Puerta cerrada 6 new bander
 en_texto=This honorable house belongs to
-en_Name=Closed door 6 of  New bander
+en_Name=Closed door 6 of New bander
 ExtraStr=Puerta cerrada 6 new bander
 
 [OBJ3101]
@@ -43687,7 +43687,7 @@ IndexCerrada=3202
 IndexCerradaLlave=3203
 Texto=Puerta cerrada 7 de Arkhein
 en_texto=This honorable house belongs to
-en_Name=Closed door 7 of  Arkhein
+en_Name=Closed door 7 of Arkhein
 ExtraStr=Puerta cerrada 7 de Arkhein
 
 [OBJ3203]
@@ -44145,7 +44145,7 @@ en_Name=Arkhein trading House Key
 
 '--------------> Comercio de Arkhein <--------------
 [OBJ3233]
-Name=Puerta abierta  Comercio de Arkhein
+Name=Puerta abierta Comercio de Arkhein
 GrhIndex=60029
 ObjType=6
 Cerrada=0
@@ -44155,10 +44155,10 @@ Agarrable=1
 IndexAbierta=3233
 IndexCerrada=3234
 IndexCerradaLlave=3235
-Texto=Puerta abierta  Comercio de Arkhein
+Texto=Puerta abierta Comercio de Arkhein
 en_name=Arkhein Trade Open Door
 en_texto=This honorable house belongs to
-ExtraStr=Puerta abierta  Comercio de Arkhein
+ExtraStr=Puerta abierta Comercio de Arkhein
 
 [OBJ3234]
 Name=Puerta cerrada marron comercio de Arkhein
@@ -44681,7 +44681,7 @@ en_Name=Voodoo Lechuck Doll
 
 '--------------> Comercio de Arkhein <--------------
 [OBJ3269]
-Name=Puerta abierta  Comercio de Arkhein
+Name=Puerta abierta Comercio de Arkhein
 GrhIndex=5283
 ObjType=6
 Cerrada=0
@@ -44691,10 +44691,10 @@ Agarrable=1
 IndexAbierta=3269
 IndexCerrada=3270
 IndexCerradaLlave=3271
-Texto=Puerta abierta  Comercio de Arkhein
+Texto=Puerta abierta Comercio de Arkhein
 en_name=Arkhein Trade Open Door
 en_texto=This honorable house belongs to
-ExtraStr=Puerta abierta  Comercio de Arkhein
+ExtraStr=Puerta abierta Comercio de Arkhein
 
 [OBJ3270]
 Name=Puerta cerrada marron comercio de Arkhein
@@ -47718,7 +47718,7 @@ CP12=MAGO
 Objtype=24
 Texto=Aliento del dragon (Area)(NPCS)
 Nowiki=1
-en_name=Dragon  (Area)(NPCS)
+en_name=Dragon (Area)(NPCS)
 
 [OBJ3470]
 Name=Incinerar (Area)(NPCS)
@@ -49970,12 +49970,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3609]
 Name=Llave Cabaña Vikinga casa Nro 02
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 2
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 2
 GrhIndex=509
 ObjType=9
 Clave=278
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 2
+Texto=Llave Cabaña Vikinga de la casa Nro 2
 NFT=0
 
 [OBJ3610]
@@ -50025,12 +50025,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3613]
 Name=Llave Cabaña Vikinga casa Nro 03
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 3
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 3
 GrhIndex=509
 ObjType=9
 Clave=279
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 3
+Texto=Llave Cabaña Vikinga de la casa Nro 3
 NFT=0
 
 [OBJ3614]
@@ -50080,12 +50080,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3617]
 Name=Llave Cabaña Vikinga casa Nro 04
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 4
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 4
 GrhIndex=509
 ObjType=9
 Clave=280
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 4
+Texto=Llave Cabaña Vikinga de la casa Nro 4
 NFT=0
 
 [OBJ3618]
@@ -50135,12 +50135,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3621]
 Name=Llave Cabaña Vikinga casa Nro 05
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 5
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 5
 GrhIndex=509
 ObjType=9
 Clave=281
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 5
+Texto=Llave Cabaña Vikinga de la casa Nro 5
 NFT=0
 
 [OBJ3622]
@@ -50190,12 +50190,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3625]
 Name=Llave Cabaña Vikinga casa Nro 06
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 6
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 6
 GrhIndex=509
 ObjType=9
 Clave=282
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 6
+Texto=Llave Cabaña Vikinga de la casa Nro 6
 NFT=0
 
 [OBJ3626]
@@ -50245,12 +50245,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3629]
 Name=Llave Cabaña Vikinga casa Nro 07
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 7
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 7
 GrhIndex=509
 ObjType=9
 Clave=283
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 7
+Texto=Llave Cabaña Vikinga de la casa Nro 7
 NFT=0
 
 [OBJ3630]
@@ -50300,12 +50300,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3633]
 Name=Llave Cabaña Vikinga casa Nro 08
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 8
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 8
 GrhIndex=509
 ObjType=9
 Clave=284
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 8
+Texto=Llave Cabaña Vikinga de la casa Nro 8
 NFT=0
 
 [OBJ3634]
@@ -50355,12 +50355,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3637]
 Name=Llave Cabaña Vikinga casa Nro 09
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 9
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 9
 GrhIndex=509
 ObjType=9
 Clave=285
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 9
+Texto=Llave Cabaña Vikinga de la casa Nro 9
 NFT=0
 
 [OBJ3638]
@@ -50465,12 +50465,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3645]
 Name=Llave Cabaña Vikinga casa Nro 11
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 11
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 11
 GrhIndex=509
 ObjType=9
 Clave=287
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 11
+Texto=Llave Cabaña Vikinga de la casa Nro 11
 NFT=0
 
 [OBJ3646]
@@ -50520,12 +50520,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3649]
 Name=Llave Cabaña Vikinga casa Nro 12
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 12
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 12
 GrhIndex=509
 ObjType=9
 Clave=288
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 12
+Texto=Llave Cabaña Vikinga de la casa Nro 12
 NFT=0
 
 [OBJ3650]
@@ -50575,12 +50575,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3653]
 Name=Llave Cabaña Vikinga casa Nro 13
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 13
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 13
 GrhIndex=509
 ObjType=9
 Clave=289
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 13
+Texto=Llave Cabaña Vikinga de la casa Nro 13
 NFT=0
 
 [OBJ3654]
@@ -50630,12 +50630,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3657]
 Name=Llave Cabaña Vikinga casa Nro 14
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 14
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 14
 GrhIndex=509
 ObjType=9
 Clave=290
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 14
+Texto=Llave Cabaña Vikinga de la casa Nro 14
 NFT=0
 
 [OBJ3658]
@@ -50685,12 +50685,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3661]
 Name=Llave Cabaña Vikinga casa Nro 15
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 15
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 15
 GrhIndex=509
 ObjType=9
 Clave=291
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 15
+Texto=Llave Cabaña Vikinga de la casa Nro 15
 NFT=0
 
 [OBJ3662]
@@ -50740,12 +50740,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3665]
 Name=Llave Cabaña Vikinga casa Nro 16
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 16
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 16
 GrhIndex=509
 ObjType=9
 Clave=292
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 16
+Texto=Llave Cabaña Vikinga de la casa Nro 16
 NFT=0
 
 [OBJ3666]
@@ -50795,12 +50795,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3669]
 Name=Llave Cabaña Vikinga casa Nro 17
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 17
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 17
 GrhIndex=509
 ObjType=9
 Clave=293
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 17
+Texto=Llave Cabaña Vikinga de la casa Nro 17
 NFT=0
 
 [OBJ3670]
@@ -50850,12 +50850,12 @@ ExtraStr=Esta honorable casa pertenece a
 
 [OBJ3673]
 Name=Llave Cabaña Vikinga casa Nro 18
-ExtraStr=Llave Cabaña Vikinga  de la casa Nro 18
+ExtraStr=Llave Cabaña Vikinga de la casa Nro 18
 GrhIndex=509
 ObjType=9
 Clave=294
 Valor=
-Texto=Llave Cabaña Vikinga  de la casa Nro 18
+Texto=Llave Cabaña Vikinga de la casa Nro 18
 NFT=0
 
 [OBJ3674]
@@ -51091,7 +51091,7 @@ MinHAM=15
 Valor=0
 Newbie=1
 Crucial=0 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
-Texto=Restaura  15 puntos de hambre
+Texto=Restaura 15 puntos de hambre
 en_name=Red Apple (P)
 en_texto=Restores 15 hunger points
 
@@ -53795,7 +53795,7 @@ en_Name=open sewer door
 ExtraStr=Name=Casa Elfica Nro 2 Puerta Abierta.
 
 [OBJ3860]
-Name=Casa Elfica Nro 2  Puerta Cerrada.
+Name=Casa Elfica Nro 2 Puerta Cerrada.
 GrhIndex=31050
 ObjType=6
 Subtipo=4
@@ -53856,7 +53856,7 @@ en_Name=open sewer door
 ExtraStr=Name=Casa Elfica Nro 3 Puerta Abierta.
 
 [OBJ3864]
-Name=Casa Elfica Nro 3  Puerta Cerrada.
+Name=Casa Elfica Nro 3 Puerta Cerrada.
 GrhIndex=31050
 ObjType=6
 Subtipo=4
@@ -53917,7 +53917,7 @@ en_Name=open sewer door
 ExtraStr=Name=Casa Elfica Nro 4 Puerta Abierta.
 
 [OBJ3868]
-Name=Casa Elfica Nro 4  Puerta Cerrada.
+Name=Casa Elfica Nro 4 Puerta Cerrada.
 GrhIndex=31050
 ObjType=6
 Subtipo=4
@@ -54100,7 +54100,7 @@ en_Name=open sewer door
 ExtraStr=Name=Casa Elfica Nro 7 Puerta Abierta.
 
 [OBJ3880]
-Name=Casa Elfica Nro 7  Puerta Cerrada.
+Name=Casa Elfica Nro 7 Puerta Cerrada.
 GrhIndex=31050
 ObjType=6
 Subtipo=4
@@ -54273,7 +54273,7 @@ Texto=Cabaña Puerta Cerrada. de la casa Nro 5
 ExtraStr=Cabaña Puerta Cerrada. de la casa Nro 5
 
 [OBJ3892]
-Name=Cabaña Puerta con Llave  de la casa Nro 5
+Name=Cabaña Puerta con Llave de la casa Nro 5
 GrhIndex=27090
 ObjType=6
 Subtipo=4
@@ -54284,8 +54284,8 @@ Agarrable=1
 IndexAbierta=3778
 IndexCerrada=3891
 IndexCerradaLlave=3892
-Texto=Cabaña Puerta con Llave  de la casa Nro 5
-ExtraStr=Cabaña Puerta con Llave  de la casa Nro 5
+Texto=Cabaña Puerta con Llave de la casa Nro 5
+ExtraStr=Cabaña Puerta con Llave de la casa Nro 5
 
 [OBJ3893]
 Name=Llave casa Nro 5
@@ -54426,7 +54426,7 @@ en_Name=open sewer door
 ExtraStr=Name=Casa Nix Nro 25 Puerta Abierta.
 
 [OBJ3901]
-Name=Casa Nix Nro  Puerta Cerrada.
+Name=Casa Nix Nro Puerta Cerrada.
 GrhIndex=49580
 ObjType=6
 Subtipo=0
@@ -71943,77 +71943,3 @@ Subtipo=1
 NoSeCae=1
 Crucial=1 'Solo dejar en 1 si el ítem lo vende un comerciante, sino se bugea
 Texto=Casco de Dragón Negro
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
