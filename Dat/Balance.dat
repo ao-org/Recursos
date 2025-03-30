@@ -7,27 +7,27 @@ HumanoConstitucion=+2
 ElfoFuerza=0
 ElfoAgilidad=+2
 ElfoInteligencia=+2
-ElfoCarisma=+2
+ElfoCarisma=+1
 ElfoConstitucion=+1
 ElfoOscuroFuerza=+2
 ElfoOscuroAgilidad=+1
 ElfoOscuroInteligencia=+1
-ElfoOscuroCarisma=-3
+ElfoOscuroCarisma=-1
 ElfoOscuroConstitucion=+1
 EnanoFuerza=+3
 EnanoAgilidad=0
 EnanoInteligencia=-3
-EnanoCarisma=-2
+EnanoCarisma=-1
 EnanoConstitucion=+3
 GnomoFuerza=-2
 GnomoAgilidad=+3
 GnomoInteligencia=+4
-GnomoCarisma=+3
+GnomoCarisma=+2
 GnomoConstitucion=0
-OrcoFuerza=+4
-OrcoAgilidad=-1
-OrcoInteligencia=-1
-OrcoCarisma=-3
+OrcoFuerza=+3
+OrcoAgilidad=+1
+OrcoInteligencia=-2
+OrcoCarisma=-1
 OrcoConstitucion=+2
 
 [MODRAZAENGLISH]
@@ -37,39 +37,67 @@ HumanInteligencia=0
 HumanCarisma=0
 HumanConstitucion=+2
 ElfFuerza=0
-ElfAgilidad=+3
+ElfAgilidad=+2
 ElfInteligencia=+2
-ElfCarisma=+2
+ElfCarisma=+1
 ElfConstitucion=+1
 DrowFuerza=+2
 DrowAgilidad=+1
 DrowInteligencia=+1
-DrowCarisma=-3
+DrowCarisma=-1
 DrowConstitucion=+1
 DwarfFuerza=+3
 DwarfAgilidad=0
 DwarfInteligencia=-3
-DwarfCarisma=-2
+DwarfCarisma=-1
 DwarfConstitucion=+3
 GnomeFuerza=-2
 GnomeAgilidad=+3
 GnomeInteligencia=+4
-GnomeCarisma=+3
+GnomeCarisma=+2
 GnomeConstitucion=0
-OrcFuerza=+4
-OrcAgilidad=-1
+OrcFuerza=+3
+OrcAgilidad=+1
 OrcInteligencia=-2
-OrcCarisma=-3
+OrcCarisma=-1
 OrcConstitucion=+2
 
 [MODAPUNALAR]
 Guerrero=1.4
-Cazador=1
+Cazador=1.3
 Paladin=1.4
 Asesino=1.35
 Clerigo=1.25
 Bardo=1.25
-Mago=0.8
+Mago=0.1
+Druida=0.1
+Trabajador=1.1
+Ladron=1.2
+Bandido=1.4
+Pirata=1.2
+
+[MODAPUNALARNPCMIN]
+Guerrero=1.4
+Cazador=1.3
+Paladin=1.4
+Asesino=1.6
+Clerigo=1.25
+Bardo=1.25
+Mago=1.2
+Druida=1.2
+Trabajador=1.1
+Ladron=1.2
+Bandido=1.4
+Pirata=1.2
+
+[MODAPUNALARNPCMAX]
+Guerrero=1.4
+Cazador=1.3
+Paladin=1.4
+Asesino=1.9
+Clerigo=1.25
+Bardo=1.25
+Mago=1.2
 Druida=1.2
 Trabajador=1.1
 Ladron=1.2
@@ -85,8 +113,8 @@ Asesino=0.95
 Pirata=0.85
 Ladron=0.8
 Clerigo=0.8
-Bardo=1.25
-Mago=0.4
+Bardo=1.20
+Mago=0.2
 Druida=0.65
 Trabajador=0.6
 
@@ -109,7 +137,7 @@ Guerrero=1.1
 Cazador=0.8
 Paladin=0.95
 Bandido=1
-Asesino=0.9
+Asesino=0.95
 Pirata=0.85
 Ladron=0.8
 Clerigo=0.85
@@ -150,7 +178,7 @@ Trabajador=0.8
 Guerrero=1.05
 Cazador=0.85
 Paladin=0.95
-Bandido=0.95
+Bandido=0.9
 Asesino=0.9
 Pirata=0.85
 Ladron=0.8
@@ -162,7 +190,7 @@ Trabajador=0.8
 
 [MODDANOPROYECTILES]
 Guerrero=0.87
-Cazador=0.95
+Cazador=1
 Paladin=0.8
 Bandido=0.7
 Asesino=0.75
@@ -178,7 +206,7 @@ Trabajador=0.75
 Guerrero=0.4
 Cazador=0.4
 Paladin=0.4
-Bandido=1.05
+Bandido=0.95
 Asesino=0.4
 Pirata=0.8
 Ladron=1
@@ -192,7 +220,7 @@ Trabajador=0.4
 Guerrero=1
 Cazador=0.75
 Paladin=0.9
-Bandido=1.6
+Bandido=1.3
 Asesino=0.85
 Pirata=0.75
 Ladron=0.75
@@ -295,14 +323,22 @@ PorcentajeRecuperoMana=7
 DificultadSubirSkill=2
 'RequiredSpellDisplayTime=375
 MaxInvisibleSpellDisplayTime=350
-############################################################
-# Vida que tira alrededor del promedio (redondeado)
-RangoVidas=0
-# Valores entre 0-1 (0: no balancear vidas, 1: full balance)
-DesbalancePromedioVidas=0
-# Valores entre 0-1 (0: muy aleatorio, 1: poco aleatorio)
+' Vidas variables de personajes con límite positivo y negativo
+' de vida adicional respecto al promedio - Shugar 22/7/2024
+CapVidaMax=10
+CapVidaMin=-10
+' RangoVidas: Vidas posibles alrededor del promedio
+' Si RangoVidas=0 son vidas fijas, si RangoVidas=2 son vidas variables clásicas de AO
+RangoVidas=2
+' InfluenciaPromedioVidas: valores entre 0 y 1 (0: muy aleatorio, 1: poco aleatorio)
+' Porcentaje en que aplica la vida promedio típica del personaje al aumento de vida
+' Si es 0, el promedio típico del personaje no afecta en nada y la vida es full random
 InfluenciaPromedioVidas=0
-############################################################
+' DesbalancePromedioVidas: valores entre 0 y 1 (0: no aplica, 1: aplica mucho)
+' Si está en 0, no tiene en cuenta cómo viene el pj y siempre mira la vida promedio para la influencia
+' Si es mayor a 0 y el pj viene por encima del promedio, la nueva vida tiende a bajar en la influencia
+' Si es mayor a 0 y el pj viene por debajo del promedio, la neuva vida tiende a subir en la influencia
+DesbalancePromedioVidas=0
 MultiShotReduction=0.7
 HomeTimer=105
 MagicSkillBonusDamageModifier=0
@@ -313,57 +349,69 @@ AssistHelpValidTime=8000
 HideAfterHitTime=500
 FactionReKillTime=600000
 AirHitReductParalisisTime=1
+' Porcentaje de reducción a la pesca en zona segura respecto a insegura:
+' Si está en 100 pesca igual que en insegura
+' Si está en 0 pesca lo mínimo
+PorcentajePescaSegura=0
 
 [STUN]
 PlayerStunTime=1200
 NpcStunTime=10000
 PlayerInmuneTime=1000
 
+' Experiencia por rango de niveles - Shugar 22/7/2024
+' De un nivel a otro hay 30% más de exp
+' salvo en los cambios de rango que hay 50% más de exp
+' Rango 1: 1 a 12
+' Rango 2: 13 a 24
+' Rango 3: 25 a 32
+' Rango 4: 33 a 39
+' Rango 5: 40 a 47
 [EXP]
-1=300
-2=450
-3=675
-4=1013
-5=1519
-6=2278
-7=3417
-8=5126
-9=7689
-10=11533 
-11=14993
-12=19491
-13=25338
-14=32939 
-15=42821
-16=55668
-17=72368
-18=94078 
-19=122302 
-20=158992 
-21=206690 
-22=268697 
-23=376176 
-24=526646 
-25=737305 
-26=884765 
-27=1061719 
-28=1274062
-29=1528875 
-30=1834650 
-31=2201580 
-32=2641896 
-33=3170275
-34=3804330 
-35=4565196 
-36=6091279 
-37=7871705 
-38=10008216 
-39=14637325 
-40=20830987
-41=31246480 
-42=46869720 
-43=69554580 
-44=104706870 
-45=157435305 
-46=236527957
+1=500
+2=750
+3=1125
+4=1687
+5=2531
+6=3796
+7=5695
+8=8542
+9=12814
+10=19221
+11=28832
+12=43248
+13=71360
+14=99904
+15=139866
+16=195813
+17=274138
+18=383793
+19=537311
+20=752235
+21=1053130
+22=1474382
+23=2064135
+24=2889789
+25=4450275
+26=5562844
+27=6953555
+28=8691944
+29=10864930
+30=13581163
+31=16976454
+32=21220567
+33=29178280
+34=35743394
+35=43785657
+36=53637430
+37=65705852
+38=80489669
+39=98599845
+40=132863291
+41=159435949
+42=191323139
+43=229587767
+44=275505320
+45=330606385
+46=396727662
 47=
