@@ -109,11 +109,36 @@ Call RS.Close
 
 ## 9. Localized messages
 
-* Use `WriteLocaleMsg` or `JsonLanguage.Item("KEY")`.
+### 🖥️ Server-side
+
+On the server, we use **message IDs** to send localized messages to clients.
+
+* The client reads and resolves these IDs using the message index file located in the [`argentum-online-creador-indices`](https://github.com/ao-org/argentum-online-creador-indices) repository, which is part of the assets system.
+
+Example:
 
 ```vb
 Call WriteLocaleMsg(UserIndex, "1291", FONTTYPE_INFOBOLD, GOLD_PRICE)
 ```
+
+* `"1291"` refers to a message template (e.g., "You need at least ¬1 gold to sell your character"), and `GOLD_PRICE` is used as a dynamic parameter (replacing ¬1).
+
+---
+
+### 🧑‍💻 Client-side (`JsonLanguage`)
+
+For messages handled purely on the **client side**, we use **JSON files for translation**, located in the [`Languages`](https://github.com/ao-org/argentum-online-client/tree/master/Languages) folder of the client repository:
+
+* [Languages/1.json (Spanish)](https://github.com/ao-org/argentum-online-client/blob/master/Languages/1.json)
+* [Languages/2.json (English)](https://github.com/ao-org/argentum-online-client/blob/master/Languages/2.json)
+
+Example:
+
+```vb
+Call MsgBox(JsonLanguage.Item("MENSAJE_ERROR_CARGAR_OPCIONES"), vbCritical, JsonLanguage.Item("TITULO_ERROR_CARGAR"))
+```
+
+This allows full client-side UI translation and supports switching languages at runtime by loading the appropriate JSON file.
 
 ## 10. Clear control flow
 
@@ -132,15 +157,7 @@ End If
 * Prefer `Function` for validations or transformations.
 * Avoid modifying global variables unnecessarily.
 
-## 12. Separation of business, network and UI logic
-
-* Separate concerns:
-
-  * Network logic (`modNetwork`)
-  * Business rules (`modUsuario`, `modTienda`)
-  * UI/output (`WriteConsoleMsg`, `WriteLocaleMsg`)
-
-## 13. Explicit identifiers
+## 12. Explicit identifiers
 
 * Use clear, specific names.
 * Avoid generic names like `dato`, `res`, `temp`.
