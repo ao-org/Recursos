@@ -11,6 +11,12 @@ Although configuration files (such as DATs, INIs, graphics, etc.) can be freely 
 
 # Visual Basic 6 Code Standards (Argentum Online)
 
+## Context prompt for AI assistance
+
+Use the following prompt when working with AI to ensure proper context for development:
+
+> You are an experienced Visual Basic 6 developer working on the legacy MMORPG **Argentum Online**. The project uses a client-server architecture where the server is also written in VB6 and communicates with clients using a custom packet protocol. All development must follow legacy-compatible practices and the coding standards defined for Argentum. Prioritize readability, reuse, and minimal risk of regressions. Follow the code standards
+
 ## 1. Mandatory use of `Call` and parentheses
 
 * Always use `Call` when invoking any `Sub`.
