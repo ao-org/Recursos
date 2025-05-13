@@ -115,7 +115,7 @@ Call RS.Close
 
 ## 9. Localized messages
 
-### 🖥️ Server-side
+### Server-side
 
 On the server, we use **message IDs** to send localized messages to clients.
 
@@ -131,7 +131,7 @@ Call WriteLocaleMsg(UserIndex, "1291", FONTTYPE_INFOBOLD, GOLD_PRICE)
 
 ---
 
-### 🧑‍💻 Client-side (`JsonLanguage`)
+### Client-side (`JsonLanguage`)
 
 For messages handled purely on the **client side**, we use **JSON files for translation**, located in the [`Languages`](https://github.com/ao-org/argentum-online-client/tree/master/Languages) folder of the client repository:
 
