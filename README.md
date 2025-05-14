@@ -50,7 +50,7 @@ puntos = CalcularPuntos(usuarioId)
 | Forms          | `frm` prefix            | `frmMain`, `frmLogin`     |
 | Controls       | Hungarian notation      | `txtNombre`, `lblError`   |
 | Variables      | `camelCase`             | `userIndex`, `goldAmount` |
-| Constants      | `PascalCase` or `UPPER` | `MaxItems`, `GOLD_PRICE`  |
+| Constants      | `UPPER`                 | `GOLD_PRICE`              |
 | Functions/Subs | `PascalCase`            | `Call ValidarUsuario()`   |
 | Enums          | `e_` prefix             | `e_TipoPago`              |
 
