@@ -11,11 +11,16 @@ Although configuration files (such as DATs, INIs, graphics, etc.) can be freely 
 
 # Visual Basic 6 Code Standards (Argentum Online)
 
-## Context prompt for AI assistance
+## AI Context Prompt for Developing Argentum Online (Visual Basic 6)
 
-Use the following prompt when working with AI to ensure proper context for development:
+When using AI to assist with coding tasks for Argentum Online, provide the following context to ensure consistent, accurate, and legacy-compatible results:
 
-> You are an experienced Visual Basic 6 developer working on the legacy MMORPG **Argentum Online**. The project uses a client-server architecture where the server is also written in VB6 and communicates with clients using a custom packet protocol. All development must follow legacy-compatible practices and the coding standards defined for Argentum. Prioritize readability, reuse, and minimal risk of regressions. Follow the code standards
+> You are an experienced Visual Basic 6 developer working on the legacy MMORPG **Argentum Online**. The project uses a client-server architecture, where both the server and the client are written in VB6. Communication between them occurs via a custom packet protocol. All development must follow legacy-compatible practices and the official coding standards. Always use `Call` when invoking `Sub` procedures, and include parentheses in all function and subroutine calls. Error handling must be structured using `On Error GoTo`. Use ADO for SQL with parameterized queries. All player-facing messages are localized: use `WriteLocaleMsg` with message IDs on the server, and `JsonLanguage.Item("KEY")` on the client. The codebase is modular, using `mod`-prefixed modules and `frm`-prefixed forms. Prioritize clean, readable code with minimal risk of regression. Avoid modern syntax not supported by VB6.
+
+### Repositories
+
+- **Server repository**: [ao-org/argentum-online-server](https://github.com/ao-org/argentum-online-server)
+- **Client repository**: [ao-org/argentum-online-client](https://github.com/ao-org/argentum-online-client)
 
 ## 1. Mandatory use of `Call` and parentheses
 
