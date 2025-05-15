@@ -95,12 +95,15 @@ ValidarSesion_Err:
 End Sub
 ```
 
-## 7. Modularization and reusability
+## 7. Explicit identifiers
 
-* Group functionality into themed modules:
+* Use clear, specific names.
+* Avoid generic names like `dato`, `res`, `temp`.
 
-  * `modUser`, `modNetwork`, `modCombat`
-* Convert repeated logic into reusable `Function` or `Sub`.
+```vb
+Dim creditAmount As Long
+Dim connectionId As Integer
+```
 
 ## 8. SQL queries
 
@@ -178,12 +181,3 @@ End If
 * Prefer `Function` for validations or transformations.
 * Avoid modifying global variables unnecessarily.
 
-## 12. Explicit identifiers
-
-* Use clear, specific names.
-* Avoid generic names like `dato`, `res`, `temp`.
-
-```vb
-Dim creditAmount As Long
-Dim connectionId As Integer
-```
