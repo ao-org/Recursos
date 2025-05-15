@@ -120,21 +120,31 @@ Call RS.Close
 
 ## 9. Localized messages
 
-### Server-side
+### Server-Side Localised Messaging
 
-On the server, we use **message IDs** to send localized messages to clients.
+On the server, we use **message IDs** to send localised messages to clients. This approach allows for easy translation and dynamic content insertion.
 
-* The client reads and resolves these IDs using the message index file located in the [`argentum-online-creador-indices`](https://github.com/ao-org/argentum-online-creador-indices) repository, which is part of the assets system.
+#### How It Works
 
-Example:
+1. The server sends a message by referencing a **message ID**.
+2. The client resolves that ID using a message index file provided in the [`argentum-online-creador-indices`](https://github.com/ao-org/argentum-online-creador-indices) repository.
+3. These message definitions are part of the assets system.
+
+#### 💬 Example
 
 ```vb
 Call WriteLocaleMsg(UserIndex, "1291", FONTTYPE_INFOBOLD, GOLD_PRICE)
 ```
 
-* `"1291"` refers to a message template (e.g., "You need at least ¬1 gold to sell your character"), and `GOLD_PRICE` is used as a dynamic parameter (replacing ¬1).
+- `"1291"` refers to a message like:  
+  `"You need at least ¬1 gold to sell your character"`
+- `GOLD_PRICE` dynamically replaces `¬1` in the final message shown to the user.
 
----
+#### Message Files
+
+- [Spanish messages – `SP_LocalMsg.dat`](https://github.com/ao-org/Recursos/blob/master/init/SP_LocalMsg.dat)
+- [English messages – `EN_LocalMsg.dat`](https://github.com/ao-org/Recursos/blob/master/init/EN_LocalMsg.dat)
+
 
 ### Client-side (`JsonLanguage`)
 
