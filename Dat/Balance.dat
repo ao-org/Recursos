@@ -320,6 +320,11 @@ Dagger=20
 [EXTRA]
 ModDañoGolpeCritico=0.33
 PorcentajeRecuperoMana=7
+RecoveryMana=50
+MultiplierManaxSkills=0.5
+ManaCommonLute=5
+ManaMagicLute=10
+ManaElvenLute=15
 DificultadSubirSkill=2
 'RequiredSpellDisplayTime=375
 MaxInvisibleSpellDisplayTime=350
