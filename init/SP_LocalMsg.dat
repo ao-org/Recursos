@@ -1,5 +1,5 @@
 [INIT]
-NumLocaleSP_Msg=2080
+NumLocaleSP_Msg=2081
 
 [SP_MSG]
 Msg1=[¬1] ha sido expulsado del clan ya que modificó su alineamiento.
@@ -463,7 +463,7 @@ Msg459=El equipo ¬1 logro asegurar toda la carga y gano la partida.
 Msg460=El equipo 1 termino con ¬1 barriles asegurados y el equipo 2 termino con ¬2 barriles asegurados.
 Msg461=El equipo ¬1 es el ganador!!!!
 Msg462=La partida termino en empate!!!
-Msg463=¬1 creo un ¬2, para ingresar escribe /PARTICIPAR. En este evento, las pociones aparecen de manera aleatoria en el piso, si al momento de enviar /PARTICIPAR dispones de pociones en tu inventario, las mismas se ocultarán hasta que termine el evento.
+Msg463=¬1 creo un ¬2, el nivel minimo para ingresar es: ¬3 y el máximo es: ¬4. Para ingresar escribe /PARTICIPAR. En este evento, las pociones aparecen de manera aleatoria en el piso, si al momento de enviar /PARTICIPAR dispones de pociones en tu inventario, las mismas se ocultarán hasta que termine el evento.
 Msg464=Recorda que no podes tener pociones rojas o azules para ingresar, estas aparecen automaticamente durante la partida.
 Msg465=Usa un garrote para matar serpientes, al final del tiempo quien haya sumado mas puntos gana la partida, debes tener un garrote en el inventario para poder participar.
 Msg466=Asalta el barco enemigo y roba su carga para ganar esta batalla!.
@@ -2021,3 +2021,5 @@ Msg2076=Has desactivado el seguro de Facción Legionaria, ahora puedes atacar a 
 Msg2077=Has activado el seguro de Facción Legionaria.
 Msg2078=Nivel de Jinete: ¬1.
 Msg2079=No puedes consumir un Nivel de Jinete menor al que poseés actualmente.
+Msg2080=¡La Runa que intentas usar es inválida! por favor, comunícate con un Administrador.
+Msg2081=No puedes usar la Runa estando dentro del Mesón.

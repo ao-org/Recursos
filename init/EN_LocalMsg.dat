@@ -1,5 +1,5 @@
 [INIT]
-NumLocaleEN_Msg=2080
+NumLocaleEN_Msg=2081
 
 [EN_MSG]
 Msg1=[¬1] has been kicked out of the clan because they changed their alignment.
@@ -2021,3 +2021,5 @@ Msg2076=You have disabled the Legionary Faction insurance, you can now attack a 
 Msg2077=You have activated the Legionary Faction insurance.
 Msg2078=Rider Level: ¬1.
 Msg2079=You cannot consume a Rider Level lower than the one you currently possess.
+Msg2080=The Rune you are trying to use is invalid! Please contact an Administrator.
+Msg2081=You cannot use the Rune while inside the Inn.
