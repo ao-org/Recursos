@@ -171,26 +171,31 @@ Call RS.Close
 ```
 
 ## 9. Localized messages
+Server-Side Localised Messaging
+On the server, we use message IDs to send localised messages to clients. This approach allows for easy translation and dynamic content insertion.
 
-### Server-Side Localised Messaging
+How It Works
+The server sends a message by referencing a message ID.
 
-On the server, we use **message IDs** to send localised messages to clients. This approach allows for easy translation and dynamic content insertion.
+The client resolves that ID using a message index file.
 
-#### How It Works
+These message definitions are part of the assets system.
 
-1. The server sends a message by referencing a **message ID**.
-2. The client resolves that ID using a message index file provided in the [`argentum-online-creador-indices`](https://github.com/ao-org/argentum-online-creador-indices) repository.
-3. These message definitions are part of the assets system.
+⚙️ Generating the Message Index
+To update or generate the message index files, navigate to the /tools/ directory and use one of the following methods:
 
-#### 💬 Example
+If you have Python installed: Run the script: python generar_localindex.py
 
-```vb
+If you don't have Python: Run the standalone executable: generar_localindex.exe
+
+💬 Example
+VB.Net
 Call WriteLocaleMsg(UserIndex, "1291", FONTTYPE_INFOBOLD, GOLD_PRICE)
-```
+"1291" refers to a message like:
 
-- `"1291"` refers to a message like:  
-  `"You need at least ¬1 gold to sell your character"`
-- `GOLD_PRICE` dynamically replaces `¬1` in the final message shown to the user.
+"You need at least ¬1 gold to sell your character"
+
+GOLD_PRICE dynamically replaces ¬1 in the final message shown to the user.
 
 #### Message Files
 
