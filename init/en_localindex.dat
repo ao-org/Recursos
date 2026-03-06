@@ -1202,6 +1202,7 @@ MSG2078=
 MSG2079=
 MSG208=There must be no more or less than three logs to make a campfire.
 MSG2080=
+MSG2083=You can only immobilize users with the net.
 MSG209=¬1 tried to steal from you!
 MSG21=Not available while riding
 MSG210=You have stabbed ¬1 for ¬2!
@@ -6836,7 +6837,7 @@ TARGETMSG=
 
 [INIT]
 NUMEROHECHIZO=339
-NUMLOCALEMSG=2080
+NUMLOCALEMSG=2083
 NUMMAPAS=750
 NUMNPCS=1459
 NUMOBJS=5067

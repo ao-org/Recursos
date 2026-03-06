@@ -4746,7 +4746,7 @@ TARGETMSG=
 
 [INIT]
 NUMEROHECHIZO=339
-NUMLOCALEMSG=2080
+NUMLOCALEMSG=2083
 NUMMAPAS=750
 NUMNPCS=1459
 NUMOBJS=5067
@@ -47119,6 +47119,7 @@ MSG2078=
 MSG2079=
 MSG208=Debe haber no más ni menos de tres troncos para hacer una fogata.
 MSG2080=
+MSG2083=Solo puedes inmovilizar usuarios con la red.
 MSG209=¡¬1 ha intentado robarte!
 MSG21=No disponible cabalgando
 MSG210=¡Has apuñalado a ¬1 por ¬2!
