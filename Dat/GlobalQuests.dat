@@ -1,0 +1,29 @@
+'GatheringInstallment defines how many global points are needed to surpass to spawn the boss, it should always be less than GatheringThreshold and a multiple of it
+
+'GlobalQuestGatheringIndex=1 in quests.dat is an INDEX that informs the server that any item amount gathered for THAT quest will contribute to THAT global quest point acumulator. for more info check quest 293
+
+'IsSeasonalEventBoss=1 in npcs.dat is an INDEX that informs the server that this boss corresponds to the INDEX 1 in globalquests.dat
+
+'FinishOnThresholdReach=1 means that the event abruptly ends when the threshold is reached, while 0 means that the event continues until the EndDate even if the threshold has been reached
+
+GlobalQuestGatheringThresholdNeeded=100 in quests.dat is the AMOUNT of items needed to be gathered for THAT quest to be reedemed, if the threshold of the GlobalQuestGatheringIndex hasn't been reached, then the player won't be able to redeem the quest. (GlobalQuestGatheringIndex should point to the globalquest you want to link it to)
+
+'For more info https://github.com/ao-org/argentum-online-server/pull/1134
+
+[INIT]
+NumGlobalQuest=1
+
+[GlobalQuest1]
+Name=Rescatando la Navidad
+GatheringThreshold=500000
+GatheringInitialInstallments=2500
+BossSpawnMap=1
+BossSpawnPositionBottomRightX=55
+BossSpawnPositionBottomRightY=55
+BossSpawnPositionTopLeftX=45
+BossSpawnPositionTopLeftY=45
+BossIndex=1600
+FinishOnThresholdReach=0
+StartDate=2025-12-23 21:00:00
+EndDate=2026-01-01 21:00:00
+ObjectIndex=6233
