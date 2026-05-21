@@ -53,12 +53,11 @@ def main():
         "NPC": [
             "Name", "Desc",  "Body", "BodyIdle", "Ataque1","BodyOnLand","BodyOnWater","BodyOnWaterIdle","Ataque2", "Head","DescClose",
             "EXP", "GiveEXPClan", "ORO", "HP", "MaxHIT", "MinHIT","IsGlobalQuestBoss",
-            "NoMapInfo", "NumQuiza", "PuedeInvocar",
-            "QuizaDropea1", "QuizaDropea2", "QuizaDropea3", "QuizaDropea4", "QuizaDropea5",
-            "QuizaDropea6", "QuizaDropea7", "QuizaDropea8", "QuizaDropea9",
-            "QuizaDropea10", "QuizaDropea11", "QuizaDropea12", "QuizaDropea13",
-            "QuizaDropea14", "QuizaDropea15", "QuizaDropea16",
-            "QuizaProb", "NROITEMS", "Obj1", "Obj2", "Obj3", "NpcType", "Comercia","Nivel"
+            "NoMapInfo", "PuedeInvocar",
+            "DropCount",
+            "Drop1","Drop2","Drop3","Drop4","Drop5","Drop6","Drop7","Drop8","Drop9","Drop10",
+            "Drop11","Drop12",
+            "NROITEMS", "Obj1", "Obj2", "Obj3", "NpcType", "Comercia","Nivel","DisabledInBattleServer"
         ],
         "OBJ": [
             "Name", "GrhIndex", "ObjType", "Agarrable", "Texto", "Llave", "Valor", "MaxDef", "MinDef", "MinHit", "MaxHit","MaxArmorPenetrationFlat","MinArmorPenetrationFlat","ExtraCritAndStabChance",
@@ -69,11 +68,11 @@ def main():
             "PielTigreBengala", "Proyectil", "Raices", "SemillasPros", "SKHerreria",
             "SKPociones", "SKSastreria", "Tuna", "Blodium","ElementalTags","FireEssence","WaterEssence",
             "EarthEssence", "WindEssence","Cala","RequiereObjeto", "RopajeElfa", "RopajeElfaOscura", "RopajeElfo",
-            "RopajeElfoOscuro", "RopajeEnana", "RopajeEnano", "RopajeGnoma", "RopajeGnomo", "RopajeHumana", "RopajeHumano",        "RopajeOrca",
-            "RopajeOrco"
+            "RopajeElfoOscuro", "RopajeEnana", "RopajeEnano", "RopajeGnoma", "RopajeGnomo", "RopajeHumana", "RopajeHumano",
+            "RopajeOrca","RopajeOrco","MaxHitToNpc", "MinHitToNpc","Elfico","CollectibleCardImgPathing"
         ],
         "QUE": [
-            "Name", "Desc", "DescFinal", "NextQuest", "Nombre", "PosMap", "Repetible", "RequiredLevel"
+            "Name", "Desc", "DescFinal", "DescAudio", "DescFinalAudio", "NextQuest", "Nombre", "PosMap", "Repetible", "RequiredLevel","PermittedFaction"
         ],
         "HEC": [
             "Nombre", "Desc", "Texto", "GrhIndex", "ManaRequerido", "HechizoTipo", "MinSkill",
