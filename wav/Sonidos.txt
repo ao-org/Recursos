@@ -156,14 +156,15 @@
 156	risa malvada hombre
 157	gas
 158     meditacion
+159 	rayo mÃ¡gico (mejora del misil)
 161	campanadas
 162	apocalipsis
 168	sonido no muerto
 180	golpe y caida de agua
 191	lluvia
-192	lluvia
+192	lluvia termina
 193	mar
-194	lluvia
+194	lluvia comienza
 195	lluvia parando
 197	paso
 198	paso
@@ -241,6 +242,20 @@
 707	Nunca se sabe que peligros encontraras ahi afuera
 708	Perfecto has realizado un excelente trabajo
 709	Te gustaria probar tu valor
+920 	Spawn Kraken
+921 	Spawn Gigantor
+922 	Spawn Ent Elfico
+923 	Spawn Lothan
+924	InvocaciÃ³n elemental de agua
+925	InvocaciÃ³n elemental de fuego
+926	InvocaciÃ³n elemental de tierra
+927	InvocaciÃ³n elemental de viento
+928	InvocaciÃ³n esqueleto
+929	InvocaciÃ³n Verraco
+930	InvocaciÃ³n Lobo
+931	InvocaciÃ³n Zombie
+932	InvocaciÃ³n Momia
+933	InvocaciÃ³n PiraÃ±a
 1190	De la tristeza de tu ausencia a la alegria de tu llegada bienvenido
 1191	algo de enano no esta preparada para despertar sabiendo que este sera su ultimo dia
 1192	la esperanza es lo que nos hace mas fuertes bienvenido
@@ -290,5 +305,7 @@ lluviaoutst	lluvia afuera st ?
 2323    trex
 2525    velociraptor
 2626    hiena
+2627	hechizo aturdir
+2628	hechizo respandor igneo
 2541    pistolanueva
 1152    burbujas para alquimia

@@ -1,0 +1,1 @@
+Esta carpeta contiene todos los archivos WAV del juego convertidos a formato OGG
