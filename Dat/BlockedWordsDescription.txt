@@ -1,0 +1,9 @@
+moderador
+administrador
+admin
+gm
+game master
+consejero
+newbie
+moderator
+administrator

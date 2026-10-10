@@ -1,77 +1,101 @@
 [INIT]
-NumObjs=25
+NumObjs=33
 
-[Obj1]'Tela trabajada
+[Obj1] 'Tela
 Index=3578
 
-[Obj2]'Vestimenta Comun
-Index=32
+[Obj2] 'Armadura de Cuero
+Index=30
 
-[Obj3]'Vestimenta de Enano
-Index=240
+[Obj3] 'Armadura de Cuero Azul
+Index=998
 
-[Obj4]'Ropa de Clan
-Index=1975
+[Obj4] 'Tunica Roja
+Index=381
 
-[Obj5]'Ropa de BurguÃ©s Turquesa
-Index=2911
+[Obj5] 'Tunica Azul
+Index=238
 
-[Obj6]'Ropa Estuaria (M)
-Index=508
+[Obj6] 'Tunica Aguamarina
+Index=3505
 
-[Obj7]'TÃºnica de Mago
-Index=196
+[Obj7] 'Tunica de Mago
+Index=4343
 
-[Obj8]'TÃºnica Aventurera (Bajos)
-Index=1226
+[Obj8] 'Vestido de Condesa Negro
+Index=1985
 
-[Obj9]'TÃºnica Ocre
-Index=1955
+[Obj9] 'Tunica Negra
+Index=520
 
-[Obj10]'TÃºnica de Nigromante
+[Obj10] 'Vestido Indulgente
+Index=510
+
+[Obj11] 'Tunica de Nigromante
 Index=1089
 
-[Obj11]'TÃºnica Dorada de Gala (E/G)
-Index=2857
+[Obj12] 'Vestido de Novia
+Index=2936
 
-[Obj12]'Vestido Indulgente Rojo (H/E/EO-M)
+[Obj13] 'Tunica Ocre
+Index=1955
+
+[Obj14] 'Vestido Indulgente Rojo
 Index=2932
 
-[Obj13]'Manto de los Vientos
-Index=2916
+[Obj15] 'Atuendo de Erendil
+Index=2889
 
-[Obj14]'TÃºnica Natural Mujer
+[Obj16] 'Tunica Natural
 Index=1961
 
-[Obj15]'Sotana de Gran Hechicero (E/G)
-Index=2854
+[Obj17] 'Tunica de Druida
+Index=530
 
-[Obj16]'TÃºnica Legendaria
+[Obj18] 'Manto de los Vientos
+Index=2916
+
+[Obj19] 'Tunica Legendaria
 Index=519
 
-[Obj17]'TÃºnica Legendaria (E/G)
-Index=1957
+[Obj20] 'Sombrero de Iniciante
+Index=1239
 
-[Obj18]'Casco de Lobo
-Index=1778
-
-[Obj19]'Casco de Tigre
-Index=1758
-
-[Obj20]'Capucha de Elite
-Index=1769
-
-[Obj21]'Sombrero de Mago
+[Obj21] 'Sombrero de Aprendiz
 Index=992
 
-[Obj22]'Morral
-Index=3462
+[Obj22] 'Sombrero de Mago
+Index=993
 
-[Obj23]'Cuerdas
-Index=3822
-
-[Obj24]'Sombrero de Mago Superior
+[Obj23] 'Sombrero de Mago Superior
 Index=3990
 
-[Obj25]'Capucha de Elite
+[Obj24] 'Sombrero de Hechicero
+Index=4933
+
+[Obj25] 'Casco de Zorro
+Index=3596
+
+[Obj26] 'Cuerno de Alce
+Index=3983
+
+[Obj27] 'Casco de Lobo
+Index=3976
+
+[Obj28] 'Casco de Oso
+Index=1758
+
+[Obj29] 'Casco de Tigre
+Index=4934
+
+[Obj30] 'Capucha de Cuero
+Index=1774
+
+[Obj31] 'Capucha Reforzada
 Index=1769
+
+[Obj32] 'Casco de Ã‰lite
+Index=4935
+
+[Obj33] 'Sombrero Ideal
+Index=4936

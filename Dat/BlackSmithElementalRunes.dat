@@ -1,0 +1,14 @@
+[INIT]
+NumRunas=4
+
+[Runa1] 'runa de fuego
+Index=5170
+
+[Runa2] 'runa de agua
+Index=5171
+
+[Runa3] 'runa de tierra
+Index=5172
+
+[Runa4] 'runa de viento
+Index=5173

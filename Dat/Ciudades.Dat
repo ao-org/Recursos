@@ -147,6 +147,16 @@ X=48
 Y=62
 MAPA=517
 
+[IglesiaArmada]
+Mapa=319
+X=49
+Y=32
+
+[IglesiaLegion]
+Mapa=286
+X=39
+Y=28
+
 [NixDock]
 StartX=31
 StartY=46

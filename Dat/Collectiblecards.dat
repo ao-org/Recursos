@@ -1,0 +1,16 @@
+[INIT]
+Cardcount=1
+
+'Description is a string that provides a brief overview of the card's characteristics or abilities. It is meant to give players an idea of what the card does or represents in the game. In this case, the description states that it is a test card, which may indicate that it is a placeholder or a card used for testing purposes during development.
+
+'CardId [1,2,3,...] is a unique identifier assigned to each card in the game. It is used to differentiate between different cards and to reference them in the game's code or database. In this case, the CardID is set to 1, indicating that this is the first card in the collection.
+
+'Rarity [1,2,4,8,16] is a numerical value that indicates how rare or common a card is within the game. A lower number typically indicates a more common card, while a higher number indicates a rarer card. In this case, the Rarity is set to 1, suggesting that this card is very common. 
+
+'Tags [1,2,4,8,16,...] is a numerical value that can be used to categorize or classify cards based on certain attributes or characteristics. It can be used for sorting, filtering, or grouping cards in the game. In this case, the Tags value is set to 1, which may indicate that this card belongs to a specific category or group within the game. The specific meaning of the Tags value would depend on how the game developers have defined and implemented the tagging system.
+
+[Card1]
+Description=This is a test card.
+CardID=1
+Rarity=1
+Tags=1

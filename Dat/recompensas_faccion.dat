@@ -1,245 +1,88 @@
-'''
 ' Cada recompensa tiene dos propiedades
-'
-' - Rank: Numero del 1 al 255 (Acorde con los rangos de cada faccion)
-' - ObjId: El index del objeto definido en `obj.dat`
-'
-' Es posible dar mas de una recompensa por rango!
-'
-'
-' ======== TEMPLATE =========
-'
-'Recompensa<N>=<rango>-<objIndex>
-'
+' Rank: Numero del 1 al 255 (Acorde con los rangos de cada faccion)
+' ObjId: El index del objeto definido en `obj.dat`
+' Recompensa<N>=<rango>-<objIndex>
+' Â¡Es posible dar mas de una recompensa por rango!
 ' Ejemplo: Recompensa8=1-1507
-'''
+' Las recompensas siguen el siguiente orden de clases: 
+' MAGO / DRUIDA / BARDO / CLERIGO / PALADIN / ASESINO / BANDIDO / CAZADOR / GUERRERO
+' Ejemplo:
+' Recom. 2 = 1524 'Mago
+' Recom. 3 = 1532 'Druida
 
 [INIT]
-NumRecompensas=202
+NumRecompensas=46
 
 [Recompensas]
+
 ' Caos Rank 1
 Recompensa1=1-1493
-Recompensa2=1-1
-Recompensa3=1-1
-Recompensa4=1-1
-Recompensa5=1-1
-Recompensa6=1-1
-Recompensa7=1-1
-Recompensa8=1-1
-Recompensa9=1-1
-Recompensa10=1-1
-Recompensa11=1-1
-Recompensa12=1-1
-Recompensa13=1-1
-Recompensa14=1-1
-Recompensa15=1-1
-Recompensa16=1-1
-Recompensa17=1-1
-Recompensa18=1-1
-Recompensa19=1-1
-Recompensa20=1-1
-
 
 ' Caos Rank 2
-Recompensa21=2-1522
-Recompensa22=2-1
-Recompensa23=2-1524 'mago ok
-Recompensa24=2-1 'mago ok
-Recompensa25=2-1526
-Recompensa26=2-1
-Recompensa27=2-1528 'asesino ok
-Recompensa28=2-1 'asesino ok
-Recompensa29=2-1530
-Recompensa30=2-1
-Recompensa31=2-1532
-Recompensa32=2-1
-Recompensa33=2-1534
-Recompensa34=2-1
-Recompensa35=2-1536
-Recompensa36=2-1
-Recompensa37=2-1538
-Recompensa38=2-1
-Recompensa39=2-1540
-Recompensa40=2-1
+Recompensa2=2-1524
+Recompensa3=2-1532
+Recompensa4=2-1530
+Recompensa5=2-1522
+Recompensa6=2-1536
+Recompensa7=2-1528
+Recompensa8=2-1534
+Recompensa9=2-1538
+Recompensa10=2-1526
 
 ' Caos Rank 3
-Recompensa41=3-2962 'mago ok
-Recompensa42=3-1 'mago ok
-Recompensa43=3-2996
-Recompensa44=3-1
-Recompensa45=3-2968
-Recompensa46=3-1
-Recompensa47=3-2976 'asesino ok
-Recompensa48=3-1 'asesino ok
-Recompensa49=3-2984
-Recompensa50=3-1
-Recompensa51=3-2988
-Recompensa52=3-1
-Recompensa53=3-2992
-Recompensa54=3-1
-Recompensa55=3-2972
-Recompensa56=3-1
-Recompensa57=3-2980
-Recompensa58=3-1
-Recompensa59=3-3000
-Recompensa60=3-1
+Recompensa11=3-2962
+Recompensa12=3-2996
+Recompensa13=3-3000
+Recompensa14=3-2968
+Recompensa15=3-2988
+Recompensa16=3-2976
+Recompensa17=3-2980
+Recompensa18=3-2984
+Recompensa19=3-2972
 
 ' Caos Rank 4
-Recompensa61=4-2964
-Recompensa62=4-1
-Recompensa63=4-2998
-Recompensa64=4-1
-Recompensa65=4-2970
-Recompensa66=4-1
-Recompensa67=4-2978
-Recompensa68=4-1
-Recompensa69=4-2986
-Recompensa70=4-1
-Recompensa71=4-2990
-Recompensa72=4-1
-Recompensa73=4-2994
-Recompensa74=4-1
-Recompensa75=4-2974
-Recompensa76=4-1
-Recompensa77=4-2982
-Recompensa78=4-1
-Recompensa79=4-3002
-Recompensa80=4-1
+Recompensa20=4-2821
 
 ' Caos Rank 5
-Recompensa81=5-2966
-Recompensa82=5-1
-Recompensa83=5-2890
-Recompensa84=5-1
-Recompensa85=5-2894
-Recompensa86=5-1
-Recompensa87=5-1903
-Recompensa88=5-1
-Recompensa89=5-2891
-Recompensa90=5-1
-Recompensa91=5-2893
-Recompensa92=5-1
-Recompensa93=5-2895
-Recompensa94=5-1
-Recompensa95=5-1945
-Recompensa96=5-1
-Recompensa97=5-2899
-Recompensa98=5-1
-Recompensa99=3-2783	'especial clera mujer RÂº3
-Recompensa100=3-2786	'especial clera barda mujer RÂº3 ARMADA
+Recompensa21=5-4948
+
+' Caos Rank 6
+Recompensa22=6-4949
 
 ' Armada Rank 1
-Recompensa101=1-4340
-Recompensa102=1-1
-Recompensa103=1-1
-Recompensa104=1-1
-Recompensa105=1-1
-Recompensa106=1-1
-Recompensa107=1-1
-Recompensa108=1-1
-Recompensa109=1-1
-Recompensa110=1-1
-Recompensa111=1-1
-Recompensa112=1-1
-Recompensa113=1-1
-Recompensa114=1-1
-Recompensa115=1-1
-Recompensa116=1-1
-Recompensa117=1-1
-Recompensa118=1-1
-Recompensa119=1-1
-Recompensa120=1-1
+Recompensa23=1-4340
 
 ' Armada Rank 2
-Recompensa121=2-1566
-Recompensa122=2-1
-Recompensa123=2-1568 'mago ok
-Recompensa124=2-1 'mago ok
-Recompensa125=2-1570
-Recompensa126=2-1
-Recompensa127=2-1572 'asesino ok
-Recompensa128=2-1 'asesino ok
-Recompensa129=2-1574
-Recompensa130=2-1
-Recompensa131=2-1576 'druida ok
-Recompensa132=2-1 'druida ok
-Recompensa133=2-1578
-Recompensa134=2-1
-Recompensa135=2-1580
-Recompensa136=2-1
-Recompensa137=2-1582
-Recompensa138=2-1
-Recompensa139=2-1584 'bandido ok
-Recompensa140=2-1 'bandido ok
+Recompensa24=2-1568
+Recompensa25=2-1576
+Recompensa26=2-1574
+Recompensa27=2-1566
+Recompensa28=2-1580
+Recompensa29=2-1572
+Recompensa30=2-1584
+Recompensa31=2-1582
+Recompensa32=2-1570
 
 ' Armada Rank 3
-Recompensa141=3-3004 'mago ok
-Recompensa142=3-1 'mago ok
-Recompensa143=3-3020 'druida ok
-Recompensa144=3-1 'druida ok
-Recompensa145=3-3024
-Recompensa146=3-1
-Recompensa147=3-3008
-Recompensa148=3-1
-Recompensa149=3-3032 'asesino ok
-Recompensa150=3-1 'asesino ok
-Recompensa151=3-3036 'bandido ok
-Recompensa152=3-1 'bandido ok
-Recompensa153=3-3028
-Recompensa154=3-1
-Recompensa155=3-3012
-Recompensa156=3-1
-Recompensa157=3-3016
-Recompensa158=3-1
-Recompensa159=3-3040
-Recompensa160=3-1
+Recompensa33=3-3004
+Recompensa34=3-3020
+Recompensa35=3-3024
+Recompensa36=3-3008
+Recompensa37=3-3012
+Recompensa38=3-3032
+Recompensa39=3-3036
+Recompensa40=3-3028
+Recompensa41=3-3016
 
 ' Armada Rank 4
-Recompensa161=4-3006
-Recompensa162=4-1
-Recompensa163=4-3022
-Recompensa164=4-1
-Recompensa165=4-3026
-Recompensa166=4-1
-Recompensa167=4-3010
-Recompensa168=4-1
-Recompensa169=4-3034
-Recompensa170=4-1
-Recompensa171=4-3038
-Recompensa172=4-1
-Recompensa173=4-3030
-Recompensa174=4-1
-Recompensa175=4-3014
-Recompensa176=4-1
-Recompensa177=4-3018
-Recompensa178=4-1
-Recompensa179=4-3042
-Recompensa180=4-1
+Recompensa42=4-2820
 
 ' Armada Rank 5
-Recompensa181=5-2885
-Recompensa182=5-1
-Recompensa183=5-2887
-Recompensa184=5-1
-Recompensa185=5-2881
-Recompensa186=5-1
-Recompensa187=5-2883
-Recompensa188=5-1
-Recompensa189=5-2884
-Recompensa190=5-1
-Recompensa191=5-2882
-Recompensa192=5-1
-Recompensa193=5-2880
-Recompensa194=5-1
-Recompensa195=5-2888
-Recompensa196=5-1
-Recompensa197=5-2886
-Recompensa198=5-1
+Recompensa43=5-4951
 
+' Armada Rank 6
+Recompensa44=6-4952
 
 'Trabajadores
-Recompensa199=1-1240
-Recompensa200=1-1
-Recompensa201=1-1244
-Recompensa202=1-1
+Recompensa45=1-1240
+Recompensa46=1-1244

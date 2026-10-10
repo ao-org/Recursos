@@ -1,68 +1,113 @@
 [INIT]
-NumArmaduras=22
+NumArmaduras=37
 
-[Armadura1] 'Armadura de Herrero
-Index=1912
+[Armadura1] 'Relicario
+Index=3769
 
-[Armadura2] 'Armadura de Placas Completas
-Index=1987
+[Armadura2] 'Anillo de Defensa MÃ¡gica
+Index=3757
 
-[Armadura3] 'Armadura de Placas Completas
-Index=243 
+[Armadura3] 'Anillo de Resistencia Magica
+Index=3577
 
-[Armadura4] 'Armadura de las Sombras
-Index=1929
+[Armadura4] 'Anillo de Proteccion Magica
+Index=2324
 
-[Armadura5] 'Armadura de las Sombras (Bajos)
-Index=1634
+[Armadura5] 'Anillo de Fortaleza Magica
+Index=2325
 
-[Armadura6] 'Cota del Gran Cazador
-Index=1907
-
-[Armadura7] 'Cota del Gran Cazador (Bajos)
-Index=1908
-
-[Armadura8] 'Armadura de la Cienaga
-Index=1941
-
-[Armadura9] 'Armadura Escarlata
-Index=495
-
-[Armadura10] 'Dama de las Tinieblas
-Index=487
-
-[Armadura11] 'Armadura BruÃ±ida (Bajos)
-Index=500
-
-[Armadura12] 'Escudo de Hierro
-Index=1715
-
-[Armadura13] 'Escudo de Bronce
-Index=2933
-
-[Armadura14] 'Escudo Imperial
-Index=1702
-
-[Armadura15] 'Anillo de DisoluciÃ³n MÃ¡gica
+[Armadura6] 'Anillo de Disolucion Magica
 Index=2323
 
-[Armadura16] 'Anillo del Silencio
+[Armadura7] 'Anillo del Silencio
 Index=755
 
-[Armadura17] 'Casco Vikingo
-Index=1079
+[Armadura8] 'Casco de Hierro
+Index=1278
 
-[Armadura18] 'Casco de Hierro Completo
+[Armadura9] 'Casco de Hierro Reforzado
+Index=1761
+
+[Armadura10] 'Casco de Hierro Completo
 Index=132
 
-[Armadura19] 'Casco de Cazador
+[Armadura11] 'Casco de Cazador
 Index=1767
 
-[Armadura20] 'Casco de Plata
+[Armadura12] 'Casco de Plata
 Index=601
 
-[Armadura21] 'Hebilla Mochila
-Index=3461
+[Armadura13] 'Escudo de Hierro
+Index=1715
 
-[Armadura22] 'Relicario
-Index=3769
+[Armadura14] 'Escudo de Hierro Reforzado
+Index=1713
+
+[Armadura15] 'Escudo de Plata
+Index=2933
+
+[Armadura16] 'Escudo del Valle
+Index=1702
+
+[Armadura17] 'Armadura de Herrero
+Index=1912
+
+[Armadura18] 'Armadura Maghtere
+Index=2803
+
+[Armadura19] 'Cota de Mallas
+Index=359
+
+[Armadura20] 'Armadura de LeÃ±ador Elfico
+Index=2919
+
+[Armadura21] 'Armadura de Ebano
+Index=4332
+
+[Armadura22] 'Peto de Caballero
+Index=1921
+
+[Armadura23] 'Armadura con Capa
+Index=4342
+
+[Armadura24] 'Luchador de las Minas
+Index=2818
+
+[Armadura25] 'Armadura Pesada
+Index=1911
+
+[Armadura26] 'Coraza Compuesta
+Index=2801
+
+[Armadura27] 'Armadura de Cazador
+Index=360
+
+[Armadura28] 'Armadura Caranthir
+Index=2804
+
+[Armadura29] 'Cota del Minero Experto
+Index=2920
+
+[Armadura30] 'Armadura de Placas
+Index=1099
+
+[Armadura31] 'Armadura de Placas Completas
+Index=1987
+
+[Armadura32] 'Placas de Gala
+Index=1098
+
+[Armadura33] 'Armadura de las Sombras
+Index=1929
+
+[Armadura34] 'Armadura de la Cienaga
+Index=1941
+
+[Armadura35] 'Armadura de la Luz
+Index=496
+
+[Armadura36] 'Cota del Gran Cazador
+Index=1907
+
+[Armadura37] 'Armadura Escarlata
+Index=495

@@ -1,20 +1,23 @@
 [INIT]
-NumObjs=6
+NumObjs=7
 
-[OBJ1] 'Pócima de Maná
-Index=894
+[OBJ1] 'Poción de Vida
+Index=5997
 
-[OBJ2] 'Pócima de Vida
-Index=891
+[OBJ2] 'Poción de Maná
+Index=5996
 
-[OBJ3] 'Pócima de Agilidad
-Index=889
-
-[OBJ4] 'Pócima de Fuerza
-Index=892
-
-[OBJ5] 'Pócima de Antidoto
+[OBJ3] 'Antidoto
 Index=890
 
-[OBJ6] 'Pócima de Energía
+[OBJ4] 'Poción de Energía
 Index=1019
+
+[OBJ5] 'Poción de Agilidad
+Index=5998
+
+[OBJ6] 'Poción de Fuerza
+Index=5999
+
+[OBJ7] 'Poción de Veneno
+Index=3894

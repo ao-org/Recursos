@@ -1,80 +1,101 @@
 [INIT]
-NumArmas=26
+NumArmas=33
 
 [Arma1]
-Index=3980 ' Bala de piedra
+Index=3980 'Bala de piedra
 
 [Arma2]
-Index=15 ' Daga
+Index=165 'Daga +1
 
 [Arma3]
-Index=4299 ' Caja de balas de piedra
+Index=365 'Daga +2
 
 [Arma4]
-Index=165 ' Daga +1
+Index=366 'Daga +3
 
 [Arma5]
-Index=365 ' Daga+2
+Index=367 'Daga +4
 
 [Arma6]
-Index=366 ' Daga+3
+Index=1855 'Nudillo de Bronce
 
 [Arma7]
-Index=367 ' Daga +4
+Index=1856 'Nudillo de Hierro
 
 [Arma8]
-Index=164 ' Espada corta
+Index=3987 'Nudillo de Plata
 
 [Arma9]
-Index=3175 ' Trabuco
+Index=2598 'Nudillo de Prisma
 
 [Arma10]
-Index=3540 ' Bala de Hierro
+Index=1825 'Nudillo de Mithrill
 
 [Arma11]
-Index=2 ' Espada larga 
-
-[Arma12]
 Index=1792 'Sable
 
+[Arma12]
+Index=401 'Hacha de Piedra
+
 [Arma13]
-Index=1817' Espada Dos Manos
+Index=1817 'Alfanje
 
 [Arma14]
-Index=401 ' Maza de Dos Manos
+Index=1828 'Volcora
 
 [Arma15]
-Index=159' Hacha de Barbaro
+Index=1818 'Mandoble
 
 [Arma16]
-Index=399 'Cimitarra
+Index=1819 'Hacha Larga
 
 [Arma17]
-Index=123 ' Espada Vikinga
+Index=3988 'Espada Celta
 
 [Arma18]
-Index=124 'Katana
+Index=164 'Espada Corta
 
 [Arma19]
-Index=1246 ' Hacha de Guerra Dos filos
+Index=123 'Espada Vikinga
 
 [Arma20]
-Index=126' Espada de Plata
+Index=159 'Hacha de Barbaro
 
 [Arma21]
-Index=403 ' Espada de HÃ©roes
+Index=1820 'Maza de Guerra
 
 [Arma22]
-Index=2598 ' Guantes de Lucha
+Index=398 'Sable Maestro
 
 [Arma23]
-Index=402 ' Espada Matadragones
+Index=399 'Cimitarra
 
 [Arma24]
-Index=3805 ' Caja de balas de hierro
+Index=124 'Katana
 
 [Arma25]
-Index=3982 ' Caja de balas de plata
+Index=133 'Aurora
 
 [Arma26]
-Index=3988 ' Espada Celta
+Index=1246 'Hacha de Guerra Dos filos
+
+[Arma27]
+Index=400 'Falcata
+
+[Arma28]
+Index=1821 'Hoja de Jade
+
+[Arma29]
+Index=137 'Espada del Abismo
+
+[Arma30]
+Index=131 'Espada Zafiro
+
+[Arma31]
+Index=126 'Espada de Plata
+
+[Arma32]
+Index=1822 'Hoja Ignea
+
+[Arma33]
+Index=402 'Espada Matadragones

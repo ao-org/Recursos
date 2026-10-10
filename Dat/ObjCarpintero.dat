@@ -1,93 +1,100 @@
 [INIT]
-NumObjs=30
+NumObjs=31
 
 [OBJ1] 'Cuchara
 Index=163
 
-[OBJ2] 'Flecha
-Index=480
-
-[OBJ3] 'Flecha +1
-Index=3550
-
-[OBJ4] 'Flecha +2
-Index=551
-
-[OBJ5] 'Flecha +3
-Index=553
-
-[OBJ6] 'Flecha Élfica
-Index=552
-
-[OBJ7] ' Arco Simple
+[OBJ2] 'Arco Simple
 Index=479
 
-[OBJ8] 'Arco Simple Reforzado
+[OBJ3] 'Arco Reforzado
 Index=3466
 
-[OBJ9] 'Arco Compuesto
+[OBJ4] 'Arco Compuesto
 Index=1867
 
-[OBJ10] 'Arco de Roble
+[OBJ5] 'Arco Maestro
+Index=1869
+
+[OBJ6] 'Arco de Roble
 Index=1870
 
-[OBJ11] 'Arco de Cazador
+[OBJ7] 'Arco de Cazador
 Index=1876 
 
-[OBJ12] 'Barca
-Index=474
+[OBJ8] 'Flecha
+Index=480
 
-[OBJ13] 'Galera
-Index=475
+[OBJ9] 'Flecha +1
+Index=3550
 
-[OBJ14] 'Galeón
-Index=476
+[OBJ10] 'Flecha +2
+Index=551
 
-[OBJ15] 'Laúd
-Index=469
+[OBJ11] 'Flecha +3
+Index=553
 
-[OBJ16] 'Laúd Mágico
-Index=41
+[OBJ12] 'Flecha Élfica
+Index=552
 
-[OBJ17] 'Flauta
-Index=540
-
-[OBJ18] 'Flauta Elfica
-Index=40
-
-[OBJ19] 'Bastón Nudoso
-Index=1797
-
-[OBJ20] 'Báculo Engarzado
-Index=1788
-
-[OBJ21] 'Rodela
-Index=1719
-
-[OBJ22] 'Escudo de Roble
-Index=1724
-
-[OBJ23] 'Tablones
-Index=3742
-
-[OBJ24] 'Tablones Cepillados Elficos
-Index=3743
-
-[OBJ25] 'Rueda de carro
-Index=2679
-
-[OBJ26] 'Carcaj de Flechas 
+[OBJ13] 'Carcaj de Flechas Comunes
 Index=3801
 
-[OBJ27] 'Carcaj de Flechas +1
+[OBJ14] 'Carcaj de Flechas +1
 Index=3806
 
-[OBJ28] 'Carcaj de Flechas +2
+[OBJ15] 'Carcaj de Flechas +2
 Index=3802
 
-[OBJ29] 'Carcaj de Flechas +3
-Index=3804
-
-[OBJ30] 'Carcaj de Flechas Elficas
+[OBJ16] 'Carcaj de Flechas +3
 Index=3803
 
+[OBJ17] 'Barca
+Index=474
+
+[OBJ18] 'Galera
+Index=475
+
+[OBJ19] 'Laúd
+Index=3986
+
+[OBJ20] 'Laúd Mágico
+Index=469
+
+[OBJ21] 'Laúd Élfico
+Index=41
+
+[OBJ22] 'Flauta
+Index=3985
+
+[OBJ23] 'Flauta Mágica
+Index=540
+
+[OBJ24] 'Flauta Elfica
+Index=40
+
+[OBJ25] 'Báculo de Madera
+Index=1800
+
+[OBJ26] 'Bastón Nudoso
+Index=1797
+
+[OBJ27] 'Báculo Engarzado
+Index=1788
+
+[OBJ28] 'Escudo de Madera
+Index=1721
+
+[OBJ29] 'Rodela
+Index=1719
+
+[OBJ30] 'Rodela Reforzada
+Index=1722
+
+[OBJ31] 'Escudo de Roble
+Index=1724
+
+
+'Tablones, Index=3742
+'Tablones Cepillados Elficos, Index=3743
+'Rueda de carro, Index=2679

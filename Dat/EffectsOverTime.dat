@@ -1,9 +1,9 @@
 'Types
-' 1: eModifyHelath
+' 1: eModifyHealth
 ' 2: eApplyModifiers
 ' 3: eTaunt
 ' 4: eTaunted
-' 5: eTrap this ona is informative to track trap active time
+' 5: eTrap this one is informative to track trap active time
 ' 6: eDrunk
 ' 7: eTranslation
 ' 8: eApplyEffectOnHit
@@ -55,17 +55,23 @@
 ' AffectedByPhysicalReduction=1
 ' AffectedBySpeedModifier=1
 
+'Visual and auditive effects:
+'TickFX: graphical effect played on every tick
+'OnHitFx: graphical effect when the target is hit
+'OnHitWAV: sound effect when the target is hit
+'OnRemoveFx: graphical effect when the effect is removed
+'OnRemoveWav: sound effect when the effect is removed
 
 [INIT]
-EffectCount=60
+EffectCount=63
 
-[EOT1] 'regeneracion 3
+[EOT1] 'restauracion mayor
 Type=1
-TickPowerMin=20
-TickPowerMax=25
-Ticks=6
-TickTime=1500
-Limit=2
+TickPowerMin=8
+TickPowerMax=12
+Ticks=10
+TickTime=3000
+Limit=1
 TickFX=144
 Override=1
 BuffType=1
@@ -106,29 +112,28 @@ TickTime=10000
 Limit=1
 Override=0
 BuffType=4
-PhysicalDamageDone=-0.5
-MagicDamageDone=-0.5
+PhysicalDamageDone=-0.90
+MagicDamageDone=-0.90
 ClientEffectTypeId=4
 
 [EOT5]'Taunt
 Type=3
-TickTime=20000
+TickTime=10000
 Limit=1
 Override=0
 BuffType=4
 Area=20
-SpeedModifier=-0.2
+SpeedModifier=-0.05
 ClientEffectTypeId=4
-Aura=20054:-65536:5:0 
 
-[EOT6]'Trap inmo
+[EOT6] 'Trampa inmovilizadora
 Type=5
-TickTime=120000
+TickTime=10000
 Subtype=1
 Limit=3
 Override=0
 BuffType=5
-OnHitFx=12
+OnHitFx=8
 ClientEffectTypeId=5
 
 [EOT7]'Trap explosion
@@ -257,17 +262,15 @@ ClientEffectTypeId=11
 
 [EOT18] 'bard mana song
 Type=10
-Ticks=12
+Ticks=1
 TickTime=10000
-Limit=4
+Limit=1
 TickFX=149
-Area=5
 Override=1
-BuffType=1
 ApplyeffectID=17
-SecondaryEffectId=59
 ClientEffectTypeId=12
-MagicDamageDone=-0.1
+MagicDamageDone=-0.3
+SecondaryEffectId=0
 
 [EOT19]'slow
 Type=2
@@ -426,7 +429,7 @@ OnHitWAV=0
 LimitCastOnlyOnSelf=1
 Transform=1
 ClientEffectTypeId=27
-PhysicalDamageReduction0
+PhysicalDamageReduction=0
 MagicDamageReduction=0
 PhysicalLinearBonus=35
 MagicDamageDone=0
@@ -533,25 +536,25 @@ Override=0
 BuffType=2
 ClientEffectTypeId=36
 
-[EOT38]'mushroom poison
+[EOT38]
 Type=1
-TickPowerMin=-10
-TickPowerMax=-15
-Ticks=8
-TickTime=1500
+TickPowerMin=-5
+TickPowerMax=-10
+Ticks=6
+TickTime=1100
 Limit=3
 TickFX=0
 Override=0
 BuffType=2
 ClientEffectTypeId=9
 
-[EOT39] 'regeneracion 1 
+[EOT39] 'restauracion menor
 Type=1
-TickPowerMin=10
-TickPowerMax=15
-Ticks=6
-TickTime=1500
-Limit=2
+TickPowerMin=2
+TickPowerMax=6
+Ticks=10
+TickTime=3000
+Limit=1
 TickFX=144
 Override=1
 BuffType=1
@@ -559,13 +562,13 @@ AffectedByMagicHealing=1
 AffectedBySelfHealing=1
 ClientEffectTypeId=1
 
-[EOT40] 'regeneracion 2
+[EOT40] 'restauracion intermedia
 Type=1
-TickPowerMin=15
-TickPowerMax=20
-Ticks=6
-TickTime=1500
-Limit=2
+TickPowerMin=4
+TickPowerMax=8
+Ticks=10
+TickTime=3000
+Limit=1
 TickFX=144
 Override=1
 BuffType=1
@@ -573,12 +576,12 @@ AffectedByMagicHealing=1
 AffectedBySelfHealing=1
 ClientEffectTypeId=1
 
-[EOT41]'Efecto Veneno 1
+[EOT41] 'Efecto Pocion de Veneno
 Type=1
-TickPowerMin=-5
-TickPowerMax=-10
-Ticks=8
-TickTime=1500
+TickPowerMin=-10
+TickPowerMax=-15
+Ticks=5           'Cantidad de repeticiones
+TickTime=1800
 Limit=3
 TickFX=0
 Override=0
@@ -586,12 +589,12 @@ BuffType=2
 ClientEffectTypeId=9
 SecondaryTargetModifier=0.5
 
-[EOT42]'Efecto Veneno 2
+[EOT42] 'Efecto Hechizo
 Type=1
 TickPowerMin=-10
-TickPowerMax=-15
-Ticks=6
-TickTime=1500
+TickPowerMax=-20
+Ticks=4
+TickTime=2000
 Limit=3
 TickFX=0
 Override=0
@@ -625,9 +628,9 @@ OnHitFx=0
 OnHitWAV=0
 ClientEffectTypeId=26
 
-[EOT45]'Hechizo Veneno 1
+[EOT45] 'Pocion de Veneno Alquimia
 Type=8
-TickTime=600000
+TickTime=70000
 Limit=4
 TickFX=0
 Override=1
@@ -635,9 +638,9 @@ BuffType=4
 ApplyeffectID=41
 ClientEffectTypeId=7
 
-[EOT46]'Hechizo Veneno 2
+[EOT46] 'Hechizo Filo de Toxina
 Type=8
-TickTime=600000
+TickTime=50000
 Limit=4
 TickFX=0
 Override=1
@@ -672,6 +675,7 @@ Limit=1
 Override=1
 BuffType=4
 PhysicalLinearBonus=15
+PhysicalBonusPveOnly=1
 ClientEffectTypeId=39
 RequireWeapon=1
 
@@ -682,6 +686,7 @@ Limit=1
 Override=1
 BuffType=4
 PhysicalLinearBonus=25
+PhysicalBonusPveOnly=1
 ClientEffectTypeId=39
 RequireWeapon=1
 
@@ -692,6 +697,7 @@ Limit=1
 Override=1
 BuffType=4
 PhysicalLinearBonus=40
+PhysicalBonusPveOnly=1
 ClientEffectTypeId=39
 RequireWeapon=1
 
@@ -794,9 +800,6 @@ Override=1
 BuffType=5
 ClientEffectTypeId=11
 
-
-
-
 [EOT60] 'absorb shield for respawn protection
 TickPowerMin=32000
 TickPowerMax=32000
@@ -808,3 +811,46 @@ BuffType=5
 OnHitFx=0
 OnHitWAV=0
 ClientEffectTypeId=26
+
+[EOT61]'mushroom poison
+Type=1
+TickPowerMin=-2
+TickPowerMax=-5
+Ticks=8
+TickTime=1500
+Limit=3
+TickFX=0
+Override=0
+BuffType=2
+ClientEffectTypeId=9
+
+[EOT62] 'exoesqueleton core shield
+Type=15
+BuffType=1
+Limits=1
+Ticks=40
+TickFX=167
+OnHitFx=101
+OnHitWAV=230
+OnRemoveFx=112
+OnRemoveWav=230
+TickTime=2000                   '80 seconds duration
+TickPowerMin=200                '200 points of shield
+TickPowerMax=200                '200 points of shield
+PhysicalDamageReduction=0.2     '20% less physical dmg taken
+MagicDamageReduction=0.2        '20% less magical dmg taken
+SpeedModifier=-0.25             '25% less move speed per cast
+RequireArmor=1
+PhysicalDamageDone=-0.30         '30% less dmg done
+ClientEffectTypeId=26
+
+[EOT63] 'Paladin Fervour - PvE only
+Type=2
+TickTime=60000
+Limit=1
+Override=1
+BuffType=4
+PhysicalLinearBonus=10
+PhysicalBonusPveOnly=1
+ClientEffectTypeId=39
+RequireWeapon=1

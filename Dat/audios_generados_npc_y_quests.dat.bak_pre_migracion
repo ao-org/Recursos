@@ -1,0 +1,2696 @@
+================================
+[NPC111] Costhas <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 12:44:19.353
+Numero audio usado: 716
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST326] Un pedido Especial
+Tipo: QUEST
+NPC asociado: NPC111
+Fecha: Tue 05/05/2026 12:44:28.841
+Numero audio usado: 1128
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST326] Un pedido Especial
+Tipo: QUEST
+NPC asociado: NPC111
+Fecha: Tue 05/05/2026 12:44:34.352
+Numero audio usado: 1129
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1288] Abad <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 12:49:31.817
+Numero audio usado: 809
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST161] ¡Bendecir!
+Tipo: QUEST
+NPC asociado: NPC1288
+Fecha: Tue 05/05/2026 12:49:35.619
+Numero audio usado: 1115
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST161] ¡Bendecir!
+Tipo: QUEST
+NPC asociado: NPC1288
+Fecha: Tue 05/05/2026 12:49:39.103
+Numero audio usado: 1116
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC89] Tancredo <Rey de Banderbill>
+Tipo: NPC
+Fecha: Tue 05/05/2026 19:06:04.287
+Numero audio usado: 960
+Voice ID: 4ClPfGRNxnfy7Zzp4OId
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC90] Zarok <Rey de Arkhein>
+Tipo: NPC
+Fecha: Tue 05/05/2026 19:07:17.337
+Numero audio usado: 961
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC91] PRUEBAS PARA FACCIÓN <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 19:07:59.356
+Numero audio usado: 712
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST343] Quest solo ciuda
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:06.125
+Numero audio usado: 1130
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST343] Quest solo ciuda
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:12.492
+Numero audio usado: 1131
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST344] Quest solo armada
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:18.741
+Numero audio usado: 1132
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST344] Quest solo armada
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:25.221
+Numero audio usado: 1133
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST345] Quest solo ciuda y armada
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:31.420
+Numero audio usado: 1134
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST345] Quest solo ciuda y armada
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:37.608
+Numero audio usado: 1135
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST346] Quest solo consejo real
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:44.288
+Numero audio usado: 1136
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST346] Quest solo consejo real
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:50.653
+Numero audio usado: 1137
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST347] Quest armada y consejo
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:08:56.658
+Numero audio usado: 1138
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST347] Quest armada y consejo
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:02.548
+Numero audio usado: 1139
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST348] Quest ciuda armada y consejo
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:08.745
+Numero audio usado: 1140
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST348] Quest ciuda armada y consejo
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:15.005
+Numero audio usado: 1141
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST349] Quest solo criminal
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:20.964
+Numero audio usado: 1142
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST349] Quest solo criminal
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:27.818
+Numero audio usado: 1143
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST350] Quest solo legion
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:34.179
+Numero audio usado: 1144
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST350] Quest solo legion
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:40.444
+Numero audio usado: 1145
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST351] Quest solo criminal y legion
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:46.620
+Numero audio usado: 1146
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST351] Quest solo criminal y legion
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:52.794
+Numero audio usado: 1147
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST352] Quest Solo Concilio
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:09:59.169
+Numero audio usado: 1148
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST352] Quest Solo Concilio
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:10:05.791
+Numero audio usado: 1149
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST353] Quest Solo Legion, Criminal y concilio
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:10:12.000
+Numero audio usado: 1150
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST353] Quest Solo Legion, Criminal y concilio
+Tipo: QUEST
+NPC asociado: NPC91
+Fecha: Tue 05/05/2026 19:10:18.352
+Numero audio usado: 1151
+Voice ID: vFLqXa8bgbofGarf6fZh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC59] Ines <Cocinera>
+Tipo: NPC
+Fecha: Tue 05/05/2026 20:57:05.511
+Numero audio usado: 1153
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC59] Ines <Cocinera>
+Tipo: NPC
+Fecha: Tue 05/05/2026 20:57:10.831
+Numero audio usado: 1154
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: DescClose
+Campo audio: SoundClose
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC249] Hiploro <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:01:18.036
+Numero audio usado: 724
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST218] Introducción a la Herreria
+Tipo: QUEST
+NPC asociado: NPC249
+Fecha: Tue 05/05/2026 21:01:30.430
+Numero audio usado: 1155
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST218] Introducción a la Herreria
+Tipo: QUEST
+NPC asociado: NPC249
+Fecha: Tue 05/05/2026 21:01:35.635
+Numero audio usado: 1156
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC432] Alaric von Nix <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:04:53.585
+Numero audio usado: 964
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST230] El Rugido de Bruin
+Tipo: QUEST
+NPC asociado: NPC432
+Fecha: Tue 05/05/2026 21:05:10.407
+Numero audio usado: 1157
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST230] El Rugido de Bruin
+Tipo: QUEST
+NPC asociado: NPC432
+Fecha: Tue 05/05/2026 21:05:22.342
+Numero audio usado: 1158
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST231] La Aguja y la Garra
+Tipo: QUEST
+NPC asociado: NPC432
+Fecha: Tue 05/05/2026 21:05:34.502
+Numero audio usado: 1159
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST231] La Aguja y la Garra
+Tipo: QUEST
+NPC asociado: NPC432
+Fecha: Tue 05/05/2026 21:05:40.569
+Numero audio usado: 1160
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1191] Ebanista <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:08:19.629
+Numero audio usado: 800
+Voice ID: gU0LNdkMOQCOrPrwtbee
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST199] Embarcación
+Tipo: QUEST
+NPC asociado: NPC1191
+Fecha: Tue 05/05/2026 21:08:25.238
+Numero audio usado: 1161
+Voice ID: gU0LNdkMOQCOrPrwtbee
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST199] Embarcación
+Tipo: QUEST
+NPC asociado: NPC1191
+Fecha: Tue 05/05/2026 21:08:29.431
+Numero audio usado: 1162
+Voice ID: gU0LNdkMOQCOrPrwtbee
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC126] Pescadora
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:39:12.651
+Numero audio usado: 963
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC126] Pescadora
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:40:25.822
+Numero audio usado: 963
+Voice ID: VD1if7jDVYtAKs4P0FIY
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1085] Jacobo <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:48:43.210
+Numero audio usado: 768
+Voice ID: wXvR48IpOq9HACltTmt7
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST327] El viejo Jacobo
+Tipo: QUEST
+NPC asociado: NPC1085
+Fecha: Tue 05/05/2026 21:48:54.036
+Numero audio usado: 1163
+Voice ID: wXvR48IpOq9HACltTmt7
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST327] El viejo Jacobo
+Tipo: QUEST
+NPC asociado: NPC1085
+Fecha: Tue 05/05/2026 21:49:00.436
+Numero audio usado: 1164
+Voice ID: wXvR48IpOq9HACltTmt7
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1088] Leonardo <Pescador>
+Tipo: NPC
+Fecha: Tue 05/05/2026 21:55:12.897
+Numero audio usado: 998
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC573] Abdul el Tallador <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 22:15:16.564
+Numero audio usado: 971
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST155] El Rompecabezas de Jade
+Tipo: QUEST
+NPC asociado: NPC573
+Fecha: Tue 05/05/2026 22:15:32.821
+Numero audio usado: 1165
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST155] El Rompecabezas de Jade
+Tipo: QUEST
+NPC asociado: NPC573
+Fecha: Tue 05/05/2026 22:15:51.286
+Numero audio usado: 1166
+Voice ID: IRHApOXLvnW57QJPQH2P
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC415] Heather <Quest>
+Tipo: NPC
+Fecha: Tue 05/05/2026 22:22:07.700
+Numero audio usado: 735
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST38] ¡Comienza la Aventura!
+Tipo: QUEST
+NPC asociado: NPC415
+Fecha: Tue 05/05/2026 22:22:16.380
+Numero audio usado: 1167
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST38] ¡Comienza la Aventura!
+Tipo: QUEST
+NPC asociado: NPC415
+Fecha: Tue 05/05/2026 22:22:21.533
+Numero audio usado: 1168
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC303] Tancredo <Rey de Banderbill>
+Tipo: NPC
+Fecha: Wed 05/06/2026 10:20:03.750
+Numero audio usado: 960
+Voice ID: y7iG0fuCWT5Ix7SuOtZO
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC301] Aelion <Rey de Eldoria>
+Tipo: NPC
+Fecha: Wed 05/06/2026 10:26:59.136
+Numero audio usado: 1169
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1345] Thalin <Hechicera de Eldoria>
+Tipo: NPC
+Fecha: Wed 05/06/2026 10:28:24.310
+Numero audio usado: 1170
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1117] Windall <Quest>
+Tipo: NPC
+Fecha: Wed 05/06/2026 10:29:36.382
+Numero audio usado: 787
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST204] Vientos de Eldoria
+Tipo: QUEST
+NPC asociado: NPC1117
+Fecha: Wed 05/06/2026 10:29:46.028
+Numero audio usado: 1171
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST204] Vientos de Eldoria
+Tipo: QUEST
+NPC asociado: NPC1117
+Fecha: Wed 05/06/2026 10:29:53.092
+Numero audio usado: 1172
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC21] Bromdir <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:35:29.191
+Numero audio usado: 949
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST314] Cenizas del Primer Fuego
+Tipo: QUEST
+NPC asociado: NPC21
+Fecha: Fri 05/08/2026 06:35:48.586
+Numero audio usado: 1173
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST314] Cenizas del Primer Fuego
+Tipo: QUEST
+NPC asociado: NPC21
+Fecha: Fri 05/08/2026 06:35:55.923
+Numero audio usado: 1174
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST315] Las Alas del Fuego Eterno
+Tipo: QUEST
+NPC asociado: NPC21
+Fecha: Fri 05/08/2026 06:36:14.072
+Numero audio usado: 1175
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST315] Las Alas del Fuego Eterno
+Tipo: QUEST
+NPC asociado: NPC21
+Fecha: Fri 05/08/2026 06:36:21.334
+Numero audio usado: 1176
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC92] Ofelia <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:36:24.444
+Numero audio usado: 865
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST119] Orcos hambrientos
+Tipo: QUEST
+NPC asociado: NPC92
+Fecha: Fri 05/08/2026 06:36:30.041
+Numero audio usado: 1177
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST119] Orcos hambrientos
+Tipo: QUEST
+NPC asociado: NPC92
+Fecha: Fri 05/08/2026 06:36:33.062
+Numero audio usado: 1178
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC93] Bael el Bardo <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:36:36.192
+Numero audio usado: 714
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST90] El oso y la doncella
+Tipo: QUEST
+NPC asociado: NPC93
+Fecha: Fri 05/08/2026 06:36:45.632
+Numero audio usado: 1179
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST90] El oso y la doncella
+Tipo: QUEST
+NPC asociado: NPC93
+Fecha: Fri 05/08/2026 06:36:48.695
+Numero audio usado: 1180
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC95] Aurelion Valtheris <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:36:51.656
+Numero audio usado: 1181
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST80] La Gracia Fragmentada
+Tipo: QUEST
+NPC asociado: NPC95
+Fecha: Fri 05/08/2026 06:37:04.194
+Numero audio usado: 1182
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST80] La Gracia Fragmentada
+Tipo: QUEST
+NPC asociado: NPC95
+Fecha: Fri 05/08/2026 06:37:09.734
+Numero audio usado: 1183
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC107] Capitán Rowen <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:37:15.918
+Numero audio usado: 958
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST45] La amenaza del Pantano
+Tipo: QUEST
+NPC asociado: NPC107
+Fecha: Fri 05/08/2026 06:37:26.465
+Numero audio usado: 1184
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST45] La amenaza del Pantano
+Tipo: QUEST
+NPC asociado: NPC107
+Fecha: Fri 05/08/2026 06:37:31.570
+Numero audio usado: 1185
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC108] Branik <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:37:38.371
+Numero audio usado: 959
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST46] Hierro marcado por el Fuego
+Tipo: QUEST
+NPC asociado: NPC108
+Fecha: Fri 05/08/2026 06:37:49.931
+Numero audio usado: 1186
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST46] Hierro marcado por el Fuego
+Tipo: QUEST
+NPC asociado: NPC108
+Fecha: Fri 05/08/2026 06:37:55.127
+Numero audio usado: 1187
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC109] Eldric <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:44:14.123
+Numero audio usado: 960
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST47] La Purga de Marabel
+Tipo: QUEST
+NPC asociado: NPC109
+Fecha: Fri 05/08/2026 06:44:25.314
+Numero audio usado: 1188
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST47] La Purga de Marabel
+Tipo: QUEST
+NPC asociado: NPC109
+Fecha: Fri 05/08/2026 06:44:32.093
+Numero audio usado: 1189
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC112] Kleric <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:44:35.157
+Numero audio usado: 717
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST142] La última Luz
+Tipo: QUEST
+NPC asociado: NPC112
+Fecha: Fri 05/08/2026 06:44:42.180
+Numero audio usado: 1204
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST142] La última Luz
+Tipo: QUEST
+NPC asociado: NPC112
+Fecha: Fri 05/08/2026 06:44:46.282
+Numero audio usado: 1205
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC113] Agnome <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:44:55.439
+Numero audio usado: 961
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST160] Secretos del Desierto Eterno
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:45:06.021
+Numero audio usado: 1206
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST160] Secretos del Desierto Eterno
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:45:11.015
+Numero audio usado: 1207
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC113] Agnome <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:53:11.737
+Numero audio usado: 961
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST160] Secretos del Desierto Eterno
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:53:22.694
+Numero audio usado: 1206
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST160] Secretos del Desierto Eterno
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:53:27.873
+Numero audio usado: 1207
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST318] El Clan de las Arenas
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:53:51.171
+Numero audio usado: 1208
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST318] El Clan de las Arenas
+Tipo: QUEST
+NPC asociado: NPC113
+Fecha: Fri 05/08/2026 06:54:01.298
+Numero audio usado: 1209
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC119] Bertram <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:54:22.143
+Numero audio usado: 962
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST325] Gemas del Fuego Antiguo
+Tipo: QUEST
+NPC asociado: NPC119
+Fecha: Fri 05/08/2026 06:54:48.616
+Numero audio usado: 1210
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST325] Gemas del Fuego Antiguo
+Tipo: QUEST
+NPC asociado: NPC119
+Fecha: Fri 05/08/2026 06:54:55.613
+Numero audio usado: 1211
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC247] Nundal <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:55:13.265
+Numero audio usado: 953
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST328] Mensaje Misterioso
+Tipo: QUEST
+NPC asociado: NPC247
+Fecha: Fri 05/08/2026 06:55:18.920
+Numero audio usado: 1222
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST328] Mensaje Misterioso
+Tipo: QUEST
+NPC asociado: NPC247
+Fecha: Fri 05/08/2026 06:55:22.945
+Numero audio usado: 1224
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC248] Bunyan <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:55:59.061
+Numero audio usado: 723
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST219] Introducción a la Carpinteria
+Tipo: QUEST
+NPC asociado: NPC248
+Fecha: Fri 05/08/2026 06:56:08.996
+Numero audio usado: 1228
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST219] Introducción a la Carpinteria
+Tipo: QUEST
+NPC asociado: NPC248
+Fecha: Fri 05/08/2026 06:56:13.610
+Numero audio usado: 1229
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC405] Henry <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:56:29.230
+Numero audio usado: 963
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST29] Ecos de Astas Antiguas
+Tipo: QUEST
+NPC asociado: NPC405
+Fecha: Fri 05/08/2026 06:56:55.013
+Numero audio usado: 1230
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST29] Ecos de Astas Antiguas
+Tipo: QUEST
+NPC asociado: NPC405
+Fecha: Fri 05/08/2026 06:57:03.056
+Numero audio usado: 1231
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC407] Makrom <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:57:08.325
+Numero audio usado: 729
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST190] Primeros Pasos
+Tipo: QUEST
+NPC asociado: NPC407
+Fecha: Fri 05/08/2026 06:57:15.056
+Numero audio usado: 1232
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST190] Primeros Pasos
+Tipo: QUEST
+NPC asociado: NPC407
+Fecha: Fri 05/08/2026 06:57:18.907
+Numero audio usado: 1233
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST193] El Gran lobo feroz
+Tipo: QUEST
+NPC asociado: NPC407
+Fecha: Fri 05/08/2026 06:57:27.523
+Numero audio usado: 1234
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST193] El Gran lobo feroz
+Tipo: QUEST
+NPC asociado: NPC407
+Fecha: Fri 05/08/2026 06:57:32.392
+Numero audio usado: 1235
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC410] Otis <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:57:37.335
+Numero audio usado: 732
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST56] Nuevos Jefes Minotauros
+Tipo: QUEST
+NPC asociado: NPC410
+Fecha: Fri 05/08/2026 06:57:45.471
+Numero audio usado: 1236
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST56] Nuevos Jefes Minotauros
+Tipo: QUEST
+NPC asociado: NPC410
+Fecha: Fri 05/08/2026 06:57:49.505
+Numero audio usado: 1237
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC419] Trevor <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:57:53.721
+Numero audio usado: 736
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST36] Entrada Norte
+Tipo: QUEST
+NPC asociado: NPC419
+Fecha: Fri 05/08/2026 06:57:59.349
+Numero audio usado: 1238
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST36] Entrada Norte
+Tipo: QUEST
+NPC asociado: NPC419
+Fecha: Fri 05/08/2026 06:58:03.436
+Numero audio usado: 1239
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC421] Eira <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:58:07.382
+Numero audio usado: 737
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST137] Caza de los Vigilantes del Ojo
+Tipo: QUEST
+NPC asociado: NPC421
+Fecha: Fri 05/08/2026 06:58:20.018
+Numero audio usado: 1240
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST137] Caza de los Vigilantes del Ojo
+Tipo: QUEST
+NPC asociado: NPC421
+Fecha: Fri 05/08/2026 06:58:24.485
+Numero audio usado: 1241
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST139] Fortaleza invernal
+Tipo: QUEST
+NPC asociado: NPC421
+Fecha: Fri 05/08/2026 06:58:31.538
+Numero audio usado: 1242
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST139] Fortaleza invernal
+Tipo: QUEST
+NPC asociado: NPC421
+Fecha: Fri 05/08/2026 06:58:36.109
+Numero audio usado: 1243
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC426] Dragga <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:58:40.355
+Numero audio usado: 741
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST64] Presteza de los Bosques
+Tipo: QUEST
+NPC asociado: NPC426
+Fecha: Fri 05/08/2026 06:58:54.375
+Numero audio usado: 1244
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST64] Presteza de los Bosques
+Tipo: QUEST
+NPC asociado: NPC426
+Fecha: Fri 05/08/2026 06:58:58.357
+Numero audio usado: 1245
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC427] Zero <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:59:02.513
+Numero audio usado: 893
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST65] Fuerza Bruta
+Tipo: QUEST
+NPC asociado: NPC427
+Fecha: Fri 05/08/2026 06:59:16.099
+Numero audio usado: 1246
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST65] Fuerza Bruta
+Tipo: QUEST
+NPC asociado: NPC427
+Fecha: Fri 05/08/2026 06:59:20.191
+Numero audio usado: 1247
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC428] Tairon <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:59:24.003
+Numero audio usado: 743
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST40] Camino a Ullathorpe
+Tipo: QUEST
+NPC asociado: NPC428
+Fecha: Fri 05/08/2026 06:59:31.763
+Numero audio usado: 1248
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST40] Camino a Ullathorpe
+Tipo: QUEST
+NPC asociado: NPC428
+Fecha: Fri 05/08/2026 06:59:35.386
+Numero audio usado: 1249
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC429] Adha <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:59:39.388
+Numero audio usado: 744
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST116] Malditos Asesinos
+Tipo: QUEST
+NPC asociado: NPC429
+Fecha: Fri 05/08/2026 06:59:45.998
+Numero audio usado: 1250
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST116] Malditos Asesinos
+Tipo: QUEST
+NPC asociado: NPC429
+Fecha: Fri 05/08/2026 06:59:49.781
+Numero audio usado: 1251
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC430] Barlock <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 06:59:53.571
+Numero audio usado: 745
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST118] Horda Mágica
+Tipo: QUEST
+NPC asociado: NPC430
+Fecha: Fri 05/08/2026 06:59:59.561
+Numero audio usado: 1252
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST118] Horda Mágica
+Tipo: QUEST
+NPC asociado: NPC430
+Fecha: Fri 05/08/2026 07:00:03.555
+Numero audio usado: 1253
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC550] Serath <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:00:12.669
+Numero audio usado: 967
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST166] Despejar la entrada
+Tipo: QUEST
+NPC asociado: NPC550
+Fecha: Fri 05/08/2026 07:00:19.002
+Numero audio usado: 1254
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST166] Despejar la entrada
+Tipo: QUEST
+NPC asociado: NPC550
+Fecha: Fri 05/08/2026 07:00:23.287
+Numero audio usado: 1255
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST317] El Eco de los Aullidos
+Tipo: QUEST
+NPC asociado: NPC550
+Fecha: Fri 05/08/2026 07:00:38.267
+Numero audio usado: 1256
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST317] El Eco de los Aullidos
+Tipo: QUEST
+NPC asociado: NPC550
+Fecha: Fri 05/08/2026 07:00:53.279
+Numero audio usado: 1257
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC566] Mezier <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:00:57.142
+Numero audio usado: 748
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST62] Explorando el Pantano
+Tipo: QUEST
+NPC asociado: NPC566
+Fecha: Fri 05/08/2026 07:01:04.010
+Numero audio usado: 1258
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST62] Explorando el Pantano
+Tipo: QUEST
+NPC asociado: NPC566
+Fecha: Fri 05/08/2026 07:01:08.561
+Numero audio usado: 1259
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST74] Terror Troll
+Tipo: QUEST
+NPC asociado: NPC566
+Fecha: Fri 05/08/2026 07:01:13.875
+Numero audio usado: 1260
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST74] Terror Troll
+Tipo: QUEST
+NPC asociado: NPC566
+Fecha: Fri 05/08/2026 07:01:18.118
+Numero audio usado: 1261
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC572] Khemet <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:01:26.235
+Numero audio usado: 970
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST154] El sello del Sol
+Tipo: QUEST
+NPC asociado: NPC572
+Fecha: Fri 05/08/2026 07:01:59.580
+Numero audio usado: 1262
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST154] El sello del Sol
+Tipo: QUEST
+NPC asociado: NPC572
+Fecha: Fri 05/08/2026 07:02:05.631
+Numero audio usado: 1263
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC574] Heral <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:02:09.456
+Numero audio usado: 749
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST156] El Collar del Rey Sin Nombre
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:02:28.630
+Numero audio usado: 1264
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST156] El Collar del Rey Sin Nombre
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:02:37.196
+Numero audio usado: 1265
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST169] Ayuda para Volver
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:02:44.777
+Numero audio usado: 1266
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST169] Ayuda para Volver
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:02:51.063
+Numero audio usado: 1267
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST321] El despertar de la Pirámide
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:03:16.479
+Numero audio usado: 1121
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST321] El despertar de la Pirámide
+Tipo: QUEST
+NPC asociado: NPC574
+Fecha: Fri 05/08/2026 07:03:27.790
+Numero audio usado: 1122
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC604] Franklin <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:03:31.766
+Numero audio usado: 751
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST49] ¿Ciencia o Mito?
+Tipo: QUEST
+NPC asociado: NPC604
+Fecha: Fri 05/08/2026 07:03:44.243
+Numero audio usado: 1268
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST49] ¿Ciencia o Mito?
+Tipo: QUEST
+NPC asociado: NPC604
+Fecha: Fri 05/08/2026 07:03:48.289
+Numero audio usado: 1269
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC697] Rodolph <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:03:51.899
+Numero audio usado: 755
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST103] Avanzando por el Drenaje
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:03:58.204
+Numero audio usado: 1270
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST103] Avanzando por el Drenaje
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:04:01.777
+Numero audio usado: 1271
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST104] Los Guardianes Reptaescama
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:04:08.459
+Numero audio usado: 1272
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST104] Los Guardianes Reptaescama
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:04:12.987
+Numero audio usado: 1273
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST109] Har Nareth.. ¿Mitología?
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:04:19.899
+Numero audio usado: 1274
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST109] Har Nareth.. ¿Mitología?
+Tipo: QUEST
+NPC asociado: NPC697
+Fecha: Fri 05/08/2026 07:04:24.458
+Numero audio usado: 1275
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC699] Ralph <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:04:28.950
+Numero audio usado: 757
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST106] Un Experto Pescador
+Tipo: QUEST
+NPC asociado: NPC699
+Fecha: Fri 05/08/2026 07:04:40.831
+Numero audio usado: 1276
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST106] Un Experto Pescador
+Tipo: QUEST
+NPC asociado: NPC699
+Fecha: Fri 05/08/2026 07:04:46.184
+Numero audio usado: 1277
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST107] Reliquias familiares.
+Tipo: QUEST
+NPC asociado: NPC699
+Fecha: Fri 05/08/2026 07:04:59.758
+Numero audio usado: 1278
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST107] Reliquias familiares.
+Tipo: QUEST
+NPC asociado: NPC699
+Fecha: Fri 05/08/2026 07:05:04.249
+Numero audio usado: 1279
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC718] Eugenia <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:05:08.430
+Numero audio usado: 758
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST52] Gran Dragón
+Tipo: QUEST
+NPC asociado: NPC718
+Fecha: Fri 05/08/2026 07:05:22.333
+Numero audio usado: 1280
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST52] Gran Dragón
+Tipo: QUEST
+NPC asociado: NPC718
+Fecha: Fri 05/08/2026 07:05:26.265
+Numero audio usado: 1281
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC987] Thalanor <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:05:31.989
+Numero audio usado: 979
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST324] El Sello de la Furia Ancestral
+Tipo: QUEST
+NPC asociado: NPC987
+Fecha: Fri 05/08/2026 07:05:55.545
+Numero audio usado: 1127
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST324] El Sello de la Furia Ancestral
+Tipo: QUEST
+NPC asociado: NPC987
+Fecha: Fri 05/08/2026 07:06:10.146
+Numero audio usado: 1282
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1004] Nargoth <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:06:15.474
+Numero audio usado: 982
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST275] Veneno de Puñal
+Tipo: QUEST
+NPC asociado: NPC1004
+Fecha: Fri 05/08/2026 07:06:32.951
+Numero audio usado: 1283
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST275] Veneno de Puñal
+Tipo: QUEST
+NPC asociado: NPC1004
+Fecha: Fri 05/08/2026 07:06:38.595
+Numero audio usado: 1284
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1006] Aldren <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:06:44.286
+Numero audio usado: 983
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST287] Fuerza viva del Bosque
+Tipo: QUEST
+NPC asociado: NPC1006
+Fecha: Fri 05/08/2026 07:07:31.267
+Numero audio usado: 1285
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST287] Fuerza viva del Bosque
+Tipo: QUEST
+NPC asociado: NPC1006
+Fecha: Fri 05/08/2026 07:07:42.337
+Numero audio usado: 1286
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1008] Esmeralda <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:07:47.155
+Numero audio usado: 761
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST25] Algo de respiro
+Tipo: QUEST
+NPC asociado: NPC1008
+Fecha: Fri 05/08/2026 07:07:54.799
+Numero audio usado: 1287
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST25] Algo de respiro
+Tipo: QUEST
+NPC asociado: NPC1008
+Fecha: Fri 05/08/2026 07:07:58.430
+Numero audio usado: 1288
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST195] Rey de los Mares
+Tipo: QUEST
+NPC asociado: NPC1008
+Fecha: Fri 05/08/2026 07:08:03.871
+Numero audio usado: 1289
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST195] Rey de los Mares
+Tipo: QUEST
+NPC asociado: NPC1008
+Fecha: Fri 05/08/2026 07:08:07.870
+Numero audio usado: 1290
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1009] Maelgor <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:08:16.409
+Numero audio usado: 985
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST28] Astillas de Sangre y Madera
+Tipo: QUEST
+NPC asociado: NPC1009
+Fecha: Fri 05/08/2026 07:08:37.080
+Numero audio usado: 1291
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST28] Astillas de Sangre y Madera
+Tipo: QUEST
+NPC asociado: NPC1009
+Fecha: Fri 05/08/2026 07:08:45.107
+Numero audio usado: 1292
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1010] Eltherion <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:08:52.616
+Numero audio usado: 986
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST288] Ecos del Bosque Profano
+Tipo: QUEST
+NPC asociado: NPC1010
+Fecha: Fri 05/08/2026 07:09:36.453
+Numero audio usado: 1293
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST288] Ecos del Bosque Profano
+Tipo: QUEST
+NPC asociado: NPC1010
+Fecha: Fri 05/08/2026 07:10:03.956
+Numero audio usado: 1294
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1011] Mortivar <Quest>
+Tipo: NPC
+Fecha: Fri 05/08/2026 07:10:10.281
+Numero audio usado: 987
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST288] Ecos del Bosque Profano
+Tipo: QUEST
+NPC asociado: NPC1011
+Fecha: Fri 05/08/2026 07:10:53.956
+Numero audio usado: 1295
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST288] Ecos del Bosque Profano
+Tipo: QUEST
+NPC asociado: NPC1011
+Fecha: Fri 05/08/2026 07:11:23.284
+Numero audio usado: 1296
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1083] Clarice Coraza <Forjadora Experta>
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:01:17.809
+Numero audio usado: 861
+Voice ID: flHkNRp1BlvT73UL6gyz
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1083] Clarice Coraza <Forjadora Experta>
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:01:22.168
+Numero audio usado: 862
+Voice ID: flHkNRp1BlvT73UL6gyz
+Campo texto: DescClose
+Campo audio: SoundClose
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC11] Seraphia <Quest>
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:02:13.879
+Numero audio usado: 712
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST2] Primeros pasos en la Alquimia
+Tipo: QUEST
+NPC asociado: NPC11
+Fecha: Wed 05/13/2026 10:02:18.883
+Numero audio usado: 1050
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST2] Primeros pasos en la Alquimia
+Tipo: QUEST
+NPC asociado: NPC11
+Fecha: Wed 05/13/2026 10:02:22.480
+Numero audio usado: 1051
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC19] Lyra <Quest>
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:03:07.100
+Numero audio usado: 947
+Voice ID: oE9b8jFugLgWaRosYzRh
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST320] Resonancia anómala
+Tipo: QUEST
+NPC asociado: NPC19
+Fecha: Wed 05/13/2026 10:03:23.802
+Numero audio usado: 1119
+Voice ID: oE9b8jFugLgWaRosYzRh
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST320] Resonancia anómala
+Tipo: QUEST
+NPC asociado: NPC19
+Fecha: Wed 05/13/2026 10:03:29.579
+Numero audio usado: 1120
+Voice ID: oE9b8jFugLgWaRosYzRh
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC58] Stavros <Tabernero>
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:03:42.119
+Numero audio usado: 601
+Voice ID: kkPJzQOWz2Oz9cUaEaQd
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC47] Alquimista Caótico
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:04:30.342
+Numero audio usado: 956
+Voice ID: Rm14i2uPTqCL0k0wW7KI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC126] Pescadora
+Tipo: NPC
+Fecha: Wed 05/13/2026 10:07:54.582
+Numero audio usado: 963
+Voice ID: RILOU7YmBhvwJGDGjNmP
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC47] Alquimista Caótico
+Tipo: NPC
+Fecha: Wed 05/13/2026 12:51:45.841
+Numero audio usado: 956
+Voice ID: aTTiK3YzK3dXETpuDE2h
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC46] Alquimista Real
+Tipo: NPC
+Fecha: Wed 05/13/2026 12:52:57.345
+Numero audio usado: 955
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC89] Tancredo <Rey de Banderbill>
+Tipo: NPC
+Fecha: Wed 05/13/2026 12:53:28.656
+Numero audio usado: 960
+Voice ID: JBFqnCBsd6RMkjVDRZzb
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC90] Zarok <Rey de Arkhein>
+Tipo: NPC
+Fecha: Wed 05/13/2026 12:54:18.200
+Numero audio usado: 961
+Voice ID: N2lVS1w4EtoT3dr4eOWO
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC58] Stavros <Tabernero>
+Tipo: NPC
+Fecha: Tue 06/09/2026 19:42:29.809
+Numero audio usado: 601
+Voice ID: vZzlAds9NzvLsFSWp0qk
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1132] Marie <Herrera>
+Tipo: NPC
+Fecha: Tue 06/09/2026 19:44:59.862
+Numero audio usado: 700
+Voice ID: kkPJzQOWz2Oz9cUaEaQd
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC5] Daniel <Provisiones>
+Tipo: NPC
+Fecha: Tue 06/09/2026 19:45:58.811
+Numero audio usado: 601
+Voice ID: 4ClPfGRNxnfy7Zzp4OId
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC55] Thaladir <Carpintero>
+Tipo: NPC
+Fecha: Tue 06/09/2026 19:47:38.367
+Numero audio usado: 958
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1012] Tiberius <Equipamiento Legionario>
+Tipo: NPC
+Fecha: Sat 06/13/2026 06:57:01.335
+Numero audio usado: 889
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST66] Escudo Legionario
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 06:57:19.389
+Numero audio usado: 1104
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1012] Tiberius <Equipamiento Legionario>
+Tipo: NPC
+Fecha: Sat 06/13/2026 06:59:05.497
+Numero audio usado: 889
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST66] Escudo Legionario
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 06:59:24.523
+Numero audio usado: 1104
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST105] Escudo Legionario
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 06:59:42.348
+Numero audio usado: 701
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST340] La disputa de las Islas
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 07:00:19.196
+Numero audio usado: 702
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST340] La disputa de las Islas
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 07:00:31.554
+Numero audio usado: 703
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST386] Reducir las Fuerzas
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 07:00:45.778
+Numero audio usado: 704
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST386] Reducir las Fuerzas
+Tipo: QUEST
+NPC asociado: NPC1012
+Fecha: Sat 06/13/2026 07:00:53.899
+Numero audio usado: 705
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Campo texto: DescFinal
+Campo audio: DescFinalAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1013] Ezzyr <Equipamiento Real>
+Tipo: NPC
+Fecha: Sat 06/13/2026 07:00:57.569
+Numero audio usado: 890
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: SoundOpen
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST68] Escudo Real
+Tipo: QUEST
+NPC asociado: NPC1013
+Fecha: Sat 06/13/2026 07:01:09.299
+Numero audio usado: 706
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+
+================================
+[QUEST94] Escudo Real
+Tipo: QUEST
+NPC asociado: NPC1013
+Fecha: Sat 06/13/2026 07:01:21.647
+Numero audio usado: 707
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Campo texto: Desc
+Campo audio: DescAudio
+Idiomas: es, en
+-------------------------------
+

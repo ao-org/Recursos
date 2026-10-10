@@ -1,3 +1,6 @@
+[GUILDLEVELS]
+MaxGuildLevel=8
+
 [GUILDEXP]
 GuildExpLevel1=750
 GuildExpLevel2=1500
@@ -5,16 +8,18 @@ GuildExpLevel3=3000
 GuildExpLevel4=6000
 GuildExpLevel5=12000
 GuildExpLevel6=24000
-GuildExpLevel7=
+GuildExpLevel7=48000
+GuildExpLevel8=
 
 [MEMBERSBYLEVEL]
 GuildMembersLevel1=3
-GuildMembersLevel2=5
-GuildMembersLevel3=7
-GuildMembersLevel4=9
-GuildMembersLevel5=11	
-GuildMembersLevel6=13
-GuildMembersLevel7=15
+GuildMembersLevel2=4
+GuildMembersLevel3=5
+GuildMembersLevel4=8
+GuildMembersLevel5=9	
+GuildMembersLevel6=10
+GuildMembersLevel7=11
+GuildMembersLevel8=12
 
 [GUILDREWARDS]
 CallSupportRequiredLevel=3
@@ -30,3 +35,4 @@ PriceAcceptMemberGuildLevel4=2000
 PriceAcceptMemberGuildLevel5=3000
 PriceAcceptMemberGuildLevel6=4500
 PriceAcceptMemberGuildLevel7=6000
+PriceAcceptMemberGuildLevel8=9000

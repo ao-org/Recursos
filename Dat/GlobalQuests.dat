@@ -11,7 +11,7 @@ GlobalQuestGatheringThresholdNeeded=100 in quests.dat is the AMOUNT of items nee
 'For more info https://github.com/ao-org/argentum-online-server/pull/1134
 
 [INIT]
-NumGlobalQuest=1
+NumGlobalQuest=4
 
 [GlobalQuest1]
 Name=Rescatando la Navidad
@@ -27,3 +27,48 @@ FinishOnThresholdReach=0
 StartDate=2025-12-23 21:00:00
 EndDate=2026-01-01 21:00:00
 ObjectIndex=6233
+
+[GlobalQuest2]
+Name=Purificando Banderbill
+GatheringThreshold=300000
+GatheringInitialInstallments=10000
+BossSpawnMap=334
+BossSpawnPositionBottomRightX=55
+BossSpawnPositionBottomRightY=50
+BossSpawnPositionTopLeftX=46
+BossSpawnPositionTopLeftY=36
+BossIndex=1376
+FinishOnThresholdReach=1
+StartDate=2026-04-11 15:00:00
+EndDate=2026-04-25 15:00:00
+ObjectIndex=6256
+
+[GlobalQuest3]
+Name=Purgando Arkhein
+GatheringThreshold=300000
+GatheringInitialInstallments=10000
+BossSpawnMap=334
+BossSpawnPositionBottomRightX=45
+BossSpawnPositionBottomRightY=71
+BossSpawnPositionTopLeftX=55
+BossSpawnPositionTopLeftY=88
+BossIndex=1376
+FinishOnThresholdReach=1
+StartDate=2026-04-11 15:00:00
+EndDate=2026-04-25 15:00:00
+ObjectIndex=6256
+
+[GlobalQuest4]
+Name=Se Avecina una Tormenta
+GatheringThreshold=350000
+GatheringInitialInstallments=10000
+BossSpawnMap=598
+BossSpawnPositionBottomRightX=87
+BossSpawnPositionBottomRightY=28
+BossSpawnPositionTopLeftX=51
+BossSpawnPositionTopLeftY=11
+BossIndex=860-861-858-569-859
+FinishOnThresholdReach=0
+StartDate=2026-09-18 21:00:00
+EndDate=2026-10-5 23:00:00
+ObjectIndex=1046

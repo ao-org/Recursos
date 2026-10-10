@@ -1,0 +1,2408 @@
+================================
+[NPC56] Eldrin <Armero de Eldoria>
+Fecha: Sat 07/19/2025 10:28:16.550
+Numero inicial de WAV: 2197
+Voice ID usado: Lx8FLpMdqPr5gyGNDtNf
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC56] Eldrin <Armero de Eldoria>
+Fecha: Sat 07/19/2025 10:29:44.783
+Numero inicial de WAV: 2192
+Voice ID usado: Lx8FLpMdqPr5gyGNDtNf
+Tipo de sonido: SoundClose
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC15] Joseph <Mercader>
+Fecha: Sun 07/20/2025 23:59:48.690
+Numero inicial de WAV: 600
+Voice ID usado: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC5] Daniel <Tabernero>
+Fecha: Mon 07/21/2025 00:02:36.218
+Numero inicial de WAV: 601
+Voice ID usado: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC1086] Halving <Carpintero>
+Fecha: Mon 07/21/2025 00:08:45.207
+Numero inicial de WAV: 845
+Voice ID usado: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC56] Eldrin <Armero de Eldoria>
+Fecha: Mon 07/21/2025 07:12:31.016
+Numero inicial de WAV: 2197
+Voice ID usado: Lx8FLpMdqPr5gyGNDtNf
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC56] Eldrin <Armero de Eldoria>
+Fecha: Mon 07/21/2025 07:15:03.133
+Numero inicial de WAV: 2192
+Voice ID usado: Lx8FLpMdqPr5gyGNDtNf
+Tipo de sonido: SoundClose
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC24] Liliana <Alquimias de Principiante>
+Fecha: Mon 07/21/2025 20:10:16.063
+Numero inicial de WAV: 846
+Voice ID usado: 9bDwPIakVNJ6w1nZOeRD
+Tipo de sonido: SoundOpen
+Texto tomado desde npcs.dat
+-------------------------------
+
+================================
+[NPC24] Liliana <Alquimias de Principiante>
+Fecha: Mon 07/21/2025 20:10:25.975
+Numero WAV usado: 846
+Voice ID: 9bDwPIakVNJ6w1nZOeRD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC24] Liliana <Alquimias de Principiante>
+Fecha: Mon 07/21/2025 20:10:32.728
+Numero WAV usado: 847
+Voice ID: 9bDwPIakVNJ6w1nZOeRD
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1248] Akiria <Alquimia del Desierto>
+Fecha: Mon 07/21/2025 22:48:35.619
+Numero WAV usado: 848
+Voice ID: JEzse6GMhKZ6wrVNFZTq
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1248] Akiria <Alquimia del Desierto>
+Fecha: Mon 07/21/2025 22:48:42.212
+Numero WAV usado: 849
+Voice ID: JEzse6GMhKZ6wrVNFZTq
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1273] Erika <Alquimista de Forgat>
+Fecha: Mon 07/21/2025 22:56:45.350
+Numero WAV usado: 850
+Voice ID: VD1if7jDVYtAKs4P0FIY
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1273] Erika <Alquimista de Forgat>
+Fecha: Mon 07/21/2025 22:56:51.984
+Numero WAV usado: 851
+Voice ID: VD1if7jDVYtAKs4P0FIY
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1343] Thessalia <Alquimista de Eldoria>
+Fecha: Mon 07/21/2025 22:59:51.722
+Numero WAV usado: 852
+Voice ID: 7NsaqHdLuKNFvEfjpUno
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1343] Thessalia <Alquimista de Eldoria>
+Fecha: Mon 07/21/2025 22:59:59.389
+Numero WAV usado: 853
+Voice ID: 7NsaqHdLuKNFvEfjpUno
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC2] Sacerdote Malvado
+Fecha: Mon 07/21/2025 23:03:50.321
+Numero WAV usado: 854
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC3] Banquero <Finanzas Goliath>
+Fecha: Mon 07/21/2025 23:05:19.111
+Numero WAV usado: 602
+Voice ID: z3kTTwYbQrmL7ckdGcJi
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC3] Banquero <Finanzas Goliath>
+Fecha: Mon 07/21/2025 23:05:25.778
+Numero WAV usado: 609
+Voice ID: z3kTTwYbQrmL7ckdGcJi
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC84] Irnk <Provisiones>
+Fecha: Mon 07/21/2025 23:08:19.561
+Numero WAV usado: 855
+Voice ID: 2ajXGJNYBR0iNHpS4VZb
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC84] Irnk <Provisiones>
+Fecha: Mon 07/21/2025 23:08:26.151
+Numero WAV usado: 856
+Voice ID: 2ajXGJNYBR0iNHpS4VZb
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC98] Nargog <Finanzas Goliath>
+Fecha: Mon 07/21/2025 23:10:20.934
+Numero WAV usado: 602
+Voice ID: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC98] Nargog <Finanzas Goliath>
+Fecha: Mon 07/21/2025 23:10:26.672
+Numero WAV usado: 609
+Voice ID: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1083] Khor <Herrero>
+Fecha: Tue 07/22/2025 06:31:07.083
+Numero WAV usado: 2200
+Voice ID: IRHApOXLvnW57QJPQH2P
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1083] Khor <Herrero>
+Fecha: Tue 07/22/2025 06:31:13.930
+Numero WAV usado: 2201
+Voice ID: IRHApOXLvnW57QJPQH2P
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC8] Fevien <Provisiones>
+Fecha: Tue 07/22/2025 06:35:11.970
+Numero WAV usado: 605
+Voice ID: T5cu6IU92Krx4mh43osx
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC8] Fevien <Provisiones>
+Fecha: Tue 07/22/2025 06:35:19.453
+Numero WAV usado: 607
+Voice ID: T5cu6IU92Krx4mh43osx
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1128] Neron <Armero>
+Fecha: Tue 07/22/2025 06:37:58.571
+Numero WAV usado: 857
+Voice ID: wyWA56cQNU2KqUW4eCsI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1128] Neron <Armero>
+Fecha: Tue 07/22/2025 06:38:05.659
+Numero WAV usado: 858
+Voice ID: wyWA56cQNU2KqUW4eCsI
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1132] Marie <Herrera de Lindos>
+Fecha: Tue 07/22/2025 06:39:29.138
+Numero WAV usado: 859
+Voice ID: wyWA56cQNU2KqUW4eCsI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1132] Marie <Herrera de Lindos>
+Fecha: Tue 07/22/2025 06:39:35.990
+Numero WAV usado: 860
+Voice ID: wyWA56cQNU2KqUW4eCsI
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1082] Orke <Herrero>
+Fecha: Tue 07/22/2025 06:41:00.747
+Numero WAV usado: 2200
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1082] Orke <Herrero>
+Fecha: Tue 07/22/2025 06:41:07.889
+Numero WAV usado: 2201
+Voice ID: SKjgN71N3MeGl4r2JbRt
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1083] Khor <Herrero>
+Fecha: Tue 07/22/2025 06:42:18.736
+Numero WAV usado: 861
+Voice ID: hIssydxXZ1WuDorjx6Ic
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1083] Khor <Herrero>
+Fecha: Tue 07/22/2025 06:42:25.876
+Numero WAV usado: 862
+Voice ID: hIssydxXZ1WuDorjx6Ic
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1268] Vendedor
+Fecha: Tue 07/22/2025 06:43:49.732
+Numero WAV usado: 863
+Voice ID: lnieQLGTodpbhjpZtg1k
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1268] Vendedor
+Fecha: Tue 07/22/2025 06:43:56.996
+Numero WAV usado: 864
+Voice ID: lnieQLGTodpbhjpZtg1k
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC92] Ofelia <Quest>
+Fecha: Tue 07/22/2025 08:17:49.392
+Numero WAV usado: 865
+Voice ID: VD1if7jDVYtAKs4P0FIY
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1005] Yoel <Quest>
+Fecha: Tue 07/22/2025 08:19:33.442
+Numero WAV usado: 866
+Voice ID: Lx8FLpMdqPr5gyGNDtNf
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1060] Sergio <Monturas>
+Fecha: Tue 07/22/2025 08:20:34.630
+Numero WAV usado: 867
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1061] Fabian <Monturas>
+Fecha: Tue 07/22/2025 08:22:33.474
+Numero WAV usado: 868
+Voice ID: 4p5WXd3ZuWR9pPtRQuxC
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1062] Christian <Monturas>
+Fecha: Tue 07/22/2025 08:23:21.889
+Numero WAV usado: 869
+Voice ID: 4p5WXd3ZuWR9pPtRQuxC
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1063] Marcelo <Monturas>
+Fecha: Tue 07/22/2025 08:24:21.780
+Numero WAV usado: 870
+Voice ID: aTTiK3YzK3dXETpuDE2h
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1064] Guido <Monturas>
+Fecha: Tue 07/22/2025 08:25:08.417
+Numero WAV usado: 871
+Voice ID: tS45q0QcrDHqHoaWdCDR
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1115] Thorgin
+Fecha: Tue 07/22/2025 08:26:53.781
+Numero WAV usado: 786
+Voice ID: 4ClPfGRNxnfy7Zzp4OId
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC120] Talador <Wiki>
+Fecha: Tue 07/22/2025 11:20:43.187
+Numero WAV usado: 872
+Voice ID: mQS95w8LbLFsF6QihxDH
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC121] Carpintero <Wiki>
+Fecha: Tue 07/22/2025 11:26:13.239
+Numero WAV usado: 873
+Voice ID: cgLpYGyXZhkyalKZ0xeZ
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC122] Herrero <Wiki>
+Fecha: Tue 07/22/2025 11:26:48.785
+Numero WAV usado: 874
+Voice ID: rHWSYoq8UlV0YIBKMryp
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC124] Alquimista <Wiki>
+Fecha: Tue 07/22/2025 11:28:21.299
+Numero WAV usado: 876
+Voice ID: NYWrFripBFztqHdZlGg8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC125] Sastre <Wiki>
+Fecha: Tue 07/22/2025 11:29:40.444
+Numero WAV usado: 877
+Voice ID: 6IwYbsNENZgAB1dtBZDp
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC123] Minero <Wiki>
+Fecha: Tue 07/22/2025 11:30:31.673
+Numero WAV usado: 875
+Voice ID: wo6udizrrtpIxWGp2qJk
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC13] Herrador
+Fecha: Tue 07/22/2025 11:50:23.694
+Numero WAV usado: 878
+Voice ID: cYFZSlrM2dt21SlCIokN
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC250] Robert <Gobernador de Ullathorpe>
+Fecha: Tue 07/22/2025 12:15:27.180
+Numero WAV usado: 879
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC251] Conrad <Gobernador de Nix>
+Fecha: Tue 07/22/2025 12:16:02.354
+Numero WAV usado: 880
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC252] Maximus <Gobernador de Banderbill>
+Fecha: Tue 07/22/2025 12:16:51.823
+Numero WAV usado: 881
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC253] Domus <Gobernador de Arkhein>
+Fecha: Tue 07/22/2025 12:17:23.251
+Numero WAV usado: 882
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC255] Lady Ã‰lanor <Gobernadora de Arghal>
+Fecha: Tue 07/22/2025 12:19:28.046
+Numero WAV usado: 884
+Voice ID: CHPhef6gfFNOkEUe49Yz
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC254] Vanessa <Gobernadora de Lindos>
+Fecha: Tue 07/22/2025 12:26:34.352
+Numero WAV usado: 883
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC401] Pedestal
+Fecha: Tue 07/22/2025 17:18:17.648
+Numero WAV usado: 885
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC403] Galgo <Quest>
+Fecha: Tue 07/22/2025 17:19:45.496
+Numero WAV usado: 725
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC413] Galar
+Fecha: Tue 07/22/2025 17:19:52.440
+Numero WAV usado: 886
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC420] Cold <Ciudadano de Eleusis>
+Fecha: Tue 07/22/2025 17:20:00.877
+Numero WAV usado: 887
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC600] Louise
+Fecha: Tue 07/22/2025 17:20:07.642
+Numero WAV usado: 888
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1012] Tiberius <Equipamiento Legionario>
+Fecha: Tue 07/22/2025 17:20:19.409
+Numero WAV usado: 889
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1013] Ezzyr <Equipamiento Real>
+Fecha: Tue 07/22/2025 17:20:28.531
+Numero WAV usado: 890
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1067] Celeris <Jinetero>
+Fecha: Tue 07/22/2025 17:20:50.914
+Numero WAV usado: 891
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1232] Brendall
+Fecha: Tue 07/22/2025 17:21:01.489
+Numero WAV usado: 892
+Voice ID: tUVMjP56ZNYXlKLsRXbo
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC424] Eldariel <Quest>
+Fecha: Tue 07/22/2025 21:29:28.606
+Numero WAV usado: 739
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC427] Zero <Quest>
+Fecha: Tue 07/22/2025 21:30:51.676
+Numero WAV usado: 893
+Voice ID: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC255] Lady Ã‰lanor <Gobernadora de Arghal>
+Fecha: Wed 07/23/2025 11:53:33.153
+Numero WAV usado: 884
+Voice ID: g10k86KeEUyBqW9lcKYg
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1] Sacerdote
+Fecha: Wed 07/23/2025 11:59:27.502
+Numero WAV usado: 836
+Voice ID: 7p1Ofvcwsv7UBPoFNcpI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC421] Eira <Quest>
+Fecha: Wed 07/23/2025 12:04:06.274
+Numero WAV usado: 737
+Voice ID: x5IDPSl4ZUbhosMmVFTk
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC415] Heather <Quest>
+Fecha: Wed 07/23/2025 12:05:07.318
+Numero WAV usado: 735
+Voice ID: JEzse6GMhKZ6wrVNFZTq
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC415] Heather <Quest>
+Fecha: Wed 07/23/2025 12:05:59.371
+Numero WAV usado: 735
+Voice ID: Hqf0NM4rlaGcpvV3XxsI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC415] Heather <Quest>
+Fecha: Wed 07/23/2025 12:06:58.194
+Numero WAV usado: 735
+Voice ID: x5IDPSl4ZUbhosMmVFTk
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC15] Joseph <Mercader>
+Fecha: Wed 07/23/2025 14:55:01.493
+Numero WAV usado: 600
+Voice ID: hqEPCg9GXahfwPfWiK84
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC102] Mildred <Hechicero>
+Fecha: Wed 07/23/2025 15:10:36.854
+Numero WAV usado: 894
+Voice ID: KqSsYz0buWgkvSbaGn1n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1081] Amarie <Sastre>
+Fecha: Wed 07/23/2025 15:30:59.782
+Numero WAV usado: 702
+Voice ID: p4w8j6zCUDJ0nGJ3okKs
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1081] Amarie <Sastre>
+Fecha: Wed 07/23/2025 15:31:05.623
+Numero WAV usado: 703
+Voice ID: p4w8j6zCUDJ0nGJ3okKs
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1080] Rethor <Sastre>
+Fecha: Wed 07/23/2025 15:40:21.142
+Numero WAV usado: 895
+Voice ID: CcdlbriUyto64GgLEqRP
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1080] Rethor <Sastre>
+Fecha: Wed 07/23/2025 15:40:30.496
+Numero WAV usado: 896
+Voice ID: CcdlbriUyto64GgLEqRP
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1116] Valdemar
+Fecha: Tue 07/29/2025 16:08:28.100
+Numero WAV usado: 897
+Voice ID: FrrTxu4nrplZwLlMy2kD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1116] Valdemar
+Fecha: Tue 07/29/2025 16:09:40.093
+Numero WAV usado: 897
+Voice ID: IKne3meq5aSn9XLyUdCD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC653] Entrenador de Combate
+Fecha: Sun 08/03/2025 19:24:31.465
+Numero WAV usado: 898
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC48] Ether <Mercader de Combate>
+Fecha: Mon 08/04/2025 08:14:23.650
+Numero WAV usado: 899
+Voice ID: cgLpYGyXZhkyalKZ0xeZ
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1091] Pablo
+Fecha: Mon 08/04/2025 08:19:03.355
+Numero WAV usado: 900
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1276] Adelle <Tabernera de Forgat>
+Fecha: Mon 08/04/2025 08:23:02.467
+Numero WAV usado: 901
+Voice ID: JEzse6GMhKZ6wrVNFZTq
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1276] Adelle <Tabernera de Forgat>
+Fecha: Mon 08/04/2025 08:24:14.173
+Numero WAV usado: 901
+Voice ID: VD1if7jDVYtAKs4P0FIY
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1279] Hilda <Provisiones de Forgat>
+Fecha: Mon 08/04/2025 08:26:08.884
+Numero WAV usado: 902
+Voice ID: kkPJzQOWz2Oz9cUaEaQd
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1274] Pandora <Hechicera de Forgat>
+Fecha: Mon 08/04/2025 08:28:09.660
+Numero WAV usado: 903
+Voice ID: Rm14i2uPTqCL0k0wW7KI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1275] Euridice <Hechicera de Forgat>
+Fecha: Mon 08/04/2025 08:30:52.724
+Numero WAV usado: 904
+Voice ID: wBnAJRbu3cj93gnAm02O
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1289] Xanthe <Sacerdotisa de Forgat>
+Fecha: Mon 08/04/2025 08:37:45.637
+Numero WAV usado: 905
+Voice ID: xNtG3W2oqJs0cJZuTyBc
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1278] Susan <Carpintera de Forgat>
+Fecha: Mon 08/04/2025 08:40:16.947
+Numero WAV usado: 906
+Voice ID: 9bDwPIakVNJ6w1nZOeRD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1039] Sven <Sastre>
+Fecha: Sat 08/09/2025 09:15:30.501
+Numero WAV usado: 907
+Voice ID: 4ClPfGRNxnfy7Zzp4OId
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1143] Fenrir
+Fecha: Sat 08/09/2025 09:19:36.723
+Numero WAV usado: 908
+Voice ID: 4p5WXd3ZuWR9pPtRQuxC
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1143] Fenrir
+Fecha: Sat 08/09/2025 09:21:38.606
+Numero WAV usado: 909
+Voice ID: 4p5WXd3ZuWR9pPtRQuxC
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1143] Fenrir
+Fecha: Sat 08/09/2025 09:23:07.919
+Numero WAV usado: 909
+Voice ID: 4p5WXd3ZuWR9pPtRQuxC
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1131] Galving <Carpintero Experto>
+Fecha: Sat 08/09/2025 09:24:37.890
+Numero WAV usado: 910
+Voice ID: z3kTTwYbQrmL7ckdGcJi
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1130] Therwin <Experto en Magia>
+Fecha: Sat 08/09/2025 09:53:44.528
+Numero WAV usado: 911
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC256] Norep <Gobernador de Forgat>
+Fecha: Sun 08/10/2025 02:46:58.063
+Numero WAV usado: 912
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC257] Evath <Gobernadora de Eldoria>
+Fecha: Sun 08/10/2025 02:47:40.045
+Numero WAV usado: 913
+Voice ID: XrExE9yKIg1WjnnlVkGX
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC257] Haleth <Gobernadora de Eldoria>
+Fecha: Sat 08/23/2025 11:31:12.067
+Numero WAV usado: 913
+Voice ID: 21m00Tcm4TlvDq8ikWAM
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC257] Dhall <Gobernadora de Penthar>
+Fecha: Sat 08/23/2025 11:31:17.865
+Numero WAV usado: 913
+Voice ID: 21m00Tcm4TlvDq8ikWAM
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC257] Haleth <Gobernadora de Eldoria>
+Fecha: Sat 08/23/2025 11:36:33.118
+Numero WAV usado: 913
+Voice ID: EXAVITQu4vr4xnSDxMaL
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC258] Dhall <Gobernadora de Penthar>
+Fecha: Sat 08/23/2025 11:37:06.087
+Numero WAV usado: 913
+Voice ID: SAz9YHcvj6GT2YYXdXww
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC257] Haleth <Gobernadora de Eldoria>
+Fecha: Sat 08/23/2025 11:42:06.669
+Numero WAV usado: 914
+Voice ID: XrExE9yKIg1WjnnlVkGX
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC3] Banquero <Finanzas Goliath>
+Fecha: Tue 09/02/2025 10:30:45.002
+Numero WAV usado: 915
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC3] Banquero <Finanzas Goliath>
+Fecha: Tue 09/02/2025 10:30:51.130
+Numero WAV usado: 916
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC98] Nargog <Finanzas Goliath>
+Fecha: Tue 09/02/2025 10:31:40.984
+Numero WAV usado: 917
+Voice ID: cjVigY5qzO86Huf0OWal
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC98] Nargog <Finanzas Goliath>
+Fecha: Tue 09/02/2025 10:31:48.020
+Numero WAV usado: 918
+Voice ID: cjVigY5qzO86Huf0OWal
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1272] Banquera <Finanzas Goliath Internacional>
+Fecha: Tue 09/02/2025 10:32:22.592
+Numero WAV usado: 919
+Voice ID: cgSgspJ2msm6clMCkdW9
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1501] Sastre Real
+Fecha: Wed 04/01/2026 11:21:03.271
+Numero audio usado: 934
+Voice ID: Av4Fi2idMFuA8kTbVZgv
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1501] Sastre Real
+Fecha: Wed 04/01/2026 11:30:33.386
+Numero audio usado: 934
+Voice ID: Av4Fi2idMFuA8kTbVZgv
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1501] Sastre Real
+Fecha: Wed 04/01/2026 11:32:39.179
+Numero audio usado: 934
+Voice ID: Av4Fi2idMFuA8kTbVZgv
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1501] Sastre Real
+Fecha: Wed 04/01/2026 11:35:36.165
+Numero audio usado: 934
+Voice ID: wWWn96OtTHu1sn8SRGEr
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1501] Sastre Real
+Fecha: Wed 04/01/2026 11:36:28.807
+Numero audio usado: 934
+Voice ID: CwhRBWXzGAHq8TQ4Fs17
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1549] Mercader <Facciones>
+Fecha: Wed 04/01/2026 11:37:55.463
+Numero audio usado: 935
+Voice ID: CwhRBWXzGAHq8TQ4Fs17
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1550] Armero Legionario
+Fecha: Wed 04/01/2026 11:38:27.289
+Numero audio usado: 936
+Voice ID: CwhRBWXzGAHq8TQ4Fs17
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1551] Sastre Legionario
+Fecha: Wed 04/01/2026 11:39:28.119
+Numero audio usado: 937
+Voice ID: JBFqnCBsd6RMkjVDRZzb
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1599] Mercader <Facciones>
+Fecha: Wed 04/01/2026 11:40:18.775
+Numero audio usado: 938
+Voice ID: JBFqnCBsd6RMkjVDRZzb
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1605] Olaf <Quest>
+Fecha: Wed 04/01/2026 11:41:11.079
+Numero audio usado: 939
+Voice ID: iP95p4xoKVk53GoZ742B
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1635] Arkhavel <Tejedor>
+Fecha: Wed 04/01/2026 11:42:18.662
+Numero audio usado: 940
+Voice ID: iP95p4xoKVk53GoZ742B
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1636] Lyren <Maestra Telar>
+Fecha: Wed 04/01/2026 11:42:56.990
+Numero audio usado: 941
+Voice ID: FGY2WhTYpPnrIDTdsKH5
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1637] Eldarik <GuardiÃ¡n MÃ­tico>
+Fecha: Wed 04/01/2026 11:43:47.576
+Numero audio usado: 942
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC14] Thorek <Minero Experto>
+Fecha: Wed 04/01/2026 12:23:31.636
+Numero audio usado: 943
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC16] Vhalek <Mercader del Muelle>
+Fecha: Wed 04/01/2026 12:25:41.582
+Numero audio usado: 944
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC17] Sacerdote Carcelario
+Fecha: Wed 04/01/2026 12:26:49.741
+Numero audio usado: 945
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC18] Rusk <Preso>
+Fecha: Wed 04/01/2026 12:27:15.362
+Numero audio usado: 946
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC19] Lyra <Quest>
+Fecha: Wed 04/01/2026 12:27:27.235
+Numero audio usado: 947
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC20] Roth <Quest>
+Fecha: Wed 04/01/2026 12:27:37.873
+Numero audio usado: 948
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC21] Bromdir <Quest>
+Fecha: Wed 04/01/2026 12:27:57.382
+Numero audio usado: 949
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC22] Guardia de Arena
+Fecha: Wed 04/01/2026 12:28:12.395
+Numero audio usado: 950
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC23] Guardia de Arena
+Fecha: Wed 04/01/2026 12:28:24.766
+Numero audio usado: 951
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC25] Godwin <Mercader de Monturas>
+Fecha: Wed 04/01/2026 12:28:33.160
+Numero audio usado: 952
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC27] Guardia de Arena
+Fecha: Wed 04/01/2026 12:28:43.374
+Numero audio usado: 953
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC28] Vendedor de Pasajes
+Fecha: Wed 04/01/2026 12:28:52.915
+Numero audio usado: 954
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC46] Alquimista Real
+Fecha: Wed 04/01/2026 12:28:57.366
+Numero audio usado: 955
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC47] Alquimista CaÃ³tico
+Fecha: Wed 04/01/2026 12:29:01.079
+Numero audio usado: 956
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC50] Sastre Faccionario
+Fecha: Wed 04/01/2026 12:29:09.132
+Numero audio usado: 957
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC55] Thaladir <Carpintero>
+Fecha: Wed 04/01/2026 12:29:12.853
+Numero audio usado: 958
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC97] Shaman Yarl
+Fecha: Wed 04/01/2026 12:29:16.657
+Numero audio usado: 959
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC100] Therona <Tabernera>
+Fecha: Wed 04/01/2026 12:35:51.113
+Numero audio usado: 952
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC100] Therona <Tabernera>
+Fecha: Wed 04/01/2026 12:35:55.698
+Numero audio usado: 953
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC101] Daena <Provisiones>
+Fecha: Wed 04/01/2026 12:36:00.483
+Numero audio usado: 955
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC101] Daena <Provisiones>
+Fecha: Wed 04/01/2026 12:36:07.426
+Numero audio usado: 956
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC105] Durrot <Mercader>
+Fecha: Wed 04/01/2026 12:36:12.151
+Numero audio usado: 957
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC107] CapitÃ¡n Rowen <Quest>
+Fecha: Wed 04/01/2026 12:36:17.612
+Numero audio usado: 958
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC108] Branik <Quest>
+Fecha: Wed 04/01/2026 12:36:22.997
+Numero audio usado: 959
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC109] Eldric <Quest>
+Fecha: Wed 04/01/2026 12:36:26.803
+Numero audio usado: 960
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC113] Agnome <Quest>
+Fecha: Wed 04/01/2026 12:36:31.386
+Numero audio usado: 961
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC119] Bertram <Quest>
+Fecha: Wed 04/01/2026 12:36:36.182
+Numero audio usado: 962
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC126] Pescadora
+Fecha: Wed 04/01/2026 12:36:40.792
+Numero audio usado: 963
+Voice ID: pqHfZKP75CvOlQylNhV4
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC50] Sastre Faccionario
+Fecha: Wed 04/01/2026 19:37:33.256
+Numero audio usado: 952
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC247] Nundal <Quest>
+Fecha: Wed 04/01/2026 19:47:25.463
+Numero audio usado: 953
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC260] Camello <Quest>
+Fecha: Wed 04/01/2026 19:47:39.106
+Numero audio usado: 955
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC268] Guardian de la MontaÃ±a
+Fecha: Wed 04/01/2026 19:47:47.970
+Numero audio usado: 956
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC269] Guardia de Entradas
+Fecha: Wed 04/01/2026 19:47:56.163
+Numero audio usado: 957
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC276] Arquero Imperial
+Fecha: Wed 04/01/2026 19:48:04.560
+Numero audio usado: 958
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC301] Apostador
+Fecha: Wed 04/01/2026 19:51:05.138
+Numero audio usado: 959
+Voice ID: y7iG0fuCWT5Ix7SuOtZO
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC303] Tancredo <Rey de Banderbill>
+Fecha: Wed 04/01/2026 19:51:20.219
+Numero audio usado: 960
+Voice ID: y7iG0fuCWT5Ix7SuOtZO
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC304] Elanrulk <Rey de Arkhein>
+Fecha: Wed 04/01/2026 19:51:32.888
+Numero audio usado: 961
+Voice ID: y7iG0fuCWT5Ix7SuOtZO
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC306] Defias
+Fecha: Wed 04/01/2026 19:51:42.791
+Numero audio usado: 962
+Voice ID: y7iG0fuCWT5Ix7SuOtZO
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC405] Henry <Quest>
+Fecha: Wed 04/01/2026 19:53:14.883
+Numero audio usado: 963
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC432] Alaric von Nix <Quest>
+Fecha: Wed 04/01/2026 19:53:27.065
+Numero audio usado: 964
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC498] Centinela
+Fecha: Wed 04/01/2026 19:53:40.712
+Numero audio usado: 965
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC499] Centinela
+Fecha: Wed 04/01/2026 19:53:53.971
+Numero audio usado: 966
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC550] Serath <Quest>
+Fecha: Wed 04/01/2026 19:54:16.850
+Numero audio usado: 967
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC562] Rathen <Quest>
+Fecha: Wed 04/01/2026 19:54:30.893
+Numero audio usado: 968
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC571] Delver <Quest>
+Fecha: Wed 04/01/2026 19:54:42.792
+Numero audio usado: 969
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC572] Khemet <Quest>
+Fecha: Wed 04/01/2026 19:55:01.129
+Numero audio usado: 970
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC573] Abdul el Tallador <Quest>
+Fecha: Wed 04/01/2026 19:55:18.375
+Numero audio usado: 971
+Voice ID: Q5rDCVVAJlIudwKxie8n
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC601] Robot
+Fecha: Wed 04/01/2026 19:56:21.564
+Numero audio usado: 972
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC649] Entrenador
+Fecha: Wed 04/01/2026 19:56:34.624
+Numero audio usado: 973
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC651] Vendedor de personajes
+Fecha: Wed 04/01/2026 19:56:46.617
+Numero audio usado: 974
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC682] Viejo libro de Eventos BufÃ³nes
+Fecha: Wed 04/01/2026 19:56:57.637
+Numero audio usado: 975
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC682] Viejo libro de Eventos BufÃ³nes
+Fecha: Wed 04/01/2026 19:57:08.051
+Numero audio usado: 976
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC683] Viejo libro de Eventos
+Fecha: Wed 04/01/2026 19:57:19.106
+Numero audio usado: 977
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC685] Jonas <Tabernero Penthar>
+Fecha: Wed 04/01/2026 19:57:30.287
+Numero audio usado: 601
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC689] Glasyan <Pescador>
+Fecha: Wed 04/01/2026 19:57:40.289
+Numero audio usado: 978
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC987] Thalanor <Quest>
+Fecha: Wed 04/01/2026 19:59:35.262
+Numero audio usado: 979
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC988] Kael el Rastreador <Quest>
+Fecha: Wed 04/01/2026 19:59:49.815
+Numero audio usado: 980
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC993] Isen <Ropaje Invernal>
+Fecha: Wed 04/01/2026 20:00:00.281
+Numero audio usado: 981
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1004] Nargoth <Quest>
+Fecha: Wed 04/01/2026 20:00:12.582
+Numero audio usado: 982
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1006] Aldren <Quest>
+Fecha: Wed 04/01/2026 20:00:25.526
+Numero audio usado: 983
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1007] GuardiÃ¡n de Gulfas
+Fecha: Wed 04/01/2026 20:00:36.088
+Numero audio usado: 984
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1009] Maelgor <Quest>
+Fecha: Wed 04/01/2026 20:00:56.255
+Numero audio usado: 985
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1010] Eltherion <Quest>
+Fecha: Wed 04/01/2026 20:01:12.089
+Numero audio usado: 986
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1011] Mortivar <Quest>
+Fecha: Wed 04/01/2026 22:42:58.202
+Numero audio usado: 987
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1018] Arkan <Quest>
+Fecha: Wed 04/01/2026 22:43:12.504
+Numero audio usado: 988
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1020] Morgrath <Quest>
+Fecha: Wed 04/01/2026 22:43:28.925
+Numero audio usado: 989
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1021] Eldren <Quest>
+Fecha: Wed 04/01/2026 22:43:47.366
+Numero audio usado: 990
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1022] Eldrak <Quest>
+Fecha: Wed 04/01/2026 22:44:06.086
+Numero audio usado: 991
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1023] Sahret <Quest>
+Fecha: Wed 04/01/2026 22:44:32.551
+Numero audio usado: 992
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1024] Vaelor <Quest>
+Fecha: Wed 04/01/2026 22:44:50.053
+Numero audio usado: 993
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1038] Van <Alquimista Inicial>
+Fecha: Wed 04/01/2026 22:47:38.460
+Numero audio usado: 994
+Voice ID: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1058] Elias
+Fecha: Wed 04/01/2026 22:47:48.359
+Numero audio usado: 995
+Voice ID: nScRxDtHf1wg7N5HCR5i
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1069] Anciano Sabio <Quest>
+Fecha: Wed 04/01/2026 22:49:20.251
+Numero audio usado: 996
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1070] Ruma <Sastre Femenino>
+Fecha: Wed 04/01/2026 22:49:34.041
+Numero audio usado: 997
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1088] Leonardo <Pescador>
+Fecha: Wed 04/01/2026 22:49:46.769
+Numero audio usado: 998
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1090] Leo <Pescador>
+Fecha: Wed 04/01/2026 22:49:59.712
+Numero audio usado: 999
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1099] Cleff <Hechicero de Banderbill>
+Fecha: Wed 04/01/2026 22:50:10.582
+Numero audio usado: 1000
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1106] Ligno <Hechicero de Arkhein>
+Fecha: Wed 04/01/2026 22:50:22.451
+Numero audio usado: 1001
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1120] Skabrot <Hechicero de Penthar>
+Fecha: Wed 04/01/2026 22:50:33.567
+Numero audio usado: 1002
+Voice ID: YKrm0N1EAM9Bw27j8kuD
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1124] Dominic <Armero>
+Fecha: Wed 04/01/2026 22:51:26.080
+Numero audio usado: 1003
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1124] Dominic <Armero>
+Fecha: Wed 04/01/2026 22:51:38.266
+Numero audio usado: 1004
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1125] Khyo <Herreria>
+Fecha: Wed 04/01/2026 22:51:50.747
+Numero audio usado: 1005
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1125] Khyo <Herreria>
+Fecha: Wed 04/01/2026 22:52:02.875
+Numero audio usado: 1006
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1127] Khadgar <Hechicero>
+Fecha: Wed 04/01/2026 22:52:12.259
+Numero audio usado: 1007
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1132] Marie <Herrera>
+Fecha: Wed 04/01/2026 22:52:16.523
+Numero audio usado: 1008
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1142] Baradh <Minero>
+Fecha: Wed 04/01/2026 22:52:22.825
+Numero audio usado: 1009
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1145] Dalyor <Habitante de Penthar>
+Fecha: Wed 04/01/2026 22:52:30.407
+Numero audio usado: 1010
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1152] Viejo Libro de Pesca
+Fecha: Wed 04/01/2026 22:52:39.551
+Numero audio usado: 1011
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1154] Fermin
+Fecha: Wed 04/01/2026 22:52:43.667
+Numero audio usado: 1012
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1160] Kael
+Fecha: Wed 04/01/2026 22:52:47.741
+Numero audio usado: 1013
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1161] Serik
+Fecha: Wed 04/01/2026 22:52:51.845
+Numero audio usado: 1014
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1162] Tharion
+Fecha: Wed 04/01/2026 22:52:56.110
+Numero audio usado: 1015
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1163] Vhortenak
+Fecha: Wed 04/01/2026 22:53:01.589
+Numero audio usado: 1016
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1164] Aduin
+Fecha: Wed 04/01/2026 22:53:05.809
+Numero audio usado: 1017
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1166] Aelder <Quest>
+Fecha: Wed 04/01/2026 22:53:10.992
+Numero audio usado: 1018
+Voice ID: 50y2RdLRjpTShM4ZFm5D
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1339] Maestro Entomus <Investigador>
+Fecha: Thu 04/02/2026 06:48:00.454
+Numero audio usado: 1008
+Voice ID: bIHbv24MWmeRgasZH58o
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC46] Alquimista Real
+Fecha: Thu 04/02/2026 07:02:12.756
+Numero audio usado: 955
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1345] Thalin <Hechicera de Eldoria>
+Fecha: Thu 04/02/2026 07:05:29.384
+Numero audio usado: 1009
+Voice ID: wBnAJRbu3cj93gnAm02O
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1350] Golksu <Sacerdotisa>
+Fecha: Thu 04/02/2026 07:07:48.762
+Numero audio usado: 1012
+Voice ID: 4ClPfGRNxnfy7Zzp4OId
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1342] Finrod <Tabernero de Eldoria>
+Fecha: Thu 04/02/2026 07:09:08.767
+Numero audio usado: 1013
+Voice ID: wyWA56cQNU2KqUW4eCsI
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1347] Ghelf <Provisiones de Eldoria>
+Fecha: Thu 04/02/2026 07:09:54.890
+Numero audio usado: 1014
+Voice ID: raMcNf2S8wCmuaBcyI6E
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1341] Faelion <Sastre>
+Fecha: Thu 04/02/2026 07:10:58.935
+Numero audio usado: 1015
+Voice ID: aeO4iNQ9Mgy85I7Ktvya
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1070] Ruma <Sastre Femenino>
+Fecha: Thu 04/02/2026 07:11:47.234
+Numero audio usado: 997
+Voice ID: flHkNRp1BlvT73UL6gyz
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC55] Thaladir <Carpintero>
+Fecha: Thu 04/02/2026 07:14:12.923
+Numero audio usado: 958
+Voice ID: kXpHC0obz5L3u8IPxjL8
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC121] Carpintero <Wiki>
+Fecha: Thu 04/02/2026 07:23:25.022
+Numero audio usado: 873
+Voice ID: lnieQLGTodpbhjpZtg1k
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1142] Baradh <Minero>
+Fecha: Thu 04/02/2026 07:32:23.203
+Numero audio usado: 1009
+Voice ID: 03vEurziQfq3V8WZhQvn
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1142] Baradh <Minero>
+Fecha: Thu 04/02/2026 07:33:09.479
+Numero audio usado: 1009
+Voice ID: tS45q0QcrDHqHoaWdCDR
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1120] Skabrot <Hechicero de Penthar>
+Fecha: Thu 04/02/2026 07:35:46.869
+Numero audio usado: 1002
+Voice ID: kkPJzQOWz2Oz9cUaEaQd
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1146] Brayer
+Fecha: Thu 04/02/2026 07:55:35.678
+Numero audio usado: 1016
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1160] Kael
+Fecha: Thu 04/02/2026 07:55:48.890
+Numero audio usado: 1017
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1161] Serik
+Fecha: Thu 04/02/2026 07:56:02.150
+Numero audio usado: 1018
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1162] Tharion
+Fecha: Thu 04/02/2026 07:56:19.848
+Numero audio usado: 1019
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1163] Vhortenak
+Fecha: Thu 04/02/2026 07:56:37.790
+Numero audio usado: 1020
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1164] Aduin
+Fecha: Thu 04/02/2026 07:56:56.892
+Numero audio usado: 1021
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1171] Pretoria <Quest>
+Fecha: Thu 04/02/2026 07:57:09.095
+Numero audio usado: 1022
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1172] Sheila <Quest>
+Fecha: Thu 04/02/2026 07:57:21.662
+Numero audio usado: 1023
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1173] Viejo Forjador <Quest>
+Fecha: Thu 04/02/2026 07:57:35.540
+Numero audio usado: 1024
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1179] Thirga Brumhilda <Quest>
+Fecha: Thu 04/02/2026 07:58:00.592
+Numero audio usado: 1025
+Voice ID: vFLqXa8bgbofGarf6fZh
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1184] Kargun <Resucitador>
+Fecha: Thu 04/02/2026 08:00:03.498
+Numero audio usado: 1026
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1186] Thargrin <Armero>
+Fecha: Thu 04/02/2026 08:00:14.119
+Numero audio usado: 1027
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1186] Thargrin <Armero>
+Fecha: Thu 04/02/2026 08:00:27.647
+Numero audio usado: 1028
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundClose
+Texto: DescClose
+-------------------------------
+
+================================
+[NPC1187] Borin <Herreria>
+Fecha: Thu 04/02/2026 08:00:38.787
+Numero audio usado: 1029
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1202] April <Propiedades>
+Fecha: Thu 04/02/2026 08:00:54.498
+Numero audio usado: 1030
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1217] Mercader <Shop Patreon>
+Fecha: Thu 04/02/2026 08:01:09.459
+Numero audio usado: 1031
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1231] Kandal
+Fecha: Thu 04/02/2026 08:01:25.769
+Numero audio usado: 1032
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1247] Said <Carpintero>
+Fecha: Thu 04/02/2026 08:01:36.673
+Numero audio usado: 1033
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1249] Gaara <Magia>
+Fecha: Thu 04/02/2026 08:01:48.027
+Numero audio usado: 1034
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1271] Sacerdotisa
+Fecha: Thu 04/02/2026 08:02:05.561
+Numero audio usado: 1035
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1277] Ámora <Pescadora de Forgat>
+Fecha: Thu 04/02/2026 08:02:17.348
+Numero audio usado: 1036
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1293] Olaf <Armero de Forgat>
+Fecha: Thu 04/02/2026 08:02:40.680
+Numero audio usado: 1037
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1306] Valerius <Quest>
+Fecha: Thu 04/02/2026 08:02:56.280
+Numero audio usado: 1038
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1340] Ferrut <Sastre>
+Fecha: Thu 04/02/2026 08:03:09.808
+Numero audio usado: 1039
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1344] Erevan <Hechicera>
+Fecha: Thu 04/02/2026 08:03:24.839
+Numero audio usado: 1040
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1348] Donato <Herborista>
+Fecha: Thu 04/02/2026 08:03:55.734
+Numero audio usado: 1041
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1386] Organizador de Eventos
+Fecha: Thu 04/02/2026 08:04:11.551
+Numero audio usado: 1042
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1500] Armero Real
+Fecha: Thu 04/02/2026 08:04:34.512
+Numero audio usado: 1043
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1614] Hakon <Quest>
+Fecha: Thu 04/02/2026 08:04:59.454
+Numero audio usado: 1044
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1615] Papa Noel <Quest>
+Fecha: Thu 04/02/2026 08:05:26.080
+Numero audio usado: 1045
+Voice ID: cPoqAvGWCPfCfyPMwe4z
+Tipo de sonido: SoundOpen
+Texto: Desc
+-------------------------------
+
+================================
+[NPC1350] Golksu <Sacerdote>
+Fecha: Wed 04/08/2026 19:20:31.570
+Numero audio usado: 1012
+Voice ID: IKne3meq5aSn9XLyUdCD
+Tipo de sonido: SoundOpen
+Texto: Desc
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC20] Roth <Quest>
+Fecha: Thu 04/09/2026 07:04:51.837
+Numero audio usado: 948
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Tipo de sonido: SoundOpen
+Texto: Desc
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC1288] Abad <Quest>
+Fecha: Thu 04/09/2026 07:11:44.368
+Numero audio usado: 809
+Voice ID: N2lVS1w4EtoT3dr4eOWO
+Tipo de sonido: SoundOpen
+Texto: Desc
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC20] Roth <Quest>
+Fecha: Thu 04/09/2026 07:16:51.547
+Numero audio usado: 948
+Voice ID: onwK4e9ZLuTAKqWW03F9
+Tipo de sonido: SoundOpen
+Texto: Desc
+Idiomas: es, en
+-------------------------------
+
+================================
+[NPC111] Costhas <Quest>
+Fecha: Tue 05/05/2026 12:20:27.868
+Numero audio usado: 716
+Voice ID: qp71eB6Dnl1p6xSwib2E
+Tipo de sonido: SoundOpen
+Texto: Desc
+Idiomas: es, en
+-------------------------------
+

@@ -1,11 +1,20 @@
-[Minería]
 # Se setea desde cada yacimiento (objetos), para más control.
 
+# Shugar: Documento lo que veo en el código del servidor 11/8/24
+# Si "Items=0": está deshabilitado
+# Si "Items=1": está habilitado
+
+# La minería ni siquiera está en código
+[Minería]
+
+# La tala está en código pero no se usa
 [Tala]
 Items=0
 Item1=
 Item2=
 
+# La pesca está en código y se usa
+# El objeto 372 es el cofre de máscaras, y tiene una prob de 1 en 150000
 [Pesca]
 Items=1
 Item1=372-150000
